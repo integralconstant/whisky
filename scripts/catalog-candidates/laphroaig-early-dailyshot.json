@@ -1,0 +1,19 @@
+{
+  "checkedOn": "2026-10-13",
+  "scope": "Web search for Laphroaig 10 Year Old Cask Strength batches 8 and 11; not an exhaustive Dailyshot API search.",
+  "status": "exact-products-not-yet-verified",
+  "queries": [
+    "site:dailyshot.co 라프로익 배치 8",
+    "site:dailyshot.co 라프로익 배치 11"
+  ],
+  "findings": [
+    {
+      "sourceUrl": "https://dailyshot.co/m/item/10295",
+      "productName": "Laphroaig 10yo CS Batch 12",
+      "abv": 60.1,
+      "volumeMl": 750,
+      "note": "Search returns this batch12 parent because a seller label also says batch11 is available. This does not verify the price or exact listing for batch11 (58.6%). Do not map it to batch11 or reuse its price."
+    }
+  ],
+  "nextStep": "Continue exact product and seller identity research for batch8 and batch11. If no exact product is verified, integrate verified whisky facts/photos with a search link and no invented price."
+}

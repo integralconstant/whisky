@@ -1,0 +1,69 @@
+{
+  "glenallachie-10-cask-strength-batch-1": {
+    "topProductId": 10439,
+    "volumeMl": 750,
+    "productName": "글렌알라키 10년 CS 배치 1",
+    "englishName": "GlenAllachie 10yo Cask Strength Batch 1",
+    "abv": 57.1,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/10439",
+    "verifiedAt": "2026-10-07",
+    "note": "10년 배치 1의 상품명·57.1%·750ml을 대조했습니다. 다른 배치, 묶음 및 다른 용량이 명시된 판매가는 제외합니다."
+  },
+  "glenallachie-10-cask-strength-batch-2": {
+    "topProductId": 15552,
+    "volumeMl": 750,
+    "productName": "글렌알라키 10년 CS 배치 2 750ml",
+    "englishName": "GlenAllachie 10yo Cask Strength Batch 2 750ml",
+    "abv": 54.8,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/15552",
+    "verifiedAt": "2026-10-07",
+    "note": "10년 배치 2의 상품명·54.8%·750ml을 대조했습니다. 다른 배치, 묶음 및 다른 용량이 명시된 판매가는 제외합니다.",
+    "priceNote": "54.8% 배치 2의 750ml 상품 기준입니다. 공용 상품에 700ml 판매분이 섞여 있어, 700ml로 표시된 판매가는 제외했습니다."
+  },
+  "glenallachie-10-cask-strength-batch-3": {
+    "topProductId": 9852,
+    "volumeMl": 700,
+    "productName": "글렌알라키 10년 CS 배치 3",
+    "englishName": "GlenAllachie 10yo Cask Strength Batch 3",
+    "abv": 58.2,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/9852",
+    "verifiedAt": "2026-10-07",
+    "note": "10년 배치 3의 상품명·58.2%·700ml을 대조했습니다. 다른 배치, 묶음 및 다른 용량이 명시된 판매가는 제외합니다."
+  },
+  "glenallachie-10-cask-strength-batch-4": {
+    "topProductId": 12952,
+    "volumeMl": 700,
+    "productName": "글렌알라키 10년 CS 배치 4",
+    "englishName": "GlenAllachie 10yo Cask Strength Batch 4",
+    "abv": 56.1,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/12952",
+    "verifiedAt": "2026-10-07",
+    "note": "10년 배치 4의 상품명·56.1%·700ml을 대조했습니다. 다른 배치, 묶음 및 다른 용량이 명시된 판매가는 제외합니다."
+  },
+  "glenallachie-10-cask-strength-batch-5": {
+    "topProductId": 3455,
+    "volumeMl": 700,
+    "productName": "글렌알라키 10년 CS 배치 5",
+    "englishName": "GlenAllachie 10yo Cask Strength Batch 5",
+    "abv": 55.9,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/3455",
+    "verifiedAt": "2026-10-07",
+    "note": "10년 배치 5의 상품명·55.9%·700ml을 대조했습니다. 다른 배치, 묶음 및 다른 용량이 명시된 판매가는 제외합니다."
+  },
+  "glenallachie-10-cask-strength-batch-6": {
+    "topProductId": 3908,
+    "volumeMl": 700,
+    "productName": "글렌알라키 10년 CS 배치 6",
+    "englishName": "GlenAllachie 10yo Cask Strength Batch 6",
+    "abv": 57.8,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/3908",
+    "verifiedAt": "2026-10-07",
+    "note": "10년 배치 6의 상품명·57.8%·700ml을 대조했습니다. 다른 배치, 묶음 및 다른 용량이 명시된 판매가는 제외합니다."
+  }
+}

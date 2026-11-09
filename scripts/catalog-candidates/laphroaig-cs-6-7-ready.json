@@ -1,0 +1,132 @@
+{
+  "checkedOn": "2026-10-15",
+  "status": "integrated-see-integration-record",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 6 and 7 only. Ready entries are saved progressively. Runtime, matching, prices and image manifests remain outside this research task.",
+  "sourcePolicy": "Exact-batch producer, retailer or named reviewer notes only; reviewer and retailer notes must not be represented as official producer notes. Photographs are downloaded and visually checked before being marked verified.",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-6",
+      "batchNumber": 6,
+      "status": "facts-reviewer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 58,
+      "caskStrength": true,
+      "bottledYear": 2014,
+      "bottledMonth": "2014-02",
+      "sources": [
+        {
+          "url": "https://www.thewhiskyexchange.com/p/28129/laphroaig-10-year-old-cask-strength-batch-006-bot2014",
+          "type": "retailer-exact-product-page",
+          "evidence": "Batch006, ten years, February2014,58%,70cl. Real bottle and tube visually show006/FEB14/58.0%/10years/70cl."
+        },
+        {
+          "url": "https://www.whiskysaga.com/blog/laphroaig-10-yo-cask-strength-batch-006",
+          "type": "reviewer-exact-batch-notes",
+          "evidence": "Thomas Øhrbom reviews exact58% Batch006, bottledFebruary2014. Nose peat/salt/pepper/chocolate/honey/almond/cinnamon; palate medicinal peat,ginger,orange,pepper,burning wet driftwood,creamy oily texture; drier finish with ginger,caramel,chocolate."
+        }
+      ],
+      "proposedDescription": "2014년 2월 병입한 58%의 10년 캐스크 스트렝스 배치 6. 피트와 바닷소금에 초콜릿·꿀·아몬드의 단향이 겹치고, 생강과 오렌지의 풍미가 크리미하게 이어집니다.",
+      "proposedNotes": {
+        "nose": "달콤하고 선명한 피트에 바닷소금·흰 후추·밀크 초콜릿·진한 꿀·아몬드·계피",
+        "palate": "약품을 떠올리게 하는 피트와 생강·오렌지·흰 후추, 젖은 유목이 타는 연기에 오일리하고 크리미한 질감",
+        "finish": "조금 드라이해지며 생강·캐러멜·크리미한 초콜릿이 남는 여운"
+      },
+      "notesProvenance": {
+        "type": "reviewer-published-notes",
+        "publisher": "Whisky Saga — Thomas Øhrbom",
+        "sourceUrl": "https://www.whiskysaga.com/blog/laphroaig-10-yo-cask-strength-batch-006",
+        "scope": "Concise Korean paraphrase of exact Batch006 personal review, not producer notes. Reviewer's faint sherry impression is not used to assert sherry-cask maturation."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "바다·소금",
+        "후추",
+        "초콜릿",
+        "꿀",
+        "견과류",
+        "계피",
+        "생강",
+        "시트러스",
+        "크리미",
+        "오일리",
+        "드라이"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://img.thewhiskyexchange.com/900/lrgob.10yov36.jpg?v=202407241",
+          "sourcePage": "https://www.thewhiskyexchange.com/p/28129/laphroaig-10-year-old-cask-strength-batch-006-bot2014",
+          "sourceName": "The Whisky Exchange",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-15",
+          "localReviewCopy": ".cache/laphroaig-cs-6-photo.jpg",
+          "labelEvidence": "Bottle and tube read006,FEB14,10years,58.0%,70cl/700ml."
+        }
+      ],
+      "cautions": [
+        "Some menu listings say March2014; use photograph-confirmed February2014."
+      ],
+      "runtimeStatus": "integrated"
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-7",
+      "batchNumber": 7,
+      "status": "facts-reviewer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 56.3,
+      "caskStrength": true,
+      "bottledYear": 2015,
+      "bottledMonth": "2015-01",
+      "sources": [
+        {
+          "url": "https://www.thewhiskyexchange.com/p/29267/laphroaig-10-year-old-cask-strength-batch-007-bot2015",
+          "type": "retailer-exact-product-page",
+          "evidence": "Batch007, ten years, January2015,56.3%,70cl. Photo independently shows007/JAN15/56.3% and tube200Years1815–2015."
+        },
+        {
+          "url": "https://wordsofwhisky.com/laphroaig-10yo-cs-batch-007/",
+          "type": "reviewer-exact-batch-notes",
+          "evidence": "Thijs Klaverstijn's December2015 review identifies56.3% Batch007. Nose peat,charcoal,grilled pineapple,bacon then vanilla,caramel,orange; palate rubber,tar,iodine,pepper,white chocolate,bitter citrus; finish peat,lemon,lingering vanilla."
+        }
+      ],
+      "proposedDescription": "증류소 200주년인 2015년 1월에 병입한 56.3%의 배치 7. 피트와 숯 연기, 구운 파인애플에 바닐라·캐러멜의 단향이 겹치고 레몬과 후추의 풍미가 이어집니다.",
+      "proposedNotes": {
+        "nose": "피트와 숯, 구운 파인애플과 베이컨에 시간이 지나며 바닐라·캐러멜·오렌지의 단향",
+        "palate": "고무와 타르, 옅은 요오드에 후추와 화이트 초콜릿, 쌉쌀한 시트러스와 강한 피트",
+        "finish": "강렬한 피트에 레몬의 신맛이 이어진 뒤 바닐라가 부드럽고 길게 남음"
+      },
+      "notesProvenance": {
+        "type": "reviewer-published-notes",
+        "publisher": "Words of Whisky — Thijs Klaverstijn",
+        "sourceUrl": "https://wordsofwhisky.com/laphroaig-10yo-cs-batch-007/",
+        "scope": "Concise Korean paraphrase of the exact56.3% Batch007 personal review, not producer notes. No comparison-bottle or reader-comment claims used."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "열대과일",
+        "바닐라",
+        "캐러멜",
+        "시트러스",
+        "후추",
+        "초콜릿"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://img.thewhiskyexchange.com/900/lrgob.10yov38.jpg?v=202407241",
+          "sourcePage": "https://www.thewhiskyexchange.com/p/29267/laphroaig-10-year-old-cask-strength-batch-007-bot2015",
+          "sourceName": "The Whisky Exchange",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-15",
+          "localReviewCopy": ".cache/laphroaig-cs-7-photo.jpg",
+          "labelEvidence": "Bottle and tube read007,JAN15,10years,56.3%,70cl. Tube displays200Years1815–2015."
+        }
+      ],
+      "cautions": [
+        "Some reviewers list February2015; use the January2015 date confirmed on the actual bottle and retailer page."
+      ],
+      "runtimeStatus": "integrated"
+    }
+  ],
+  "integrationRecord": "laphroaig-cs-1-7-integration.json"
+}

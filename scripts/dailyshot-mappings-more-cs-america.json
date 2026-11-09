@@ -1,0 +1,39 @@
+{
+  "russells-reserve-13-barrel-proof-2025": {
+    "topProductId": 30464,
+    "volumeMl": 750,
+    "productName": "러셀 리저브 13년 배럴 프루프 2025",
+    "englishName": "Russell Reserve 13yo Barrel Proof 2025",
+    "abv": 61.9,
+    "method": "manual-verified-cs-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/30464",
+    "verifiedAt": "2026-10-03",
+    "note": "상품명에 2025 릴리스와 13년을 명시하고 Information에 750ml·61.9% 표기. 생산자의 2025년 봄 릴리스 발표에 명시된 123.8프루프와 일치합니다. 과거 57.4% 및 2026 릴리스는 제외합니다."
+  },
+  "old-forester-single-barrel-barrel-strength": {
+    "topProductId": 15352,
+    "volumeMl": 750,
+    "productName": "올드 포레스터 싱글배럴 배럴 스트렝스",
+    "englishName": "Old Forester Single Barrel Barrel Strength",
+    "abv": 62,
+    "method": "manual-verified-cs-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/15352",
+    "verifiedAt": "2026-10-03",
+    "note": "공개 상품명과 Information의 750ml·62~68%를 확인했습니다. 생산자의 Barrel Proof 싱글 배럴 버번과 일치하며, 100프루프 버번 및 싱글 배럴 라이는 제외합니다.",
+    "variableBatch": {
+      "abvLabel": "62~68%",
+      "note": "배럴 번호를 지정하지 않은 올드 포레스터 싱글 배럴 배럴 스트렝스 750ml 공용 상품의 판매가입니다. 데일리샷 표기 도수는 62~68%이며 실제 판매 배럴과 도수는 판매처에서 확인하세요."
+    }
+  },
+  "stellum-bourbon": {
+    "topProductId": 29418,
+    "volumeMl": 750,
+    "productName": "스텔럼 버번",
+    "englishName": "Stellum Bourbon",
+    "abv": 57.49,
+    "method": "manual-verified-cs-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/29418",
+    "verifiedAt": "2026-10-03",
+    "note": "상품명 Stellum Bourbon 및 Information의 750ml·57.49%를 확인했습니다. 생산자 공식 기본 버번과 일치하며 Stellum Black, 싱글 배럴 및 라이는 제외합니다."
+  }
+}

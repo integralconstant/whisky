@@ -1,0 +1,92 @@
+{
+  "glenmorangie-triple-cask": {
+    "imageUrl": "https://www.glenmorangie.com/cdn/shop/files/Glenmorangie_Triple_Cask_Reserve_bottle.png?v=1712593788&width=800",
+    "sourceUrl": "https://www.glenmorangie.com/en-us/products/glenmorangie-triple-cask-reserve",
+    "productName": "Glenmorangie Triple Cask Reserve",
+    "note": "Official product page; matching named expression."
+  },
+  "auchentoshan-12": {
+    "imageUrl": "https://www.auchentoshan.com/sites/default/files/2025-12/whisky-bottle-12-year-double-cask-auchentoshan.png",
+    "sourceUrl": "https://www.auchentoshan.com/core-range/12-year-old-double-cask",
+    "productName": "Auchentoshan 12 Year Old Double Cask",
+    "note": "Official product page; matching named expression."
+  },
+  "octomore-16-1": {
+    "imageUrl": "https://www.bruichladdich.com/cdn/shop/files/Octomore16-1bottle-darkbackgrounds.png?v=1755637389",
+    "sourceUrl": "https://www.bruichladdich.com/products/octomore-16-1",
+    "productName": "Octomore 16.1",
+    "note": "Official product page; matching named expression."
+  },
+  "octomore-16-2": {
+    "imageUrl": "https://www.bruichladdich.com/cdn/shop/files/Octomore_16-2_bottle_-_dark_backgrounds_ff9c6252-adb6-49b0-93ed-db6458af1d9d.png?v=1755636613",
+    "sourceUrl": "https://www.bruichladdich.com/products/octomore-16-2",
+    "productName": "Octomore 16.2",
+    "note": "Official product page; matching named expression."
+  },
+  "octomore-16-3": {
+    "imageUrl": "https://www.bruichladdich.com/cdn/shop/files/Octomore_16-3_bottle_-_dark_backgrounds.png?v=1755636613",
+    "sourceUrl": "https://www.bruichladdich.com/products/octomore-16-3",
+    "productName": "Octomore 16.3",
+    "note": "Official product page; matching named expression."
+  },
+  "octomore-17-3": {
+    "imageUrl": "https://www.bruichladdich.com/cdn/shop/files/Artboard_3Octomore_17_bf13b059-afe4-4a1d-98d7-d6bfcbbc02f9.png?v=1787527223",
+    "sourceUrl": "https://www.bruichladdich.com/products/octomore-17-3",
+    "productName": "Octomore 17.3",
+    "note": "Official product page; matching named expression."
+  },
+  "caol-ila-12": {
+    "imageUrl": "https://images.ctfassets.net/glsfy1cpffmh/5c5Ki3rYfqgWdrd6WV92j6/1f48c602e557718dd4c91cdd2505a645/caol-ila-12-year-old-single-malt-scotch-whisky-70cl-transparent.png?fm=webp&w=700&q=85",
+    "sourceUrl": "https://www.malts.com/en-gb/products/caol-ila-12-year-old-single-malt-scotch-whisky-70cl",
+    "productName": "Caol Ila 12 Year Old",
+    "note": "Official product page; matching named expression."
+  },
+  "glen-scotia-victoriana": {
+    "imageUrl": "https://us.glenscotia.com/cdn/shop/files/VictoriannaBottle_ad6d7760-6047-4189-8841-6fea0ee0df40_600x.png?v=1736860566",
+    "sourceUrl": "https://us.glenscotia.com/products/victoriana-whisky",
+    "productName": "Glen Scotia Victoriana",
+    "note": "Official product page; matching named expression."
+  },
+  "loch-lomond-inchmoan-12": {
+    "imageUrl": "https://www.lochlomondwhiskies.com/cdn/shop/products/12-Year-Old-Inchmoan.png?v=1692263890&width=700",
+    "sourceUrl": "https://www.lochlomondwhiskies.com/collections/12-year-old-single-malt-whisky",
+    "productName": "Loch Lomond Inchmoan 12 Year Old",
+    "note": "Official product page; matching named expression."
+  },
+  "bowmore-12-sherry-oak": {
+    "imageUrl": "https://www.bowmore.com/sites/default/files/styles/original/public/2024-08/bowmore-sherryoak-12yo.png.webp?itok=lzBSQItS",
+    "sourceUrl": "https://www.bowmore.com/whiskies/12-year-old-sherry-oak-cask",
+    "productName": "Bowmore 12 Year Old Sherry Oak Cask",
+    "note": "Official product page; matching named expression."
+  },
+  "bowmore-15-sherry-oak": {
+    "imageUrl": "https://www.bowmore.com/sites/default/files/styles/original/public/2024-08/bowmore-sherryoak-15yo.png.webp?itok=JOIcmLL3",
+    "sourceUrl": "https://www.bowmore.com/en-gb/whiskies/15-year-old-sherry-oak-cask",
+    "productName": "Bowmore 15 Year Old Sherry Oak Cask",
+    "note": "Official product page; matching named expression."
+  },
+  "bowmore-18-sherry-oak": {
+    "imageUrl": "https://www.bowmore.com/sites/default/files/styles/original/public/2024-08/bowmore-sherryoak-18yo.png.webp?itok=s8WRaLjk",
+    "sourceUrl": "https://www.bowmore.com/whiskies/18-year-old-sherry-oak-cask",
+    "productName": "Bowmore 18 Year Old Sherry Oak Cask",
+    "note": "Official product page; matching named expression."
+  },
+  "bowmore-21-sherry-oak": {
+    "imageUrl": "https://www.bowmore.com/sites/default/files/2026-03/Bowmore%20with%20Medal.png",
+    "sourceUrl": "https://www.bowmore.com/whiskies/21-year-old-sherry-oak-cask",
+    "productName": "Bowmore 21 Year Old Sherry Oak Cask",
+    "note": "Official 21-year Sherry Oak product packshot with award medal."
+  },
+  "kilchoman-rockside-11": {
+    "imageUrl": "https://www.kilchomandistillery.com/wp-content/uploads/2026/06/Rocksie_Bottle-1-1024x610.jpg",
+    "sourceUrl": "https://www.kilchomandistillery.com/distillery-news/rockside-11-years-old/",
+    "productName": "Kilchoman Rockside 11 Year Old",
+    "note": "Official Rockside 11 launch article; exact bottle photographed in setting."
+  },
+  "kilchoman-loch-gorm-2026": {
+    "imageUrl": "https://www.kilchomandistillery.com/wp-content/uploads/2026/04/WebsiteContent_LG26-03-1024x648.jpg",
+    "sourceUrl": "https://www.kilchomandistillery.com/distillery-news/loch-gorm-2026/",
+    "productName": "Kilchoman Loch Gorm 10 Year Old 2026",
+    "note": "Official 2026 release launch article; exact bottle photograph."
+  }
+}

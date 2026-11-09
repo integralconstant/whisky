@@ -1,0 +1,72 @@
+{
+  "checkedOn": "2026-10-17",
+  "status": "research-complete-no-confirmed-release-after-17",
+  "scope": "Laphroaig 10 Year Old Cask Strength numbered batches above 17 only. Runtime, matching, prices and image manifests remain outside this research task.",
+  "sourcePolicy": "Require an exact-batch producer or credible retailer source and a readable real bottle label before proposing a release. Calendar years never imply batch numbers. Search absence is not proof of nonexistence.",
+  "entries": [],
+  "conclusion": "No release after Batch 17 was verified as of 2026-10-17. Do not create Batch 18, Batch 19 or later catalogue entries from the available evidence. The only exact-name Batch 18 listing found was rejected after its photograph proved to show Batch 003.",
+  "proposedResearchSummaryKo": "2026년 10월 17일 확인 기준으로 배치 17 이후의 정식 출시를 입증할 자료를 찾지 못했다. 배치 18로 소개된 페이지의 사진은 실제로 배치 003이므로 신규 제품 근거에서 제외한다. 단종 여부는 확인되지 않았다.",
+  "sources": [
+    {
+      "url": "https://www.laphroaig.com/en-gb/html-sitemap",
+      "type": "producer-current-sitemap",
+      "evidence": "UK sitemap includes individual 10 Year Old Cask Strength pages for batches 12, 13, 14, 15, 16 and 17, plus a Batch 15, 16 & 17 set. No Batch 18 or 19 entry appears. The same sitemap includes Cairdeas 2026 and World Whisky Day 2026 pages, so it is not merely an unchanged pre-2026 snapshot. This is negative search evidence, not a guarantee of completeness."
+    },
+    {
+      "url": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-17",
+      "type": "producer-exact-product-page-baseline",
+      "evidence": "Current official page identifies Batch 17 at age 10 and 58.3% ABV, with no dilution or chill filtration. It does not announce a subsequent batch. Batch 17 is outside this research file's entry scope."
+    }
+  ],
+  "rejectedOrUnverifiedLeads": [
+    {
+      "claimedBatchNumber": 18,
+      "url": "https://www.booze.exchange/spirits/whisky/laphroaig-10-year-old-cask-strength-batch-18",
+      "reviewUrl": "https://www.booze.exchange/reviews/whisky/laphroaig-10-year-old-cask-strength-batch-18",
+      "status": "rejected-misidentified-photo-and-affiliate-target",
+      "reason": "The page claims Batch 18, age 10 and 58%, but gives no bottling date or primary release evidence. The downloaded photograph visibly shows Batch 003, JAN 11, 55.3% and 700ml. Its Master of Malt affiliate URL also embeds the search term Laphroaig 10 Year Old Cask Strength - Batch 010 Single Malt Whisky and SKU 82217, so neither the image nor the retailer link corroborates Batch 18. The review is dated 2026-04-10; publication date does not prove the claimed release exists.",
+      "claimedImageUrl": "https://prodmedia.tyga.host/public/whiskeyful/images/feed/laphroaig-10-year-old-cask-strength-batch-18-4fb7e7b5.jpg",
+      "photoCandidates": [
+        {
+          "url": "https://prodmedia.tyga.host/public/whiskeyful/images/feed/laphroaig-10-year-old-cask-strength-batch-18-4fb7e7b5.jpg",
+          "sourcePage": "https://www.booze.exchange/spirits/whisky/laphroaig-10-year-old-cask-strength-batch-18",
+          "sourceName": "Booze Exchange",
+          "type": "affiliate-product-photograph",
+          "status": "downloaded-visually-inspected-and-rejected-wrong-batch",
+          "checkedOn": "2026-10-17",
+          "localReviewCopy": ".cache/laphroaig-cs-18-photo.jpg",
+          "dimensions": "600x997",
+          "labelEvidence": "Real bottle-and-tube product photograph on white background. Both labels identify batch 003, JAN 11 and 55.3%; the bottle clearly reads 700ml and aged 10 years. The cache filename follows the rejected page's claim and must never be interpreted as verified Batch 18 identity.",
+          "runtimeUsage": "prohibited-wrong-batch-evidence-only"
+        }
+      ],
+      "proposedDescription": null,
+      "proposedNotes": null,
+      "proposedTags": []
+    }
+  ],
+  "searchQueries": [
+    "Laphroaig 10 Cask Strength Batch 18 19",
+    "site.laphroaig.com \"Batch 18\"",
+    "site.laphroaig.com \"Batch 19\"",
+    "\"Laphroaig\" \"batch 018\"",
+    "\"Laphroaig\" \"batch 18\"",
+    "\"Laphroaig\" \"batch 19\"",
+    "site.laphroaig.com \"cask strength\"",
+    "\"Laphroaig\" \"10\" \"Batch 018\" whisky",
+    "\"Laphroaig\" \"Batch 18\" whisky 2026",
+    "site.laphroaig.com \"cask-strength-batch-17\"",
+    "site.laphroaig.com \"12 year\" \"cask strength\"",
+    "\"Laphroaig\" \"Batch 019\"",
+    "\"Laphroaig\" \"Batch 20\"",
+    "\"Laphroaig\" \"Batch 18\" -site:reddit.com -site:fassstark.de -site:booze.exchange -site:scotchwhisky.com -site:scotswhisky-community.de",
+    "\"Laphroaig\" \"Batch 19\" \"Cask Strength\""
+  ],
+  "searchOutcome": "Exact-number and zero-padded searches for 18/018 and 19/019, a Batch 20 sanity check, and producer-domain searches returned no corroborated later release. Unrelated results included age-18/20 whiskies, independent bottler batch numbers and another distillery's Laphroaig-cask finish. The producer's generic whisky category was also inspected but its dynamic product list did not render fully in the text view; the readable official sitemap was used instead.",
+  "cautions": [
+    "No official statement that Batch 17 is permanently the final release has been verified. Do not convert this research outcome into a discontinuation claim.",
+    "Community speculation alternately predicts Batch 18 or says it was cancelled. Neither constitutes release evidence.",
+    "Age-18 whisky and articles numbered Rare Batch 18 are distinct from Laphroaig 10 Year Old Cask Strength Batch 18.",
+    "No proposed Korean product copy, tasting notes or tags are supplied for unverified releases."
+  ]
+}

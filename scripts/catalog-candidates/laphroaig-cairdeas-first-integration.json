@@ -1,0 +1,204 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "integrated-verified",
+  "previousCount": 503,
+  "duplicateCheck": "IDs and normalized Korean/English names checked against existing catalog and within cohort.",
+  "sources": {
+    "2008": [
+      "31890_source_1788939670.jpg",
+      "https://www.masterofmalt.com/whiskies/laphroaig-cairdeas-whisky/"
+    ],
+    "2009": [
+      "16732_source_1788939663.jpg",
+      "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-12-year-old-2009-edition-whisky/"
+    ],
+    "2010": [
+      "16760_source_1788939662.jpg",
+      "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-masters-edition-2010-edition-whisky/"
+    ],
+    "2011": [
+      "50830_source_1788939659.jpg",
+      "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-ileach-edition-whisky/"
+    ]
+  },
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.whiskynotes.be/2009/laphroaig/laphroaig-cairdeas/",
+      "id": "laphroaig-cairdeas-2008",
+      "name": "라프로익 카디어스 2008",
+      "englishName": "Laphroaig Cairdeas 2008",
+      "abv": 55,
+      "age": null,
+      "tags": [
+        "피트",
+        "스모키",
+        "바닐라",
+        "몰트",
+        "견과류",
+        "시트러스",
+        "바다·소금",
+        "토피",
+        "캐러멜"
+      ],
+      "description": "2008 페이스 아일을 위해 병입한 초기 카디어스. 55% 캐스크 스트렝스 제품으로, 향미는 WhiskyNotes의 루벤이 직접 시음한 기록을 요약했습니다.",
+      "notes": {
+        "nose": "차분한 피트와 연기에 바닐라·달콤한 보리·마지팬, 레몬과 소금",
+        "palate": "바비큐와 약품 같은 피트에 토피·캐러멜화한 아몬드·레몬 사탕",
+        "finish": "달콤한 뒷맛이 점차 드라이해지는 여운"
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.whiskynotes.be/2009/laphroaig/laphroaig-cairdeas-2009/",
+      "id": "laphroaig-cairdeas-2009-12",
+      "name": "라프로익 카디어스 2009 12년 CS",
+      "englishName": "Laphroaig Cairdeas 2009 12 Year Old",
+      "abv": 57.5,
+      "age": 12,
+      "tags": [
+        "피트",
+        "스모키",
+        "우디",
+        "시트러스",
+        "열대과일",
+        "베리",
+        "견과류",
+        "크리미",
+        "커피",
+        "스파이시"
+      ],
+      "description": "메이커스 마크 버번 배럴에서 숙성한 12년 카디어스. 라벨에 12년과 캐스크 스트렝스를 명시한 2009 릴리즈이며 향미는 WhiskyNotes의 루벤이 직접 시음한 기록을 요약했습니다.",
+      "notes": {
+        "nose": "부드러운 피트 연기와 새 나무·연필 깎은 향에 시트러스·바나나·붉은 과일, 아몬드·마지팬과 그을린 설탕",
+        "palate": "레몬에서 레몬 파이 같은 단맛으로 이어지며 구운 아몬드·에스프레소·감초·향신료가 더해지는 맛",
+        "finish": "단맛이 줄어들며 피트 연기와 드라이함이 길게 이어지는 여운"
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.whiskynotes.be/2010/laphroaig/laphroaig-cairdeas-2010-master-edition/",
+      "id": "laphroaig-cairdeas-2010-master",
+      "name": "라프로익 카디어스 2010 마스터 에디션",
+      "englishName": "Laphroaig Cairdeas 2010 Master Edition",
+      "abv": 57.3,
+      "age": null,
+      "tags": [
+        "피트",
+        "스모키",
+        "시트러스",
+        "바다·소금",
+        "견과류",
+        "열대과일",
+        "민트",
+        "후추"
+      ],
+      "description": "마스터 블렌더 로버트 힉스가 선정한 원액을 결합한 2010 마스터 에디션. 라벨은 11~19년 숙성 원액의 조합을 설명합니다. 향미는 WhiskyNotes의 루벤이 직접 시음한 기록을 요약했습니다.",
+      "notes": {
+        "nose": "연기와 재, 레몬·소금에 마지팬·바나나, 해안의 향과 은근한 페퍼민트",
+        "palate": "드라이한 연기와 시트러스, 강한 흙내음의 피트·요오드에 기름진 질감과 후추",
+        "finish": "짭짤한 아몬드와 감초로 이어지는 길고 드라이한 여운"
+      },
+      "image": "",
+      "color": "#e8ede5"
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://myannoyingopinions.com/2024/09/16/laphroaig-cairdeas-2011-ileach-edition/",
+      "id": "laphroaig-cairdeas-2011-ileach",
+      "name": "라프로익 카디어스 2011 일리어크 에디션 CS",
+      "englishName": "Laphroaig Cairdeas 2011 Ileach Edition",
+      "abv": 50.5,
+      "age": null,
+      "tags": [
+        "피트",
+        "스모키",
+        "시트러스",
+        "바다·소금",
+        "후추"
+      ],
+      "description": "아일라 출신 증류소장 존 캠벨을 기리는 일리어크 에디션. 메이커스 마크 버번 배럴을 사용해 50.5% 내추럴 캐스크 스트렝스로 병입했습니다. 향미는 My Annoying Opinions의 본인 소장 병 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "약품 같은 피트와 재의 연기, 레몬에 그을음과 조개·다시마의 해안 향. 물을 더하면 레몬과 달콤함이 두드러집니다.",
+        "palate": "향에서 이어지는 피트와 그을음, 풍성한 질감과 쌉쌀한 탄 향. 물을 더하면 훈연·절임 레몬과 으깬 후추가 더 드러납니다.",
+        "finish": "연기가 퍼지며 소금이 남는 긴 여운. 물을 더하면 자몽의 뉘앙스도 나타납니다."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true
+    }
+  ],
+  "notesProvenance": "2008–2010: Ruben at WhiskyNotes firsthand notes;2011:My Annoying Opinions own-bottle notes, with water conditions retained.",
+  "caskStrengthEvidence": "2008 and2011 retailer product descriptions explicitly CS;2009 front label explicitly CS.2010 not classified from high ABV alone.",
+  "cautions": "2009 label12yo verified.2010 label11–19year components recorded without inferred scalar age.2011 no age copied from reviewer headlines. All photos700ml.",
+  "currentCount": 507,
+  "existingEntriesPreserved": 500,
+  "results": [
+    {
+      "id": "laphroaig-cairdeas-2008",
+      "photo": "/images/whisky-laphroaig-cairdeas-2008.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202008",
+        "productName": "라프로익 카디어스 2008",
+        "checkedAt": "2026-11-09T00:40:42.416Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-cairdeas-2009-12",
+      "photo": "/images/whisky-laphroaig-cairdeas-2009-12.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202009%2012%EB%85%84%20CS",
+        "productName": "라프로익 카디어스 2009 12년 CS",
+        "checkedAt": "2026-11-09T00:40:42.418Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-cairdeas-2010-master",
+      "photo": "/images/whisky-laphroaig-cairdeas-2010-master.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202010%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%97%90%EB%94%94%EC%85%98",
+        "productName": "라프로익 카디어스 2010 마스터 에디션",
+        "checkedAt": "2026-11-09T00:40:44.869Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-cairdeas-2011-ileach",
+      "photo": "/images/whisky-laphroaig-cairdeas-2011-ileach.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202011%20%EC%9D%BC%EB%A6%AC%EC%96%B4%ED%81%AC%20%EC%97%90%EB%94%94%EC%85%98%20CS",
+        "productName": "라프로익 카디어스 2011 일리어크 에디션 CS",
+        "checkedAt": "2026-11-09T00:40:47.930Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    }
+  ]
+}

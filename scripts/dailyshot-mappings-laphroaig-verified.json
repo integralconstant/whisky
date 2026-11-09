@@ -1,0 +1,57 @@
+{
+  "laphroaig-1815-legacy-edition": {
+    "topProductId": 5267,
+    "volumeMl": 700,
+    "productName": "라프로익 1815 레거시 에디션",
+    "englishName": "Laphroaig The 1815 Legacy Edition",
+    "abv": 48,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/5267",
+    "verifiedAt": "2026-11-09",
+    "note": "공식 면세 제품군의 더 캐스크 레거시 명칭이 1815 레거시 제품 페이지로 연결되는 점과 48%·700ml 라벨을 확인했습니다. 데일리샷은 구형 녹색 1815 레거시 패키지입니다."
+  },
+  "laphroaig-port-wood": {
+    "topProductId": 32858,
+    "volumeMl": 700,
+    "productName": "라프로익 포트 우드",
+    "englishName": "Laphroaig Port Wood",
+    "abv": 48,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/32858",
+    "verifiedAt": "2026-11-09",
+    "note": "데일리샷 32858의 포트 우드 48%·700ml 정보와 보라색 포트 우드 캐스크 병·상자 라벨을 대조했습니다. 공식 면세 제품군은 Port Wood Casks를 Port Wood 제품 페이지로 연결합니다."
+  },
+  "laphroaig-15-2026-relaunch": {
+    "topProductId": 37532,
+    "volumeMl": 700,
+    "productName": "라프로익 15년 46%",
+    "englishName": "Laphroaig 15yo 46%",
+    "abv": 46,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/37532",
+    "note": "현행 46%·700ml 15년 리런치이며 구형 43% 제품을 제외합니다.",
+    "verifiedAt": "2026-11-09"
+  },
+  "laphroaig-elements-l1-0": {
+    "topProductId": 23377,
+    "volumeMl": 700,
+    "productName": "라프로익 엘리먼츠 L1.0",
+    "englishName": "Laphroaig Elements L1.0",
+    "abv": 58.6,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/23377",
+    "verifiedAt": "2026-11-09",
+    "note": "엘리먼츠 L1.0의 개별 상품명·58.6%·700ml를 생산자와 데일리샷에서 대조했습니다. 다른 엘리먼츠 릴리즈 및 세트는 제외합니다."
+  },
+  "laphroaig-elements-l2-0": {
+    "topProductId": 22757,
+    "volumeMl": 700,
+    "productName": "라프로익 엘리먼츠 L2.0",
+    "englishName": "Laphroaig Elements L2.0",
+    "abv": 59.6,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/22757",
+    "verifiedAt": "2026-11-09",
+    "note": "엘리먼츠 L2.0의 개별 상품명·59.6%·700ml를 생산자와 데일리샷에서 대조했습니다. 다른 엘리먼츠 릴리즈 및 세트는 제외합니다."
+  }
+}

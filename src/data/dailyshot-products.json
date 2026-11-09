@@ -1,0 +1,814 @@
+{
+  "aberlour-abunadh": {
+    "url": "https://dailyshot.co/m/item/3239",
+    "productName": "아벨라워 아부나흐",
+    "checkedAt": "2026-10-01T12:22:03.665Z",
+    "scope": "variable-batches",
+    "note": "배치를 지정하지 않은 아부나흐 700ml 공용 상품의 판매가입니다. 데일리샷 표기 도수는 55~61%이며, 실제 판매 배치와 도수는 판매처에서 확인하세요."
+  },
+  "aberlour-abunadh-alba": {
+    "url": "https://dailyshot.co/m/item/6725",
+    "productName": "아벨라워 아부나흐 알바 배치 5",
+    "checkedAt": "2026-10-01T12:22:06.776Z",
+    "scope": "variable-batches",
+    "note": "아부나흐 알바 배치 5(62.7%, 700ml) 상품의 판매가입니다. 다른 알바 배치에는 적용되지 않으며, 구매 전 배치 번호를 확인하세요."
+  },
+  "amrut-cask-strength": {
+    "url": "https://dailyshot.co/m/item/3508",
+    "productName": "암룻 인디언 CS",
+    "checkedAt": "2026-10-01T12:22:34.548Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "amrut-peated-cask-strength": {
+    "url": "https://dailyshot.co/m/item/3510",
+    "productName": "암룻 피티드 인디언 CS",
+    "checkedAt": "2026-10-01T12:22:35.199Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "arran-quarter-cask-bothy": {
+    "url": "https://dailyshot.co/m/item/3424",
+    "productName": "아란 쿼터 캐스크",
+    "checkedAt": "2026-10-01T12:21:54.395Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "arran-sherry-bodega": {
+    "url": "https://dailyshot.co/m/item/4353",
+    "productName": "아란 셰리 캐스크 700ml",
+    "checkedAt": "2026-10-01T12:21:59.551Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "blue-spot-7-cask-strength": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%B8%94%EB%A3%A8%20%EC%8A%A4%ED%8C%9F%207%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4",
+    "productName": "블루 스팟 7년 캐스크 스트렝스",
+    "checkedAt": "2026-10-01T12:22:22.616Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "bulleit-barrel-strength": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%B6%88%EB%A6%BF%20%EB%B0%B0%EB%9F%B4%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4",
+    "productName": "불릿 배럴 스트렝스",
+    "checkedAt": "2026-10-01T12:22:21.884Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "bunnahabhain-12-cask-strength-2023": {
+    "url": "https://dailyshot.co/m/item/19260",
+    "productName": "부나하벤 12년 CS 2023 에디션",
+    "checkedAt": "2026-10-01T12:22:39.809Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "bunnahabhain-12-cask-strength-2025": {
+    "url": "https://dailyshot.co/m/item/31265",
+    "productName": "부나하벤 12년 CS 2025 에디션",
+    "checkedAt": "2026-10-01T12:22:09.429Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "elijah-craig-barrel-proof-c925": {
+    "url": "https://dailyshot.co/m/item/6782",
+    "productName": "일라이저 크레이그 스몰 배치 배럴 프루프",
+    "checkedAt": "2026-10-01T12:22:14.160Z",
+    "scope": "other-batches",
+    "note": "일라이저 크레이그 배럴 프루프 공용 판매 페이지입니다. C925 배치·64.5%의 판매 여부가 확인되지 않아 해당 배치 가격으로 표시하지 않습니다."
+  },
+  "glen-scotia-victoriana": {
+    "url": "https://dailyshot.co/m/item/13697",
+    "productName": "글렌스코샤 빅토리아나 CS",
+    "checkedAt": "2026-10-01T12:22:00.528Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-1": {
+    "url": "https://dailyshot.co/m/item/10439",
+    "productName": "글렌알라키 10년 CS 배치 1",
+    "checkedAt": "2026-10-07T12:24:19.379Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-10": {
+    "url": "https://dailyshot.co/m/item/18233",
+    "productName": "[매장특가] 글렌알라키 10년 CS 배치 10",
+    "checkedAt": "2026-10-03T13:46:21.515Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-11": {
+    "url": "https://dailyshot.co/m/item/21535",
+    "productName": "글렌알라키 10년 CS 배치 11",
+    "checkedAt": "2026-10-03T13:46:21.671Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-12": {
+    "url": "https://dailyshot.co/m/item/27222",
+    "productName": "글렌알라키 10년 CS 배치 12",
+    "checkedAt": "2026-10-01T12:22:38.273Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-13": {
+    "url": "https://dailyshot.co/m/item/38576",
+    "productName": "글렌알라키 10년 cs 배치 13",
+    "checkedAt": "2026-10-01T12:22:07.709Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-2": {
+    "url": "https://dailyshot.co/m/item/15552",
+    "productName": "글렌알라키 10년 CS 배치 2 750ml",
+    "checkedAt": "2026-10-07T12:24:19.521Z",
+    "scope": "exact-product",
+    "note": "54.8% 배치 2의 750ml 상품 기준입니다. 공용 상품에 700ml 판매분이 섞여 있어, 700ml로 표시된 판매가는 제외했습니다."
+  },
+  "glenallachie-10-cask-strength-batch-3": {
+    "url": "https://dailyshot.co/m/item/9852",
+    "productName": "글렌알라키 10년 CS 배치 3",
+    "checkedAt": "2026-10-07T12:24:20.901Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-4": {
+    "url": "https://dailyshot.co/m/item/12952",
+    "productName": "글렌알라키 10년 CS 배치 4",
+    "checkedAt": "2026-10-07T12:24:21.952Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-5": {
+    "url": "https://dailyshot.co/m/item/3455",
+    "productName": "글렌알라키 10년 CS 배치 5",
+    "checkedAt": "2026-10-07T12:24:22.271Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-6": {
+    "url": "https://dailyshot.co/m/item/3908",
+    "productName": "글렌알라키 10년 CS 배치 6",
+    "checkedAt": "2026-10-07T12:24:23.376Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-7": {
+    "url": "https://dailyshot.co/m/item/5193",
+    "productName": "글렌알라키 10년 CS 배치 7",
+    "checkedAt": "2026-10-06T11:00:04.503Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-8": {
+    "url": "https://dailyshot.co/m/item/10920",
+    "productName": "글렌알라키 10년 CS 배치 8",
+    "checkedAt": "2026-10-03T13:46:18.589Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-10-cask-strength-batch-9": {
+    "url": "https://dailyshot.co/m/item/14879",
+    "productName": "글렌알라키 10년 CS 배치 9",
+    "checkedAt": "2026-10-03T13:46:19.065Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-21-cask-strength-batch-1": {
+    "url": "https://dailyshot.co/m/item/7391",
+    "productName": "글렌알라키 21년 CS 배치 1",
+    "checkedAt": "2026-10-04T09:34:46.870Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-21-cask-strength-batch-2": {
+    "url": "https://dailyshot.co/m/item/4872",
+    "productName": "글렌알라키 21년 CS 배치 2",
+    "checkedAt": "2026-10-04T09:34:46.440Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-21-cask-strength-batch-3": {
+    "url": "https://dailyshot.co/m/item/12861",
+    "productName": "글렌알라키 21년 CS 배치 3",
+    "checkedAt": "2026-10-04T09:34:47.823Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-21-cask-strength-batch-4": {
+    "url": "https://dailyshot.co/m/item/18172",
+    "productName": "글렌알라키 21년 CS 배치 4",
+    "checkedAt": "2026-10-04T09:34:48.029Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-21-cask-strength-batch-5": {
+    "url": "https://dailyshot.co/m/item/24558",
+    "productName": "글렌알라키 21년 CS 배치 5",
+    "checkedAt": "2026-10-04T09:34:49.273Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-21-cask-strength-batch-6": {
+    "url": "https://dailyshot.co/m/item/29879",
+    "productName": "글렌알라키 21년 CS 배치 6",
+    "checkedAt": "2026-10-04T09:34:49.177Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenallachie-21-cask-strength-batch-7": {
+    "url": "https://dailyshot.co/m/item/38474",
+    "productName": "[마감] 글렌알라키 21년 배치 7",
+    "checkedAt": "2026-10-06T11:00:04.440Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "glendronach-cask-strength-batch-10": {
+    "url": "https://dailyshot.co/m/item/6902",
+    "productName": "더 글렌드로낙 CS 배치 10",
+    "checkedAt": "2026-10-04T14:50:39.274Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glendronach-cask-strength-batch-11": {
+    "url": "https://dailyshot.co/m/item/16694",
+    "productName": "더 글렌드로낙 CS 배치 11",
+    "checkedAt": "2026-10-04T14:50:38.755Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glendronach-cask-strength-batch-12": {
+    "url": "https://dailyshot.co/m/item/15594",
+    "productName": "더 글렌드로낙 CS 배치 12",
+    "checkedAt": "2026-10-04T14:50:40.817Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenfarclas-105": {
+    "url": "https://dailyshot.co/m/item/1684",
+    "productName": "글렌파클라스 105 CS",
+    "checkedAt": "2026-10-01T12:22:03.493Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "glenlivet-40": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%8D%94%20%EA%B8%80%EB%A0%8C%EB%A6%AC%EB%B2%B3%2040%EB%85%84",
+    "productName": "더 글렌리벳 40년",
+    "checkedAt": "2026-10-01T12:21:53.397Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "highland-park-cask-strength-release-1": {
+    "url": "https://dailyshot.co/m/item/4686",
+    "productName": "하이랜드 파크 CS 릴리즈 No.1",
+    "checkedAt": "2026-10-06T04:09:22.424Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "highland-park-cask-strength-release-2": {
+    "url": "https://dailyshot.co/m/item/4992",
+    "productName": "하이랜드 파크 CS 릴리즈 No.2",
+    "checkedAt": "2026-10-06T04:09:23.093Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "highland-park-cask-strength-release-3": {
+    "url": "https://dailyshot.co/m/item/11837",
+    "productName": "하이랜드 파크 CS 릴리즈 No.3",
+    "checkedAt": "2026-10-06T04:09:23.876Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "highland-park-cask-strength-release-4": {
+    "url": "https://dailyshot.co/m/item/18108",
+    "productName": "하이랜드 파크 CS 릴리즈 No.4",
+    "checkedAt": "2026-10-06T04:09:25.471Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "highland-park-cask-strength-release-5": {
+    "url": "https://dailyshot.co/m/item/23777",
+    "productName": "하이랜드 파크 CS 릴리즈 No.5",
+    "checkedAt": "2026-10-06T04:09:26.168Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "irishman-cask-strength-2022": {
+    "url": "https://dailyshot.co/m/item/5831",
+    "productName": "디 아이리시맨 CS",
+    "checkedAt": "2026-10-06T11:02:24.190Z",
+    "scope": "exact-product",
+    "note": "상품 설명에서 2022년 릴리즈·54.9%·700ml을 확인했습니다. 다른 연도가 명시된 판매가는 제외했습니다. 연도 미표기 판매가는 상품 설명을 기준으로 집계하므로 구매 시 실제 병입 연도를 확인하세요."
+  },
+  "jack-daniels-single-barrel-barrel-proof": {
+    "url": "https://dailyshot.co/m/item/6192",
+    "productName": "잭 다니엘스 싱글배럴 배럴 스트렝스",
+    "checkedAt": "2026-10-01T12:22:10.930Z",
+    "scope": "variable-batches",
+    "note": "배럴 번호를 지정하지 않은 싱글배럴 배럴 스트렝스 700ml 공용 상품의 판매가입니다. 데일리샷 표기 도수는 62.5~64.5%이며 배럴별 도수는 판매처에서 확인하세요."
+  },
+  "jack-daniels-single-barrel-barrel-proof-rye": {
+    "url": "https://dailyshot.co/m/search/result?q=%EC%9E%AD%20%EB%8B%A4%EB%8B%88%EC%97%98%EC%8A%A4%20%EC%8B%B1%EA%B8%80%20%EB%B0%B0%EB%9F%B4%20%EB%B0%B0%EB%9F%B4%20%ED%94%84%EB%A3%A8%ED%94%84%20%EB%9D%BC%EC%9D%B4",
+    "productName": "잭 다니엘스 싱글 배럴 배럴 프루프 라이",
+    "checkedAt": "2026-10-01T12:22:10.724Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-1": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%201",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 1",
+    "checkedAt": "2026-10-15T11:51:08.064Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-10": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%2010",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 10",
+    "checkedAt": "2026-10-14T00:32:07.189Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-11": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%2011",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 11",
+    "checkedAt": "2026-10-14T00:32:07.526Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-12": {
+    "url": "https://dailyshot.co/m/item/10295",
+    "productName": "라프로익 10년 CS 배치 12",
+    "checkedAt": "2026-10-10T13:02:02.819Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "laphroaig-10-cask-strength-batch-13": {
+    "url": "https://dailyshot.co/m/item/10296",
+    "productName": "라프로익 10년 CS 배치 13",
+    "checkedAt": "2026-10-10T13:01:01.303Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-10-cask-strength-batch-14": {
+    "url": "https://dailyshot.co/m/item/13566",
+    "productName": "라프로익 10년 CS 배치 14",
+    "checkedAt": "2026-10-10T13:01:01.248Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-10-cask-strength-batch-15": {
+    "url": "https://dailyshot.co/m/item/13324",
+    "productName": "라프로익 10년 CS 배치 15",
+    "checkedAt": "2026-10-10T13:01:03.749Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-10-cask-strength-batch-16": {
+    "url": "https://dailyshot.co/m/item/21122",
+    "productName": "라프로익 10년 CS 배치 16",
+    "checkedAt": "2026-10-01T12:22:40.052Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-10-cask-strength-batch-17": {
+    "url": "https://dailyshot.co/m/item/24591",
+    "productName": "라프로익 10년 CS 배치 17",
+    "checkedAt": "2026-10-01T12:22:08.628Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-10-cask-strength-batch-2": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%202",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 2",
+    "checkedAt": "2026-10-15T11:54:27.869Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-3": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%203",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 3",
+    "checkedAt": "2026-10-15T11:54:27.872Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-4": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%204",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 4",
+    "checkedAt": "2026-10-17T11:03:16.163Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-5": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%205",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 5",
+    "checkedAt": "2026-10-17T11:03:16.165Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-6": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%206",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 6",
+    "checkedAt": "2026-10-17T11:03:24.018Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-7": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%207",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 7",
+    "checkedAt": "2026-10-17T11:03:24.909Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-8": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%208",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 8",
+    "checkedAt": "2026-10-14T00:31:56.925Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-10-cask-strength-batch-9": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%209",
+    "productName": "라프로익 10년 캐스크 스트렝스 배치 9",
+    "checkedAt": "2026-10-14T00:31:56.934Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-12-global-travel-exclusive": {
+    "url": "https://dailyshot.co/m/item/36582",
+    "productName": "라프로익 12년",
+    "checkedAt": "2026-10-22T01:40:29.597Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-15-2026-relaunch": {
+    "url": "https://dailyshot.co/m/item/37532",
+    "productName": "라프로익 15년 46%",
+    "checkedAt": "2026-11-09T00:16:54.663Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-18-2024-relaunch": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2018%EB%85%84%202024%20%EB%A6%AC%EB%9F%B0%EC%B9%98",
+    "productName": "라프로익 18년 2024 리런치",
+    "checkedAt": "2026-11-09T00:23:12.889Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-1815-legacy-edition": {
+    "url": "https://dailyshot.co/m/item/5267",
+    "productName": "라프로익 1815 레거시 에디션",
+    "checkedAt": "2026-11-09T00:16:53.104Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-25-cask-strength-2020": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202020",
+    "productName": "라프로익 25년 캐스크 스트렝스 2020",
+    "checkedAt": "2026-11-09T00:45:51.678Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-25-cask-strength-2021": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202021",
+    "productName": "라프로익 25년 캐스크 스트렝스 2021",
+    "checkedAt": "2026-11-09T00:45:51.680Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-25-cask-strength-2022": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202022",
+    "productName": "라프로익 25년 캐스크 스트렝스 2022",
+    "checkedAt": "2026-11-09T00:45:56.307Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-25-cask-strength-2023": {
+    "url": "https://dailyshot.co/m/item/23528",
+    "productName": "라프로익 25년 CS 2023 에디션",
+    "checkedAt": "2026-11-09T00:46:01.238Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-cairdeas-2008": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202008",
+    "productName": "라프로익 카디어스 2008",
+    "checkedAt": "2026-11-09T00:40:42.416Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2009-12": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202009%2012%EB%85%84%20CS",
+    "productName": "라프로익 카디어스 2009 12년 CS",
+    "checkedAt": "2026-11-09T00:40:42.418Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2010-master": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202010%20%EB%A7%88%EC%8A%A4%ED%84%B0%20%EC%97%90%EB%94%94%EC%85%98",
+    "productName": "라프로익 카디어스 2010 마스터 에디션",
+    "checkedAt": "2026-11-09T00:40:44.869Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2011-ileach": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202011%20%EC%9D%BC%EB%A6%AC%EC%96%B4%ED%81%AC%20%EC%97%90%EB%94%94%EC%85%98%20CS",
+    "productName": "라프로익 카디어스 2011 일리어크 에디션 CS",
+    "checkedAt": "2026-11-09T00:40:47.930Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2012-origin": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202012%20%EC%98%A4%EB%A6%AC%EC%A7%84",
+    "productName": "라프로익 카디어스 2012 오리진",
+    "checkedAt": "2026-11-09T00:38:29.892Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2013-port-wood": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202013%20%ED%8F%AC%ED%8A%B8%20%EC%9A%B0%EB%93%9C",
+    "productName": "라프로익 카디어스 2013 포트 우드",
+    "checkedAt": "2026-11-09T00:38:29.895Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2014-amontillado": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202014%20%EC%95%84%EB%AA%AC%ED%8B%B8%EB%9D%BC%EB%8F%84",
+    "productName": "라프로익 카디어스 2014 아몬틸라도",
+    "checkedAt": "2026-11-09T00:33:49.349Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2015-200th-anniversary": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202015%20200%EC%A3%BC%EB%85%84%20%EC%97%90%EB%94%94%EC%85%98",
+    "productName": "라프로익 카디어스 2015 200주년 에디션",
+    "checkedAt": "2026-11-09T00:38:31.990Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2016-madeira": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202016%20%EB%A7%88%EB%8D%B0%EC%9D%B4%EB%9D%BC",
+    "productName": "라프로익 카디어스 2016 마데이라",
+    "checkedAt": "2026-11-09T00:33:49.351Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2017-quarter-cask": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202017%20%EC%BF%BC%ED%84%B0%20%EC%BA%90%EC%8A%A4%ED%81%AC%20CS",
+    "productName": "라프로익 카디어스 2017 쿼터 캐스크 CS",
+    "checkedAt": "2026-11-09T00:33:51.964Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2018-fino": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202018%20%ED%94%BC%EB%85%B8%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%ED%94%BC%EB%8B%88%EC%8B%9C",
+    "productName": "라프로익 카디어스 2018 피노 캐스크 피니시",
+    "checkedAt": "2026-11-09T00:33:52.126Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2019-triple-wood": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202019%20%ED%8A%B8%EB%A6%AC%ED%94%8C%20%EC%9A%B0%EB%93%9C%20CS",
+    "productName": "라프로익 카디어스 2019 트리플 우드 CS",
+    "checkedAt": "2026-11-09T00:28:27.824Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2020-port-wine": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202020%20%ED%8F%AC%ED%8A%B8%20%EC%95%A4%20%EC%99%80%EC%9D%B8",
+    "productName": "라프로익 카디어스 2020 포트 앤 와인",
+    "checkedAt": "2026-11-09T00:28:27.826Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2021-px": {
+    "url": "https://dailyshot.co/m/item/10297",
+    "productName": "라프로익 카디어스 페드로 히메네즈 2021",
+    "checkedAt": "2026-11-09T00:29:24.821Z",
+    "scope": "exact-product",
+    "note": "카디어스 2021 PX 58.9%·750ml의 판매가입니다. 공식 사진은 700ml 시장용 병이며 가격 비교 용량은 750ml입니다. 일반 PX 캐스크 48%는 제외합니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "laphroaig-cairdeas-2022-warehouse-1": {
+    "url": "https://dailyshot.co/m/item/10298",
+    "productName": "라프로익 카디어스 웨어하우스 1 2022",
+    "checkedAt": "2026-11-09T00:29:24.512Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "laphroaig-cairdeas-2023-white-port-madeira": {
+    "url": "https://dailyshot.co/m/item/22709",
+    "productName": "라프로익 카디어스 2023 화이트 포트 & 마데이라 캐스크",
+    "checkedAt": "2026-11-09T00:29:26.157Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "laphroaig-cairdeas-2024-cask-favourites": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202024%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%ED%8E%98%EC%9D%B4%EB%B2%84%EB%A6%BF%EC%B8%A0",
+    "productName": "라프로익 카디어스 2024 캐스크 페이버릿츠",
+    "checkedAt": "2026-11-09T00:23:12.891Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2025-lore-cask-strength": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202025%20%EB%A1%9C%EC%96%B4%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4",
+    "productName": "라프로익 카디어스 2025 로어 캐스크 스트렝스",
+    "checkedAt": "2026-11-09T00:23:24.358Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-cairdeas-2026-french-oak": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202026%20%ED%94%84%EB%A0%8C%EC%B9%98%20%EC%98%A4%ED%81%AC",
+    "productName": "라프로익 카디어스 2026 프렌치 오크",
+    "checkedAt": "2026-11-09T00:23:25.791Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-elements-l1-0": {
+    "url": "https://dailyshot.co/m/item/23377",
+    "productName": "라프로익 엘리먼츠 L1.0",
+    "checkedAt": "2026-11-09T00:19:03.426Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-elements-l2-0": {
+    "url": "https://dailyshot.co/m/item/22757",
+    "productName": "라프로익 엘리먼츠 L2.0",
+    "checkedAt": "2026-11-09T00:19:01.869Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-elements-l3-0": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%97%98%EB%A6%AC%EB%A8%BC%EC%B8%A0%20L3.0",
+    "productName": "라프로익 엘리먼츠 L3.0",
+    "checkedAt": "2026-11-09T00:23:27.863Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-port-wood": {
+    "url": "https://dailyshot.co/m/item/32858",
+    "productName": "라프로익 포트 우드",
+    "checkedAt": "2026-11-09T00:16:53.038Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-px-cask": {
+    "url": "https://dailyshot.co/m/item/24444",
+    "productName": "라프로익 PX 캐스크 1L",
+    "checkedAt": "2026-10-13T06:15:54.241Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-triple-wood": {
+    "url": "https://dailyshot.co/m/item/4813",
+    "productName": "라프로익 트리플 우드",
+    "checkedAt": "2026-10-28T04:08:23.684Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "larceny-barrel-proof-c925": {
+    "url": "https://dailyshot.co/m/item/4432",
+    "productName": "라세니 배럴 프루프",
+    "checkedAt": "2026-10-01T12:22:15.070Z",
+    "scope": "other-batches",
+    "note": "라세니 배럴 프루프 공용 판매 페이지입니다. C925 배치·59.8%의 판매 여부가 확인되지 않아 해당 배치 가격으로 표시하지 않습니다."
+  },
+  "macnairs-lum-reek-10-cask-strength-batch-1": {
+    "url": "https://dailyshot.co/m/item/5180",
+    "productName": "맥네어스 럼 릭 10년 CS 피티드 배치 1",
+    "checkedAt": "2026-10-07T12:27:20.274Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "macnairs-lum-reek-10-cask-strength-batch-2": {
+    "url": "https://dailyshot.co/m/item/13691",
+    "productName": "맥네어스 럼 릭 10년 CS 피티드 배치 2",
+    "checkedAt": "2026-10-07T12:27:21.549Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "macnairs-lum-reek-10-cask-strength-batch-3": {
+    "url": "https://dailyshot.co/m/item/38142",
+    "productName": "맥네어스 럼 릭 10년 CS 피티드 배치 3",
+    "checkedAt": "2026-10-07T12:27:21.442Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "macnairs-lum-reek-12": {
+    "url": "https://dailyshot.co/m/item/4136",
+    "productName": "맥네어스 럼 릭 블렌디드 몰트 12년",
+    "checkedAt": "2026-10-07T12:27:19.605Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "macnairs-lum-reek-21": {
+    "url": "https://dailyshot.co/m/item/7426",
+    "productName": "맥네어스 럼 릭 21년 피티드 스몰 배치",
+    "checkedAt": "2026-10-07T12:27:18.879Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "makers-mark-cask-strength": {
+    "url": "https://dailyshot.co/m/item/32068",
+    "productName": "메이커스 마크 CS 750ml",
+    "checkedAt": "2026-10-01T12:22:21.265Z",
+    "scope": "variable-batches",
+    "note": "메이커스 마크 CS 750ml 공용 상품의 판매가입니다. 데일리샷 표기 도수는 53~57%이며, 판매 배치·도수·숙성 표기는 구매 전 확인하세요."
+  },
+  "old-forester-single-barrel-barrel-strength": {
+    "url": "https://dailyshot.co/m/item/15352",
+    "productName": "올드 포레스터 싱글배럴 배럴 스트렝스",
+    "checkedAt": "2026-10-03T13:46:25.496Z",
+    "scope": "variable-batches",
+    "note": "배럴 번호를 지정하지 않은 올드 포레스터 싱글 배럴 배럴 스트렝스 750ml 공용 상품의 판매가입니다. 데일리샷 표기 도수는 62~68%이며 실제 판매 배럴과 도수는 판매처에서 확인하세요."
+  },
+  "paul-john-classic-select-cask": {
+    "url": "https://dailyshot.co/m/item/9457",
+    "productName": "폴존 클래식 셀렉트 캐스크",
+    "checkedAt": "2026-10-01T12:22:36.782Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "paul-john-peated-select-cask": {
+    "url": "https://dailyshot.co/m/item/9458",
+    "productName": "폴존 피티드 클래식 셀렉트 캐스크",
+    "checkedAt": "2026-10-01T12:22:38.107Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "redbreast-12-cask-strength": {
+    "url": "https://dailyshot.co/m/item/23429",
+    "productName": "레드 브레스트 12년 캐스크 스트렝스",
+    "checkedAt": "2026-10-01T12:22:31.431Z",
+    "scope": "variable-batches",
+    "note": "레드브레스트 12년 CS 700ml 공용 상품의 판매가입니다. 데일리샷 표기 도수는 55~60%이며 실제 배치와 도수는 판매처에서 확인하세요."
+  },
+  "russells-reserve-13-barrel-proof-2025": {
+    "url": "https://dailyshot.co/m/item/30464",
+    "productName": "러셀 리저브 13년 배럴 프루프 2025",
+    "checkedAt": "2026-10-03T13:46:24.554Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "springbank-12-cask-strength-2026": {
+    "url": "https://dailyshot.co/m/item/5995",
+    "productName": "스프링뱅크 12년 CS",
+    "checkedAt": "2026-10-01T12:22:10.582Z",
+    "scope": "other-batches",
+    "note": "스프링뱅크 12년 CS 공용 판매 페이지입니다. 2026 릴리스·56.6% 판매 여부가 확인되지 않아 해당 배치 가격으로 표시하지 않습니다."
+  },
+  "stellum-bourbon": {
+    "url": "https://dailyshot.co/m/item/29418",
+    "productName": "스텔럼 버번",
+    "checkedAt": "2026-10-03T13:46:27.021Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "tamdhu-batch-strength-006": {
+    "url": "https://dailyshot.co/m/item/23535",
+    "productName": "탐두 배치 스트렝스 배치 넘버 006",
+    "checkedAt": "2026-10-06T11:01:06.744Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "tamdhu-batch-strength-007": {
+    "url": "https://dailyshot.co/m/item/8754",
+    "productName": "탐두 배치 스트렝스 배치 넘버 007",
+    "checkedAt": "2026-10-03T13:46:23.112Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "tamdhu-batch-strength-008": {
+    "url": "https://dailyshot.co/m/item/18043",
+    "productName": "탐두 배치 스트렝스 배치 넘버 008",
+    "checkedAt": "2026-10-03T13:46:23.457Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "teeling-blackpitts-cask-strength": {
+    "url": "https://dailyshot.co/m/item/18036",
+    "productName": "틸링 블랙핏츠 빅 스모크 CS",
+    "checkedAt": "2026-10-01T12:22:02.118Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "wild-turkey-rare-breed": {
+    "url": "https://dailyshot.co/m/item/19596",
+    "productName": "와일드 터키 레어브리드",
+    "checkedAt": "2026-10-01T12:22:16.328Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "wild-turkey-rare-breed-rye": {
+    "url": "https://dailyshot.co/m/item/10299",
+    "productName": "와일드 터키 레어브리드 라이",
+    "checkedAt": "2026-10-01T12:22:20.343Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "writers-tears-cask-strength": {
+    "url": "https://dailyshot.co/m/item/5830",
+    "productName": "라이터즈 티얼즈 CS 2022",
+    "checkedAt": "2026-10-01T12:22:32.969Z",
+    "scope": "other-batches",
+    "note": "연결된 상품은 라이터즈 티얼즈 CS 2022(데일리샷 표기 53~54.6%)입니다. 카탈로그의 참고 도수 54.8% 배치와 달라 해당 판매가를 표시하지 않습니다."
+  }
+}

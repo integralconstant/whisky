@@ -1,0 +1,446 @@
+{
+  "four-roses-single-barrel": {
+    "imageUrl": "https://four-roses.files.svdcdn.com/production/images/bourbons/Web_FR-Single-Barrel.png?dm=1757960461",
+    "sourceUrl": "https://www.fourrosesbourbon.com/bourbon",
+    "productName": "Four Roses Single Barrel OBSV",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-rising-reserve-21-1": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/24154351/TW_RISING_S1_BOTTLE-320x399.png",
+    "sourceUrl": "https://www.teelingwhiskey.com/vintage-reserve-collection/",
+    "productName": "Teeling Rising Reserve 21 Year Old No.1",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "bushmills-25": {
+    "imageUrl": "https://bushmills.com/cdn/shop/files/bushmills-single-malt-whiskey-25Y_59cf53d2-34ac-4b79-9bd9-309425bf6c51.png?v=1740697483",
+    "sourceUrl": "https://bushmills.com/products/25-year",
+    "productName": "Bushmills 25 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "bushmills-30": {
+    "imageUrl": "https://bushmills.com/cdn/shop/files/bushmills-single-malt-whiskey-30y_a0505f7d-b96f-40d7-99eb-0cfecd5f7460.png?v=1740697547",
+    "sourceUrl": "https://bushmills.com/products/30-year",
+    "productName": "Bushmills 30 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "canadian-club-original": {
+    "imageUrl": "https://www.suntory.co.jp/whisky/canadianclub/assets/img/common/module/products/img_canadianclub.png",
+    "sourceUrl": "https://www.suntory.co.jp/whisky/canadianclub/products/",
+    "productName": "Canadian Club Original",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "canadian-club-black-label": {
+    "imageUrl": "https://www.suntory.co.jp/whisky/canadianclub/assets/img/common/module/products/img_blacklabel.png",
+    "sourceUrl": "https://www.suntory.co.jp/whisky/canadianclub/products/",
+    "productName": "Canadian Club Black Label",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "canadian-club-20": {
+    "imageUrl": "https://www.suntory.co.jp/whisky/canadianclub/assets/img/common/module/products/img_20yearold.png",
+    "sourceUrl": "https://www.suntory.co.jp/whisky/canadianclub/products/",
+    "productName": "Canadian Club 20 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "yoichi-10": {
+    "imageUrl": "https://nikka.com/en/brands/yoichi_miyagikyo/common/img/products/lineup_yoichi10.png",
+    "sourceUrl": "https://nikka.com/en/brands/yoichi_miyagikyo/products/",
+    "productName": "Yoichi Single Malt 10 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "miyagikyo-10": {
+    "imageUrl": "https://nikka.com/en/brands/yoichi_miyagikyo/common/img/products/lineup_miyagikyo10.png",
+    "sourceUrl": "https://nikka.com/en/brands/yoichi_miyagikyo/products/",
+    "productName": "Miyagikyo Single Malt 10 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-30": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/07151643/FY24_Teeling_Lifestyle_30yr_VintageReserve_SingleProd_07_11.jpg",
+    "sourceUrl": "https://www.teelingwhiskey.com/vintage-reserve-collection/",
+    "productName": "Teeling 30 Year Old Single Malt",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-86": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Fo-86-Bottle.png",
+    "sourceUrl": "https://www.oldforester.com/whiskies/",
+    "productName": "Old Forester 86 Proof",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-100": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Fo-100-Bottle.png",
+    "sourceUrl": "https://www.oldforester.com/whiskies/",
+    "productName": "Old Forester 100 Proof",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-1897": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Forester-1897-750ml-New-Label_TransparentBG-1-copy.png",
+    "sourceUrl": "https://www.oldforester.com/whiskies/",
+    "productName": "Old Forester 1897 Bottled in Bond",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-1910": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Forester-1910-750ml-New-Label_TransparentBG-1-1-copy-1.png",
+    "sourceUrl": "https://www.oldforester.com/products/old-forester-1910-old-fine-whisky/",
+    "productName": "Old Forester 1910 Old Fine Whisky",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-1920": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Forester-1920-750ml-New-Label_TransparetnBG-1-copy.png",
+    "sourceUrl": "https://www.oldforester.com/whiskies/",
+    "productName": "Old Forester 1920 Prohibition Style",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-rye": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2019/06/Old-Fo-Rye-Bottle.png",
+    "sourceUrl": "https://www.oldforester.com/whiskies/",
+    "productName": "Old Forester Rye Whisky",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-single-barrel-100": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2021/05/OF-Single-Proof-100proof_TransparentBG-900-h.png",
+    "sourceUrl": "https://www.oldforester.com/products/old-forester-single-barrel-100-proof/",
+    "productName": "Old Forester Single Barrel 100 Proof",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "old-forester-1924": {
+    "imageUrl": "https://www.oldforester.com/wp-content/uploads/2024/01/OFWR_LOVE-BOURBON_1924_0861_HIRES-V2_1-2-768x512.jpg",
+    "sourceUrl": "https://www.oldforester.com/old-forester-debuts-1924/",
+    "productName": "Old Forester 1924 10 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "suntory-toki": {
+    "imageUrl": "https://house.suntory.com/sites/default/files/2024-11/toki-whisky-house-of-suntory.png",
+    "sourceUrl": "https://house.suntory.com/toki-whisky/suntory-whisky-toki",
+    "productName": "Suntory Whisky Toki",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "knob-creek-12": {
+    "imageUrl": "https://www.knobcreek.com/sites/default/files/2024-09/12-year-old-kentucky-bottle-whiskey-knob-creek.webp",
+    "sourceUrl": "https://www.knobcreek.com/whiskies/12-year-old-bourbon-whiskey",
+    "productName": "Knob Creek 12 Year Old Bourbon",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "knob-creek-18": {
+    "imageUrl": "https://www.knobcreek.com/sites/default/files/2024-09/18-year-old-kentucky-bottle-whiskey-knob-creek.webp",
+    "sourceUrl": "https://www.knobcreek.com/whiskies/18-year-old-bourbon-whiskey",
+    "productName": "Knob Creek 18 Year Old Bourbon",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "knob-creek-7-rye": {
+    "imageUrl": "https://www.knobcreek.com/sites/default/files/2024-07/7-year-old-kentucky-rye-bottle-whiskey-knob-creek.png",
+    "sourceUrl": "https://www.knobcreek.com/whiskies/7-year-old-rye-whiskey",
+    "productName": "Knob Creek 7 Year Old Rye",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "weller-single-barrel": {
+    "imageUrl": "https://cms.buffalotracedistillery.com/wp-content/uploads/2025/11/WELLER_SINGLE_BARREL_BOTTLE.png",
+    "sourceUrl": "https://www.buffalotracedistillery.com/our-brands/w-l-weller/w-l-weller-single-barrel/",
+    "productName": "W.L. Weller Single Barrel",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "basil-hayden-malted-rye": {
+    "imageUrl": "https://www.basilhaydenbourbon.com/sites/default/files/2025-06/Basil%20Hayden_Malted%20Rye_Carousel.png",
+    "sourceUrl": "https://www.basilhaydenbourbon.com/whiskies/basil-hayden-malted-rye-whiskey",
+    "productName": "Basil Hayden Malted Rye",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "basil-hayden-toast": {
+    "imageUrl": "https://www.basilhaydenbourbon.com/sites/default/files/2025-06/Basil%20Hayden_Toast_Carousel.png",
+    "sourceUrl": "https://www.basilhaydenbourbon.com/whiskies/basil-hayden-toast-bourbon",
+    "productName": "Basil Hayden Toast",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "basil-hayden-dark-rye": {
+    "imageUrl": "https://www.basilhaydenbourbon.com/sites/default/files/2025-06/Basil%20Hayden_Dark%20Rye_Carousel.png",
+    "sourceUrl": "https://www.basilhaydenbourbon.com/whiskies/basil-hayden-dark-rye-whiskey",
+    "productName": "Basil Hayden Dark Rye",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-small-batch": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/19114338/FY24_Teeling_Bottle_SmallBatch-320x399.png",
+    "sourceUrl": "https://www.teelingwhiskey.com/teeling-whiskeys/small-batch-whiskey/",
+    "productName": "Teeling Small Batch",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-single-grain": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/19114333/FY24_Teeling_Bottle_SingleGrain-320x399.png",
+    "sourceUrl": "https://www.teelingwhiskey.com/teeling-whiskeys/single-grain-whiskey/",
+    "productName": "Teeling Single Grain",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-single-malt": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/19114336/FY24_Teeling_Bottle_SingleMalt-320x399.png",
+    "sourceUrl": "https://www.teelingwhiskey.com/vintage-reserve-collection/",
+    "productName": "Teeling Single Malt",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-single-pot-still": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/19114331/FY24_Teeling_Bottle_PotStill-320x399.png",
+    "sourceUrl": "https://www.teelingwhiskey.com/us/en/teeling-whiskeys/single-pot-still-whiskey/",
+    "productName": "Teeling Single Pot Still",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-blackpitts": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/19114328/FY21_TEELING_Peated_Single_Malt-320x399.png",
+    "sourceUrl": "https://www.teelingwhiskey.com/teeling-whiskeys/teeling-blackpitts-peated-single-malt/",
+    "productName": "Teeling Blackpitts Peated Single Malt",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "teeling-blackpitts-cask-strength": {
+    "imageUrl": "https://d1mp96cehvcx4f.cloudfront.net/wp-content/uploads/2023/10/24143415/TW_Blackpitts-Cask-Strength-320x399.png",
+    "sourceUrl": "https://www.teelingwhiskey.com/limited-edition-bottlings/",
+    "productName": "Teeling Blackpitts Cask Strength",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "writers-tears-double-oak": {
+    "imageUrl": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img/https://www.walshwhiskey.com/wp-content/uploads/2020/10/BottleBox_PortfolioProfile_528x1092px_WT_DoubleOak.png",
+    "sourceUrl": "https://www.walshwhiskey.com/whiskey/double-oak/",
+    "productName": "Writers' Tears Double Oak",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "bushmills-46-river-bush": {
+    "imageUrl": "https://bushmills.com/cdn/shop/files/bushmills-46-year.png?v=1740159356",
+    "sourceUrl": "https://bushmills.com/products/46-year",
+    "productName": "Bushmills 46 Year Old Secrets of the River Bush",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "starward-two-fold": {
+    "imageUrl": "https://starward.com.au/cdn/shop/products/two-fold-starward-whisky-121261.png?v=1698805088",
+    "sourceUrl": "https://starward.com.au/products/two-fold",
+    "productName": "Starward Two-Fold",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-madeira": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/02/Penderyn-Madeira-600x819.jpg",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-madeira/",
+    "productName": "Penderyn Madeira",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-portwood": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/03/Slide5-600x800.jpg",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-portwood/",
+    "productName": "Penderyn Portwood",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-sherrywood": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/03/Slide7-600x800.jpg",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-sherrywood/",
+    "productName": "Penderyn Sherrywood",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-peated": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/03/peated-4-600x800.jpg",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-peated/",
+    "productName": "Penderyn Peated",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-rich-oak": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/03/Slide6-600x800.jpg",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-rich-oak/",
+    "productName": "Penderyn Rich Oak",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-celt": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/03/PenderynCelt23Store-600x819.png",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-celt/",
+    "productName": "Penderyn Celt",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-myth": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/03/PenderynMyth23Store-600x819.png",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-myth/",
+    "productName": "Penderyn Myth",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "penderyn-legend": {
+    "imageUrl": "https://www.penderyn.wales/wp-content/uploads/2021/03/PenderynLegend23Store-600x819.png",
+    "sourceUrl": "https://www.penderyn.wales/product/penderyn-legend/",
+    "productName": "Penderyn Legend",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "amrut-peated": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2024/02/AD_SM_PEATED_BPW_E1250-removebg-preview.png",
+    "sourceUrl": "https://amrutdistilleries.com/amrut-peated/",
+    "productName": "Amrut Peated",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "amrut-bagheera": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2024/02/AD_BAGHEERA_BPW_E1250_800x-depositphotos-bgremover-1-600x600.png",
+    "sourceUrl": "https://amrutdistilleries.com/amrut-indian-single-malt-whisky-bagheera-sherry-cask-finish-46-3-pack-duplicate/",
+    "productName": "Amrut Bagheera Sherry Cask Finish",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "amrut-kadhambam": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2024/02/ASM-KADHAMBAM-1.png",
+    "sourceUrl": "https://amrutdistilleries.com/amrut-kadhambamsingle-maltwhisky-50-duplicate/",
+    "productName": "Amrut Kadhambam",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "amrut-rajigala": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2024/02/ASM-RAJIGALA-1-e1712055316175.png",
+    "sourceUrl": "https://amrutdistilleries.com/amrut-rajigala-indian-single-malt-whisky-40-duplicate/",
+    "productName": "Amrut Rajigala",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "amrut-spectrum-004": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2025/10/DSC01517-600x450.png",
+    "sourceUrl": "https://amrutdistilleries.com/amrut-spectrum-004-single-malt-whisky-50-duplicate-2/",
+    "productName": "Amrut Spectrum 004",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "single-malts-india-marudham": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2025/10/Amrut-Marudham-with-box-600x908.png",
+    "sourceUrl": "https://amrutdistilleries.com/single-malts-of-india-marudham/",
+    "productName": "Single Malts of India Marudham",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "single-malts-india-kurinji": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2025/10/DSC01574-600x450.png",
+    "sourceUrl": "https://amrutdistilleries.com/amrut-kurinji-single-malts-of-india/",
+    "productName": "Single Malts of India Kurinji",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "crown-royal-black": {
+    "imageUrl": "https://images.ctfassets.net/wf4e4r4dkfx8/QtEDCC1fwvletzY1gQofh/1f40f09b7580db98e4fbc8f666e95e05/CR_Black.png",
+    "sourceUrl": "https://www.crownroyal.com/canadian-whisky/crown-royal-black",
+    "productName": "Crown Royal Black",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "crown-royal-northern-harvest-rye": {
+    "imageUrl": "https://images.ctfassets.net/wf4e4r4dkfx8/7o7e3UNzr4zxrk7UR4UdNN/e58180afa17c99af257e206c412413f5/cr-rye.png",
+    "sourceUrl": "https://www.crownroyal.com/en-ca/canadian-whisky/crown-royal-rye",
+    "productName": "Crown Royal Northern Harvest Rye",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "crown-royal-reserve": {
+    "imageUrl": "https://images.ctfassets.net/wf4e4r4dkfx8/4qq7rTF8NzZp7RN2AXJBz2/9da098b4981cc8f72e92bae47576dd90/bottle-cr-reserve.png",
+    "sourceUrl": "https://www.crownroyal.com/canadian-whisky/crown-royal-reserve",
+    "productName": "Crown Royal Reserve",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "crown-royal-reserve-12": {
+    "imageUrl": "https://images.ctfassets.net/wf4e4r4dkfx8/4wpKEpnjpnw20JC4U5G4Ei/ded155eea41bd3e348e32292570cb8ea/crown-royol-12yo.png",
+    "sourceUrl": "https://www.crownroyal.com/canadian-whisky/crown-royal-reserve-12yo",
+    "productName": "Crown Royal Reserve Aged 12 Years",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "crown-royal-xo": {
+    "imageUrl": "https://images.ctfassets.net/wf4e4r4dkfx8/7mYL4YKtPNnjviUJ8NfB7p/544f9be558924a5ebf051fc06ff255fa/xo-updated.png",
+    "sourceUrl": "https://www.crownroyal.com/canadian-whisky/crown-royal-xo",
+    "productName": "Crown Royal XO",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "crown-royal-18": {
+    "imageUrl": "https://images.ctfassets.net/wf4e4r4dkfx8/2V9nlH5lCt9PXbKPfzsso8/df8d2c6f35e956defcb0e2633562f8d4/Crown_Royal_18yo.png",
+    "sourceUrl": "https://www.crownroyal.com/canadian-whisky/crown-royal-18yo",
+    "productName": "Crown Royal Aged 18 Years",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "crown-royal-single-malt": {
+    "imageUrl": "https://images.ctfassets.net/wf4e4r4dkfx8/5Qf1BgjeCQAh97JliPncO4/baecce1172c09891f2661f381331a560/single-malt-updated.jpg",
+    "sourceUrl": "https://www.crownroyal.com/canadian-whisky/single-malt",
+    "productName": "Crown Royal Single Malt",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "jp-wisers-10": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/FY26_JPW_DTC_ProductShot_Updates_10YO_1200x1200.png?v=1772808226",
+    "sourceUrl": "https://shop.jpwisers.com/products/jp-wisers-10-year-old-canadian-whisky",
+    "productName": "J.P. Wiser's 10 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "jp-wisers-18": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/FY26_JPW_DTC_ProductShot_Updates_18YO_1200x1200.png?v=1772808116",
+    "sourceUrl": "https://shop.jpwisers.com/products/jp-wisers-18-year-old-canadian-whisky",
+    "productName": "J.P. Wiser's 18 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "jp-wisers-special-blend": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_SpecialBlend_1200x1200.jpg?v=1742994976",
+    "sourceUrl": "https://shop.jpwisers.com/products/jp-wisers-special-blend-whisky",
+    "productName": "J.P. Wiser's Special Blend",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "pike-creek-double-barreled": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_PikeCreek_1200x1200.png?v=1748439386",
+    "sourceUrl": "https://shop.jpwisers.com/products/pike-creek-double-barreled-canadian-whisky",
+    "productName": "Pike Creek Double Barreled",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "lot-no-40-pot-still-rye": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Lot40_1200x1200.png?v=1748439339",
+    "sourceUrl": "https://shop.jpwisers.com/products/lot-no-40-100-pot-still-rye-whisky",
+    "productName": "Lot No. 40 100% Pot Still Rye",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "lot-no-40-dark-oak": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/JPW_Website_PDP_Lot40_DarkOak_1200x1200.png?v=1748439323",
+    "sourceUrl": "https://shop.jpwisers.com/products/lot-no-40-dark-oak-canadian-whisky",
+    "productName": "Lot No. 40 Dark Oak",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "forty-creek-copper-bold": {
+    "imageUrl": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-COPPER-BOLD-WHISKY_1000x1000-on-600x600.webp",
+    "sourceUrl": "https://fortycreekwhisky.com/product/copper-bold/",
+    "productName": "Forty Creek Copper Bold (Copper Pot)",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "forty-creek-confederation-oak": {
+    "imageUrl": "https://fortycreekwhisky.com/wp-content/uploads/2022/09/FC-CONFEDERATION-OAK-WHISKY_1000x1000-on-600x600.webp",
+    "sourceUrl": "https://fortycreekwhisky.com/product/confederation-oak-reserve/",
+    "productName": "Forty Creek Confederation Oak Reserve",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "forty-creek-niagara-triple-reserve": {
+    "imageUrl": "https://fortycreekwhisky.com/wp-content/uploads/2025/09/FC-NIAGARA-TRIPLE-RESERVE-WHISKY_1000x1000-on-600x600.webp",
+    "sourceUrl": "https://fortycreekwhisky.com/product/niagara-triple-reserve/",
+    "productName": "Forty Creek Niagara Triple Reserve",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "canadian-club-classic-12": {
+    "imageUrl": "https://www.suntory.co.jp/products/pimg/YCC12J_R1_20181220.jpg",
+    "sourceUrl": "https://products.suntory.co.jp/d/080686817086/",
+    "productName": "Canadian Club Classic 12 Year Old",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "kavalan-lan": {
+    "imageUrl": "https://kavalan.eu/wp-content/uploads/2024/08/LAN-mit-Karton.png",
+    "sourceUrl": "https://kavalan.eu/sortiment/basissortiment/kavalan-lan/",
+    "productName": "Kavalan LÁN",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "kavalan-15-2025": {
+    "imageUrl": "https://mma.prnewswire.com/media/2635595/Kavalan_15YO_1.jpg?w=400",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/kavalan-releases-limited-15-years-old-whisky-from-time-exploration-series-302395483.html",
+    "productName": "Kavalan 15 Year Old 2025 Edition",
+    "note": "공식 제품 페이지에서 해당 연산·제품의 병 사진을 선택했습니다."
+  },
+  "woodford-reserve": {
+    "imageUrl": "https://www.woodfordreserve.com/wp-content/uploads/2019/12/Bourbon-Bottle.png",
+    "sourceUrl": "https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/",
+    "productName": "woodford reserve",
+    "note": "공식 제품군 이미지에서 버번·몰트·위트·더블 오크드 라벨을 구분했습니다."
+  },
+  "woodford-malt": {
+    "imageUrl": "https://www.woodfordreserve.com/wp-content/uploads/2019/12/Malt-Bottle-1.png",
+    "sourceUrl": "https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/",
+    "productName": "woodford malt",
+    "note": "공식 제품군 이미지에서 버번·몰트·위트·더블 오크드 라벨을 구분했습니다."
+  },
+  "woodford-wheat": {
+    "imageUrl": "https://www.woodfordreserve.com/wp-content/uploads/2019/12/Wheat-Bottle-1.png",
+    "sourceUrl": "https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/",
+    "productName": "woodford wheat",
+    "note": "공식 제품군 이미지에서 버번·몰트·위트·더블 오크드 라벨을 구분했습니다."
+  },
+  "woodford-double-oaked": {
+    "imageUrl": "https://www.woodfordreserve.com/wp-content/uploads/2019/12/1.png",
+    "sourceUrl": "https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/",
+    "productName": "woodford double oaked",
+    "note": "공식 제품군 이미지에서 버번·몰트·위트·더블 오크드 라벨을 구분했습니다."
+  },
+  "woodford-double-double-oaked": {
+    "imageUrl": "https://www.woodfordreserve.com/wp-content/uploads/2023/01/F25-WRDDO_RENDER-1-619x1024.png",
+    "sourceUrl": "https://www.woodfordreserve.com/whiskey/straight-bourbon-whiskey/",
+    "productName": "woodford double double oaked",
+    "note": "공식 제품군 이미지에서 버번·몰트·위트·더블 오크드 라벨을 구분했습니다."
+  }
+}

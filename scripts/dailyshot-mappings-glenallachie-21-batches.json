@@ -1,0 +1,79 @@
+{
+  "glenallachie-21-cask-strength-batch-2": {
+    "topProductId": 4872,
+    "volumeMl": 700,
+    "productName": "글렌알라키 21년 CS 배치 2",
+    "englishName": "GlenAllachie 21yo CS Batch 2",
+    "abv": 51.1,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/4872",
+    "verifiedAt": "2026-10-04",
+    "note": "글렌알라키 21년 배치 2, 51.1%·700ml의 단일 상품입니다. 같은 도수라도 다른 배치의 판매가는 제외합니다."
+  },
+  "glenallachie-21-cask-strength-batch-1": {
+    "topProductId": 7391,
+    "volumeMl": 700,
+    "productName": "글렌알라키 21년 CS 배치 1",
+    "englishName": "GlenAllachie 21yo CS Batch 1",
+    "abv": 51.4,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/7391",
+    "verifiedAt": "2026-10-04",
+    "note": "글렌알라키 21년 배치 1, 51.4%·700ml의 단일 상품입니다. 같은 도수라도 다른 배치의 판매가는 제외합니다."
+  },
+  "glenallachie-21-cask-strength-batch-4": {
+    "topProductId": 18172,
+    "volumeMl": 700,
+    "productName": "글렌알라키 21년 CS 배치 4",
+    "englishName": "GlenAllachie 21yo CS Batch 4",
+    "abv": 51.1,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/18172",
+    "verifiedAt": "2026-10-04",
+    "note": "글렌알라키 21년 배치 4, 51.1%·700ml의 단일 상품입니다. 같은 도수라도 다른 배치의 판매가는 제외합니다."
+  },
+  "glenallachie-21-cask-strength-batch-3": {
+    "topProductId": 12861,
+    "volumeMl": 700,
+    "productName": "글렌알라키 21년 CS 배치 3",
+    "englishName": "GlenAllachie 21yo CS Batch 3",
+    "abv": 51.5,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/12861",
+    "verifiedAt": "2026-10-04",
+    "note": "글렌알라키 21년 배치 3, 51.5%·700ml의 단일 상품입니다. 같은 도수라도 다른 배치의 판매가는 제외합니다."
+  },
+  "glenallachie-21-cask-strength-batch-6": {
+    "topProductId": 29879,
+    "volumeMl": 700,
+    "productName": "글렌알라키 21년 CS 배치 6",
+    "englishName": "GlenAllachie 21yo CS Batch 6",
+    "abv": 52.8,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/29879",
+    "verifiedAt": "2026-10-04",
+    "note": "글렌알라키 21년 배치 6, 52.8%·700ml의 단일 상품입니다. 같은 도수라도 다른 배치의 판매가는 제외합니다."
+  },
+  "glenallachie-21-cask-strength-batch-5": {
+    "topProductId": 24558,
+    "volumeMl": 700,
+    "productName": "글렌알라키 21년 CS 배치 5",
+    "englishName": "GlenAllachie 21yo CS Batch 5",
+    "abv": 49.2,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/24558",
+    "verifiedAt": "2026-10-04",
+    "note": "글렌알라키 21년 배치 5, 49.2%·700ml의 단일 상품입니다. 같은 도수라도 다른 배치의 판매가는 제외합니다."
+  },
+  "glenallachie-21-cask-strength-batch-7": {
+    "topProductId": 38474,
+    "volumeMl": 700,
+    "productName": "[마감] 글렌알라키 21년 배치 7",
+    "englishName": "GlenAllachie 21yo Batch 7",
+    "abv": 51.9,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/38474",
+    "verifiedAt": "2026-10-06",
+    "note": "21년 배치 7의 상품명·51.9%·700ml을 대조했습니다. 다른 연산과 배치는 제외합니다."
+  }
+}

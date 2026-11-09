@@ -1,0 +1,33 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "integrated",
+  "entries": [
+    {
+      "name": "Cairdeas 2017 Cask Strength Quarter Cask",
+      "abv": 57.2,
+      "volumeMl": 700,
+      "caskStrength": true,
+      "source": "https://www.thewhiskyexchange.com/p/38985/laphroaig-cairdeas-cask-strength-quarter-cask",
+      "evidence": "Retailer product facts explicitly identifies2017,70cl,57.2%,distillery bottling and non chill-filtered. Product image linked. This is not the regular Quarter Cask48%.",
+      "next": "Inspect linked bottle photo, find individual tasting notes with provenance, search exact Dailyshot expression; register even without Dailyshot. Do not infer an age from maturation commentary.",
+      "status": "integrated",
+      "integrationRecord": "laphroaig-cairdeas-early-integration.json"
+    },
+    {
+      "name": "Cairdeas 2018 Fino Cask Finish",
+      "abv": 51.8,
+      "source": "https://www.klwines.com/products/details/1371733",
+      "volumeMl": 750,
+      "evidence": "Retailer lists2018,51.8%,750ml; first-fill bourbon followed by Fino sherry, Warehouses8and10. Photo linked.",
+      "next": "Inspect photo label and source release-specific notes. No CS flag solely from51.8% strength.",
+      "status": "integrated",
+      "integrationRecord": "laphroaig-cairdeas-early-integration.json"
+    }
+  ],
+  "additionalLead": {
+    "url": "https://www.fumikura.net/other/laphroaig.pdf",
+    "kind": "third-party text transcription of historical bottle labels; not a producer-hosted document",
+    "pages": 8,
+    "evidence": "Text references2018 first-fill bourbon/Fino hogsheads,51.8%,almond,dried fruit,sea salt;2019 label59.5%;2017 and earlier label text follows. Corroborate against actual bottle photographs and attributable producer/retailer evidence before integration."
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "checkedOn": "2026-10-14",
+  "status": "integrated-see-integration-record",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 1, 2 and 3 only. Ready entries are saved progressively. Runtime, matching, prices and image manifests remain outside this research task.",
+  "sourcePolicy": "Exact-batch producer, retailer or named reviewer notes only; reviewer and retailer notes must not be represented as official producer notes. Photographs are downloaded and visually checked before being marked verified.",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-1",
+      "batchNumber": 1,
+      "status": "facts-reviewer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 57.8,
+      "caskStrength": true,
+      "bottledYear": 2009,
+      "bottledMonth": "2009-02",
+      "sources": [
+        {
+          "url": "https://www.thewhiskyexchange.com/p/10882/laphroaig-10-year-old-cask-strength-batch-001-bot2009",
+          "type": "retailer-exact-product-page",
+          "evidence": "Exact Batch 001 page confirms ten years, February 2009, 57.8%, 70cl and distillery bottling. Its downloaded photograph independently shows 001, FEB.09, 57.8%, 10 Years Old and 700ml."
+        },
+        {
+          "url": "https://www.whiskynotes.be/2009/laphroaig/laphroaig-10-yo-cask-strength-batch-001/",
+          "type": "reviewer-exact-batch-tasting-notes",
+          "evidence": "Ruben's 14 November 2009 review explicitly identifies Batch 001, age ten and 57.8%. Nose emphasizes medicinal smoke, ash, tar, faint peach, charcoal, rubber and pencil shavings. Palate develops from sweetness to dry wood with peppery peat, saline liquorice, seaweed and a little apple skin. Finish is long, smoky, dry and salty."
+        }
+      ],
+      "proposedDescription": "2009년 2월에 병입한 10년 캐스크 스트렝스의 첫 번째 번호 배치. 57.8% 도수에 짙은 피트 연기와 후추, 해조류와 드라이한 나무 향이 겹친다.",
+      "proposedNotes": {
+        "nose": "약품을 연상시키는 짙은 연기에 재와 타르, 숯과 고무 향이 겹치고 복숭아와 연필 깎은 나무 향이 희미하게 비친다",
+        "palate": "후추를 동반한 피트 연기가 달콤하게 시작해 드라이한 나무 향으로 이어지고, 짭짤한 감초와 해조류에 사과 껍질이 살짝 겹친다",
+        "finish": "스모키하고 드라이한 여운에 소금기가 오래 남는다"
+      },
+      "notesProvenance": {
+        "type": "reviewer-published-notes",
+        "publisher": "WhiskyNotes — Ruben",
+        "sourceUrl": "https://www.whiskynotes.be/2009/laphroaig/laphroaig-10-yo-cask-strength-batch-001/",
+        "scope": "Concise Korean paraphrase of the named reviewer's exact Batch 001 nose, mouth and finish. These are personal reviewer notes, not producer notes; no claims are drawn from the comparison bottling or reader comments."
+      },
+      "proposedTags": [
+        "스모키",
+        "피트",
+        "후추",
+        "우디",
+        "핵과일",
+        "사과",
+        "바다·소금",
+        "드라이"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://img.thewhiskyexchange.com/900/lrgob.10yov10.jpg?v=202407241",
+          "sourcePage": "https://www.thewhiskyexchange.com/p/10882/laphroaig-10-year-old-cask-strength-batch-001-bot2009",
+          "sourceName": "The Whisky Exchange",
+          "type": "retailer-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-14",
+          "localReviewCopy": ".cache/laphroaig-cs-1-photo.jpg",
+          "dimensions": "900x1200",
+          "labelEvidence": "Real bottle and tube photograph on white. Both show Batch 001, FEB.09 bottled, 57.8%, 10 Years Old and 700ml."
+        }
+      ],
+      "cautions": [
+        "Tasting notes are the named reviewer's impressions and are not officially verified producer notes.",
+        "Peach and apple are faint nuances in the source, so the Korean wording preserves their limited intensity."
+      ],
+      "runtimeStatus": "integrated"
+    }
+  ],
+  "integrationRecord": "laphroaig-cs-1-7-integration.json",
+  "completedResearchRecord": "laphroaig-cs-2-3-ready.json"
+}

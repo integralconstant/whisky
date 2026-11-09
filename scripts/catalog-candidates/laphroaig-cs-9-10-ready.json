@@ -1,0 +1,143 @@
+{
+  "checkedOn": "2026-10-13",
+  "status": "integrated-see-integration-record",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 9 and 10 only. Runtime, matching, prices and image manifests remain outside this research task.",
+  "sourcePolicy": "Exact-batch producer or retailer-published notes only; retailer notes must not be represented as official producer notes. Photographs are downloaded and visually checked before being marked verified.",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-9",
+      "batchNumber": 9,
+      "status": "facts-retailer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 58.1,
+      "caskStrength": true,
+      "bottledYear": 2017,
+      "bottledMonth": "2017-02",
+      "sources": [
+        {
+          "url": "https://www.abbeywhisky.com/products/laphroaig-10-year-old-cask-strength-batch-009-aw01978",
+          "type": "retailer-exact-product-page",
+          "evidence": "Explicit Batch 009/Batch 9, age ten, 2017, 58.1%, 70cl, original distillery bottling. Product photograph visually confirms FEB 17, 009, age ten and 58.1%. Tasting Notes section is empty."
+        },
+        {
+          "url": "https://www.thewhiskyexchange.com/p/38983/laphroaig-10-year-old-cask-strength-batch-009-bot2017",
+          "type": "retailer-exact-product-page",
+          "evidence": "Independently confirms Batch 009, age ten, February 2017, 58.1% and 700ml."
+        },
+        {
+          "url": "https://whiskygallery.com.my/products/laphroaig-10-year-old-cask-strength-batch-009",
+          "type": "retailer-published-notes",
+          "evidence": "Exact Batch 009 listing, 700ml and 58.1% (page typesets this as 58..1%). Published nose notes identify maritime, vanilla, citrus and peat smoke; palate identifies cantaloupe, lemon peel, spiced oak, salted butter and smoke; finish retains sweetness and smoke."
+        }
+      ],
+      "proposedDescription": "2017년 2월에 병입한 10년 캐스크 스트렝스 배치 9. 58.1% 도수에 바다 향과 피트 연기, 시트러스의 달콤함이 어우러진다.",
+      "proposedNotes": {
+        "nose": "바다 향에 포근한 바닐라와 시트러스, 피트 연기가 겹친다",
+        "palate": "달콤한 멜론과 레몬 껍질, 오크 향신료에 소금기 있는 버터와 은은한 연기",
+        "finish": "달콤함과 스모키한 기운이 균형 있게 이어지는 여운"
+      },
+      "notesProvenance": {
+        "type": "retailer-published-notes",
+        "publisher": "Whisky Gallery Global",
+        "sourceUrl": "https://whiskygallery.com.my/products/laphroaig-10-year-old-cask-strength-batch-009",
+        "scope": "Exact Batch 009 product page. No producer attribution is given; these are retailer-published notes, not officially verified producer notes."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "바다·소금",
+        "바닐라",
+        "시트러스",
+        "과일",
+        "오크",
+        "스파이시"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://www.abbeywhisky.com/cdn/shop/products/laphroaig-10-year-old-cask-strength-batch-009-web_1598x2400.jpg?v=1602553483",
+          "sourcePage": "https://www.abbeywhisky.com/products/laphroaig-10-year-old-cask-strength-batch-009-aw01978",
+          "sourceName": "Abbey Whisky",
+          "type": "retailer-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-13",
+          "localReviewCopy": ".cache/laphroaig-cs-9-photo.jpg",
+          "dimensions": "1598x2397",
+          "labelEvidence": "Bottle and tube visibly read batch 009, FEB 17 bottled, aged 10 years, 58.1% vol and 70 cl. Real bottle-and-tube photograph with a white background and reflection below."
+        }
+      ],
+      "cautions": [
+        "Retailer-published notes are not explicitly producer-attributed.",
+        "Do not use CaskCartel's Batch 009 listing: its body wrongly states 2019 and 58.6%, conflating another batch."
+      ],
+      "runtimeStatus": "integrated"
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-10",
+      "batchNumber": 10,
+      "status": "facts-retailer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 58,
+      "caskStrength": true,
+      "bottledYear": 2018,
+      "bottledMonth": "2018-01",
+      "sources": [
+        {
+          "url": "https://thecentralwhisky.com/products/laphroaig-10-year-old-cask-strength-batch-010-single-malt-scotch-whisky",
+          "type": "retailer-exact-product-page-with-notes",
+          "evidence": "Exact Batch 010 page specifies age ten, 58.0%, 2018 and 700ml. Photo independently shows JAN 18, 010, age ten and 58%. Retailer nose emphasizes charred barbecue, iodine, brine and old wood; palate includes vegetal peat smoke, charred meat, vanilla, nutty malt, pepper and oily texture; finish is long with spiced oak, oily peat and receding smoke."
+        },
+        {
+          "url": "https://www.whiskylifestyle.com/laphroaig-10-year-old-cask-strength-batch-010/",
+          "type": "release-specific-review-identity-corroboration-only",
+          "evidence": "Independently identifies Batch 010 as the 2018 release at 58% ABV, matured in seasoned charred oak barrels. Personal tasting notes were not used in the proposal."
+        }
+      ],
+      "proposedDescription": "2018년 1월에 병입한 10년 캐스크 스트렝스 배치 10. 58% 도수에 짙은 피트와 바닷소금, 바닐라와 후추가 겹친다.",
+      "proposedNotes": {
+        "nose": "그을린 바비큐와 흙내음, 요오드와 바닷소금에 오래된 나무 향",
+        "palate": "풀내음 섞인 피트 연기와 구운 고기, 바닐라·견과류·몰트·검은 후추가 오일리하게 어우러진다",
+        "finish": "오크 향신료와 기름진 피트, 서서히 옅어지는 연기가 길게 이어진다"
+      },
+      "notesProvenance": {
+        "type": "retailer-published-notes",
+        "publisher": "The Central Whisky",
+        "sourceUrl": "https://thecentralwhisky.com/products/laphroaig-10-year-old-cask-strength-batch-010-single-malt-scotch-whisky",
+        "scope": "Exact Batch 010 product page. No producer attribution is given; these are retailer-published notes, not officially verified producer notes. Notes expressly described as appearing after water was added were omitted from this concise proposal."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "바다·소금",
+        "우디",
+        "바닐라",
+        "견과류",
+        "몰트",
+        "후추",
+        "오일리",
+        "오크",
+        "스파이시"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://thecentralwhisky.com/cdn/shop/files/A7A5EDAC-E752-48A4-BD68-F4838BAD8784.jpg?v=1772761195",
+          "sourcePage": "https://thecentralwhisky.com/products/laphroaig-10-year-old-cask-strength-batch-010-single-malt-scotch-whisky",
+          "sourceName": "The Central Whisky",
+          "type": "retailer-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-13",
+          "localReviewCopy": ".cache/laphroaig-cs-10-photo.jpg",
+          "dimensions": "2616x2616",
+          "labelEvidence": "Bottle and tube visibly read batch 010, JAN 18 bottled, aged 10 years, 58% vol and 70 cl. Real bottle-and-tube photograph on a counter with blurred store shelves behind."
+        }
+      ],
+      "cautions": [
+        "Retailer-published notes are not explicitly producer-attributed.",
+        "The verified photo has a store background, not a plain white background.",
+        "Master of Malt's sku=82217 page currently renders a newer generic cask-strength product despite its indexed Batch 010 title; it was not used for notes.",
+        "K&L's Batch 010 page has a conflicting 58.1% specification and includes an older 2015 Wine Enthusiast review, so those details were not used."
+      ],
+      "runtimeStatus": "integrated"
+    }
+  ],
+  "integrationRecord": "laphroaig-cs-8-11-integration.json"
+}

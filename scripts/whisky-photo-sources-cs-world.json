@@ -1,0 +1,50 @@
+{
+  "blue-spot-7-cask-strength": {
+    "imageUrl": "https://aem.lcbo.com/content/dam/lcbo/products/0/2/2/6/022662.jpg.thumb.1280.1280.jpg",
+    "sourceUrl": "https://www.lcbo.com/en/blue-spot-irish-whiskey-22662",
+    "productName": "Blue Spot 7 Year Old Cask Strength",
+    "note": "LCBO의 블루 스팟 7년 캐스크 스트렝스 제품 사진입니다. 대표 이미지의 배치와 도수는 카탈로그에 표기한 참고 배치와 다를 수 있습니다."
+  },
+  "irishman-cask-strength-2022": {
+    "imageUrl": "https://www.irishmalts.com/wp-content/uploads/2022/03/The-Irishman-Cask-Strength-2022.webp",
+    "sourceUrl": "https://www.irishmalts.com/blended/the-irishman-cask-strength-2022/",
+    "productName": "The Irishman Cask Strength 2022 54.9%",
+    "note": "Irishmalts의 2022년 54.9% 릴리스 상품 사진입니다. 도수는 월시 위스키의 2022년 출시 보도자료와 대조했습니다."
+  },
+  "redbreast-12-cask-strength": {
+    "imageUrl": "https://aem.lcbo.com/content/dam/lcbo/products/4/4/6/7/446773.jpg.thumb.1280.1280.jpg",
+    "sourceUrl": "https://www.lcbo.com/en/redbreast-12-year-old-cask-strength-irish-whiskey-446773",
+    "productName": "Redbreast 12 Year Old Cask Strength",
+    "note": "LCBO의 레드브레스트 12년 캐스크 스트렝스 제품 사진입니다. 대표 이미지의 배치와 도수는 카탈로그에 표기한 참고 배치와 다를 수 있습니다."
+  },
+  "writers-tears-cask-strength": {
+    "imageUrl": "https://www.walshwhiskey.com/wp-content/uploads/2020/10/Untitled-design-27.png",
+    "sourceUrl": "https://www.walshwhiskey.com/whiskey/cask-strength/",
+    "productName": "Writers' Tears Cask Strength",
+    "note": "공식 캐스크 스트렝스 제품 페이지의 대표 병 사진입니다. 출시 연도별 포장과 병입 도수가 다를 수 있습니다."
+  },
+  "amrut-cask-strength": {
+    "imageUrl": "https://www.liquorexpress.us/cdn/shop/files/AmrutCaskStrengthSingleMaltWhisky750ml.jpg?v=1751376449",
+    "sourceUrl": "https://www.liquorexpress.us/products/amrut-cask-strength-single-malt-whisky",
+    "productName": "Amrut Indian Single Malt Cask Strength 61.8%",
+    "note": "Liquor Express의 암룻 캐스크 스트렝스 61.8% 제품 사진입니다. 라벨에 캐스크 스트렝스와 61.8%가 표시된 병을 확인했습니다."
+  },
+  "amrut-peated-cask-strength": {
+    "imageUrl": "https://amrutdistilleries.com/wp-content/uploads/2024/03/p_135695-depositphotos-bgremover-1-1.png",
+    "sourceUrl": "https://amrutdistilleries.com/amrut-peated-indian-single-malt-whisky-cask-strength-62-8-duplicate/",
+    "productName": "Amrut Peated Indian Single Malt Cask Strength 62.8%",
+    "note": "암룻 공식 피티드 캐스크 스트렝스 62.8% 제품 페이지의 병 사진입니다."
+  },
+  "paul-john-classic-select-cask": {
+    "imageUrl": "https://www.pauljohnwhisky.com/assets/images/brands/bottle/classic-selectcask.png",
+    "sourceUrl": "https://www.pauljohnwhisky.com/classic.php",
+    "productName": "Paul John Classic Select Cask 55.2%",
+    "note": "폴 존 공식 클래식 셀렉트 캐스크 제품 페이지의 정면 병 사진입니다."
+  },
+  "paul-john-peated-select-cask": {
+    "imageUrl": "https://www.pauljohnwhisky.com/assets/images/brands/bottle/peated-selectcask.png",
+    "sourceUrl": "https://www.pauljohnwhisky.com/peated.php",
+    "productName": "Paul John Peated Select Cask 55.5%",
+    "note": "폴 존 공식 피티드 셀렉트 캐스크 제품 페이지의 정면 병 사진입니다."
+  }
+}

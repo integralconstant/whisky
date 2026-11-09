@@ -1,0 +1,95 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "integrated-photo-verified",
+  "reason": "Updated user scope permits registration without Dailyshot listing or price",
+  "duplicateCheck": "ID and normalized Korean/English names checked",
+  "entry": {
+    "id": "laphroaig-18-2024-relaunch",
+    "status": "ready-for-integration-without-exact-dailyshot",
+    "releaseYear": 2024,
+    "volumeMl": 700,
+    "maturation": "Eighteen years entirely in American oak ex-bourbon casks; producer explicitly excludes other wood or sherry maturation.",
+    "chillFiltered": false,
+    "addedColour": false,
+    "caskStrengthEvidence": "Producer presents a fixed 48% age-statement relaunch, with no cask-strength claim; false denotes the standard-strength product classification.",
+    "record": {
+      "id": "laphroaig-18-2024-relaunch",
+      "name": "라프로익 18년 2024 리런치",
+      "englishName": "Laphroaig 18 Year Old 2024 Relaunch",
+      "brand": "라프로익",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "abv": 48,
+      "caskStrength": false,
+      "age": 18,
+      "tags": [
+        "피트",
+        "스모키",
+        "바닐라",
+        "토피",
+        "베리",
+        "계피",
+        "스파이시",
+        "사과",
+        "빵·비스킷",
+        "과일",
+        "허브",
+        "민트"
+      ],
+      "description": "2024년 돌아온 라프로익 18년. 아메리칸 오크 버번 캐스크에서 18년 숙성하고 냉각 여과와 색소 첨가 없이 48%로 병입해, 피트 연기에 바닐라와 과일·허브의 풍미를 더한다.",
+      "notes": {
+        "nose": "피트 연기와 달콤한 바닐라에 부드러운 토피와 구스베리",
+        "palate": "알싸한 계피와 갓 구운 사과 타르트",
+        "finish": "풍성한 과일 풍미에 신선한 민트의 허브 향과 피트가 이어지는 여운"
+      },
+      "image": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-06/Laphroaig_18_YO_Front_Trasnparent.png.webp?itok=adTvm99M",
+      "color": "#b08837",
+      "source": "https://www.laphroaig.com/whiskies/iconic/18-year-old"
+    },
+    "sources": [
+      {
+        "url": "https://www.laphroaig.com/whiskies/iconic/18-year-old",
+        "type": "producer-exact-product-page",
+        "checkedOn": "2026-10-28",
+        "evidence": "Current page identifies the returning 18 Year Old, confirms full maturation in American oak ex-bourbon casks, and supplies Nose, Palate and Finish. Gallery front bottle matches the new 2024 presentation."
+      },
+      {
+        "url": "https://www.suntoryglobalspirits.com/de-de/news/laphroaig-bringt-einen-18-jahre-alten-whisky-zurueck-in-sein-single-malt-portfolio",
+        "type": "producer-dated-relaunch-announcement",
+        "publishedOn": "2024-07-22",
+        "checkedOn": "2026-10-28",
+        "evidence": "Suntory announces the new 18 Year Old after nearly ten years away, with ex-bourbon maturation, 48% ABV, 70cl, no chill filtering and natural colour. Date establishes relaunch year; it is not a universal on-sale date."
+      }
+    ],
+    "notesProvenance": {
+      "type": "producer-published-notes",
+      "sourceUrl": "https://www.laphroaig.com/whiskies/iconic/18-year-old",
+      "checkedOn": "2026-10-28",
+      "scope": "Concise Korean paraphrases of current product-page Nose, Palate and Finish. Producer's 2024 announcement contains longer notes; these are not blended into the record."
+    },
+    "photoCandidates": [
+      {
+        "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-06/Laphroaig_18_YO_Front_Trasnparent.png.webp?itok=adTvm99M",
+        "sourcePage": "https://www.laphroaig.com/whiskies/iconic/18-year-old",
+        "type": "producer-front-bottle-product-image",
+        "status": "downloaded-and-visually-verified",
+        "localReviewCopy": ".cache/laphroaig-core-relaunch-18-front.webp",
+        "checkedOn": "2026-10-28",
+        "dimensions": "1080x1080",
+        "labelEvidence": "Single green bottle cutout, modern white label with large age 18, 700ml and alc. 48% vol. Lower-right text mentions ex-Bourbon barrels and reads VIBRANT · HERBAL · PEATY."
+      }
+    ],
+    "dailyshot": {
+      "status": "no-exact-current-relaunch-verified",
+      "checkedOn": "2026-10-28",
+      "evidence": "Initial searches have not identified an edition-verifiable Dailyshot product. Do not map an older or ambiguous 18 Year Old solely from age 18 and 48% because the earlier discontinued version shares those values."
+    },
+    "cautions": [
+      "Keep 2024 in the ID and English name. Matching old 18 Year Old by age and ABV alone is unsafe.",
+      "No Dailyshot product or price belongs in the record without verified relaunch identity.",
+      "The 2024 image directory corroborates the presentation only; the dated Suntory announcement establishes the year."
+    ]
+  },
+  "priceStatus": "No exact Dailyshot match verified; no price fabricated. Search link supplied."
+}

@@ -1,0 +1,32 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "research-only-not-integrated",
+  "instruction": "Continue Laphroaig annual25yoCS. Distinct release identities and real bottle photos required. Dailyshot optional; shared45–54%product9106 cannot supply annual prices without exact release evidence. UI unchanged.",
+  "entries": [
+    {
+      "year": 2019,
+      "abv": 51.4,
+      "sources": [
+        "https://www.whiskysaga.com/blog/laphroaig-25-yo-cask-strength-edition-2019",
+        "https://www.just-whisky.co.uk/product/laphroaig-25-years-old-cask-strength-2019-514-1447082"
+      ],
+      "next": "Read firsthand notes and auction facts; inspect exact51.4%25yo2019 label, volume and release identity."
+    },
+    {
+      "year": 2018,
+      "abv": 52,
+      "sources": ["https://www.whiskynotes.be/2019/laphroaig/laphroaig-25-years-2018/"],
+      "next": "Read full notes and inspect real52%25yo2018 bottle. Dailyshot shared listing seller283631 mentions2018/52%, but parent45–54% is not exact release proof."
+    },
+    {
+      "year": 2017,
+      "abv": 48.9,
+      "sources": [
+        "https://wordsofwhisky.com/laphroaig-25-years-old-cask-strength-2017/",
+        "https://allthingswhisky.com/2019/08/29/laphroaig-25-y-o-2017-review/"
+      ],
+      "next": "Read attributable firsthand notes, find retailer/auction full bottle photograph and verify age25,48.9%,2017 and volume."
+    }
+  ],
+  "additionalResearch": "Check official range and dated release evidence for25yoCS after2023, rather than interpreting the absence of search results as proof no newer edition exists. Continue earlier annual editions and other Laphroaig families."
+}

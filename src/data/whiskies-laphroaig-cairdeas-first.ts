@@ -1,0 +1,36 @@
+import type { Whisky } from "./types.ts";
+import { createWhiskyGroup } from "./whisky-catalog-helpers.ts";
+
+export const laphroaigCairdeasFirstWhiskies: Whisky[] = createWhiskyGroup(
+  { brand: "Laphroaig", category: "싱글 몰트", country: "스코틀랜드", region: "아일라", source: "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions" },
+  [
+    ["laphroaig-cairdeas-2008", "라프로익 카디어스 2008", "Laphroaig Cairdeas 2008", 55, null,
+      ["피트", "스모키", "바닐라", "몰트", "견과류", "시트러스", "바다·소금", "토피", "캐러멜"],
+      "2008 페이스 아일을 위해 병입한 초기 카디어스. 55% 캐스크 스트렝스 제품으로, 향미는 WhiskyNotes의 루벤이 직접 시음한 기록을 요약했습니다.",
+      "차분한 피트와 연기에 바닐라·달콤한 보리·마지팬, 레몬과 소금",
+      "바비큐와 약품 같은 피트에 토피·캐러멜화한 아몬드·레몬 사탕",
+      "달콤한 뒷맛이 점차 드라이해지는 여운",
+      "https://www.whiskynotes.be/2009/laphroaig/laphroaig-cairdeas/"],
+    ["laphroaig-cairdeas-2009-12", "라프로익 카디어스 2009 12년 CS", "Laphroaig Cairdeas 2009 12 Year Old", 57.5, 12,
+      ["피트", "스모키", "우디", "시트러스", "열대과일", "베리", "견과류", "크리미", "커피", "스파이시"],
+      "메이커스 마크 버번 배럴에서 숙성한 12년 카디어스. 라벨에 12년과 캐스크 스트렝스를 명시한 2009 릴리즈이며 향미는 WhiskyNotes의 루벤이 직접 시음한 기록을 요약했습니다.",
+      "부드러운 피트 연기와 새 나무·연필 깎은 향에 시트러스·바나나·붉은 과일, 아몬드·마지팬과 그을린 설탕",
+      "레몬에서 레몬 파이 같은 단맛으로 이어지며 구운 아몬드·에스프레소·감초·향신료가 더해지는 맛",
+      "단맛이 줄어들며 피트 연기와 드라이함이 길게 이어지는 여운",
+      "https://www.whiskynotes.be/2009/laphroaig/laphroaig-cairdeas-2009/"],
+    ["laphroaig-cairdeas-2010-master", "라프로익 카디어스 2010 마스터 에디션", "Laphroaig Cairdeas 2010 Master Edition", 57.3, null,
+      ["피트", "스모키", "시트러스", "바다·소금", "견과류", "열대과일", "민트", "후추"],
+      "마스터 블렌더 로버트 힉스가 선정한 원액을 결합한 2010 마스터 에디션. 라벨은 11~19년 숙성 원액의 조합을 설명합니다. 향미는 WhiskyNotes의 루벤이 직접 시음한 기록을 요약했습니다.",
+      "연기와 재, 레몬·소금에 마지팬·바나나, 해안의 향과 은근한 페퍼민트",
+      "드라이한 연기와 시트러스, 강한 흙내음의 피트·요오드에 기름진 질감과 후추",
+      "짭짤한 아몬드와 감초로 이어지는 길고 드라이한 여운",
+      "https://www.whiskynotes.be/2010/laphroaig/laphroaig-cairdeas-2010-master-edition/"],
+    ["laphroaig-cairdeas-2011-ileach", "라프로익 카디어스 2011 일리어크 에디션 CS", "Laphroaig Cairdeas 2011 Ileach Edition", 50.5, null,
+      ["피트", "스모키", "시트러스", "바다·소금", "후추"],
+      "아일라 출신 증류소장 존 캠벨을 기리는 일리어크 에디션. 메이커스 마크 버번 배럴을 사용해 50.5% 내추럴 캐스크 스트렝스로 병입했습니다. 향미는 My Annoying Opinions의 본인 소장 병 시음 기록을 요약했습니다.",
+      "약품 같은 피트와 재의 연기, 레몬에 그을음과 조개·다시마의 해안 향. 물을 더하면 레몬과 달콤함이 두드러집니다.",
+      "향에서 이어지는 피트와 그을음, 풍성한 질감과 쌉쌀한 탄 향. 물을 더하면 훈연·절임 레몬과 으깬 후추가 더 드러납니다.",
+      "연기가 퍼지며 소금이 남는 긴 여운. 물을 더하면 자몽의 뉘앙스도 나타납니다.",
+      "https://myannoyingopinions.com/2024/09/16/laphroaig-cairdeas-2011-ileach-edition/"],
+  ],
+).map((item) => ({ ...item, ...(!item.id.includes("2010") ? { caskStrength: true } : {}) }));

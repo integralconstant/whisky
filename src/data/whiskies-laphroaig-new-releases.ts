@@ -1,0 +1,68 @@
+import type { Whisky } from "./types.ts";
+
+export const laphroaigNewReleaseWhiskies: Whisky[] = [
+  {
+    id: "laphroaig-cairdeas-2024-cask-favourites",
+    name: "라프로익 카디어스 2024 캐스크 페이버릿츠",
+    englishName: "Laphroaig Cairdeas 2024 Cask Favourites",
+    brand: "Laphroaig", category: "싱글 몰트", country: "스코틀랜드", region: "아일라",
+    abv: 52.4, age: 10, caskStrength: false,
+    abvNote: "52.4%·700ml. 생산자가 고정 도수로 설명한 10년 숙성 2024 에디션입니다.",
+    tags: ["피트", "스모키", "견과류", "바닐라", "초콜릿", "건과일", "시트러스", "핵과일", "커피", "허브"],
+    description: "프렌즈 오브 라프로익 30주년을 기념한 10년 숙성 카디어스. 2019 트리플 우드와 2021 PX 캐스크에서 영감을 받은 캐스크 조합으로 달콤한 과일과 견과류, 피트 연기를 엮었습니다.",
+    notes: {
+      nose: "브라질너트 토피와 바닐라 커스터드, 베이킹 향신료에 밀크 초콜릿을 입힌 건포도와 오렌지",
+      palate: "훈연한 오렌지 토피와 조린 복숭아, 모닥불에 건과일·커피 가루·감초 뿌리가 겹치는 기름진 질감",
+      finish: "은근한 단맛과 드라이함, 후추 기운을 품은 피트 연기가 길게 남는 여운",
+    },
+    image: "", color: "#e8ede3", source: "https://www.laphroaig.com/whiskies/cairdeas-2024",
+  },
+  {
+    id: "laphroaig-cairdeas-2025-lore-cask-strength",
+    name: "라프로익 카디어스 2025 로어 캐스크 스트렝스",
+    englishName: "Laphroaig Cairdeas 2025 Lore Cask Strength",
+    brand: "Laphroaig", category: "싱글 몰트", country: "스코틀랜드", region: "아일라",
+    abv: 59.6, age: null, caskStrength: true,
+    abvNote: "59.6%·700ml의 2025 로어 CS입니다. 일반 로어 48%와 구분합니다.",
+    tags: ["피트", "스모키", "핵과일", "시트러스", "바닐라", "허브", "민트", "후추", "정향", "스파이시"],
+    description: "로어의 다섯 가지 캐스크 조합을 캐스크 스트렝스로 선보인 2025 카디어스. 피트와 바닷소금에 과일·허브·향신료가 겹치며 냉각 여과 없이 병입했습니다.",
+    notes: {
+      nose: "피트에 살구와 시럽에 절인 복숭아, 레몬 크림과 코코넛·바닐라 퍼지, 풀과 바질·담배·백후추",
+      palate: "바닷물 같은 짠맛과 강렬한 피트, 후추에 레몬 껍질·소금에 절인 라임·캐러멜, 민트와 찻잎·정향·생강",
+      finish: "시트러스의 단맛과 정향을 닮은 알싸함이 오래 남는 여운",
+    },
+    image: "", color: "#e8ede3", source: "https://www.laphroaig.com/whiskies/cairdeas-2025",
+  },
+  {
+    id: "laphroaig-cairdeas-2026-french-oak",
+    name: "라프로익 카디어스 2026 프렌치 오크",
+    englishName: "Laphroaig Cairdeas 2026 French Oak",
+    brand: "Laphroaig", category: "싱글 몰트", country: "스코틀랜드", region: "아일라",
+    abv: 52.6, age: null, caskStrength: true,
+    abvNote: "52.6%·700ml의 2026 에디션입니다. 프렌치 오크에서 전 기간 숙성했습니다.",
+    tags: ["피트", "스모키", "가죽", "바다·소금", "바닐라", "과일"],
+    description: "프렌치 오크에서 전 기간 숙성한 2026 카디어스. 피트와 해안의 소금기에 오크의 깊이를 더하고 냉각 여과와 색소 첨가 없이 캐스크 스트렝스로 병입했습니다.",
+    notes: {
+      nose: "달콤하고 감칠맛 나는 피트 연기에 가죽과 짭짤한 바다 향",
+      palate: "기름지고 쫀득한 질감에 모닥불 연기, 바닐라와 검은 감초, 산뜻한 과일",
+      finish: "생산자가 별도의 피니시 노트는 제공하지 않습니다.",
+    },
+    image: "", color: "#e8ede3", source: "https://www.laphroaig.com/whiskies/cairdeas-2026",
+  },
+  {
+    id: "laphroaig-elements-l3-0",
+    name: "라프로익 엘리먼츠 L3.0",
+    englishName: "Laphroaig Elements L3.0",
+    brand: "Laphroaig", category: "싱글 몰트", country: "스코틀랜드", region: "아일라",
+    abv: 55.3, age: null, caskStrength: true,
+    abvNote: "55.3%·700ml. 공식 병 라벨에 캐스크 스트렝스가 명시되어 있습니다.",
+    tags: ["피트", "스모키", "초콜릿", "커피", "스파이시", "가죽"],
+    description: "평소보다 오래, 높은 온도로 피트를 태운 킬른의 열에서 출발한 엘리먼츠 세 번째 제품. 초콜릿과 커피, 향신료와 짙은 연기의 개성을 드러내는 소량 한정판입니다.",
+    notes: {
+      nose: "생산자는 향을 따로 구분하지 않고 볶은 코코아와 다크 초콜릿의 전체 향미를 설명합니다.",
+      palate: "쌉쌀한 다크 초콜릿과 로스팅 커피, 향신료의 풍미",
+      finish: "가죽과 그을음 낀 굴뚝을 떠올리게 하는 연기",
+    },
+    image: "", color: "#e8ede3", source: "https://www.laphroaig.com/whiskies/laphroaig-elements-3-0",
+  },
+];

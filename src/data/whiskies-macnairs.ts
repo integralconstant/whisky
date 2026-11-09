@@ -1,0 +1,125 @@
+import type { Whisky } from "./types.ts";
+
+export const macnairsWhiskies: Whisky[] = [
+  {
+    id: "macnairs-lum-reek-12",
+    name: "맥네어스 럼 릭 12년",
+    englishName: "MacNair's Lum Reek 12 Year Old",
+    brand: "MacNair's",
+    category: "블렌디드",
+    country: "스코틀랜드",
+    region: "스페이사이드·아일라",
+    abv: 46,
+    age: 12,
+    tags: ["피트", "스모키", "토피", "커피", "허브", "스파이시"],
+    description:
+      "글렌알라키와 피트 몰트를 결합한 12년 블렌디드 몰트. 퍼스트 필 버번·레드 와인·PX 캐스크 원액의 단맛에 피트 연기와 헤더, 허브가 겹칩니다.",
+    notes: {
+      nose: "달콤한 피트 연기에 버터스카치와 모카",
+      palate: "풍부한 피트와 헤더, 보그 머틀 허브에 버터스카치와 토피",
+      finish: "달콤한 향신료와 피트의 여운",
+    },
+    image: "",
+    color: "#e8e3d7",
+    source:
+      "https://theglenallachie.com/news/glenallachie-revives-macnairs-blended-malt-scotch-whisky/",
+  },
+  {
+    id: "macnairs-lum-reek-21",
+    name: "맥네어스 럼 릭 21년",
+    englishName: "MacNair's Lum Reek 21 Year Old",
+    brand: "MacNair's",
+    category: "블렌디드",
+    country: "스코틀랜드",
+    region: "스페이사이드·아일라",
+    abv: 48,
+    age: 21,
+    tags: ["피트", "스모키", "초콜릿", "담배", "가죽", "바닐라", "꿀"],
+    description:
+      "아일라·스페이사이드 피트 몰트와 숙성된 글렌알라키를 결합했습니다. 올로로소·버진 오크·레드 와인 캐스크에서 얻은 깊은 풍미에 담배와 삼나무가 어우러지는 21년 블렌디드 몰트입니다.",
+    notes: {
+      nose: "피트 연기와 다크 초콜릿, 달콤한 퍼지",
+      palate: "담배와 가죽, 삼나무와 피트에 코코아·바닐라·꿀",
+      finish: "달콤한 향신료와 풍부한 피트의 여운",
+    },
+    image: "",
+    color: "#e5dccd",
+    source:
+      "https://theglenallachie.com/news/glenallachie-revives-macnairs-blended-malt-scotch-whisky/",
+  },
+  {
+    id: "macnairs-lum-reek-10-cask-strength-batch-1",
+    name: "맥네어스 럼 릭 10년 캐스크 스트렝스 배치 1",
+    englishName: "MacNair's Lum Reek 10 Year Old Cask Strength Batch 1",
+    brand: "MacNair's",
+    category: "블렌디드",
+    country: "스코틀랜드",
+    region: "스페이사이드·아일라·하이랜드",
+    abv: 55.4,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 1의 병입 도수는 55.4%입니다.",
+    tags: ["피트", "스모키", "꿀", "생강", "계피", "초콜릿", "시트러스"],
+    description:
+      "피트·비피트 싱글 몰트를 조합하고 스페인 셰리·와인·버진 오크 캐스크로 풍미를 더한 첫 10년 CS 배치. 꿀과 생강, 초콜릿과 훈연 향신료가 어우러집니다.",
+    notes: {
+      nose: "연기와 헤더 꿀, 생강에 계피·당밀·바닐라",
+      palate: "진한 다크 초콜릿과 생강, 시트러스와 훈연한 향신료",
+      finish: "플랜틴 바나나와 탄닌의 여운",
+    },
+    image: "",
+    color: "#e8decd",
+    source: "https://impexbev.com/macnairs/",
+  },
+  {
+    id: "macnairs-lum-reek-10-cask-strength-batch-2",
+    name: "맥네어스 럼 릭 10년 캐스크 스트렝스 배치 2",
+    englishName: "MacNair's Lum Reek 10 Year Old Cask Strength Batch 2",
+    brand: "MacNair's",
+    category: "블렌디드",
+    country: "스코틀랜드",
+    region: "스페이사이드·아일라",
+    abv: 55.8,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 2의 병입 도수는 55.8%입니다.",
+    tags: ["피트", "스모키", "꿀", "초콜릿", "커피", "생강"],
+    description:
+      "글렌알라키를 포함한 스페이사이드·아일라 몰트를 셰리·레드 와인·버진 오크 캐스크에서 추가 숙성했습니다. 구운 벌집 꿀과 모닥불 연기, 초콜릿과 볶은 커피의 조화를 담은 두 번째 배치입니다.",
+    notes: {
+      nose: "구운 벌집 꿀과 생강·바닐라, 계피·모닥불 연기·당밀",
+      palate:
+        "다크 초콜릿과 그을린 오렌지 껍질·벌집 꿀, 훈연한 향신료·버터스카치·볶은 커피",
+      finish: "생강의 따뜻한 여운",
+    },
+    image: "",
+    color: "#e8decd",
+    source:
+      "https://macnairs.com/introducing-second-batch-of-lum-reek-10-year-old-cask-strength/",
+  },
+  {
+    id: "macnairs-lum-reek-10-cask-strength-batch-3",
+    name: "맥네어스 럼 릭 10년 캐스크 스트렝스 배치 3",
+    englishName: "MacNair's Lum Reek 10 Year Old Cask Strength Batch 3",
+    brand: "MacNair's",
+    category: "블렌디드",
+    country: "스코틀랜드",
+    region: "스페이사이드·아일라",
+    abv: 58.7,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 3의 병입 도수는 58.7%입니다.",
+    tags: ["피트", "스모키", "토피", "초콜릿", "흑설탕", "커피", "생강"],
+    description:
+      "스페이사이드와 아일라 몰트를 결합한 세 번째 CS 배치. 스페인 셰리·레드 와인·버진 오크 캐스크에서 추가 숙성해 토피와 모카, 그을린 설탕과 부드러운 피트 연기를 담았습니다.",
+    notes: {
+      nose: "바삭한 토피와 초콜릿을 입힌 건포도·캐러멜화한 흑설탕, 간 생강·시가 상자·구운 계피",
+      palate: "진한 커피와 생강, 모카·계피·구운 벌집 꿀",
+      finish: "훈연한 향신료와 버터스카치, 오렌지 껍질의 여운",
+    },
+    image: "",
+    color: "#e8decd",
+    source:
+      "https://macnairs.com/macnairs-debuts-third-batch-of-10-year-old-lum-reek/",
+  },
+];

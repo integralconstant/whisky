@@ -1,0 +1,35 @@
+{
+  "glendronach-cask-strength-batch-10": {
+    "topProductId": 6902,
+    "volumeMl": 700,
+    "productName": "더 글렌드로낙 CS 배치 10",
+    "englishName": "The Glendronach Cask Strength Batch 10",
+    "abv": 58.6,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/6902",
+    "verifiedAt": "2026-10-04",
+    "note": "상품명 배치 번호와 58.6%·700ml를 대조했습니다. Grandeur 및 다른 CS 배치를 제외합니다."
+  },
+  "glendronach-cask-strength-batch-11": {
+    "topProductId": 16694,
+    "volumeMl": 700,
+    "productName": "더 글렌드로낙 CS 배치 11",
+    "englishName": "The Glendronach Cask Strength Batch 11",
+    "abv": 59.8,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/16694",
+    "verifiedAt": "2026-10-04",
+    "note": "상품명 배치 번호와 59.8%·700ml를 대조했습니다. Grandeur 및 다른 CS 배치를 제외합니다."
+  },
+  "glendronach-cask-strength-batch-12": {
+    "topProductId": 15594,
+    "volumeMl": 700,
+    "productName": "더 글렌드로낙 CS 배치 12",
+    "englishName": "The Glendronach Cask Strength Batch 12",
+    "abv": 58.2,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/15594",
+    "verifiedAt": "2026-10-04",
+    "note": "상품명 배치 번호와 58.2%·700ml를 대조했습니다. Grandeur 및 다른 CS 배치를 제외합니다."
+  }
+}

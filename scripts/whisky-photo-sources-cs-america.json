@@ -1,0 +1,50 @@
+{
+  "makers-mark-cask-strength": {
+    "imageUrl": "https://www.makersmark.com/sites/default/files/styles/original/public/2026-06/Maker%27sMarkCaskStrenght_2025_750ml_FrontCenter_Still_s06.png.webp?itok=WzD923V5",
+    "sourceUrl": "https://www.makersmark.com/en-us/bourbons/makers-mark-cask-strength",
+    "productName": "Maker's Mark Cask Strength",
+    "note": "생산자 공식 제품 사진. 개별 출시 배치의 라벨과 도수는 다를 수 있습니다."
+  },
+  "elijah-craig-barrel-proof-c925": {
+    "imageUrl": "https://elijahcraig.com/images/bottles/ec_barrel-proof-c925.png",
+    "sourceUrl": "https://elijahcraig.com/barrel-proof",
+    "productName": "Elijah Craig Barrel Proof C925",
+    "note": "생산자 공식 C925 배치의 실물 제품 사진."
+  },
+  "larceny-barrel-proof-c925": {
+    "imageUrl": "https://larcenybourbon.com/images/barrel-proof-c925.png",
+    "sourceUrl": "https://larcenybourbon.com/barrel-proof/",
+    "productName": "Larceny Barrel Proof C925",
+    "note": "생산자 공식 C925 배치의 실물 제품 사진."
+  },
+  "wild-turkey-rare-breed": {
+    "imageUrl": "https://www.wildturkeybourbon.com/app/uploads/sites/3/2024/05/MAS-23-00440_Wild-Turkey-Rare-Breed-750_CAMP_F-2-scaled.webp",
+    "sourceUrl": "https://www.wildturkeybourbon.com/en-us/products/rare-breed/",
+    "productName": "Wild Turkey Rare Breed",
+    "note": "생산자 공식 레어 브리드 버번의 실물 제품 사진."
+  },
+  "wild-turkey-rare-breed-rye": {
+    "imageUrl": "https://www.wildturkeybourbon.com/app/uploads/sites/3/2024/05/MAS-23-00443_Wild-Turkey-Rare-Breed-Rye-750_CAMP_F-2-scaled.webp",
+    "sourceUrl": "https://www.wildturkeybourbon.com/en-us/products/rare-breed-rye/",
+    "productName": "Wild Turkey Rare Breed Rye",
+    "note": "생산자 공식 레어 브리드 라이의 실물 제품 사진."
+  },
+  "jack-daniels-single-barrel-barrel-proof": {
+    "imageUrl": "https://bottlebuzz.com/cdn/shop/products/jack-daniels-single-barrel-barrel-proof-823602.jpg?v=1710204300&width=600",
+    "sourceUrl": "https://bottlebuzz.com/products/jack-daniels-single-barrel-barrel-proof",
+    "productName": "Jack Daniel's Single Barrel Barrel Proof",
+    "note": "공개 판매처의 배럴 프루프 테네시 위스키 실물 사진. 개별 배럴 번호와 도수는 병마다 다릅니다."
+  },
+  "jack-daniels-single-barrel-barrel-proof-rye": {
+    "imageUrl": "https://theliquorbros.com/cdn/shop/files/78d746fd-fd45-4fc7-aa1e-8c00ef7d24b6_1024x1024.png?v=1684169117&width=600",
+    "sourceUrl": "https://theliquorbros.com/products/jack-daniels-single-barrel-proof-rye-750-ml",
+    "productName": "Jack Daniel's Single Barrel Barrel Proof Rye",
+    "note": "공개 판매처의 정규 배럴 프루프 라이 실물 사진. 개별 배럴 번호와 도수는 병마다 다릅니다."
+  },
+  "bulleit-barrel-strength": {
+    "imageUrl": "https://images.ctfassets.net/awz4vj3h97d6/5ao1jLGonXkvciXARYSaB6/2bdaf35445fd623f92f34be790b4c1e7/bulleit-barrel-strength-whiskey.jpg?fm=webp&w=600&q=85",
+    "sourceUrl": "https://www.bulleit.com/whiskeys/bulleit-barrel-strength",
+    "productName": "Bulleit Barrel Strength",
+    "note": "생산자 공식 배럴 스트렝스 사진. 출시 배치의 라벨과 도수는 다를 수 있습니다."
+  }
+}

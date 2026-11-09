@@ -1,0 +1,51 @@
+{
+  "id": "laphroaig-12-global-travel-exclusive",
+  "status": "integrated-build-browser-verified",
+  "integratedAt": "2026-10-22T01:41:51.200Z",
+  "researchFile": "laphroaig-12-travel-ready.json",
+  "source": "https://www.laphroaig.com/global-travel-retail/12-year-old",
+  "age": 12,
+  "abv": 46,
+  "caskStrength": false,
+  "photo": {
+    "path": "/images/whisky-laphroaig-12-global-travel-exclusive.webp",
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/islay-single-malt-12-years-bottle-laphroaig.png.webp?itok=H28Qo5Ej",
+    "sourceUrl": "https://www.laphroaig.com/global-travel-retail/12-year-old",
+    "productName": "Laphroaig 12 Year Old Global Travel Exclusive",
+    "note": "공식 정면 병 사진에서 12년·EXCLUSIVE TO TRAVELLERS·46%·700ml 라벨을 직접 확인했습니다.",
+    "downloadedUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/islay-single-malt-12-years-bottle-laphroaig.png.webp?itok=H28Qo5Ej",
+    "checkedAt": "2026-10-22T01:40:21.802Z",
+    "review": "Root visually verified official front12years/travel-exclusive/46%/700ml label"
+  },
+  "dailyshot": {
+    "product": {
+      "url": "https://dailyshot.co/m/item/36582",
+      "productName": "라프로익 12년",
+      "checkedAt": "2026-10-22T01:40:29.597Z",
+      "scope": "exact-product",
+      "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+    },
+    "average": 103173,
+    "sampleCount": 26,
+    "volumeMl": 700,
+    "min": 99000,
+    "max": 115000,
+    "checkedAt": "2026-10-22T01:40:30.267Z",
+    "sourceUrl": "https://dailyshot.co/m/items/551520/sellers"
+  },
+  "validation": {
+    "checkedAt": "2026-10-28T04:07:15.541Z",
+    "catalogCount": 480,
+    "unitTests": 52,
+    "browserTests": 6,
+    "browserScope": "direct-file.spec.ts and photos.spec.ts",
+    "build": "passed",
+    "standaloneSha256": "35A207EC3D46E41FE2A874516AE4BAAF7930165EB6F3EC73CC959CE3F5511211",
+    "distStandaloneSha256": "35A207EC3D46E41FE2A874516AE4BAAF7930165EB6F3EC73CC959CE3F5511211",
+    "logs": [
+      ".cache/unit-480.log",
+      ".cache/build-480.log",
+      ".cache/browser-480.log"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "laphroaig-10-cask-strength-batch-12": {
+    "topProductId": 10295,
+    "volumeMl": 750,
+    "productName": "라프로익 10년 CS 배치 12",
+    "englishName": "Laphroaig 10yo CS Batch 12",
+    "abv": 60.1,
+    "method": "manual-verified-cs-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/10295",
+    "verifiedAt": "2026-10-09",
+    "note": "생산자 공식 도수·10년 숙성·CS 및 데일리샷의 배치 번호·도수·용량을 대조했습니다. 다른 배치와 다른 용량은 평균가에서 제외합니다."
+  },
+  "laphroaig-10-cask-strength-batch-13": {
+    "topProductId": 10296,
+    "volumeMl": 750,
+    "productName": "라프로익 10년 CS 배치 13",
+    "englishName": "Laphroaig 10yo CS Batch 13",
+    "abv": 57.9,
+    "method": "manual-verified-cs-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/10296",
+    "verifiedAt": "2026-10-09",
+    "note": "생산자 공식 도수·10년 숙성·CS 및 데일리샷의 배치 번호·도수·용량을 대조했습니다. 다른 배치와 다른 용량은 평균가에서 제외합니다."
+  },
+  "laphroaig-10-cask-strength-batch-14": {
+    "topProductId": 13566,
+    "volumeMl": 700,
+    "productName": "라프로익 10년 CS 배치 14",
+    "englishName": "Laphroaig 10yo CS Batch 14",
+    "abv": 58.6,
+    "method": "manual-verified-cs-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/13566",
+    "verifiedAt": "2026-10-09",
+    "note": "생산자 공식 도수·10년 숙성·CS 및 데일리샷의 배치 번호·도수·용량을 대조했습니다. 다른 배치와 다른 용량은 평균가에서 제외합니다."
+  },
+  "laphroaig-10-cask-strength-batch-15": {
+    "topProductId": 13324,
+    "volumeMl": 700,
+    "productName": "라프로익 10년 CS 배치 15",
+    "englishName": "Laphroaig 10yo CS Batch 15",
+    "abv": 56.5,
+    "method": "manual-verified-cs-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/13324",
+    "verifiedAt": "2026-10-09",
+    "note": "생산자 공식 도수·10년 숙성·CS 및 데일리샷의 배치 번호·도수·용량을 대조했습니다. 다른 배치와 다른 용량은 평균가에서 제외합니다."
+  }
+}

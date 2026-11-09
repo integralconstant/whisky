@@ -1,0 +1,124 @@
+{
+  "checkedOn": "2026-10-15",
+  "status": "integrated-see-integration-record",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 2 and 3",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-2",
+      "batchNumber": 2,
+      "status": "facts-reviewer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 58.3,
+      "caskStrength": true,
+      "bottledYear": 2010,
+      "bottledMonth": "2010-01",
+      "sources": [
+        {
+          "url": "https://www.thewhiskyexchange.com/p/12265/laphroaig-10-year-old-cask-strength-batch-002-bot2010",
+          "type": "retailer-exact-product-page",
+          "evidence": "Batch 002, ten years, January 2010, 58.3%, 70cl. All independently readable on the real bottle photograph."
+        },
+        {
+          "url": "https://www.whiskynotes.be/2011/laphroaig/laphroaig-10-cask-strength-batch-002/",
+          "type": "reviewer-exact-batch-notes",
+          "evidence": "Ruben's January 2011 review identifies Batch002, 58.3%, bottled January2010. Nose has berry/peach, toffee/vanilla, earthy peat/iodine; palate smoke/bacon/coffee/liquorice/pepper; long smoky medicinal drying finish."
+        }
+      ],
+      "proposedDescription": "2010년 1월에 병입한 10년 캐스크 스트렝스 배치 2. 베리와 복숭아, 토피·바닐라의 단향에 흙내음 섞인 피트와 짙은 연기가 겹칩니다.",
+      "proposedNotes": {
+        "nose": "베리와 복숭아 시럽, 버터 토피와 달콤한 바닐라 라테에 흙내음의 피트·요오드·연기",
+        "palate": "점차 짙어지는 연기와 훈연 베이컨, 볶은 커피에 감초의 단맛과 후추, 바닐라·과일",
+        "finish": "약품을 연상시키는 스모키한 여운이 길게 이어지며 점차 드라이해짐"
+      },
+      "notesProvenance": {
+        "type": "reviewer-published-notes",
+        "publisher": "WhiskyNotes — Ruben",
+        "sourceUrl": "https://www.whiskynotes.be/2011/laphroaig/laphroaig-10-cask-strength-batch-002/",
+        "scope": "Concise paraphrase of exact Batch002 review; not producer notes. Comparisons, ratings and comments are excluded."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "베리",
+        "핵과일",
+        "토피",
+        "바닐라",
+        "커피",
+        "후추",
+        "드라이"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://img.thewhiskyexchange.com/900/lrgob.10yov11.jpg?v=202407241",
+          "sourcePage": "https://www.thewhiskyexchange.com/p/12265/laphroaig-10-year-old-cask-strength-batch-002-bot2010",
+          "sourceName": "The Whisky Exchange",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-15",
+          "localReviewCopy": ".cache/laphroaig-cs-2-photo.jpg",
+          "labelEvidence": "Bottle reads Batch002, JAN10, 58.3%, 10 Years Old,70cl. Bottle and tube on white background."
+        }
+      ],
+      "cautions": [
+        "All Things Whisky has a differently labelled56.3% Batch002; do not use its notes or photograph for this58.3% edition."
+      ],
+      "runtimeStatus": "integrated"
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-3",
+      "batchNumber": 3,
+      "status": "facts-reviewer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 55.3,
+      "caskStrength": true,
+      "bottledYear": 2011,
+      "bottledMonth": "2011-01",
+      "sources": [
+        {
+          "url": "https://www.thewhiskyexchange.com/p/14444/laphroaig-10-year-old-cask-strength-batch-003-bot2011",
+          "type": "retailer-exact-product-page",
+          "evidence": "Batch003, ten years, January2011,55.3%,70cl. Label visually confirms003/JAN11/55.3%/10YearsOld/70cl."
+        },
+        {
+          "url": "https://myannoyingopinions.com/2013/08/06/laphroaig-10-cs-batch-003/",
+          "type": "reviewer-exact-batch-notes",
+          "evidence": "Exact55.3% Batch003 tasting. Briny medicinal peat, salt/shells and later vanilla/shortbread on nose; charred mackerel,tarry charcoal smoke,pork fat and bittersweetness on palate; long smoky/tarry finish with salt. The printed20011 date is an obvious typo; January2011 is independently confirmed by TWE and label."
+        }
+      ],
+      "proposedDescription": "2011년 1월 병입한 55.3%의 10년 캐스크 스트렝스 배치 3. 짭짤한 피트와 약품을 떠올리게 하는 향, 바닐라의 은은한 단맛에 그을린 생선과 숯 연기의 풍미가 겹칩니다.",
+      "proposedNotes": {
+        "nose": "짭짤한 피트와 조개껍데기, 약품을 연상시키는 향에 햄과 그을린 고등어, 시간이 지나며 바닐라와 옅은 쇼트브레드",
+        "palate": "그을린 고등어와 타르, 쌉쌀한 단맛에 숯 연기와 돼지기름의 고소함, 점차 짙어지는 소금기",
+        "finish": "긴 연기와 타르의 여운, 그을린 고기의 풍미 뒤로 남는 소금기"
+      },
+      "notesProvenance": {
+        "type": "reviewer-published-notes",
+        "publisher": "My Annoying Opinions",
+        "sourceUrl": "https://myannoyingopinions.com/2013/08/06/laphroaig-10-cs-batch-003/",
+        "scope": "Concise paraphrase of exact Batch003 review; not producer notes. Water-added notes and reader comments are excluded."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "바다·소금",
+        "바닐라",
+        "빵·비스킷"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://img.thewhiskyexchange.com/900/lrgob.10yov12.jpg?v=202407241",
+          "sourcePage": "https://www.thewhiskyexchange.com/p/14444/laphroaig-10-year-old-cask-strength-batch-003-bot2011",
+          "sourceName": "The Whisky Exchange",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-15",
+          "localReviewCopy": ".cache/laphroaig-cs-3-photo.jpg",
+          "labelEvidence": "Bottle reads Batch003,JAN11,55.3%,10YearsOld,70cl. Bottle and tube on white background."
+        }
+      ],
+      "cautions": [
+        "Difford's product metadata incorrectly says no age statement despite the ten-year title; age is verified using TWE and the real label."
+      ],
+      "runtimeStatus": "integrated"
+    }
+  ],
+  "integrationRecord": "laphroaig-cs-1-7-integration.json"
+}

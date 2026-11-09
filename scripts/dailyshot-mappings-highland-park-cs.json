@@ -1,0 +1,57 @@
+{
+  "highland-park-cask-strength-release-1": {
+    "topProductId": 4686,
+    "volumeMl": 700,
+    "productName": "하이랜드 파크 CS 릴리즈 No.1",
+    "englishName": "Highland Park Cask Strength Release No.1",
+    "abv": 63.3,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/4686",
+    "verifiedAt": "2026-10-04",
+    "note": "릴리즈 1·63.3%·700ml이 일치하는 단일 상품입니다. 다른 릴리즈와 묶음 상품은 제외합니다."
+  },
+  "highland-park-cask-strength-release-2": {
+    "topProductId": 4992,
+    "volumeMl": 700,
+    "productName": "하이랜드 파크 CS 릴리즈 No.2",
+    "englishName": "Highland Park Cask Strength Release No.2",
+    "abv": 63.9,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/4992",
+    "verifiedAt": "2026-10-04",
+    "note": "릴리즈 2·63.9%·700ml이 일치하는 단일 상품입니다. 다른 릴리즈와 묶음 상품은 제외합니다."
+  },
+  "highland-park-cask-strength-release-3": {
+    "topProductId": 11837,
+    "volumeMl": 700,
+    "productName": "하이랜드 파크 CS 릴리즈 No.3",
+    "englishName": "Highland Park Cask Strength Release No.3",
+    "abv": 64.1,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/11837",
+    "verifiedAt": "2026-10-04",
+    "note": "릴리즈 3·64.1%·700ml이 일치하는 단일 상품입니다. 다른 릴리즈와 묶음 상품은 제외합니다."
+  },
+  "highland-park-cask-strength-release-4": {
+    "topProductId": 18108,
+    "volumeMl": 700,
+    "productName": "하이랜드 파크 CS 릴리즈 No.4",
+    "englishName": "Highland Park Cask Strength Release No.4",
+    "abv": 64.3,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/18108",
+    "verifiedAt": "2026-10-04",
+    "note": "릴리즈 4·64.3%·700ml이 일치하는 단일 상품입니다. 다른 릴리즈와 묶음 상품은 제외합니다."
+  },
+  "highland-park-cask-strength-release-5": {
+    "topProductId": 23777,
+    "volumeMl": 700,
+    "productName": "하이랜드 파크 CS 릴리즈 No.5",
+    "englishName": "Highland Park Cask Strength Release No.5",
+    "abv": 64.7,
+    "method": "manual-verified-batch",
+    "sourceUrl": "https://dailyshot.co/m/item/23777",
+    "verifiedAt": "2026-10-04",
+    "note": "릴리즈 5·64.7%·700ml이 일치하는 단일 상품입니다. 다른 릴리즈와 묶음 상품은 제외합니다."
+  }
+}

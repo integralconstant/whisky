@@ -1,0 +1,44 @@
+{
+  "glenrothes-10-soleo": {
+    "imageUrl": "https://internetwines.com/cdn/shop/products/Glenrothes10yr_900x.jpg?v=1579123833",
+    "sourceUrl": "https://internetwines.com/products/glenrothes-10yr-single-malt-scotch",
+    "productName": "The Glenrothes 10 Year Old Soleo Collection",
+    "note": "솔레오 컬렉션의 10년·40% 노란 라벨 제품 사진입니다."
+  },
+  "dalmore-18-2024": {
+    "imageUrl": "https://www.thedalmore.com/media/kikjz2cy/large-dalmore_3030-3248-750ml_v2-am9-master-2023-usa-front-bottle-only1171-ret2.png?height=1200&v=1db18bf1ce23ad0&width=960",
+    "sourceUrl": "https://www.thedalmore.com/en-us/our-collections/the-principal-collection/the-18/",
+    "productName": "The Dalmore 18 2024 Edition",
+    "note": "공식 2024 에디션 페이지의 18년·43% 정면 병 사진입니다."
+  },
+  "aberlour-suthainn": {
+    "imageUrl": "https://www.aeliadutyfree.co.nz/media/catalog/product/1/0/101402603_25d5.jpg?bg-color=255%2C255%2C255&canvas=800%2C&fit=bounds&height=&optimize=medium&width=800",
+    "sourceUrl": "https://www.aeliadutyfree.co.nz/christchurch/aberlour-suthainn-double-cask-solera-speyside-single-malt-scotch-whisky-700ml.html",
+    "productName": "Aberlour Suthainn",
+    "note": "수타인 더블 셰리 캐스크 솔레라·48% 라벨을 확인했습니다."
+  },
+  "aberlour-14-bespoke-sherry": {
+    "imageUrl": "https://ik.imagekit.io/cvygf2xse/aberlour/wp-content/uploads/2025/12/2055184_Aberlour-1x1-1.png?tr=q-80%2Cw-1080",
+    "sourceUrl": "https://www.aberlour.com/en/our-whisky/aberlour-14-year-bespoke-sherry-cask-finish/",
+    "productName": "Aberlour 14 Year Bespoke Sherry Cask Finish",
+    "note": "공식 페이지에서 제품명·연산이 일치하는 실물 제품 사진을 확인했습니다."
+  },
+  "macallan-18-triple-cask": {
+    "imageUrl": "https://brand-assets.edrington.com/transform/817acb9c-5693-4d96-89f8-0cef158d2031/MAC-2019-Triple-Cask-18YO-Bottle-WEB-initial?io=transform%3Afit%2Cwidth%3A599%2Cheight%3A599&quality=100",
+    "sourceUrl": "https://www.themacallan.com/en/single-malt-scotch-whisky/triple-cask-matured-18-years-old",
+    "productName": "The Macallan Triple Cask Matured 18 Years Old",
+    "note": "공식 페이지에서 제품명·연산이 일치하는 실물 제품 사진을 확인했습니다."
+  },
+  "macallan-double-cask-gold": {
+    "imageUrl": "https://brand-assets.edrington.com/transform/6cf6cca0-4bb7-47d0-bb39-b703f20cb379/MAC-DC-double-cask-gold-bottle-TRIMMED-transparent-WEB-initial?io=transform%3Afit%2Cwidth%3A599%2Cheight%3A599&quality=100",
+    "sourceUrl": "https://www.themacallan.com/en/single-malt-scotch-whisky/double-cask-gold",
+    "productName": "The Macallan Double Cask Gold",
+    "note": "공식 페이지에서 제품명·연산이 일치하는 실물 제품 사진을 확인했습니다."
+  },
+  "macallan-110-proof": {
+    "imageUrl": "https://brand-assets.edrington.com/transform/0be1eaa1-7f43-4605-bf87-c64a72fb237e/MAC-2025-MOOD-SO12-110-Proof-700ml-Shot4-4x5-RGB-150dpi-initial?io=transform%3Afill%2Cwidth%3A599%2Cheight%3A599&quality=100",
+    "sourceUrl": "https://www.themacallan.com/en/newsroom/new-launches/110-proof",
+    "productName": "The Macallan 110 Proof 12 Years Old",
+    "note": "공식 페이지에서 제품명·연산이 일치하는 실물 제품 사진을 확인했습니다."
+  }
+}

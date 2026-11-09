@@ -1,0 +1,168 @@
+{
+  "checkedOn": "2026-10-13",
+  "status": "integrated-see-integration-record",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 8–11 only. Runtime, Dailyshot matching, prices and image manifests are not edited by this research task.",
+  "sourcePolicy": "Prefer official or explicitly producer-attributed notes. Never copy another batch's notes or infer bottle dates from publication dates. Photograph URLs require visual verification before runtime use.",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-8",
+      "batchNumber": 8,
+      "status": "facts-producer-reproduced-notes-and-photo-verified",
+      "age": 10,
+      "abv": 59.2,
+      "caskStrength": true,
+      "bottledYear": 2016,
+      "bottledMonth": "2016-03",
+      "sources": [
+        {
+          "url": "https://thewhiskyphiles.com/2017/05/03/laphroaig-10-years-old-cask-strength-batch-008-59-2-beamsuntory/",
+          "type": "producer-notes-reproduced-by-reviewer",
+          "evidence": "Exact Batch 008 page heading verifies age, 59.2% and 2016. The section explicitly headed Official tasting notes gives medicinal/smoke/seaweed/ozone aroma over sweetness, strong peat palate ending sweet, and long savoury finish. Separate personal review notes were not used. These official notes may describe the family broadly, but this source explicitly publishes them against Batch 008."
+        }
+      ],
+      "proposedNotes": {
+        "nose": "약품을 떠올리게 하는 향과 연기, 해초, 상쾌한 바다 공기에 겹치는 단향",
+        "palate": "강렬한 피트 풍미 뒤로 드러나는 은은한 단맛",
+        "finish": "길게 이어지는 짭짤하고 감칠맛 나는 여운"
+      },
+      "notesProvenance": {
+        "type": "producer-notes-reproduced-by-reviewer",
+        "publisher": "The Whiskyphiles",
+        "sourceUrl": "https://thewhiskyphiles.com/2017/05/03/laphroaig-10-years-old-cask-strength-batch-008-59-2-beamsuntory/",
+        "scope": "Official notes explicitly reproduced on the Batch 008 review; the wording may be shared across the cask-strength family."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "바다·소금"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://thewhiskyphiles.com/wp-content/uploads/2017/05/laphroaig-10-year-old-cask-strength-batch-008-whisky.jpg",
+          "sourcePage": "https://thewhiskyphiles.com/2017/05/03/laphroaig-10-years-old-cask-strength-batch-008-59-2-beamsuntory/",
+          "sourceName": "The Whiskyphiles",
+          "type": "reviewer-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-13",
+          "localReviewCopy": ".cache/laphroaig-cs-8-photo.jpg",
+          "dimensions": "634x1024",
+          "labelEvidence": "Bottle and tube visibly read batch 008, MAR 16 bottled, aged 10 years, 59.2% vol and 70 cl. Real bottle-and-tube photograph on white background."
+        }
+      ],
+      "cautions": [
+        "March 2016 is now label-verified; conflicting April 2016 secondary listings were not used."
+      ],
+      "runtimeStatus": "integrated"
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-9",
+      "batchNumber": 9,
+      "status": "identity-verified-notes-and-photo-pending",
+      "age": 10,
+      "abv": 58.1,
+      "caskStrength": true,
+      "bottledYear": 2017,
+      "sources": [
+        {
+          "url": "https://www.abbeywhisky.com/products/laphroaig-10-year-old-cask-strength-batch-009-aw01978",
+          "type": "retailer-exact-product-page",
+          "evidence": "Explicit Batch 009/Batch 9, ten years, 2017, 58.1%, 70cl, original distillery bottling. Tasting Notes section is empty."
+        },
+        {
+          "url": "https://www.thewhiskyexchange.com/p/38983/laphroaig-10-year-old-cask-strength-batch-009-bot2017",
+          "type": "retailer-exact-product-page",
+          "evidence": "Independently confirms 2017 batch 9, age ten, 58.1% and 700ml. Product copy mentions medicinal and maritime character."
+        }
+      ],
+      "photoCandidates": [],
+      "runtimeStatus": "integrated",
+      "completedResearchRecord": "laphroaig-cs-9-10-ready.json"
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-10",
+      "batchNumber": 10,
+      "status": "identity-verified-notes-and-photo-pending",
+      "age": 10,
+      "abv": 58,
+      "caskStrength": true,
+      "bottledYear": 2018,
+      "sources": [
+        {
+          "url": "https://www.theraremalt.com/products/laphroaig-10-year-old-cask-strength-batch-010",
+          "type": "retailer-exact-product-page",
+          "evidence": "Title explicitly identifies Laphroaig ten-year Batch 010; product specifications verify 58.00% and 700ml."
+        },
+        {
+          "url": "https://www.whiskylifestyle.com/laphroaig-10-year-old-cask-strength-batch-010/",
+          "type": "release-specific-review",
+          "evidence": "2018 Batch 010, seasoned charred oak barrels, 58%. Personal tasting notes not yet proposed because task prefers producer-attributed notes."
+        }
+      ],
+      "photoCandidates": [],
+      "runtimeStatus": "integrated",
+      "completedResearchRecord": "laphroaig-cs-9-10-ready.json"
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-11",
+      "batchNumber": 11,
+      "status": "facts-retailer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 58.6,
+      "caskStrength": true,
+      "bottledMonth": "2019-03",
+      "bottledYear": 2019,
+      "sources": [
+        {
+          "url": "https://www.smwhisky.com.au/product/laphroaig-10-cask-strength-single-malt-scotch-whisky/",
+          "type": "retailer-exact-product-page",
+          "evidence": "Explicit March 2019 Batch 011, ten years, 58.6%, 700ml, charred former-bourbon barrels, barrier filtration. Published notes mention cereal/biscuit/oak/smoked cedar/manuka/tobacco/leather/vanilla/nutmeg, palate toffee/marshmallow/sea salt/vanilla/coffee/cinnamon, floral-spiced oak/iodine/salt finish. Wording resembles producer notes but page does not explicitly credit them, so do not label these officially verified notes without further evidence."
+        },
+        {
+          "url": "https://www.thewhiskyexchange.com/p/50885/laphroaig-10-year-old-cask-strength-batch-011",
+          "type": "retailer-exact-product-page",
+          "evidence": "Confirms age ten, Batch 011, bottling March 2019, 58.6% and 700ml."
+        }
+      ],
+      "proposedNotes": {
+        "nose": "달콤한 곡물과 비스킷, 오크와 훈연한 삼나무에 꿀·담배·가죽·바닐라",
+        "palate": "구운 마시멜로와 토피, 바닐라의 단맛에 바다 소금·커피·계피",
+        "finish": "꽃과 향신료, 오크와 요오드, 소금기가 길게 이어지는 여운"
+      },
+      "notesProvenance": {
+        "type": "retailer-published-notes",
+        "publisher": "SMWhisky",
+        "sourceUrl": "https://www.smwhisky.com.au/product/laphroaig-10-cask-strength-single-malt-scotch-whisky/",
+        "scope": "Exact Batch 011 product page. No explicit producer attribution: present as retailer notes, not officially verified producer notes."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "바다·소금",
+        "바닐라",
+        "토피",
+        "담배",
+        "가죽",
+        "스파이시"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://www.smwhisky.com.au/wp-content/uploads/laphroaig-10-cask-strength-b11.jpg",
+          "sourcePage": "https://www.smwhisky.com.au/product/laphroaig-10-cask-strength-single-malt-scotch-whisky/",
+          "sourceName": "SMWhisky",
+          "type": "retailer-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-13",
+          "localReviewCopy": ".cache/laphroaig-cs-11-photo.jpg",
+          "dimensions": "287x480",
+          "labelEvidence": "Bottle and tube visibly read batch 011, MAR 19, aged 10 years. Tube bottom reads 58.6% vol and 70 cl. Green-stripe bottle-and-tube photograph; low resolution but exact batch identity is legible."
+        }
+      ],
+      "cautions": [
+        "Retailer notes are not explicitly producer-attributed.",
+        "Photo is only 287x480; a higher-resolution exact-batch image would be preferable for large displays."
+      ],
+      "runtimeStatus": "integrated"
+    }
+  ],
+  "integrationRecord": "laphroaig-cs-8-11-integration.json"
+}

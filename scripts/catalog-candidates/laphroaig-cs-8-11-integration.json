@@ -1,0 +1,327 @@
+{
+    "integratedAt":  "2026-10-14T00:31:32.309Z",
+    "status":  "integrated-build-and-browser-verified",
+    "researchFiles":  [
+                          "laphroaig-cs-8-11.json",
+                          "laphroaig-cs-9-10-ready.json"
+                      ],
+    "notesPolicy":  "Batch 8 uses producer notes reproduced by The Whiskyphiles. Batches 9–11 use notes published by their exact-product retailers; no producer attribution is claimed.",
+    "entries":  [
+                    {
+                        "id":  "laphroaig-10-cask-strength-batch-8",
+                        "batch":  8,
+                        "abv":  59.2,
+                        "bottledMonth":  "2016-03",
+                        "source":  "https://thewhiskyphiles.com/2017/05/03/laphroaig-10-years-old-cask-strength-batch-008-59-2-beamsuntory/",
+                        "notesProvenance":  {
+                                                "type":  "producer-notes-reproduced-by-reviewer",
+                                                "publisher":  "The Whiskyphiles",
+                                                "sourceUrl":  "https://thewhiskyphiles.com/2017/05/03/laphroaig-10-years-old-cask-strength-batch-008-59-2-beamsuntory/",
+                                                "scope":  "Official notes explicitly reproduced on the Batch 008 review; the wording may be shared across the cask-strength family."
+                                            },
+                        "photo":  {
+                                      "imageUrl":  "https://thewhiskyphiles.com/wp-content/uploads/2017/05/laphroaig-10-year-old-cask-strength-batch-008-whisky.jpg",
+                                      "sourceUrl":  "https://thewhiskyphiles.com/2017/05/03/laphroaig-10-years-old-cask-strength-batch-008-59-2-beamsuntory/",
+                                      "productName":  "Laphroaig 10 Year Old Cask Strength Batch 8",
+                                      "note":  "실물 병과 상자에서 배치 8, 2016-03, 59.2%, 700ml를 대조했습니다. The Whiskyphiles의 제품 사진입니다.",
+                                      "localPath":  "/images/whisky-laphroaig-10-cask-strength-batch-8.jpg"
+                                  },
+                        "priceStatus":  "no-exact-match",
+                        "photoReview":  "batch-number-bottling-month-abv-volume-visually-verified",
+                        "dailyshot":  {
+                                          "url":  "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%208",
+                                          "productName":  "라프로익 10년 캐스크 스트렝스 배치 8",
+                                          "checkedAt":  "2026-10-14T00:31:56.925Z",
+                                          "scope":  "search",
+                                          "note":  "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요.",
+                                          "inspected":  [
+                                                            {
+                                                                "topProductId":  23979,
+                                                                "name":  "라프로익 10년 셰리 오크 피니시 700ml",
+                                                                "englishName":  "Laphroaig 10yo Sherry Oak Finish 700ml",
+                                                                "volume":  "700ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  17652,
+                                                                "name":  "라프로익 10년 43% 750ml",
+                                                                "englishName":  "Laphroaig 10yo 43% 750ml",
+                                                                "volume":  "750ml",
+                                                                "abv":  "43%"
+                                                            },
+                                                            {
+                                                                "topProductId":  37532,
+                                                                "name":  "라프로익 15년 46%",
+                                                                "englishName":  "Laphroaig 15yo 46%",
+                                                                "volume":  "700ml",
+                                                                "abv":  "46%"
+                                                            },
+                                                            {
+                                                                "topProductId":  23144,
+                                                                "name":  "라프로익 쿼터 캐스크",
+                                                                "englishName":  "Laphroaig Quarter Cask",
+                                                                "volume":  "700ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  10920,
+                                                                "name":  "글렌알라키 10년 CS 배치 8",
+                                                                "englishName":  "GlenAllachie 10yo Cask Strength Batch 8",
+                                                                "volume":  "700ml",
+                                                                "abv":  "57.2%"
+                                                            },
+                                                            {
+                                                                "topProductId":  30967,
+                                                                "name":  "더 글렌그란트 12년 셰리 캐스크",
+                                                                "englishName":  "The Glen Grant 12yo Sherry Cask",
+                                                                "volume":  "700ml",
+                                                                "abv":  "40%"
+                                                            }
+                                                        ]
+                                      }
+                    },
+                    {
+                        "id":  "laphroaig-10-cask-strength-batch-9",
+                        "batch":  9,
+                        "abv":  58.1,
+                        "bottledMonth":  "2017-02",
+                        "source":  "https://whiskygallery.com.my/products/laphroaig-10-year-old-cask-strength-batch-009",
+                        "notesProvenance":  {
+                                                "type":  "retailer-published-notes",
+                                                "publisher":  "Whisky Gallery Global",
+                                                "sourceUrl":  "https://whiskygallery.com.my/products/laphroaig-10-year-old-cask-strength-batch-009",
+                                                "scope":  "Exact Batch 009 product page. No producer attribution is given; these are retailer-published notes, not officially verified producer notes."
+                                            },
+                        "photo":  {
+                                      "imageUrl":  "https://www.abbeywhisky.com/cdn/shop/products/laphroaig-10-year-old-cask-strength-batch-009-web_1598x2400.jpg?v=1602553483",
+                                      "sourceUrl":  "https://www.abbeywhisky.com/products/laphroaig-10-year-old-cask-strength-batch-009-aw01978",
+                                      "productName":  "Laphroaig 10 Year Old Cask Strength Batch 9",
+                                      "note":  "실물 병과 상자에서 배치 9, 2017-02, 58.1%, 700ml를 대조했습니다. Abbey Whisky의 제품 사진입니다.",
+                                      "localPath":  "/images/whisky-laphroaig-10-cask-strength-batch-9.webp"
+                                  },
+                        "priceStatus":  "no-exact-match",
+                        "photoReview":  "batch-number-bottling-month-abv-volume-visually-verified",
+                        "dailyshot":  {
+                                          "url":  "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%209",
+                                          "productName":  "라프로익 10년 캐스크 스트렝스 배치 9",
+                                          "checkedAt":  "2026-10-14T00:31:56.934Z",
+                                          "scope":  "search",
+                                          "note":  "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요.",
+                                          "inspected":  [
+                                                            {
+                                                                "topProductId":  23979,
+                                                                "name":  "라프로익 10년 셰리 오크 피니시 700ml",
+                                                                "englishName":  "Laphroaig 10yo Sherry Oak Finish 700ml",
+                                                                "volume":  "700ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  17652,
+                                                                "name":  "라프로익 10년 43% 750ml",
+                                                                "englishName":  "Laphroaig 10yo 43% 750ml",
+                                                                "volume":  "750ml",
+                                                                "abv":  "43%"
+                                                            },
+                                                            {
+                                                                "topProductId":  37532,
+                                                                "name":  "라프로익 15년 46%",
+                                                                "englishName":  "Laphroaig 15yo 46%",
+                                                                "volume":  "700ml",
+                                                                "abv":  "46%"
+                                                            },
+                                                            {
+                                                                "topProductId":  23144,
+                                                                "name":  "라프로익 쿼터 캐스크",
+                                                                "englishName":  "Laphroaig Quarter Cask",
+                                                                "volume":  "700ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  24444,
+                                                                "name":  "라프로익 PX 캐스크 1L",
+                                                                "englishName":  "Laphroaig PX Cask 1L",
+                                                                "volume":  "1000ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  14879,
+                                                                "name":  "글렌알라키 10년 CS 배치 9",
+                                                                "englishName":  "GlenAllachie 10yo Cask Strength Batch 9",
+                                                                "volume":  "700ml",
+                                                                "abv":  "58.1%"
+                                                            }
+                                                        ]
+                                      }
+                    },
+                    {
+                        "id":  "laphroaig-10-cask-strength-batch-10",
+                        "batch":  10,
+                        "abv":  58,
+                        "bottledMonth":  "2018-01",
+                        "source":  "https://thecentralwhisky.com/products/laphroaig-10-year-old-cask-strength-batch-010-single-malt-scotch-whisky",
+                        "notesProvenance":  {
+                                                "type":  "retailer-published-notes",
+                                                "publisher":  "The Central Whisky",
+                                                "sourceUrl":  "https://thecentralwhisky.com/products/laphroaig-10-year-old-cask-strength-batch-010-single-malt-scotch-whisky",
+                                                "scope":  "Exact Batch 010 product page. No producer attribution is given; these are retailer-published notes, not officially verified producer notes. Notes expressly described as appearing after water was added were omitted from this concise proposal."
+                                            },
+                        "photo":  {
+                                      "imageUrl":  "https://thecentralwhisky.com/cdn/shop/files/A7A5EDAC-E752-48A4-BD68-F4838BAD8784.jpg?v=1772761195",
+                                      "sourceUrl":  "https://thecentralwhisky.com/products/laphroaig-10-year-old-cask-strength-batch-010-single-malt-scotch-whisky",
+                                      "productName":  "Laphroaig 10 Year Old Cask Strength Batch 10",
+                                      "note":  "실물 병과 상자에서 배치 10, 2018-01, 58%, 700ml를 대조했습니다. The Central Whisky의 제품 사진입니다.",
+                                      "localPath":  "/images/whisky-laphroaig-10-cask-strength-batch-10.webp"
+                                  },
+                        "priceStatus":  "no-exact-match",
+                        "photoReview":  "batch-number-bottling-month-abv-volume-visually-verified",
+                        "dailyshot":  {
+                                          "url":  "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%2010",
+                                          "productName":  "라프로익 10년 캐스크 스트렝스 배치 10",
+                                          "checkedAt":  "2026-10-14T00:32:07.189Z",
+                                          "scope":  "search",
+                                          "note":  "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요.",
+                                          "inspected":  [
+                                                            {
+                                                                "topProductId":  6757,
+                                                                "name":  "라프로익 10년 CS",
+                                                                "englishName":  "Laphroaig 10yo Cask Strength",
+                                                                "volume":  "700ml",
+                                                                "abv":  "58.6%"
+                                                            },
+                                                            {
+                                                                "topProductId":  37532,
+                                                                "name":  "라프로익 15년 46%",
+                                                                "englishName":  "Laphroaig 15yo 46%",
+                                                                "volume":  "700ml",
+                                                                "abv":  "46%"
+                                                            },
+                                                            {
+                                                                "topProductId":  10920,
+                                                                "name":  "글렌알라키 10년 CS 배치 8",
+                                                                "englishName":  "GlenAllachie 10yo Cask Strength Batch 8",
+                                                                "volume":  "700ml",
+                                                                "abv":  "57.2%"
+                                                            },
+                                                            {
+                                                                "topProductId":  18233,
+                                                                "name":  "글렌알라키 10년 CS 배치 10",
+                                                                "englishName":  "GlenAllachie 10yo Cask Strength Batch 10",
+                                                                "volume":  "700ml",
+                                                                "abv":  "58.6%"
+                                                            },
+                                                            {
+                                                                "topProductId":  27222,
+                                                                "name":  "글렌알라키 10년 CS 배치 12",
+                                                                "englishName":  "GlenAllachie 10yo Cask Strength Batch 12",
+                                                                "volume":  "700ml",
+                                                                "abv":  "59.7%"
+                                                            },
+                                                            {
+                                                                "topProductId":  21535,
+                                                                "name":  "글렌알라키 10년 CS 배치 11",
+                                                                "englishName":  "GlenAllachie 10yo Cask Strength Batch 11",
+                                                                "volume":  "700ml",
+                                                                "abv":  "59.4%"
+                                                            }
+                                                        ]
+                                      }
+                    },
+                    {
+                        "id":  "laphroaig-10-cask-strength-batch-11",
+                        "batch":  11,
+                        "abv":  58.6,
+                        "bottledMonth":  "2019-03",
+                        "source":  "https://www.smwhisky.com.au/product/laphroaig-10-cask-strength-single-malt-scotch-whisky/",
+                        "notesProvenance":  {
+                                                "type":  "retailer-published-notes",
+                                                "publisher":  "SMWhisky",
+                                                "sourceUrl":  "https://www.smwhisky.com.au/product/laphroaig-10-cask-strength-single-malt-scotch-whisky/",
+                                                "scope":  "Exact Batch 011 product page. No explicit producer attribution: present as retailer notes, not officially verified producer notes."
+                                            },
+                        "photo":  {
+                                      "imageUrl":  "https://www.smwhisky.com.au/wp-content/uploads/laphroaig-10-cask-strength-b11.jpg",
+                                      "sourceUrl":  "https://www.smwhisky.com.au/product/laphroaig-10-cask-strength-single-malt-scotch-whisky/",
+                                      "productName":  "Laphroaig 10 Year Old Cask Strength Batch 11",
+                                      "note":  "실물 병과 상자에서 배치 11, 2019-03, 58.6%, 700ml를 대조했습니다. SMWhisky의 제품 사진입니다.",
+                                      "localPath":  "/images/whisky-laphroaig-10-cask-strength-batch-11.jpg"
+                                  },
+                        "priceStatus":  "no-exact-match",
+                        "photoReview":  "batch-number-bottling-month-abv-volume-visually-verified",
+                        "dailyshot":  {
+                                          "url":  "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2010%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%20%EB%B0%B0%EC%B9%98%2011",
+                                          "productName":  "라프로익 10년 캐스크 스트렝스 배치 11",
+                                          "checkedAt":  "2026-10-14T00:32:07.526Z",
+                                          "scope":  "search",
+                                          "note":  "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요.",
+                                          "inspected":  [
+                                                            {
+                                                                "topProductId":  23979,
+                                                                "name":  "라프로익 10년 셰리 오크 피니시 700ml",
+                                                                "englishName":  "Laphroaig 10yo Sherry Oak Finish 700ml",
+                                                                "volume":  "700ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  17652,
+                                                                "name":  "라프로익 10년 43% 750ml",
+                                                                "englishName":  "Laphroaig 10yo 43% 750ml",
+                                                                "volume":  "750ml",
+                                                                "abv":  "43%"
+                                                            },
+                                                            {
+                                                                "topProductId":  37532,
+                                                                "name":  "라프로익 15년 46%",
+                                                                "englishName":  "Laphroaig 15yo 46%",
+                                                                "volume":  "700ml",
+                                                                "abv":  "46%"
+                                                            },
+                                                            {
+                                                                "topProductId":  23144,
+                                                                "name":  "라프로익 쿼터 캐스크",
+                                                                "englishName":  "Laphroaig Quarter Cask",
+                                                                "volume":  "700ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  24444,
+                                                                "name":  "라프로익 PX 캐스크 1L",
+                                                                "englishName":  "Laphroaig PX Cask 1L",
+                                                                "volume":  "1000ml",
+                                                                "abv":  "48%"
+                                                            },
+                                                            {
+                                                                "topProductId":  21535,
+                                                                "name":  "글렌알라키 10년 CS 배치 11",
+                                                                "englishName":  "GlenAllachie 10yo Cask Strength Batch 11",
+                                                                "volume":  "700ml",
+                                                                "abv":  "59.4%"
+                                                            }
+                                                        ]
+                                      }
+                    }
+                ],
+    "verifiedAt":  "2026-10-14T07:05:34.306Z",
+    "catalogCounts":  {
+                          "raw":  472,
+                          "cards":  433,
+                          "photos":  472,
+                          "priced":  307,
+                          "cs":  72,
+                          "csCards":  36,
+                          "csPriced":  57,
+                          "csLinked":  72,
+                          "csSearch":  8
+                      },
+    "validation":  {
+                       "checkedAt":  "2026-10-14T07:07:20.7831920Z",
+                       "unitTestsPassed":  52,
+                       "browserTestsPassed":  17,
+                       "build":  "passed",
+                       "previewSha256":  "A874C452600E08533AB868E89A715BCB34F94972391C708F2604C82E9E45150F",
+                       "logs":  [
+                                    ".cache/unit-472.log",
+                                    ".cache/build-472.log",
+                                    ".cache/browser-472.log"
+                                ]
+                   }
+}

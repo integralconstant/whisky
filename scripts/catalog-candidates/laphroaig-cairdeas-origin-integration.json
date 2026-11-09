@@ -1,0 +1,156 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "integrated-verified",
+  "previousCount": 500,
+  "duplicateCheck": "Catalog IDs and normalized Korean/English names checked.2013 differs from48%travelPortWood and52%2020PortWine;2015 differs from15yo anniversary.",
+  "sources": {
+    "2012": [
+      "https://cdn11.bigcommerce.com/s-e8lbekfe7c/images/stencil/1920w/attribute_rule_images/34604_source_1788939656.jpg?compression=lossy",
+      "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-origin-2012-edition-whisky/"
+    ],
+    "2013": [
+      "https://cdn11.bigcommerce.com/s-e8lbekfe7c/images/stencil/1920w/attribute_rule_images/31938_source_1788939671.jpg?compression=lossy",
+      "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-port-wood-edition-2013-whisky/"
+    ],
+    "2015": [
+      "https://media.whisky.auction/600/210219_0.jpg?id=455730",
+      "https://whisky.auction/auctions/lot/211449/laphroaig-cairdeas"
+    ]
+  },
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://thewhiskyphiles.com/2014/01/02/laphroaig-cairdeas-2012-origin/",
+      "id": "laphroaig-cairdeas-2012-origin",
+      "name": "라프로익 카디어스 2012 오리진",
+      "englishName": "Laphroaig Cairdeas 2012 Origin",
+      "abv": 51.2,
+      "age": null,
+      "tags": [
+        "피트",
+        "스모키",
+        "견과류",
+        "몰트",
+        "시트러스",
+        "꿀",
+        "과일",
+        "바닐라",
+        "크리미"
+      ],
+      "description": "프렌즈 오브 라프로익 18주년을 기념한 2012 오리진. 첫 카디어스에 사용한 숙성 원액과 쿼터 캐스크 숙성 원액을 결합한 51.2% 제품입니다. 향미는 The Whiskyphiles의 배리 브래드퍼드가 직접 시음한 기록을 요약했습니다.",
+      "notes": {
+        "nose": "흙내음의 피트와 땅콩, 새 페인트·몰트에 시트러스와 청포도, 스펀지케이크·마지팬·꿀",
+        "palate": "헤더 꿀과 메이플 시럽, 입안을 채우는 과일의 단맛에 흙내음의 땅콩·숯·연기, 바닐라 커스터드",
+        "finish": "부드럽고 따뜻하며 마지팬 풍미가 두드러지는 여운"
+      },
+      "image": "",
+      "color": "#e8ede5"
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.scotchology.com/islay/laphroaig-cairdeas-port-wood-edition",
+      "id": "laphroaig-cairdeas-2013-port-wood",
+      "name": "라프로익 카디어스 2013 포트 우드",
+      "englishName": "Laphroaig Cairdeas 2013 Port Wood Edition",
+      "abv": 51.3,
+      "age": null,
+      "tags": [
+        "피트",
+        "스모키",
+        "과일",
+        "빵·비스킷",
+        "바다·소금",
+        "우디"
+      ],
+      "description": "버번 캐스크 숙성 후 포트 캐스크로 마무리한 2013 카디어스 포트 우드. 51.3% 제품으로 면세 포트 우드 48% 및 카디어스 2020 포트 앤 와인과 구분합니다. 향미는 Scotchology의 해당 제품 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "연기와 과일, 구운 빵의 향",
+        "palate": "연기와 소금물, 나무와 토니 포트를 떠올리게 하는 맛",
+        "finish": "짭짤하고 따뜻하며 피트의 흔적이 남는 여운"
+      },
+      "image": "",
+      "color": "#e8ede5"
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.scotchology.com/islay/laphroaig-cairdeas-200th-anniversary-edition",
+      "id": "laphroaig-cairdeas-2015-200th-anniversary",
+      "name": "라프로익 카디어스 2015 200주년 에디션",
+      "englishName": "Laphroaig Cairdeas 2015 200th Anniversary Edition",
+      "abv": 51.5,
+      "age": null,
+      "tags": [
+        "피트",
+        "스모키",
+        "바닐라",
+        "바다·소금",
+        "시트러스",
+        "캐러멜",
+        "스파이시"
+      ],
+      "description": "증류소 설립 200주년을 기념해 2015년에 병입한 카디어스. 51.5%의 NAS 제품으로 15년 200주년 기념판과는 별개입니다. 향미는 Scotchology의 해당 제품 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "연기와 바닐라, 소금물에 오렌지 껍질과 오이",
+        "palate": "연기와 그을린 설탕, 향신료와 피트·이끼",
+        "finish": "바닐라와 훈제 소시지, 피트가 남는 여운"
+      },
+      "image": "",
+      "color": "#e8ede5"
+    }
+  ],
+  "notesProvenance": {
+    "2012": "Barry Bradford, The Whiskyphiles, firsthand tasting",
+    "2013": "Scotchology firsthand tasting table",
+    "2015": "Scotchology firsthand tasting table"
+  },
+  "cautions": "No numeric age copied from secondary maturation descriptions. No CS inferred from proof alone. Photos show exact expressions;2013 small ABV text corroborated by retailer specification. No auction prices used as Dailyshot prices.",
+  "currentCount": 507,
+  "existingEntriesPreserved": 500,
+  "results": [
+    {
+      "id": "laphroaig-cairdeas-2012-origin",
+      "photo": "/images/whisky-laphroaig-cairdeas-2012-origin.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202012%20%EC%98%A4%EB%A6%AC%EC%A7%84",
+        "productName": "라프로익 카디어스 2012 오리진",
+        "checkedAt": "2026-11-09T00:38:29.892Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-cairdeas-2013-port-wood",
+      "photo": "/images/whisky-laphroaig-cairdeas-2013-port-wood.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202013%20%ED%8F%AC%ED%8A%B8%20%EC%9A%B0%EB%93%9C",
+        "productName": "라프로익 카디어스 2013 포트 우드",
+        "checkedAt": "2026-11-09T00:38:29.895Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-cairdeas-2015-200th-anniversary",
+      "photo": "/images/whisky-laphroaig-cairdeas-2015-200th-anniversary.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202015%20200%EC%A3%BC%EB%85%84%20%EC%97%90%EB%94%94%EC%85%98",
+        "productName": "라프로익 카디어스 2015 200주년 에디션",
+        "checkedAt": "2026-11-09T00:38:31.990Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    }
+  ]
+}

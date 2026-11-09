@@ -1,0 +1,2085 @@
+{
+  "checkedAt": "2026-10-06T04:08:56.302Z",
+  "status": "partial-research-two-mappings-integrated",
+  "entries": [
+    {
+      "id": "tamdhu-batch-strength-006",
+      "catalog": {
+        "name": "탐두 배치 스트렝스 006",
+        "englishName": "Tamdhu Batch Strength No. 006",
+        "abv": 56.8,
+        "abvNote": "2021년 발표된 배치 006의 도수입니다. 다른 배치는 도수가 다릅니다."
+      },
+      "existingMapping": {
+        "topProductId": 18043,
+        "volumeMl": 700,
+        "productName": "탐두 배치 스트렝스 배치 넘버 008",
+        "englishName": "Tamdhu Batch Strength Batch No.008",
+        "abv": 55.8,
+        "method": "manual-verified-cs-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/18043",
+        "verifiedAt": "2026-10-01",
+        "note": "공개 상품의 영문명·용량·도수와 CS 표현을 확인했습니다. 특정 배치는 배치 번호 또는 릴리스 연도까지 일치하는 상품만 연결합니다.",
+        "abvLabel": "55.8%",
+        "referenceOnly": {
+          "note": "등록 제품은 배치 006(56.8%)이며 연결된 상품은 배치 008(55.8%)입니다. 배치가 달라 해당 판매가를 표시하지 않습니다."
+        }
+      },
+      "queries": [
+        {
+          "query": "탐두 배치 006",
+          "url": "https://api.dailyshot.co/items/search/?q=%ED%83%90%EB%91%90+%EB%B0%B0%EC%B9%98+006&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:21.086Z",
+          "count": 716,
+          "hasNext": true,
+          "products": [
+            {
+              "topProductId": 18043,
+              "name": "탐두 배치 스트렝스 배치 넘버 008",
+              "nameTag": null,
+              "enName": "Tamdhu Batch Strength Batch No.008"
+            },
+            {
+              "topProductId": 3634,
+              "name": "탐두 12년",
+              "nameTag": null,
+              "enName": "Tamdhu 12yo"
+            },
+            {
+              "topProductId": 5397,
+              "name": "탐두 15년",
+              "nameTag": null,
+              "enName": "Tamdhu 15yo"
+            },
+            {
+              "topProductId": 31794,
+              "name": "탐두 2026 말의 해 한정판",
+              "nameTag": null,
+              "enName": "Tamdhu 2026 Year of the Horse Limited Edition"
+            },
+            {
+              "topProductId": 34284,
+              "name": "탐두 미니어처 세트(12년, 15년, 18년)",
+              "nameTag": null,
+              "enName": "Tamdhu Miniature Set"
+            },
+            {
+              "topProductId": 8754,
+              "name": "탐두 배치 스트렝스 배치 넘버 007",
+              "nameTag": null,
+              "enName": "Tamdhu Batch Strength Batch No. 007"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Tamdhu 006",
+          "url": "https://api.dailyshot.co/items/search/?q=Tamdhu+006&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:21.649Z",
+          "count": 85,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 18043,
+              "name": "탐두 배치 스트렝스 배치 넘버 008",
+              "nameTag": null,
+              "enName": "Tamdhu Batch Strength Batch No.008"
+            },
+            {
+              "topProductId": 3634,
+              "name": "탐두 12년",
+              "nameTag": null,
+              "enName": "Tamdhu 12yo"
+            },
+            {
+              "topProductId": 5397,
+              "name": "탐두 15년",
+              "nameTag": null,
+              "enName": "Tamdhu 15yo"
+            },
+            {
+              "topProductId": 34284,
+              "name": "탐두 미니어처 세트(12년, 15년, 18년)",
+              "nameTag": null,
+              "enName": "Tamdhu Miniature Set"
+            },
+            {
+              "topProductId": 31794,
+              "name": "탐두 2026 말의 해 한정판",
+              "nameTag": null,
+              "enName": "Tamdhu 2026 Year of the Horse Limited Edition"
+            },
+            {
+              "topProductId": 33863,
+              "name": "탐두 18년 바이알",
+              "nameTag": null,
+              "enName": "Tamdhu 18yo Vial"
+            },
+            {
+              "topProductId": 8754,
+              "name": "탐두 배치 스트렝스 배치 넘버 007",
+              "nameTag": null,
+              "enName": "Tamdhu Batch Strength Batch No. 007"
+            },
+            {
+              "topProductId": 28901,
+              "name": "탐두 21년",
+              "nameTag": null,
+              "enName": "Tamdhu 21yo"
+            },
+            {
+              "topProductId": 22955,
+              "name": "탐두 엠버",
+              "nameTag": null,
+              "enName": "Tamdhu Ambar"
+            },
+            {
+              "topProductId": 15112,
+              "name": "탐두 18년",
+              "nameTag": null,
+              "enName": "Tamdhu 18yo"
+            },
+            {
+              "topProductId": 33670,
+              "name": "탐두 콰트로 리제르바",
+              "nameTag": null,
+              "enName": "Tamdhu Cuatro Reserva"
+            },
+            {
+              "topProductId": 30728,
+              "name": "탐두 15년 바이알",
+              "nameTag": "30ml",
+              "enName": "Tamdhu 15yo Vial"
+            },
+            {
+              "topProductId": 30727,
+              "name": "탐두 12년 바이알",
+              "nameTag": "30ml",
+              "enName": "Tamdhu 12yo Vial"
+            },
+            {
+              "topProductId": 30488,
+              "name": "탐두 디스팅션 3",
+              "nameTag": null,
+              "enName": "Tamdhu Distinction 3"
+            },
+            {
+              "topProductId": 11658,
+              "name": "탐두 미니어처 세트(12년, 15년, 배치 스트렝스 배치6)",
+              "nameTag": null,
+              "enName": "Tamdhu Miniature Set"
+            },
+            {
+              "topProductId": 23813,
+              "name": "탐두 쿼커스 알바 디스팅션",
+              "nameTag": "특가",
+              "enName": "Tamdhu Quercus Alba Distinction"
+            },
+            {
+              "topProductId": 15151,
+              "name": "탐두 시가몰트 II",
+              "nameTag": null,
+              "enName": "Tamdhu Cigar Malt II"
+            },
+            {
+              "topProductId": 33180,
+              "name": "탐두 시가몰트 배치 4",
+              "nameTag": null,
+              "enName": "Tamdhu Cigar Malt Batch 4"
+            },
+            {
+              "topProductId": 15148,
+              "name": "탐두 코리아에디션 유러피언 오크",
+              "nameTag": null,
+              "enName": "Tamdhu Korea Edition European Oak"
+            },
+            {
+              "topProductId": 15147,
+              "name": "탐두 코리아에디션 아메리칸 오크",
+              "nameTag": null,
+              "enName": "Tamdhu Korea Edition American Oak"
+            },
+            {
+              "topProductId": 9873,
+              "name": "발베니 더블우드 12년 & 탐두 12년",
+              "nameTag": null,
+              "enName": "Balvenie Doublewood 12yo & Tamdhu 12yo"
+            },
+            {
+              "topProductId": 8602,
+              "name": "탐두 12년 & 글렌피딕 12년 트리플 오크",
+              "nameTag": null,
+              "enName": "Tamdhu 12yo & Glenfiddich 12yo Triple Oak"
+            },
+            {
+              "topProductId": 21106,
+              "name": "고든 앤 맥페일 코노세어 초이스 2007 탐두 15년",
+              "nameTag": null,
+              "enName": "Gordon&Macphail Connoisseurs Choice 2007 Tamdhu 15yo"
+            },
+            {
+              "topProductId": 15919,
+              "name": "탐두 코리아에디션 유러피언 오크 & 아메리칸 오크",
+              "nameTag": null,
+              "enName": "Tamdhu Korea Edition European Oak & American Oak"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        }
+      ],
+      "candidates": [
+        {
+          "topProductId": 23535,
+          "itemId": 213814,
+          "sourceUrl": "https://dailyshot.co/m/item/23535",
+          "checkedAt": "2026-10-06T04:10:11.821Z",
+          "name": "탐두 배치 스트렝스 배치 넘버 006",
+          "enName": "Tamdhu Batch Strength Batch No.006",
+          "information": [
+            {
+              "label": "종류",
+              "value": "싱글몰트 위스키"
+            },
+            {
+              "label": "용량",
+              "value": "700ml"
+            },
+            {
+              "label": "도수",
+              "value": "56.8%"
+            },
+            {
+              "label": "국가",
+              "value": "스코틀랜드"
+            },
+            {
+              "label": "지역",
+              "value": "스페이사이드"
+            },
+            {
+              "label": "케이스",
+              "value": "있음"
+            }
+          ],
+          "thumbnailImage": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/8efcb671-3e5e-41f1-9512-a9e081906c51.webp",
+          "status": 1,
+          "serviceType": 6,
+          "featureText": null
+        }
+      ],
+      "offerEvidence": {
+        "url": "https://api.dailyshot.co/item-sellers/?item_id=213814&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+        "checkedAt": "2026-10-06T04:11:09.030Z",
+        "count": 0,
+        "next": null,
+        "offers": []
+      }
+    },
+    {
+      "id": "springbank-12-cask-strength-2026",
+      "catalog": {
+        "name": "스프링뱅크 12년 캐스크 스트렝스 2026",
+        "englishName": "Springbank 12 Year Old Cask Strength 2026",
+        "abv": 56.6,
+        "abvNote": "공식 2026 릴리스 기준 56.6%, 버번 캐스크 100%입니다. 다른 릴리스는 도수와 캐스크 구성이 다릅니다."
+      },
+      "existingMapping": {
+        "topProductId": 5995,
+        "volumeMl": 700,
+        "productName": "스프링뱅크 12년 CS",
+        "englishName": "Springbank 12yo Cask Strength",
+        "abv": 54,
+        "method": "manual-verified-cs-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/5995",
+        "verifiedAt": "2026-10-01",
+        "note": "공개 상품의 영문명·용량·도수와 CS 표현을 확인했습니다. 특정 배치는 배치 번호 또는 릴리스 연도까지 일치하는 상품만 연결합니다.",
+        "abvLabel": "54~58%",
+        "referenceOnly": {
+          "note": "스프링뱅크 12년 CS 공용 판매 페이지입니다. 2026 릴리스·56.6% 판매 여부가 확인되지 않아 해당 배치 가격으로 표시하지 않습니다."
+        }
+      },
+      "queries": [
+        {
+          "query": "스프링뱅크 12 CS 2026",
+          "url": "https://api.dailyshot.co/items/search/?q=%EC%8A%A4%ED%94%84%EB%A7%81%EB%B1%85%ED%81%AC+12+CS+2026&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:23.130Z",
+          "count": 2760,
+          "hasNext": true,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Springbank 12 2026",
+          "url": "https://api.dailyshot.co/items/search/?q=Springbank+12+2026&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:24.700Z",
+          "count": 2958,
+          "hasNext": true,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "스프링뱅크12",
+          "url": "https://api.dailyshot.co/items/search/?q=%EC%8A%A4%ED%94%84%EB%A7%81%EB%B1%85%ED%81%AC12&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:10:08.692Z",
+          "count": 9,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 1646,
+              "name": "스프링뱅크 15년",
+              "enName": "Springbank 15yo",
+              "nameTag": null
+            },
+            {
+              "topProductId": 5995,
+              "name": "스프링뱅크 12년 CS",
+              "enName": "Springbank 12yo Cask Strength",
+              "nameTag": null
+            },
+            {
+              "topProductId": 4552,
+              "name": "스프링뱅크 10년",
+              "enName": "Springbank 10yo",
+              "nameTag": null
+            },
+            {
+              "topProductId": 5994,
+              "name": "스프링뱅크 18년",
+              "enName": "Springbank 18yo",
+              "nameTag": "2017"
+            },
+            {
+              "topProductId": 15443,
+              "name": "스프링뱅크 10년 750ml",
+              "enName": "Springbank 10yo 750ml",
+              "nameTag": null
+            },
+            {
+              "topProductId": 27586,
+              "name": "스프링뱅크 12년 CS 바이알",
+              "enName": "Springbank 12yo Cask Strength Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 27585,
+              "name": "스프링뱅크 15년 바이알",
+              "enName": "Springbank 15yo Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 27587,
+              "name": "스프링뱅크 18년 바이알",
+              "enName": "Springbank 18yo Vial",
+              "nameTag": "30ml"
+            }
+          ]
+        },
+        {
+          "query": "Springbank",
+          "url": "https://api.dailyshot.co/items/search/?q=Springbank&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:10:09.270Z",
+          "count": 30,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 1646,
+              "name": "스프링뱅크 15년",
+              "enName": "Springbank 15yo",
+              "nameTag": null
+            },
+            {
+              "topProductId": 31823,
+              "name": "스프링뱅크 5년 100프루프",
+              "enName": "Springbank 5yo 100 Proof",
+              "nameTag": null
+            },
+            {
+              "topProductId": 4552,
+              "name": "스프링뱅크 10년",
+              "enName": "Springbank 10yo",
+              "nameTag": null
+            },
+            {
+              "topProductId": 5995,
+              "name": "스프링뱅크 12년 CS",
+              "enName": "Springbank 12yo Cask Strength",
+              "nameTag": null
+            },
+            {
+              "topProductId": 27586,
+              "name": "스프링뱅크 12년 CS 바이알",
+              "enName": "Springbank 12yo Cask Strength Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 25849,
+              "name": "스프링뱅크 8년 로컬발리 2025",
+              "enName": "Springbank 8yo Local Barley 2025 58.1%",
+              "nameTag": null
+            },
+            {
+              "topProductId": 30108,
+              "name": "스프링뱅크 10년 셰리 우드 PX 캐스크 바이알",
+              "enName": "Springbank 10yo Sherry Wood PX Cask Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 9868,
+              "name": "스프링뱅크 30년",
+              "enName": "Springbank 30yo",
+              "nameTag": null
+            },
+            {
+              "topProductId": 5994,
+              "name": "스프링뱅크 18년",
+              "enName": "Springbank 18yo",
+              "nameTag": "2017"
+            },
+            {
+              "topProductId": 37134,
+              "name": "스프링뱅크 30년 바이알",
+              "enName": "Springbank 30yo Vial",
+              "nameTag": null
+            },
+            {
+              "topProductId": 27587,
+              "name": "스프링뱅크 18년 바이알",
+              "enName": "Springbank 18yo Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 27585,
+              "name": "스프링뱅크 15년 바이알",
+              "enName": "Springbank 15yo Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 27584,
+              "name": "스프링뱅크 10년 바이알",
+              "enName": "Springbank 10yo Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 26865,
+              "name": "스프링뱅크 10년 아몬티야도",
+              "enName": "Springbank 10y Amontillado",
+              "nameTag": null
+            },
+            {
+              "topProductId": 15443,
+              "name": "스프링뱅크 10년 750ml",
+              "enName": "Springbank 10yo 750ml",
+              "nameTag": null
+            },
+            {
+              "topProductId": 34904,
+              "name": "스프링뱅크 10년 피노 캐스크",
+              "enName": "Springbank 10yo Fino Cask",
+              "nameTag": null
+            },
+            {
+              "topProductId": 30109,
+              "name": "스프링뱅크 10년 아몬티야도 바이알",
+              "enName": "Springbank 10y Amontillado Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 20588,
+              "name": "스프링뱅크 10년 팔로 코르타도",
+              "enName": "Springbank 10y Palo Cortado",
+              "nameTag": null
+            },
+            {
+              "topProductId": 37135,
+              "name": "스프링뱅크 10년 피노 캐스크 바이알",
+              "enName": "Springbank 10yo Fino Cask Vial",
+              "nameTag": null
+            },
+            {
+              "topProductId": 34931,
+              "name": "스프링뱅크 5년 100프루프 바이알",
+              "enName": "Springbank 5yo 100 Proof Vial",
+              "nameTag": null
+            },
+            {
+              "topProductId": 30110,
+              "name": "스프링뱅크 10년 팔로 코르타도 바이알",
+              "enName": "Springbank 10y Palo Cortado Vial",
+              "nameTag": "30ml"
+            },
+            {
+              "topProductId": 36762,
+              "name": "스프링뱅크 10년 로컬발리 2025 바이알",
+              "enName": "Springbank 10yo Local Barley 2025 Vial",
+              "nameTag": null
+            },
+            {
+              "topProductId": 11330,
+              "name": "스프링뱅크 10년 셰리 우드 PX 캐스크",
+              "enName": "Springbank 10yo Sherry Wood PX Cask",
+              "nameTag": null
+            },
+            {
+              "topProductId": 37472,
+              "name": "스프링뱅크 1989/2024 35년 #14/03/1 시그나토리 시밍턴스 초이스",
+              "enName": "Springbank 1989/2024 35yo #14/03/1 Signatory Symingtons Choice",
+              "nameTag": null
+            },
+            {
+              "topProductId": 35744,
+              "name": "스프링뱅크 5년 100프루프 & 카덴헤드 세븐스타즈",
+              "enName": "Springbank 5yo 100 Proof & Cadenhead's Seven stars",
+              "nameTag": null
+            },
+            {
+              "topProductId": 13025,
+              "name": "사마롤리 1996 스프링뱅크 25년 마그니피코",
+              "enName": "Samaroli 1996 Springbank 25yo Magnifico",
+              "nameTag": null
+            },
+            {
+              "topProductId": 4560,
+              "name": "더 퍼펙트 핍스 스프링뱅크 1993",
+              "enName": "The Perfect Fifth Springbank 1993",
+              "nameTag": null
+            },
+            {
+              "topProductId": 34563,
+              "name": "로크리 아워 발리 & 스프링뱅크 5년 100프루프",
+              "enName": "Lochlea Our Barley & Springbank 5yo 100 Proof",
+              "nameTag": null
+            }
+          ]
+        }
+      ],
+      "candidates": [
+        {
+          "topProductId": 5995,
+          "itemId": 624512,
+          "sourceUrl": "https://dailyshot.co/m/item/5995",
+          "checkedAt": "2026-10-06T04:10:12.665Z",
+          "name": "스프링뱅크 12년 CS",
+          "enName": "Springbank 12yo Cask Strength",
+          "information": [
+            {
+              "label": "종류",
+              "value": "싱글몰트 위스키"
+            },
+            {
+              "label": "용량",
+              "value": "700ml"
+            },
+            {
+              "label": "도수",
+              "value": "54~58%"
+            },
+            {
+              "label": "국가",
+              "value": "스코틀랜드"
+            },
+            {
+              "label": "지역",
+              "value": "캠벨타운"
+            },
+            {
+              "label": "케이스",
+              "value": "없음"
+            }
+          ],
+          "thumbnailImage": "https://d1e2y5wc27crnp.cloudfront.net/media/smartorder_reservation/product/thumbnail/5f763ecc-f87f-4d30-bc82-d2f1f9125d85.webp",
+          "status": 0,
+          "serviceType": 6,
+          "featureText": null
+        }
+      ],
+      "offerEvidence": {
+        "url": "https://api.dailyshot.co/item-sellers/?item_id=624512&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+        "checkedAt": "2026-10-06T04:11:09.658Z",
+        "count": 5,
+        "next": null,
+        "offers": [
+          {
+            "itemId": 45481,
+            "topProductId": 5995,
+            "name": "[18,21,30년 17년마데이라, 셰리우드 버건디 잇어요] 스프링뱅크 12년 CS",
+            "nameTag": "18,21,30년 17년마데이라, 셰리우드 버건디 잇어요",
+            "price": 495000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 2740,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 57762,
+            "topProductId": 5995,
+            "name": "스프링뱅크 12년 CS",
+            "nameTag": null,
+            "price": 590000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 21,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 550873,
+            "topProductId": 5995,
+            "name": "스프링뱅크 12년 CS",
+            "nameTag": null,
+            "price": 590000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 3068,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 484600,
+            "topProductId": 5995,
+            "name": "스프링뱅크 12년 CS",
+            "nameTag": null,
+            "price": 620000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 51596,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 88843,
+            "topProductId": 5995,
+            "name": "스프링뱅크 12년 CS",
+            "nameTag": null,
+            "price": 780000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 209,
+            "sellerIsActive": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "elijah-craig-barrel-proof-c925",
+      "catalog": {
+        "name": "일라이저 크레이그 배럴 프루프 C925",
+        "englishName": "Elijah Craig Barrel Proof C925",
+        "abv": 64.5,
+        "abvNote": "2025년 9월 C925 배치의 129프루프(64.5%) 기준입니다. 정확한 숙성 표기는 9년 1개월이며, 다른 배치의 도수와 숙성 연수는 다릅니다."
+      },
+      "existingMapping": {
+        "topProductId": 6782,
+        "volumeMl": 700,
+        "productName": "일라이저 크레이그 스몰 배치 배럴 프루프",
+        "englishName": "Elijah Craig Small Batch Barrel Proof",
+        "abv": 50,
+        "method": "manual-verified-cs-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/6782",
+        "verifiedAt": "2026-10-01",
+        "note": "공개 상품의 영문명·용량·도수와 CS 표현을 확인했습니다. 특정 배치는 배치 번호 또는 릴리스 연도까지 일치하는 상품만 연결합니다.",
+        "abvLabel": "50~65%",
+        "referenceOnly": {
+          "note": "일라이저 크레이그 배럴 프루프 공용 판매 페이지입니다. C925 배치·64.5%의 판매 여부가 확인되지 않아 해당 배치 가격으로 표시하지 않습니다."
+        }
+      },
+      "queries": [
+        {
+          "query": "일라이저 크레이그 C925",
+          "url": "https://api.dailyshot.co/items/search/?q=%EC%9D%BC%EB%9D%BC%EC%9D%B4%EC%A0%80+%ED%81%AC%EB%A0%88%EC%9D%B4%EA%B7%B8+C925&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:25.357Z",
+          "count": 31,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 14447,
+              "name": "일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 8077,
+              "name": "일라이저 크레이그 스트레이트 라이",
+              "nameTag": "지금바로 24시간 픽업가능",
+              "enName": "Elijah Craig Straight Rye"
+            },
+            {
+              "topProductId": 29783,
+              "name": "일라이저 크레이그 배럴 프루프 A124",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof A124"
+            },
+            {
+              "topProductId": 8573,
+              "name": "일라이저 크레이그 스몰 배치 700ml",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch 700ml"
+            },
+            {
+              "topProductId": 21541,
+              "name": "일라이저 크레이그 배럴 프루프 C922",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof C922"
+            },
+            {
+              "topProductId": 8403,
+              "name": "일라이저 크레이그 토스티드 배럴",
+              "nameTag": null,
+              "enName": "Elijah Craig Toasted Barrel"
+            },
+            {
+              "topProductId": 34359,
+              "name": "일라이저 크레이그 싱글 배럴 18년",
+              "nameTag": null,
+              "enName": "elijah craig single barrel 18yo"
+            },
+            {
+              "topProductId": 24436,
+              "name": "일라이저 크레이그 토스티드 배럴 750ml",
+              "nameTag": null,
+              "enName": "Elijah Craig Toasted Barrel 750ml"
+            },
+            {
+              "topProductId": 16664,
+              "name": "일라이저 크레이그 배럴 프루프 A120",
+              "nameTag": "배치 A124 입니다",
+              "enName": "Elijah Craig Barrel Proof A120"
+            },
+            {
+              "topProductId": 10343,
+              "name": "일라이저 크레이그 배럴 프루프 B522",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof B522"
+            },
+            {
+              "topProductId": 10342,
+              "name": "일라이저 크레이그 배럴 프루프 A122",
+              "nameTag": "배치 A124",
+              "enName": "Elijah Craig Barrel Proof A122"
+            },
+            {
+              "topProductId": 27408,
+              "name": "일라이저 크레이그 배럴 프루프 A123 700ml",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof A123 700ml"
+            },
+            {
+              "topProductId": 25757,
+              "name": "일라이저 크레이그 배럴 프루프 A123 750ml",
+              "nameTag": "배치 A124 입니다",
+              "enName": "Elijah Craig Barrel Proof A123 750ml"
+            },
+            {
+              "topProductId": 23592,
+              "name": "일라이저 크레이그 스몰 배치 전용잔 패키지",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Glass Package"
+            },
+            {
+              "topProductId": 6782,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof"
+            },
+            {
+              "topProductId": 26200,
+              "name": "일라이저 크레이그 프라이빗 배럴 9년 배럴 프루프 #6873270",
+              "nameTag": null,
+              "enName": "Elijah Craig Private Barrel 9yo Barrel Proof #6873270"
+            },
+            {
+              "topProductId": 10800,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 7801,
+              "name": "글렌알라키 15년 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "GlenAllachie 15yo & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 10763,
+              "name": "러셀 리저브 싱글배럴(구형) & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Russell’s Reserve Single Barrel & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 10770,
+              "name": "러셀 리저브 싱글배럴(구형) & 라가불린 16년 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Russell’s Reserve Single Barrel & Lagavulin 16yo & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 11098,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프& 발베니 더블우드 12년 & 베이즐 헤이든",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Balvenie Doublewood 12yo & Basil Hayden's"
+            },
+            {
+              "topProductId": 11490,
+              "name": "러셀 리저브 싱글배럴(구형) & 맥캘란 12년 더블 캐스크 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Russell’s Reserve Single Barrel & Macallan 12yo Double Cask & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 11097,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프 & 러셀 리저브 싱글배럴(구형) & 발베니 더블우드 12년",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Russell’s Single Barrel & Balvenie Doublewood 12yo"
+            },
+            {
+              "topProductId": 11099,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프 & 발베니 더블우드 12년 & 하이랜드 파크 CS 릴리즈 No.1",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Balvenie Doublewood 12yo & Highland Park CS Release No.1"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Elijah Craig C925",
+          "url": "https://api.dailyshot.co/items/search/?q=Elijah+Craig+C925&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:26.215Z",
+          "count": 31,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 14447,
+              "name": "일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 8077,
+              "name": "일라이저 크레이그 스트레이트 라이",
+              "nameTag": "지금바로 24시간 픽업가능",
+              "enName": "Elijah Craig Straight Rye"
+            },
+            {
+              "topProductId": 29783,
+              "name": "일라이저 크레이그 배럴 프루프 A124",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof A124"
+            },
+            {
+              "topProductId": 8573,
+              "name": "일라이저 크레이그 스몰 배치 700ml",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch 700ml"
+            },
+            {
+              "topProductId": 21541,
+              "name": "일라이저 크레이그 배럴 프루프 C922",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof C922"
+            },
+            {
+              "topProductId": 8403,
+              "name": "일라이저 크레이그 토스티드 배럴",
+              "nameTag": null,
+              "enName": "Elijah Craig Toasted Barrel"
+            },
+            {
+              "topProductId": 34359,
+              "name": "일라이저 크레이그 싱글 배럴 18년",
+              "nameTag": null,
+              "enName": "elijah craig single barrel 18yo"
+            },
+            {
+              "topProductId": 24436,
+              "name": "일라이저 크레이그 토스티드 배럴 750ml",
+              "nameTag": null,
+              "enName": "Elijah Craig Toasted Barrel 750ml"
+            },
+            {
+              "topProductId": 16664,
+              "name": "일라이저 크레이그 배럴 프루프 A120",
+              "nameTag": "배치 A124 입니다",
+              "enName": "Elijah Craig Barrel Proof A120"
+            },
+            {
+              "topProductId": 10343,
+              "name": "일라이저 크레이그 배럴 프루프 B522",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof B522"
+            },
+            {
+              "topProductId": 10342,
+              "name": "일라이저 크레이그 배럴 프루프 A122",
+              "nameTag": "배치 A124",
+              "enName": "Elijah Craig Barrel Proof A122"
+            },
+            {
+              "topProductId": 27408,
+              "name": "일라이저 크레이그 배럴 프루프 A123 700ml",
+              "nameTag": null,
+              "enName": "Elijah Craig Barrel Proof A123 700ml"
+            },
+            {
+              "topProductId": 25757,
+              "name": "일라이저 크레이그 배럴 프루프 A123 750ml",
+              "nameTag": "배치 A124 입니다",
+              "enName": "Elijah Craig Barrel Proof A123 750ml"
+            },
+            {
+              "topProductId": 23592,
+              "name": "일라이저 크레이그 스몰 배치 전용잔 패키지",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Glass Package"
+            },
+            {
+              "topProductId": 6782,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof"
+            },
+            {
+              "topProductId": 26200,
+              "name": "일라이저 크레이그 프라이빗 배럴 9년 배럴 프루프 #6873270",
+              "nameTag": null,
+              "enName": "Elijah Craig Private Barrel 9yo Barrel Proof #6873270"
+            },
+            {
+              "topProductId": 10800,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 7801,
+              "name": "글렌알라키 15년 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "GlenAllachie 15yo & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 10763,
+              "name": "러셀 리저브 싱글배럴(구형) & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Russell’s Reserve Single Barrel & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 10770,
+              "name": "러셀 리저브 싱글배럴(구형) & 라가불린 16년 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Russell’s Reserve Single Barrel & Lagavulin 16yo & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 11098,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프& 발베니 더블우드 12년 & 베이즐 헤이든",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Balvenie Doublewood 12yo & Basil Hayden's"
+            },
+            {
+              "topProductId": 11490,
+              "name": "러셀 리저브 싱글배럴(구형) & 맥캘란 12년 더블 캐스크 & 일라이저 크레이그 스몰 배치",
+              "nameTag": null,
+              "enName": "Russell’s Reserve Single Barrel & Macallan 12yo Double Cask & Elijah Craig Small Batch"
+            },
+            {
+              "topProductId": 11097,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프 & 러셀 리저브 싱글배럴(구형) & 발베니 더블우드 12년",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Russell’s Single Barrel & Balvenie Doublewood 12yo"
+            },
+            {
+              "topProductId": 11099,
+              "name": "일라이저 크레이그 스몰 배치 배럴 프루프 & 발베니 더블우드 12년 & 하이랜드 파크 CS 릴리즈 No.1",
+              "nameTag": null,
+              "enName": "Elijah Craig Small Batch Barrel Proof & Balvenie Doublewood 12yo & Highland Park CS Release No.1"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        }
+      ],
+      "candidates": [
+        {
+          "topProductId": 6782,
+          "itemId": 78158,
+          "sourceUrl": "https://dailyshot.co/m/item/6782",
+          "checkedAt": "2026-10-06T04:10:13.585Z",
+          "name": "일라이저 크레이그 스몰 배치 배럴 프루프",
+          "enName": "Elijah Craig Small Batch Barrel Proof",
+          "information": [
+            {
+              "label": "종류",
+              "value": "버번 위스키"
+            },
+            {
+              "label": "용량",
+              "value": "700ml"
+            },
+            {
+              "label": "도수",
+              "value": "50~65%"
+            },
+            {
+              "label": "국가",
+              "value": "미국"
+            },
+            {
+              "label": "케이스",
+              "value": "없음"
+            }
+          ],
+          "thumbnailImage": "https://d1e2y5wc27crnp.cloudfront.net/media/smartorder_reservation/product/thumbnail/7a6201e5-6946-434c-83ca-6313a271e3ea.webp",
+          "status": 0,
+          "serviceType": 1,
+          "featureText": null
+        }
+      ],
+      "offerEvidence": {
+        "url": "https://api.dailyshot.co/item-sellers/?item_id=78158&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+        "checkedAt": "2026-10-06T04:11:10.037Z",
+        "count": 2,
+        "next": null,
+        "offers": [
+          {
+            "itemId": 364944,
+            "topProductId": 6782,
+            "name": "[배치 A124, 750ml 입니다] 일라이저 크레이그 스몰 배치 배럴 프루프",
+            "nameTag": "배치 A124, 750ml 입니다",
+            "price": 229900,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 16338,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 78158,
+            "topProductId": 6782,
+            "name": "일라이저 크레이그 스몰 배치 배럴 프루프",
+            "nameTag": null,
+            "price": 370000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 3783,
+            "sellerIsActive": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "larceny-barrel-proof-c925",
+      "catalog": {
+        "name": "라세니 배럴 프루프 C925",
+        "englishName": "Larceny Barrel Proof C925",
+        "abv": 59.8,
+        "abvNote": "2025년 9월 C925 배치의 119.6프루프(59.8%) 기준입니다. 출시 배치마다 도수와 향미가 달라집니다."
+      },
+      "existingMapping": {
+        "topProductId": 4432,
+        "volumeMl": 750,
+        "productName": "라세니 배럴 프루프",
+        "englishName": "Larceny Barrel Proof",
+        "abv": null,
+        "method": "manual-verified-cs-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/4432",
+        "verifiedAt": "2026-10-01",
+        "note": "공개 상품의 영문명·용량·도수와 CS 표현을 확인했습니다. 특정 배치는 배치 번호 또는 릴리스 연도까지 일치하는 상품만 연결합니다.",
+        "abvLabel": "약 60% (배치마다 상이)",
+        "referenceOnly": {
+          "note": "라세니 배럴 프루프 공용 판매 페이지입니다. C925 배치·59.8%의 판매 여부가 확인되지 않아 해당 배치 가격으로 표시하지 않습니다."
+        }
+      },
+      "queries": [
+        {
+          "query": "라세니 C925",
+          "url": "https://api.dailyshot.co/items/search/?q=%EB%9D%BC%EC%84%B8%EB%8B%88+C925&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:26.506Z",
+          "count": 18,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 8915,
+              "name": "라세니 스몰 배치",
+              "nameTag": null,
+              "enName": "Larceny Small Batch"
+            },
+            {
+              "topProductId": 4432,
+              "name": "라세니 배럴 프루프",
+              "nameTag": null,
+              "enName": "Larceny Barrel Proof"
+            },
+            {
+              "topProductId": 14188,
+              "name": "라세니 스몰 배치 700ml",
+              "nameTag": null,
+              "enName": "Larceny Small Batch 700ml"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Larceny C925",
+          "url": "https://api.dailyshot.co/items/search/?q=Larceny+C925&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:26.680Z",
+          "count": 6,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 8915,
+              "name": "라세니 스몰 배치",
+              "nameTag": null,
+              "enName": "Larceny Small Batch"
+            },
+            {
+              "topProductId": 4432,
+              "name": "라세니 배럴 프루프",
+              "nameTag": null,
+              "enName": "Larceny Barrel Proof"
+            },
+            {
+              "topProductId": 14188,
+              "name": "라세니 스몰 배치 700ml",
+              "nameTag": null,
+              "enName": "Larceny Small Batch 700ml"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        }
+      ],
+      "candidates": [
+        {
+          "topProductId": 4432,
+          "itemId": 486889,
+          "sourceUrl": "https://dailyshot.co/m/item/4432",
+          "checkedAt": "2026-10-06T04:10:14.767Z",
+          "name": "라세니 배럴 프루프",
+          "enName": "Larceny Barrel Proof",
+          "information": [
+            {
+              "label": "종류",
+              "value": "버번 위스키"
+            },
+            {
+              "label": "용량",
+              "value": "750ml"
+            },
+            {
+              "label": "도수",
+              "value": "약 60% (배치마다 상이)"
+            },
+            {
+              "label": "국가",
+              "value": "미국"
+            }
+          ],
+          "thumbnailImage": "https://d1e2y5wc27crnp.cloudfront.net/media/smartorder_reservation/product/thumbnail/962e8809-26d3-4b81-b301-ab682031459f.webp",
+          "status": 0,
+          "serviceType": 1,
+          "featureText": null
+        }
+      ],
+      "offerEvidence": {
+        "url": "https://api.dailyshot.co/item-sellers/?item_id=486889&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+        "checkedAt": "2026-10-06T04:11:10.495Z",
+        "count": 17,
+        "next": null,
+        "offers": [
+          {
+            "itemId": 624445,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 329000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 3950,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486889,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36999,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486893,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 37003,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 480880,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36986,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486883,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36993,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486881,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36991,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486882,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36992,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486877,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36987,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486880,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36990,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486897,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 37008,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486879,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36989,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486894,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 37005,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486888,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36998,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486892,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 37002,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486898,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 40208,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486901,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 42068,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 486900,
+            "topProductId": 4432,
+            "name": "라세니 배럴 프루프",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 42067,
+            "sellerIsActive": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "writers-tears-cask-strength",
+      "catalog": {
+        "name": "라이터스 티어스 캐스크 스트렝스",
+        "englishName": "Writers' Tears Cask Strength",
+        "abv": 54.8,
+        "abvNote": "공식 제품 페이지의 8,700병 한정 54.8% 릴리스 기준입니다. 출시 연도에 따라 도수가 달라집니다."
+      },
+      "existingMapping": {
+        "topProductId": 5830,
+        "volumeMl": 700,
+        "productName": "라이터즈 티얼즈 CS 2022",
+        "englishName": "Writer's Tears Cask Strength 2022",
+        "abv": 53,
+        "method": "manual-verified-cs-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/5830",
+        "verifiedAt": "2026-10-01",
+        "note": "공개 상품의 영문명·용량·도수와 CS 표현을 확인했습니다. 특정 배치는 배치 번호 또는 릴리스 연도까지 일치하는 상품만 연결합니다.",
+        "abvLabel": "53~54.6%",
+        "referenceOnly": {
+          "note": "연결된 상품은 라이터즈 티얼즈 CS 2022(데일리샷 표기 53~54.6%)입니다. 카탈로그의 참고 도수 54.8% 배치와 달라 해당 판매가를 표시하지 않습니다."
+        }
+      },
+      "queries": [
+        {
+          "query": "라이터즈 티얼즈 CS",
+          "url": "https://api.dailyshot.co/items/search/?q=%EB%9D%BC%EC%9D%B4%ED%84%B0%EC%A6%88+%ED%8B%B0%EC%96%BC%EC%A6%88+CS&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:27.052Z",
+          "count": 1,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 5830,
+              "name": "라이터즈 티얼즈 CS 2022",
+              "nameTag": null,
+              "enName": "Writer's Tears Cask Strength 2022"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Writers Tears Cask Strength",
+          "url": "https://api.dailyshot.co/items/search/?q=Writers+Tears+Cask+Strength&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:27.944Z",
+          "count": 1161,
+          "hasNext": true,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        }
+      ],
+      "candidates": [
+        {
+          "topProductId": 5830,
+          "itemId": 619643,
+          "sourceUrl": "https://dailyshot.co/m/item/5830",
+          "checkedAt": "2026-10-06T04:10:16.282Z",
+          "name": "라이터즈 티얼즈 CS 2022",
+          "enName": "Writer's Tears Cask Strength 2022",
+          "information": [
+            {
+              "label": "종류",
+              "value": "아이리시 싱글몰트 위스키"
+            },
+            {
+              "label": "용량",
+              "value": "700ml"
+            },
+            {
+              "label": "도수",
+              "value": "53~54.6%"
+            },
+            {
+              "label": "국가",
+              "value": "아일랜드"
+            },
+            {
+              "label": "케이스",
+              "value": "있음"
+            }
+          ],
+          "thumbnailImage": "https://d1e2y5wc27crnp.cloudfront.net/media/smartorder_reservation/product/thumbnail/4f074abe-f552-4a53-9b81-033fc09a74c3.webp",
+          "status": 0,
+          "serviceType": 1,
+          "featureText": null
+        }
+      ],
+      "offerEvidence": {
+        "url": "https://api.dailyshot.co/item-sellers/?item_id=619643&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+        "checkedAt": "2026-10-06T04:11:10.712Z",
+        "count": 3,
+        "next": null,
+        "offers": [
+          {
+            "itemId": 118106,
+            "topProductId": 5830,
+            "name": "라이터즈 티얼즈 CS 2022",
+            "nameTag": null,
+            "price": 189000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 4597,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 176089,
+            "topProductId": 5830,
+            "name": "라이터즈 티얼즈 CS 2022",
+            "nameTag": null,
+            "price": 309000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 16338,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 619643,
+            "topProductId": 5830,
+            "name": "라이터즈 티얼즈 CS 2022",
+            "nameTag": null,
+            "price": 350000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 36993,
+            "sellerIsActive": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "irishman-cask-strength-2022",
+      "catalog": {
+        "name": "아이리시맨 캐스크 스트렝스 2022",
+        "englishName": "The Irishman Cask Strength 2022",
+        "abv": 54.9,
+        "abvNote": "2022년 공식 출시 발표의 6,100병 한정 릴리스 기준입니다. 다른 연도 제품은 도수가 다릅니다."
+      },
+      "existingMapping": {
+        "topProductId": 5831,
+        "volumeMl": 700,
+        "productName": "디 아이리시맨 CS",
+        "englishName": "The Irishman Cask Strength",
+        "abv": 54.9,
+        "method": "manual-verified-cs-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/5831",
+        "verifiedAt": "2026-10-01",
+        "note": "공개 상품의 영문명·용량·도수와 CS 표현을 확인했습니다. 특정 배치는 배치 번호 또는 릴리스 연도까지 일치하는 상품만 연결합니다.",
+        "abvLabel": "54.9%",
+        "referenceOnly": {
+          "note": "아이리시맨 CS 공용 상품은 54.9%로 표기되지만 판매 릴리스 연도가 명시되지 않았습니다. 2022 릴리스 일치를 확인할 수 없어 해당 배치 가격으로 표시하지 않습니다."
+        }
+      },
+      "queries": [
+        {
+          "query": "아이리시맨 CS",
+          "url": "https://api.dailyshot.co/items/search/?q=%EC%95%84%EC%9D%B4%EB%A6%AC%EC%8B%9C%EB%A7%A8+CS&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:28.250Z",
+          "count": 1,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 5831,
+              "name": "디 아이리시맨 CS",
+              "nameTag": null,
+              "enName": "The Irishman Cask Strength"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Irishman Cask Strength 2022",
+          "url": "https://api.dailyshot.co/items/search/?q=Irishman+Cask+Strength+2022&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:29.238Z",
+          "count": 2198,
+          "hasNext": true,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        }
+      ],
+      "candidates": [
+        {
+          "topProductId": 5831,
+          "itemId": 556403,
+          "sourceUrl": "https://dailyshot.co/m/item/5831",
+          "checkedAt": "2026-10-06T04:10:17.080Z",
+          "name": "디 아이리시맨 CS",
+          "enName": "The Irishman Cask Strength",
+          "information": [
+            {
+              "label": "종류",
+              "value": "아이리시 위스키"
+            },
+            {
+              "label": "용량",
+              "value": "700ml"
+            },
+            {
+              "label": "도수",
+              "value": "54.9%"
+            },
+            {
+              "label": "국가",
+              "value": "아일랜드"
+            },
+            {
+              "label": "케이스",
+              "value": "있음"
+            }
+          ],
+          "thumbnailImage": "https://d1e2y5wc27crnp.cloudfront.net/media/smartorder_reservation/product/thumbnail/a64ba678-180e-4d19-9f7d-5dd42af8311e.webp",
+          "status": 0,
+          "serviceType": 1,
+          "featureText": null
+        }
+      ],
+      "offerEvidence": {
+        "url": "https://api.dailyshot.co/item-sellers/?item_id=556403&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+        "checkedAt": "2026-10-06T04:11:11.008Z",
+        "count": 10,
+        "next": null,
+        "offers": [
+          {
+            "itemId": 391184,
+            "topProductId": 5831,
+            "name": "[2019/54도] 디 아이리시맨 CS",
+            "nameTag": "2019/54도",
+            "price": 290000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 42583,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 556403,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 298000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 55734,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 12996,
+            "topProductId": 5831,
+            "name": "[노마진상품] 디 아이리시맨 CS",
+            "nameTag": "노마진상품",
+            "price": 299000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 12,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 179316,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 299000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 16376,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 179467,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 299000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 16377,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 13037,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 299000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 23,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 413936,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 305000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 43548,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 491698,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 339000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 51818,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 153773,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 490000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 15951,
+            "sellerIsActive": true
+          },
+          {
+            "itemId": 78260,
+            "topProductId": 5831,
+            "name": "디 아이리시맨 CS",
+            "nameTag": null,
+            "price": 490000,
+            "status": 0,
+            "serviceType": 1,
+            "sellerId": 3783,
+            "sellerIsActive": true
+          }
+        ]
+      }
+    },
+    {
+      "id": "glenlivet-40",
+      "catalog": {
+        "name": "더 글렌리벳 40년",
+        "englishName": "The Glenlivet 40 Year Old",
+        "abv": 46.9
+      },
+      "existingMapping": null,
+      "queries": [
+        {
+          "query": "글렌리벳 40",
+          "url": "https://api.dailyshot.co/items/search/?q=%EA%B8%80%EB%A0%8C%EB%A6%AC%EB%B2%B3+40&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:29.401Z",
+          "count": 0,
+          "hasNext": false,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Glenlivet 40",
+          "url": "https://api.dailyshot.co/items/search/?q=Glenlivet+40&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:29.497Z",
+          "count": 0,
+          "hasNext": false,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "id": "jack-daniels-single-barrel-barrel-proof-rye",
+      "catalog": {
+        "name": "잭 다니엘스 싱글 배럴 배럴 프루프 라이",
+        "englishName": "Jack Daniel's Single Barrel Barrel Proof Rye",
+        "abv": 62.5,
+        "abvRange": [
+          62.5,
+          72.5
+        ],
+        "abvNote": "2023년 정규 라인 출시 당시 공식 범위는 62.5–72.5%이며 개별 배럴에 따라 달라집니다. 도수 정렬에는 범위의 하한을 사용합니다."
+      },
+      "existingMapping": null,
+      "queries": [
+        {
+          "query": "잭 다니엘스 배럴 프루프 라이",
+          "url": "https://api.dailyshot.co/items/search/?q=%EC%9E%AD+%EB%8B%A4%EB%8B%88%EC%97%98%EC%8A%A4+%EB%B0%B0%EB%9F%B4+%ED%94%84%EB%A3%A8%ED%94%84+%EB%9D%BC%EC%9D%B4&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:29.804Z",
+          "count": 6,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 2576,
+              "name": "잭 다니엘스",
+              "nameTag": null,
+              "enName": "Jack Daniel's"
+            },
+            {
+              "topProductId": 38282,
+              "name": "잭 다니엘스 & 짐빔 화이트 750ml & 커티 삭 700ml",
+              "nameTag": null,
+              "enName": "Jack Daniel's & Jim Beam White 750ml & Cutty Sark 700ml"
+            },
+            {
+              "topProductId": 18031,
+              "name": "잭 다니엘스 & 잭 다니엘스 허니 & 잭 다니엘스 애플",
+              "nameTag": null,
+              "enName": "Jack Daniel's & Jack Daniel's Honey & Jack Daniel's Apple"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Jack Daniels Barrel Proof Rye",
+          "url": "https://api.dailyshot.co/items/search/?q=Jack+Daniels+Barrel+Proof+Rye&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:30.545Z",
+          "count": 822,
+          "hasNext": true,
+          "products": [
+            {
+              "topProductId": 38577,
+              "name": "잭 다니엘스 맥라렌 에디션 2026",
+              "nameTag": null,
+              "enName": "Jack Daniel's McLAREN Edition 2026"
+            },
+            {
+              "topProductId": 6192,
+              "name": "잭 다니엘스 싱글배럴 배럴 스트렝스",
+              "nameTag": "62.5%입니다",
+              "enName": "Jack Daniel's Single Barrel Barrel Strength"
+            },
+            {
+              "topProductId": 6346,
+              "name": "잭 다니엘스 애플",
+              "nameTag": null,
+              "enName": "Jack Daniel's Apple"
+            },
+            {
+              "topProductId": 2576,
+              "name": "잭 다니엘스",
+              "nameTag": null,
+              "enName": "Jack Daniel's"
+            },
+            {
+              "topProductId": 4343,
+              "name": "잭 다니엘스 싱글배럴 셀렉트 45% 700ml",
+              "nameTag": null,
+              "enName": "Jack Daniel's Single Barrel Select 45% 700ml"
+            },
+            {
+              "topProductId": 27044,
+              "name": "잭 다니엘스 본디드",
+              "nameTag": null,
+              "enName": "Jack Daniel's Bonded"
+            },
+            {
+              "topProductId": 3244,
+              "name": "잭 다니엘스 허니",
+              "nameTag": null,
+              "enName": "Jack Daniel's Honey"
+            },
+            {
+              "topProductId": 4641,
+              "name": "잭 다니엘스 1L",
+              "nameTag": null,
+              "enName": "Jack Daniel's 1L"
+            },
+            {
+              "topProductId": 31442,
+              "name": "잭 다니엘스 싱글배럴 배럴 스트렝스 by 주류상회Be",
+              "nameTag": null,
+              "enName": "Jack Daniel's Single Barrel Barrel Strength Store Pick by Liquor Market Be"
+            },
+            {
+              "topProductId": 4846,
+              "name": "잭 다니엘스 싱글배럴 100 프루프",
+              "nameTag": null,
+              "enName": "Jack Daniel's Single Barrel 100 Proof"
+            },
+            {
+              "topProductId": 4842,
+              "name": "잭 다니엘스 500ml",
+              "nameTag": null,
+              "enName": "Jack Daniel's 500ml"
+            },
+            {
+              "topProductId": 31581,
+              "name": "잭 다니엘스 맥라렌 에디션 2024 1L",
+              "nameTag": null,
+              "enName": "Jack Daniel's McLAREN Edition 2024 1L"
+            },
+            {
+              "topProductId": 28768,
+              "name": "잭 다니엘스 허니 700ml 전용잔 패키지(알루미늄컵)",
+              "nameTag": null,
+              "enName": "Jack Daniel's Honey 700ml Glass Package"
+            },
+            {
+              "topProductId": 4845,
+              "name": "잭 다니엘스 싱글배럴 라이",
+              "nameTag": null,
+              "enName": "Jack Daniel's Single Barrel Rye"
+            },
+            {
+              "topProductId": 12253,
+              "name": "잭 다니엘스 200ml",
+              "nameTag": null,
+              "enName": "Jack Daniel's 200ml"
+            },
+            {
+              "topProductId": 9948,
+              "name": "잭 다니엘스 미니어처",
+              "nameTag": null,
+              "enName": "Jack Daniel's Miniature"
+            },
+            {
+              "topProductId": 14060,
+              "name": "잭 다니엘스 허니 미니어처",
+              "nameTag": null,
+              "enName": "Jack Daniel's Honey Miniature"
+            },
+            {
+              "topProductId": 12872,
+              "name": "잭 다니엘스 애플 1L",
+              "nameTag": null,
+              "enName": "Jack Daniel's Apple 1L"
+            },
+            {
+              "topProductId": 12255,
+              "name": "잭 다니엘스 허니 200ml",
+              "nameTag": null,
+              "enName": "Jack Daniel's Honey 200ml"
+            },
+            {
+              "topProductId": 38800,
+              "name": "잭 다니엘스 본디드 전용잔 2개 세트",
+              "nameTag": null,
+              "enName": "Jack Daniel's Bonded 2 Glass Set"
+            },
+            {
+              "topProductId": 28770,
+              "name": "잭 다니엘스 애플 700ml 전용잔 패키지(알루미늄컵)",
+              "nameTag": null,
+              "enName": "Jack Daniel's Apple 700ml Glass Package"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "잭다니엘스라이",
+          "url": "https://api.dailyshot.co/items/search/?q=%EC%9E%AD%EB%8B%A4%EB%8B%88%EC%97%98%EC%8A%A4%EB%9D%BC%EC%9D%B4&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:10:10.800Z",
+          "count": 0,
+          "hasNext": false,
+          "products": []
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "id": "bulleit-barrel-strength",
+      "catalog": {
+        "name": "불릿 배럴 스트렝스",
+        "englishName": "Bulleit Barrel Strength",
+        "abv": 59.7,
+        "abvNote": "공식 미국 제품 페이지가 표기한 59.7% 병입 기준입니다. 배치별 실제 도수는 병 라벨을 확인하세요."
+      },
+      "existingMapping": null,
+      "queries": [
+        {
+          "query": "불릿 배럴 스트렝스",
+          "url": "https://api.dailyshot.co/items/search/?q=%EB%B6%88%EB%A6%BF+%EB%B0%B0%EB%9F%B4+%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:31.201Z",
+          "count": 542,
+          "hasNext": true,
+          "products": [
+            {
+              "topProductId": 4669,
+              "name": "불렛 라이",
+              "nameTag": null,
+              "enName": "Bulleit Rye"
+            },
+            {
+              "topProductId": 3229,
+              "name": "불렛 버번",
+              "nameTag": null,
+              "enName": "Bulleit Bourbon"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Bulleit Barrel Strength",
+          "url": "https://api.dailyshot.co/items/search/?q=Bulleit+Barrel+Strength&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:31.979Z",
+          "count": 557,
+          "hasNext": true,
+          "products": [
+            {
+              "topProductId": 4669,
+              "name": "불렛 라이",
+              "nameTag": null,
+              "enName": "Bulleit Rye"
+            },
+            {
+              "topProductId": 3229,
+              "name": "불렛 버번",
+              "nameTag": null,
+              "enName": "Bulleit Bourbon"
+            }
+          ],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Bulleit",
+          "url": "https://api.dailyshot.co/items/search/?q=Bulleit&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:10:10.487Z",
+          "count": 5,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 4669,
+              "name": "불렛 라이",
+              "enName": "Bulleit Rye",
+              "nameTag": null
+            },
+            {
+              "topProductId": 3229,
+              "name": "불렛 버번",
+              "enName": "Bulleit Bourbon",
+              "nameTag": null
+            },
+            {
+              "topProductId": 4670,
+              "name": "불렛 버번 10년",
+              "enName": "Bulleit Bourbon 10yo",
+              "nameTag": "(더몰트샵 특가)"
+            }
+          ]
+        }
+      ],
+      "candidates": []
+    },
+    {
+      "id": "blue-spot-7-cask-strength",
+      "catalog": {
+        "name": "블루 스팟 7년 캐스크 스트렝스",
+        "englishName": "Blue Spot 7 Year Old Cask Strength",
+        "abv": 58.4,
+        "abvNote": "미첼 앤드 선 공식 판매 페이지의 58.4% 병입 기준입니다. 배치마다 실제 도수가 달라집니다."
+      },
+      "existingMapping": null,
+      "queries": [
+        {
+          "query": "블루 스팟",
+          "url": "https://api.dailyshot.co/items/search/?q=%EB%B8%94%EB%A3%A8+%EC%8A%A4%ED%8C%9F&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:32.760Z",
+          "count": 1631,
+          "hasNext": true,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "Blue Spot",
+          "url": "https://api.dailyshot.co/items/search/?q=Blue+Spot&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:09:33.461Z",
+          "count": 265,
+          "hasNext": true,
+          "products": [],
+          "retainedProductRule": "Only matching target producer/expression retained; counts and pagination reflect full public response."
+        },
+        {
+          "query": "블루스팟",
+          "url": "https://api.dailyshot.co/items/search/?q=%EB%B8%94%EB%A3%A8%EC%8A%A4%ED%8C%9F&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:10:09.836Z",
+          "count": 1,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 31962,
+              "name": "더 위스키 블루스 2009 맥더프 16년",
+              "enName": "The Whisky Blues 2009 Macduff 16yo",
+              "nameTag": null
+            }
+          ]
+        },
+        {
+          "query": "스팟",
+          "url": "https://api.dailyshot.co/items/search/?q=%EC%8A%A4%ED%8C%9F&page=1&page_size=100",
+          "checkedAt": "2026-10-06T04:10:10.211Z",
+          "count": 6,
+          "hasNext": false,
+          "products": [
+            {
+              "topProductId": 23915,
+              "name": "티스팟 블랑",
+              "enName": "Teaspot Blanc",
+              "nameTag": null
+            },
+            {
+              "topProductId": 14354,
+              "name": "와인 스팟스, 소노마 코스트 피노 누아",
+              "enName": "Wine Spots, Sonoma Coast Pinot Noir",
+              "nameTag": null
+            },
+            {
+              "topProductId": 9335,
+              "name": "티스팟 브뤼",
+              "enName": "T'SPOT Brut",
+              "nameTag": null
+            },
+            {
+              "topProductId": 9334,
+              "name": "티스팟 보르도",
+              "enName": "T'SPOT Bordeaux",
+              "nameTag": null
+            }
+          ]
+        }
+      ],
+      "candidates": []
+    }
+  ],
+  "followUp": "탐두 006의 정확한 상품 23535 연결 완료(스토어 판매가 없음). 아이리시맨 2022는 본문의 출시 연도 검증을 추가해 5831을 연결하고 2019년 판매분을 제외했습니다. 나머지 8종은 기존 참고/검색 링크를 유지하며 추가 정확 상품 탐색이 남아 있습니다."
+}

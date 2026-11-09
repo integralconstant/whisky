@@ -1,0 +1,116 @@
+{
+  "entries": [
+    {
+      "id": "macnairs-lum-reek-12",
+      "abv": 46,
+      "source": "https://theglenallachie.com/news/glenallachie-revives-macnairs-blended-malt-scotch-whisky/",
+      "productUrl": "https://dailyshot.co/m/item/4136",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:25:34.322Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-macnairs-lum-reek-12.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/4136",
+        "checkedAt": "2026-10-07T12:27:09.602Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 113881,
+        "volumeMl": 700,
+        "sampleCount": 26,
+        "checkedAt": "2026-10-07T12:27:20.094Z",
+        "sourceUrl": "https://dailyshot.co/m/items/471059/sellers"
+      }
+    },
+    {
+      "id": "macnairs-lum-reek-21",
+      "abv": 48,
+      "source": "https://theglenallachie.com/news/glenallachie-revives-macnairs-blended-malt-scotch-whisky/",
+      "productUrl": "https://dailyshot.co/m/item/7426",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:25:35.843Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-macnairs-lum-reek-21.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/7426",
+        "checkedAt": "2026-10-07T12:27:09.600Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 257250,
+        "volumeMl": 700,
+        "sampleCount": 4,
+        "checkedAt": "2026-10-07T12:27:19.193Z",
+        "sourceUrl": "https://dailyshot.co/m/items/394061/sellers"
+      }
+    },
+    {
+      "id": "macnairs-lum-reek-10-cask-strength-batch-1",
+      "abv": 55.4,
+      "source": "https://impexbev.com/macnairs/",
+      "productUrl": "https://dailyshot.co/m/item/5180",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:25:37.221Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-macnairs-lum-reek-10-cask-strength-batch-1.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/5180",
+        "checkedAt": "2026-10-07T12:27:09.603Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 175500,
+        "volumeMl": 700,
+        "sampleCount": 10,
+        "checkedAt": "2026-10-07T12:27:20.640Z",
+        "sourceUrl": "https://dailyshot.co/m/items/213660/sellers"
+      }
+    },
+    {
+      "id": "macnairs-lum-reek-10-cask-strength-batch-2",
+      "abv": 55.8,
+      "source": "https://macnairs.com/introducing-second-batch-of-lum-reek-10-year-old-cask-strength/",
+      "productUrl": "https://dailyshot.co/m/item/13691",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:25:33.404Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-macnairs-lum-reek-10-cask-strength-batch-2.png",
+        "sourceUrl": "https://macnairs.com/introducing-second-batch-of-lum-reek-10-year-old-cask-strength/",
+        "checkedAt": "2026-10-08T05:37:31.961Z",
+        "review": "공식 원본 사진의 배치 2·55.8%·700ml 라벨을 확인했습니다. 55.5%로 표시된 데일리샷 이미지를 교체했습니다."
+      },
+      "price": {
+        "average": 168607,
+        "volumeMl": 700,
+        "sampleCount": 28,
+        "checkedAt": "2026-10-07T12:27:22.093Z",
+        "sourceUrl": "https://dailyshot.co/m/items/626043/sellers"
+      }
+    },
+    {
+      "id": "macnairs-lum-reek-10-cask-strength-batch-3",
+      "abv": 58.7,
+      "source": "https://macnairs.com/macnairs-debuts-third-batch-of-10-year-old-lum-reek/",
+      "productUrl": "https://dailyshot.co/m/item/38142",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:25:36.545Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-macnairs-lum-reek-10-cask-strength-batch-3.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/38142",
+        "checkedAt": "2026-10-07T12:27:09.757Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 125000,
+        "volumeMl": 700,
+        "sampleCount": 1,
+        "checkedAt": "2026-10-07T12:27:21.760Z",
+        "sourceUrl": "https://dailyshot.co/m/items/548481/sellers"
+      }
+    }
+  ],
+  "integrationCheckedAt": "2026-10-08T05:38:01.698Z",
+  "status": "integrated-with-photos-and-prices"
+}

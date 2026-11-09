@@ -1,0 +1,293 @@
+{
+  "checkedOn": "2026-10-28",
+  "status": "ready-for-integration",
+  "scope": "Laphroaig The 1815 Legacy Edition / The Cask Legacy and Port Wood / Port Wood Casks, both verified 48%/700ml. Research handoff only; no runtime, image-manifest, mapping or price files changed.",
+  "sourcePolicy": "Producer pages establish maturation, tasting notes and naming continuity. Exact Dailyshot pages and visually reviewed bottle photographs establish product identity. No prices saved or updated.",
+  "entries": [
+    {
+      "id": "laphroaig-1815-legacy-edition",
+      "name": "Laphroaig The 1815 Legacy Edition / The Cask Legacy",
+      "nameKo": "라프로익 1815 레거시 에디션",
+      "status": "ready-for-integration",
+      "age": null,
+      "abv": 48,
+      "volumeMl": 700,
+      "caskStrength": false,
+      "maturation": "First-fill bourbon barrels, then new European oak hogsheads",
+      "whisky": {
+        "id": "laphroaig-1815-legacy-edition",
+        "name": "라프로익 1815 레거시 에디션",
+        "englishName": "Laphroaig The 1815 Legacy Edition / The Cask Legacy",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 48,
+        "age": null,
+        "caskStrength": false,
+        "abvNote": "48%·700ml 제품입니다. 공식 현행 표기는 더 캐스크 레거시이며, 데일리샷은 1815 레거시 에디션으로 등록되어 있습니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "핵과일",
+          "건과일",
+          "오크",
+          "우디",
+          "견과류"
+        ],
+        "description": "퍼스트필 버번 배럴에 이어 새 유러피언 오크 호그스헤드에서 숙성한 면세 전용 싱글 몰트. 피트 연기에 구운 살구와 건포도, 달게 졸인 검은 과일의 풍미가 어우러집니다.",
+        "notes": {
+          "nose": "피트 연기에 그을린 살구와 건포도",
+          "palate": "넓게 퍼지는 부드러운 오크와 캐러멜화한 검은 과일, 생기 있는 건과일 풍미",
+          "finish": "견과류와 피트, 기름칠한 나무 향이 오래 남는 여운"
+        },
+        "image": "",
+        "color": "#dfe3d8",
+        "source": "https://www.laphroaig.com/en-gb/global-travel-retail/1815-legacy-edition"
+      },
+      "proposedDescription": "퍼스트필 버번 배럴에 이어 새 유러피언 오크 호그스헤드에서 숙성한 면세 전용 싱글 몰트. 피트 연기에 구운 살구와 건포도, 달게 졸인 검은 과일의 풍미가 어우러집니다.",
+      "proposedNotes": {
+        "nose": "피트 연기에 그을린 살구와 건포도",
+        "palate": "넓게 퍼지는 부드러운 오크와 캐러멜화한 검은 과일, 생기 있는 건과일 풍미",
+        "finish": "견과류와 피트, 기름칠한 나무 향이 오래 남는 여운"
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "핵과일",
+        "건과일",
+        "오크",
+        "우디",
+        "견과류"
+      ],
+      "notesProvenance": {
+        "type": "producer-published-notes",
+        "publisher": "Laphroaig",
+        "sourceUrl": "https://www.laphroaig.com/en-gb/global-travel-retail/1815-legacy-edition",
+        "checkedOn": "2026-10-28",
+        "scope": "Concise Korean paraphrases of the producer's expression-specific Nose, Palate and Finish sections; description also uses the producer's introductory and Maturation text. Retailer tasting notes and personal reviews were not used."
+      },
+      "sources": [
+        {
+          "url": "https://www.laphroaig.com/en-gb/global-travel-retail/1815-legacy-edition",
+          "type": "producer-exact-product-page",
+          "checkedOn": "2026-10-28",
+          "evidence": "Title identifies The 1815 Legacy Edition. Maturation is first-fill bourbon followed by new European oak hogsheads. Current linked front image reads THE CASK LEGACY, 700ml and alc. 48% vol."
+        },
+        {
+          "url": "https://www.laphroaig.com/en-gb/global-travel-retail",
+          "type": "producer-expression-name-bridge",
+          "checkedOn": "2026-10-28",
+          "evidence": "THE CASK LEGACY heading describes Laphroaig 1815 and its Read More link resolves to the 1815 Legacy Edition product page. This establishes the producer's own naming bridge."
+        },
+        {
+          "url": "https://www.heinemann-shop.com/de/global/laphroaig/laphroaig-1815-the-cask-legacy-48vol-700ml/p/000000000001606994/",
+          "type": "retailer-expression-name-corroboration",
+          "checkedOn": "2026-10-28",
+          "evidence": "Title combines both names as Laphroaig 1815 The Cask Legacy 48% 700ml; product description refers to The 1815. Cached product photograph visibly shows the current Cask Legacy bottle and box."
+        },
+        {
+          "url": "https://dailyshot.co/m/item/5267",
+          "type": "retailer-exact-product-identity-only",
+          "checkedOn": "2026-10-28",
+          "evidence": "Laphroaig The 1815 Legacy Edition / 라프로익 1815 레거시 에디션; Information explicitly lists 48% and 700ml. Image shows the older green THE 1815 LEGACY EDITION presentation."
+        }
+      ],
+      "identityDecision": "One catalog expression with both names, supported by the producer's range-to-product link and the retailer's combined title. Dailyshot 5267 is an exact 1815 Legacy 48%/700ml mapping; its older packaging is disclosed rather than treated as a second whisky.",
+      "photoCandidates": [
+        {
+          "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-06/1815_front_png.png.webp?itok=ROcuYAqS",
+          "sourcePage": "https://www.laphroaig.com/en-gb/global-travel-retail/1815-legacy-edition",
+          "sourceName": "Laphroaig",
+          "type": "producer-front-bottle-product-image",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-28",
+          "localReviewCopy": ".cache/laphroaig-travel-versions-1815-official.webp",
+          "fullResolutionReviewCopy": ".cache/laphroaig-travel-versions-cask-legacy-original.png",
+          "dimensions": "1080x1080",
+          "transparentBackground": true,
+          "labelEvidence": "Single front bottle reads LAPHROAIG, CASK COLLECTION, THE CASK LEGACY, 700ml and alc. 48% vol. White cap marked established 1815; no age statement. The full-resolution PNG confirms the small volume/ABV text."
+        }
+      ],
+      "dailyshot": {
+        "status": "exact-product-identity-verified-no-price-update",
+        "productId": 5267,
+        "url": "https://dailyshot.co/m/item/5267",
+        "name": "라프로익 1815 레거시 에디션",
+        "nameEn": "Laphroaig The 1815 Legacy Edition",
+        "abv": 48,
+        "volumeMl": 700,
+        "checkedOn": "2026-10-28",
+        "evidence": "Public product title and Information section explicitly identify the expression, single malt whisky, 700ml, 48% and Scotland. Product image was visually checked against that identity.",
+        "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/smartorder_reservation/product/thumbnail/674f7eb3-22f8-4587-ba2f-d2d13b9aec07.webp",
+        "localReviewCopy": ".cache/laphroaig-travel-versions-1815-dailyshot.webp",
+        "dimensions": "600x600",
+        "imageStatus": "downloaded-and-visually-verified",
+        "imageEvidence": "Older green bottle and cylindrical tube visibly read THE 1815 LEGACY EDITION and show 48% and 70cl. Identity agrees with the public metadata; packaging differs from the current official Cask Legacy photo."
+      },
+      "proposedDailyshotMapping": {
+        "topProductId": 5267,
+        "volumeMl": 700,
+        "productName": "라프로익 1815 레거시 에디션",
+        "englishName": "Laphroaig The 1815 Legacy Edition",
+        "abv": 48,
+        "method": "manual-verified-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/5267",
+        "verifiedAt": "2026-10-28",
+        "note": "공식 면세 제품군의 더 캐스크 레거시 명칭이 1815 레거시 제품 페이지로 연결되는 점과 48%·700ml 라벨을 확인했습니다. 데일리샷은 구형 녹색 1815 레거시 패키지입니다."
+      },
+      "proposedPhotoSource": {
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-06/1815_front_png.png.webp?itok=ROcuYAqS",
+        "sourceUrl": "https://www.laphroaig.com/en-gb/global-travel-retail/1815-legacy-edition",
+        "productName": "Laphroaig The 1815 Legacy Edition / The Cask Legacy",
+        "note": "공식 더 캐스크 레거시 정면 사진에서 48%·700ml를 확인했습니다. 공식 제품군 페이지가 이 명칭을 1815 레거시 에디션과 연결합니다."
+      },
+      "cautions": [
+        "1815 is the distillery founding year, not an age or bottling year; age remains null.",
+        "The exact Dailyshot listing depicts the older 1815 packaging. Do not claim that seller stock necessarily uses the current Cask Legacy packaging.",
+        "The producer establishes expression continuity, not a guarantee that every historical bottling has an identical recipe. Do not create a separate Cask Legacy price mapping without a separately verified listing."
+      ]
+    },
+    {
+      "id": "laphroaig-port-wood",
+      "name": "Laphroaig Port Wood / Port Wood Casks",
+      "nameKo": "라프로익 포트 우드",
+      "status": "ready-for-integration",
+      "age": null,
+      "abv": 48,
+      "volumeMl": 700,
+      "caskStrength": false,
+      "maturation": "First-fill bourbon barrels, then ex-ruby-port cask finish",
+      "whisky": {
+        "id": "laphroaig-port-wood",
+        "name": "라프로익 포트 우드",
+        "englishName": "Laphroaig Port Wood / Port Wood Casks",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 48,
+        "age": null,
+        "caskStrength": false,
+        "abvNote": "48%·700ml의 포트 우드 캐스크 제품입니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "꿀",
+          "초콜릿",
+          "민트",
+          "후추",
+          "핵과일",
+          "베리",
+          "바다·소금"
+        ],
+        "description": "퍼스트필 버번 배럴에서 숙성한 뒤 루비 포트 캐스크로 마무리한 면세 전용 싱글 몰트. 꿀 같은 단맛과 약품을 떠올리게 하는 연기에 붉은 베리와 해초 풍미가 겹칩니다.",
+        "notes": {
+          "nose": "다크 초콜릿과 멘톨, 핑크 페퍼에 구운 복숭아와 그을린 마시멜로, 은은한 자두잼",
+          "palate": "꿀 같은 달콤함과 약품을 떠올리게 하는 피트 연기",
+          "finish": "입안을 따뜻하고 넉넉하게 감싸며 길게 이어지는 여운"
+        },
+        "image": "",
+        "color": "#e4d9e0",
+        "source": "https://www.laphroaig.com/en-gb/global-travel-retail/port-wood"
+      },
+      "proposedDescription": "퍼스트필 버번 배럴에서 숙성한 뒤 루비 포트 캐스크로 마무리한 면세 전용 싱글 몰트. 꿀 같은 단맛과 약품을 떠올리게 하는 연기에 붉은 베리와 해초 풍미가 겹칩니다.",
+      "proposedNotes": {
+        "nose": "다크 초콜릿과 멘톨, 핑크 페퍼에 구운 복숭아와 그을린 마시멜로, 은은한 자두잼",
+        "palate": "꿀 같은 달콤함과 약품을 떠올리게 하는 피트 연기",
+        "finish": "입안을 따뜻하고 넉넉하게 감싸며 길게 이어지는 여운"
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "꿀",
+        "초콜릿",
+        "민트",
+        "후추",
+        "핵과일",
+        "베리",
+        "바다·소금"
+      ],
+      "notesProvenance": {
+        "type": "producer-published-notes",
+        "publisher": "Laphroaig",
+        "sourceUrl": "https://www.laphroaig.com/en-gb/global-travel-retail/port-wood",
+        "checkedOn": "2026-10-28",
+        "scope": "Concise Korean paraphrases of the producer's expression-specific Nose, Palate and Finish sections; description also uses the producer's introductory and Maturation text. Retailer tasting notes and personal reviews were not used."
+      },
+      "sources": [
+        {
+          "url": "https://www.laphroaig.com/en-gb/global-travel-retail/port-wood",
+          "type": "producer-exact-product-page",
+          "checkedOn": "2026-10-28",
+          "evidence": "Port Wood title and linked Port Wood Casks-labelled image establish naming continuity. Producer describes first-fill bourbon maturation followed by a ruby-port finish, with expression-specific tasting notes."
+        },
+        {
+          "url": "https://www.laphroaig.com/en-gb/global-travel-retail",
+          "type": "producer-expression-name-bridge",
+          "checkedOn": "2026-10-28",
+          "evidence": "PORT WOOD CASKS heading and its Read More link resolve to the Port Wood product page; the range introduction describes the same honey sweetness, medicinal smoke, red berries and seaweed."
+        },
+        {
+          "url": "https://dailyshot.co/m/item/32858",
+          "type": "retailer-exact-product-identity-only",
+          "checkedOn": "2026-10-28",
+          "evidence": "Laphroaig Port Wood / 라프로익 포트 우드; Information explicitly lists 48% and 700ml. Thumbnail shows the current purple Cask Collection PORT WOOD CASKS bottle and box, with 48% text on the box."
+        }
+      ],
+      "identityDecision": "Catalog the verified 48%/700ml Port Wood / Port Wood Casks expression. The producer's range-to-product link supports use of its maturation and tasting notes. The exact Dailyshot page and matching purple-labelled product image establish the recorded ABV and volume.",
+      "photoCandidates": [
+        {
+          "url": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/bc402ede-81b6-40ac-9e21-c947a4271b0a.webp",
+          "sourcePage": "https://dailyshot.co/m/item/32858",
+          "sourceName": "Dailyshot",
+          "type": "retailer-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-28",
+          "localReviewCopy": ".cache/laphroaig-travel-versions-port-wood-dailyshot.webp",
+          "dimensions": "600x600",
+          "transparentBackground": false,
+          "labelEvidence": "White-capped bottle and box carry purple CASK COLLECTION / PORT WOOD CASKS labels; box says EXCLUSIVE TO TRAVELLERS. The visible strength is 48%; exact 700ml and 48% values are independently explicit in the product Information section."
+        }
+      ],
+      "dailyshot": {
+        "status": "exact-product-identity-verified-no-price-update",
+        "productId": 32858,
+        "url": "https://dailyshot.co/m/item/32858",
+        "name": "라프로익 포트 우드",
+        "nameEn": "Laphroaig Port Wood",
+        "abv": 48,
+        "volumeMl": 700,
+        "checkedOn": "2026-10-28",
+        "evidence": "Public product title and Information section explicitly identify the expression, single malt whisky, 700ml, 48% and Scotland. Product image was visually checked against that identity.",
+        "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/bc402ede-81b6-40ac-9e21-c947a4271b0a.webp",
+        "localReviewCopy": ".cache/laphroaig-travel-versions-port-wood-dailyshot.webp",
+        "dimensions": "600x600",
+        "imageStatus": "downloaded-and-visually-verified",
+        "imageEvidence": "Purple Cask Collection bottle and box visibly read PORT WOOD CASKS with 48% text. This is the current named presentation and agrees with the 48%/700ml product metadata."
+      },
+      "proposedDailyshotMapping": {
+        "topProductId": 32858,
+        "volumeMl": 700,
+        "productName": "라프로익 포트 우드",
+        "englishName": "Laphroaig Port Wood",
+        "abv": 48,
+        "method": "manual-verified-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/32858",
+        "verifiedAt": "2026-10-28",
+        "note": "데일리샷 32858의 포트 우드 48%·700ml 정보와 보라색 포트 우드 캐스크 병·상자 라벨을 대조했습니다. 공식 면세 제품군은 Port Wood Casks를 Port Wood 제품 페이지로 연결합니다."
+      },
+      "proposedPhotoSource": {
+        "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/bc402ede-81b6-40ac-9e21-c947a4271b0a.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/32858",
+        "productName": "Laphroaig Port Wood / Port Wood Casks",
+        "note": "데일리샷 32858의 보라색 포트 우드 캐스크 병·상자 사진입니다. 제품명과 48%·700ml 정보를 대조했습니다."
+      },
+      "cautions": [
+        "The preferred image is Dailyshot's verified 48% product photograph. The smaller current official image is not used to infer a different strength.",
+        "An earlier unsaved interpretation of the official label as 46% was not verified and is not a product fact. No 46% variant is proposed.",
+        "No age statement is given in the verified expression identity; age remains null. Do not reuse facts or prices from Cairdeas Port-related releases."
+      ]
+    }
+  ]
+}

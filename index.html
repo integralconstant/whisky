@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f8f7f3" />
+    <meta
+      name="description"
+      content="위스키의 향과 맛을 탐색하고, 취향에 맞는 칵테일 레시피를 발견하세요. 이름과 향미 태그로 찾아보는 나만의 위스키 노트."
+    />
+    <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;450;500;550;600;650;700;750;800&display=swap"
+      rel="stylesheet"
+    />
+    <title>WHISKY NOTE — 한 잔의 취향, 당신만의 발견</title>
+    <script>
+      if (window.location.protocol === "file:") {
+        window.location.replace(
+          new URL("./preview.html", window.location.href).href,
+        );
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root">
+      <div
+        style="
+          min-height: 100vh;
+          display: grid;
+          place-content: center;
+          gap: 18px;
+          padding: 28px;
+          box-sizing: border-box;
+          background: #f8f7f3;
+          color: #345245;
+          font-family: sans-serif;
+          text-align: center;
+        "
+      >
+        <strong style="letter-spacing: 2px">WHISKY NOTE</strong>
+        <p style="margin: 0">페이지를 여는 중입니다.</p>
+        <a
+          href="./preview.html"
+          style="
+            display: inline-block;
+            padding: 13px 20px;
+            border-radius: 4px;
+            background: #345245;
+            color: white;
+            text-decoration: none;
+          "
+          >자동으로 열리지 않으면 여기를 눌러 주세요</a
+        >
+        <noscript
+          >검색과 레시피 기능을 사용하려면 브라우저에서 JavaScript를 켜
+          주세요.</noscript
+        >
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

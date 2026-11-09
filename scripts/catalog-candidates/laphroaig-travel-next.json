@@ -1,0 +1,61 @@
+{
+  "checkedOn": "2026-10-14",
+  "status": "producer-facts-collected-label-and-edition-reconciliation-pending-not-integrated",
+  "scope": "Laphroaig travel expressions still missing after PX Cask. Do not register older and revised presentations as identical without verifying ABV and liquid identity.",
+  "entries": [
+    {
+      "name": "12 Year Old Global Travel Exclusive",
+      "source": "https://www.laphroaig.com/global-travel-retail/12-year-old",
+      "age": 12,
+      "abv": 46,
+      "volumeMl": 700,
+      "evidence": "Official rear-bottle photo visibly states OUR 12 YEAR OLD, 700 ml and 46%. Producer says American oak ex-bourbon maturation, no chill filtering and no added colour.",
+      "proposedNotes": {
+        "nose": "바닷소금과 해초, 조린 청사과와 헤더 꿀에 바닐라·페이스트리·헤이즐넛, 말린 오렌지 껍질과 피트의 잔불",
+        "palate": "약품을 연상시키는 향과 소금기 있는 해초, 모닥불에 블랙커런트·핵과일·타임·감초",
+        "finish": "달콤하고 강렬한 감칠맛에 요오드와 기름진 고등어를 떠올리게 하는 여운"
+      },
+      "photo": {
+        "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/Laph%2012%20year%20old_0.jpg.webp?itok=a1_gtnBi",
+        "localReviewCopy": ".cache/laphroaig-12-travel.webp",
+        "status": "rear-label-visually-verified-front-photo-still-needed"
+      },
+      "next": "Integrated with verified official front image and exact46%700ml Dailyshot price.",
+      "status": "integrated",
+      "runtimeId": "laphroaig-12-global-travel-exclusive",
+      "integrationRecord": "laphroaig-12-travel-integration.json"
+    },
+    {
+      "name": "1815 Legacy Edition / The Cask Legacy",
+      "source": "https://www.laphroaig.com/global-travel-retail/1815-legacy-edition",
+      "evidence": "Official page is titled The 1815 Legacy Edition and gives first-fill bourbon then new European oak hogshead maturation. Its current image is instead labelled THE CASK LEGACY, 700ml. Check the label strength at sufficient resolution and establish whether this is the same whisky or a revised expression before applying older 1815 facts/prices.",
+      "proposedNotes": {
+        "nose": "피트 연기와 그을린 살구, 건포도",
+        "palate": "부드러운 오크에 캐러멜라이즈드 짙은 과일과 건과일",
+        "finish": "견과류와 피트, 기름 먹인 나무의 여운"
+      },
+      "photo": {
+        "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-06/1815_front_png.png.webp?itok=ROcuYAqS",
+        "localReviewCopy": ".cache/laphroaig-1815.webp",
+        "status": "visually-inspected-current-cask-legacy-label-needs-edition-reconciliation"
+      },
+      "next": "Resolve older 1815 versus current Cask Legacy identity, ABV and volume; do not assume 48% from older listings."
+    },
+    {
+      "name": "Port Wood / Port Wood Casks",
+      "source": "https://www.laphroaig.com/global-travel-retail/port-wood",
+      "evidence": "Current official front photo clearly labels PORT WOOD CASKS, 700 ml and 46%. Producer page gives first-fill bourbon maturation then ex-ruby-port finish. Older Port Wood listings may use a different strength and must be reconciled before mapping prices.",
+      "proposedNotes": {
+        "nose": "다크 초콜릿과 멘톨, 핑크 페퍼에 구운 복숭아·그을린 마시멜로·자두 잼",
+        "palate": "꿀 같은 단맛에 약품을 떠올리게 하는 연기",
+        "finish": "입안을 따뜻하게 감싸며 길게 남는 여운"
+      },
+      "photo": {
+        "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/single-malt-bottle-port-wood-casks-laphroaig.png.webp?itok=79WTC2k3",
+        "localReviewCopy": ".cache/laphroaig-port-wood.webp",
+        "status": "current-front-label-visually-verified-46-percent-700ml"
+      },
+      "next": "Establish whether 46% Port Wood Casks and the older Port Wood are separate expressions, then match exact Dailyshot strength and volume."
+    }
+  ]
+}

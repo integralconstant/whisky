@@ -1,0 +1,24 @@
+{
+  "laphroaig-12-global-travel-exclusive": {
+    "topProductId": 36582,
+    "volumeMl": 700,
+    "productName": "라프로익 12년",
+    "englishName": "Laphroaig 12yo",
+    "abv": 46,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/36582",
+    "verifiedAt": "2026-10-19",
+    "note": "공식 면세 전용 12년 병입과 데일리샷의 46%·700ml 정보 및 병·상자의 트래블 익스클루시브 표기를 대조했습니다. 10년 CS 배치 12와 구분합니다."
+  },
+  "laphroaig-px-cask": {
+    "topProductId": 24444,
+    "volumeMl": 1000,
+    "productName": "라프로익 PX 캐스크 1L",
+    "englishName": "Laphroaig PX Cask 1L",
+    "abv": 48,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/24444",
+    "verifiedAt": "2026-10-12",
+    "note": "생산자 PX Cask 표현과 데일리샷 제품명·48% 도수·1L 용량을 대조했습니다. 같은 제품의 1000ml 판매처 가격만 비교합니다."
+  }
+}

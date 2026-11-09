@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-10-12",
+  "id": "laphroaig-px-cask",
+  "status": "integrated",
+  "scope": "One PX Cask expression; not completion of the Laphroaig distillery catalog.",
+  "facts": {
+    "sourceUrl": "https://www.laphroaig.com/global-travel-retail/px-cask",
+    "evidence": "Official product page confirms Islay single malt, ex-bourbon barrels followed by quarter casks and PX sherry butts; nose sultanas/raisins/liquorice, palate peat/oak/sweet heavy sherry, finish long and dry with peat and sherried oak.",
+    "abv": 48,
+    "abvSourceUrl": "https://dailyshot.co/m/item/24444",
+    "age": null,
+    "ageEvidence": "The official PX Cask expression has no numeric age statement.",
+    "caskStrength": false,
+    "abvEvidence": "48% was also read from the bottle and box in the real product photograph."
+  },
+  "dailyshot": {
+    "productUrl": "https://dailyshot.co/m/item/24444",
+    "productName": "Laphroaig PX Cask 1L",
+    "volumeMl": 1000,
+    "abv": 48,
+    "status": "priced",
+    "average": 155242,
+    "sampleCount": 33,
+    "checkedAt": "2026-10-13T06:15:55.194Z",
+    "sourceUrl": "https://dailyshot.co/m/items/303351/sellers"
+  },
+  "photo": {
+    "sourceUrl": "https://dailyshot.co/m/item/24444",
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/3cada1ec-d681-4a8a-bb2b-802762cb8e35.webp",
+    "status": "downloaded-and-visually-reviewed",
+    "path": "/images/whisky-laphroaig-px-cask.webp",
+    "checkedAt": "2026-10-13T06:15:47.374Z",
+    "review": "Root viewed local photo: PX Cask Triple Matured bottle and box, 48% and 1L visible."
+  },
+  "integrationCheckedAt": "2026-10-13T06:17:34.744Z"
+}

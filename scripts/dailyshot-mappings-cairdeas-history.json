@@ -1,0 +1,36 @@
+{
+  "laphroaig-cairdeas-2021-px": {
+    "topProductId": 10297,
+    "volumeMl": 750,
+    "productName": "라프로익 카디어스 페드로 히메네즈 2021",
+    "englishName": "LAPHROAIG Cairdeas Pedro Ximenez",
+    "abv": 58.9,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/10297",
+    "verifiedAt": "2026-11-09",
+    "note": "연도·캐스크 표현·58.9%·750ml를 데일리샷 개별 상품과 생산자 페이지에서 대조했습니다. 바이알·다른 연도는 제외합니다.",
+    "priceNote": "카디어스 2021 PX 58.9%·750ml의 판매가입니다. 공식 사진은 700ml 시장용 병이며 가격 비교 용량은 750ml입니다. 일반 PX 캐스크 48%는 제외합니다."
+  },
+  "laphroaig-cairdeas-2022-warehouse-1": {
+    "topProductId": 10298,
+    "volumeMl": 750,
+    "productName": "라프로익 카디어스 웨어하우스 1 2022",
+    "englishName": "LAPHROAIG Cairdeas Warehouse 1",
+    "abv": 52.2,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/10298",
+    "verifiedAt": "2026-11-09",
+    "note": "연도·캐스크 표현·52.2%·750ml를 데일리샷 개별 상품과 생산자 페이지에서 대조했습니다. 바이알·다른 연도는 제외합니다."
+  },
+  "laphroaig-cairdeas-2023-white-port-madeira": {
+    "topProductId": 22709,
+    "volumeMl": 700,
+    "productName": "라프로익 카디어스 2023 화이트 포트 & 마데이라 캐스크",
+    "englishName": "Laphroaig Cairdeas 2023 White Port & Madeira Casks",
+    "abv": 52.3,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/22709",
+    "verifiedAt": "2026-11-09",
+    "note": "연도·캐스크 표현·52.3%·700ml를 데일리샷 개별 상품과 생산자 페이지에서 대조했습니다. 바이알·다른 연도는 제외합니다."
+  }
+}

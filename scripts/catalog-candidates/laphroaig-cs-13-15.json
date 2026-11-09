@@ -1,0 +1,171 @@
+{
+  "checkedAt": "2026-10-09T04:45:05Z",
+  "status": "facts-verified-and-integrated",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 13, 14 and 15 only. Dailyshot matching and its photographs/prices are handled separately by the integrating agent.",
+  "editorialNote": "The producer currently publishes substantially shared tasting notes for these three batches. Similar Korean notes are intentional; do not invent differences. Bottling months were read from the linked official bottle photographs and are not retail release dates.",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-13",
+      "status": "verified",
+      "batchNumber": 13,
+      "bottledMonth": "2021-01",
+      "proposedRuntime": {
+        "id": "laphroaig-10-cask-strength-batch-13",
+        "name": "라프로익 10년 캐스크 스트렝스 배치 13",
+        "englishName": "Laphroaig 10 Year Old Cask Strength Batch 13",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 57.9,
+        "age": 10,
+        "caskStrength": true,
+        "abvNote": "2021년 1월 병입한 배치 13의 도수는 57.9%입니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "바다·소금",
+          "바닐라",
+          "토피",
+          "담배",
+          "가죽",
+          "스파이시"
+        ],
+        "description": "버번을 담았던 그을린 배럴에서 10년 숙성한 뒤 캐스크 스트렝스로 병입한 배치 13. 피트 스모크와 바다의 짭짤함에 바닐라와 토피의 단맛, 향신료가 겹칩니다.",
+        "notes": {
+          "nose": "달콤한 곡물과 신선한 오크, 파이프 담배에 가죽·육두구·바닐라",
+          "palate": "바닐라와 토피의 단맛, 바다 소금에 계피와 후추",
+          "finish": "향신료와 오크 타닌, 요오드와 바다 소금이 길게 남는 여운"
+        },
+        "image": "",
+        "color": "#dce4d7",
+        "source": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-13"
+      },
+      "sources": [
+        {
+          "url": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-13",
+          "type": "producer-product-page",
+          "availability": "accessible",
+          "evidence": "Official product title and introduction identify batch 13 at 57.9%. Maturation specifies ten years in charred former bourbon barrels and natural cask strength. Published nose, palate and finish support the proposed Korean summaries. Description also confirms barrier filtration and peat smoke."
+        },
+        {
+          "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/3122572_Batch_13_1.jpg.webp?itok=VHBdRTqk",
+          "type": "producer-bottle-photograph",
+          "availability": "downloaded-and-visually-reviewed",
+          "localReviewCopy": ".cache/laphroaig-official-batch-13.webp",
+          "evidence": "Visible front label reads batch 013, JAN 21 bottled, aged 10 years and 57.9% ABV. This official image depicts the 750 ml presentation."
+        }
+      ]
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-14",
+      "status": "verified",
+      "batchNumber": 14,
+      "bottledMonth": "2021-06",
+      "proposedRuntime": {
+        "id": "laphroaig-10-cask-strength-batch-14",
+        "name": "라프로익 10년 캐스크 스트렝스 배치 14",
+        "englishName": "Laphroaig 10 Year Old Cask Strength Batch 14",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 58.6,
+        "age": 10,
+        "caskStrength": true,
+        "abvNote": "2021년 6월 병입한 배치 14의 도수는 58.6%입니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "바다·소금",
+          "바닐라",
+          "토피",
+          "담배",
+          "가죽",
+          "스파이시"
+        ],
+        "description": "버번 배럴에서 10년 숙성한 뒤 58.6%의 캐스크 스트렝스로 병입한 배치 14. 피트 스모크에 곡물과 파이프 담배의 향, 바닐라와 캐러멜의 단맛이 어우러집니다.",
+        "notes": {
+          "nose": "달콤한 곡물과 신선한 오크, 파이프 담배에 가죽·육두구·바닐라",
+          "palate": "바닐라와 토피, 바다 소금의 풍미에 계피와 후추",
+          "finish": "향신료와 오크 타닌, 바다 소금이 길게 이어지는 여운"
+        },
+        "image": "",
+        "color": "#dce4d7",
+        "source": "https://www.laphroaig.com/de-de/whiskies/laphroaig-10-cask-strength-batch-14"
+      },
+      "sources": [
+        {
+          "url": "https://www.laphroaig.com/de-de/whiskies/laphroaig-10-cask-strength-batch-14",
+          "type": "producer-product-page",
+          "language": "de",
+          "availability": "accessible",
+          "evidence": "Official German page verifies batch 14 at 58.6%, ten years of former bourbon cask maturation and natural cask strength. Nose and palate match the proposed Korean summaries. Its finish lists spice, oak tannins and sea salt; iodine is not included. Additional product copy explicitly describes peat smoke and caramel."
+        },
+        {
+          "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/3122573_Batch_14_1.jpg.webp?itok=oi4FobNX",
+          "type": "producer-bottle-photograph",
+          "availability": "downloaded-and-visually-reviewed",
+          "localReviewCopy": ".cache/laphroaig-official-batch-14.webp",
+          "evidence": "Visible front label reads batch 014, JUN 21 bottled, aged 10 years, 58.6% ABV and 700 ml."
+        }
+      ],
+      "accessNote": "The expected English /whiskies/10-year-old-cask-strength-batch-14 route was unavailable in this check; the official German product page is the verified source."
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-15",
+      "status": "verified",
+      "batchNumber": 15,
+      "bottledMonth": "2021-12",
+      "proposedRuntime": {
+        "id": "laphroaig-10-cask-strength-batch-15",
+        "name": "라프로익 10년 캐스크 스트렝스 배치 15",
+        "englishName": "Laphroaig 10 Year Old Cask Strength Batch 15",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 56.5,
+        "age": 10,
+        "caskStrength": true,
+        "abvNote": "2021년 12월 병입한 배치 15의 도수는 56.5%입니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "바다·소금",
+          "바닐라",
+          "토피",
+          "담배",
+          "가죽",
+          "스파이시"
+        ],
+        "description": "버번을 담았던 그을린 배럴에서 10년 숙성한 배치 15. 56.5%로 병입했으며 피트 스모크와 바다 소금, 바닐라와 토피, 계피의 풍미가 어우러집니다.",
+        "notes": {
+          "nose": "달콤한 곡물과 신선한 오크, 파이프 담배에 가죽·육두구·바닐라",
+          "palate": "바닐라와 토피의 달콤함에 바다 소금, 계피와 후추",
+          "finish": "향신료와 오크 타닌, 요오드와 바다 소금이 오래 남는 여운"
+        },
+        "image": "",
+        "color": "#dce4d7",
+        "source": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-15"
+      },
+      "sources": [
+        {
+          "url": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-15",
+          "type": "producer-product-page",
+          "availability": "accessible",
+          "evidence": "Official page identifies batch 15 at 56.5%. Maturation specifies ten years in charred former bourbon barrels before natural cask strength bottling. Published tasting notes support the proposed Korean summaries; the description also confirms peat smoke and barrier filtration."
+        },
+        {
+          "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/3122574_Batch_15_1.jpg.webp?itok=6-oyAEqU",
+          "type": "producer-bottle-photograph",
+          "availability": "downloaded-and-visually-reviewed",
+          "localReviewCopy": ".cache/laphroaig-official-batch-15.webp",
+          "evidence": "Visible front label reads batch 015, DEC 21 bottled, aged 10 years, 56.5% ABV and 700 ml."
+        }
+      ]
+    }
+  ],
+  "integrationCheckedAt": "2026-10-10T13:03:37.059Z",
+  "integrationRecord": "laphroaig-cs-12-15-integration.json"
+}

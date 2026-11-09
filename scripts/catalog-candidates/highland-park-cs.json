@@ -1,0 +1,93 @@
+{
+  "checkedAt": "2026-10-06T10:59:38Z",
+  "status": "all-five-verified",
+  "scope": "Existing five runtime entries only; photographs and Dailyshot prices are verified separately by the integrating agent.",
+  "entries": [
+    {
+      "id": "highland-park-cask-strength-release-1",
+      "status": "verified",
+      "abv": 63.3,
+      "sources": [
+        {
+          "url": "https://www.wine.com/product/highland-park-cask-strength-no-1-single-malt-scotch-whisky/770132",
+          "type": "retailer-reproduced-producer-notes",
+          "availability": "accessible",
+          "evidence": "Distiller Notes and product ABV support 63.3%, predominantly sherry-seasoned American oak, violet/vanilla/peat nose, toffee/honey/nutmeg/citrus palate and spiced creme brulee finish."
+        }
+      ],
+      "corrections": [],
+      "note": "Wine.com lists the US 750 ml presentation. This source verifies the expression and notes, not the separate Korean 700 ml Dailyshot mapping."
+    },
+    {
+      "id": "highland-park-cask-strength-release-2",
+      "status": "verified",
+      "abv": 63.9,
+      "sources": [
+        {
+          "url": "https://www.mynewsdesk.com/se/edrington_sweden/pressreleases/highland-park-lanserar-cask-strength-release-no-punkt-2-en-whisky-skapad-foer-att-uppmuntra-utforskandet-av-smaker-3143675",
+          "type": "producer-press-release",
+          "availability": "accessible",
+          "evidence": "Edrington Sweden's 2021-11-11 release confirms 63.9%, no water added after maturation, European/American oak sherry casks plus some former bourbon casks."
+        },
+        {
+          "url": "https://whiskyinternationalonline.com/products/highland-park-cask-strength-release-no-2-63-9",
+          "type": "retailer-reproduced-producer-notes",
+          "availability": "accessible",
+          "evidence": "Official Tasting Notes support rose/pear/coconut/peat nose; poached pear/almond cake/honey/salty liquorice palate; toasted oak/orchard fruit/pepper/anise finish."
+        }
+      ],
+      "corrections": [],
+      "note": "Edrington press release describes a local 350 ml presentation; Whisky International also confirms 700 ml. Do not copy its inconsistent separate 'virgin American oak' profile table: the producer confirms sherry-seasoned American oak."
+    },
+    {
+      "id": "highland-park-cask-strength-release-3",
+      "status": "verified",
+      "abv": 64.1,
+      "sources": [
+        {
+          "url": "https://www.highlandparkwhisky.com/en/cask-strength-release-no-3",
+          "type": "producer-product-page",
+          "availability": "accessible",
+          "evidence": "Producer confirms 64.1%, 700 ml, no dilution, more Orkney peated malt and first-fill sherry-seasoned American/European oak with refill casks. Listed nose, palate and finish agree with the current Korean summaries."
+        }
+      ],
+      "corrections": []
+    },
+    {
+      "id": "highland-park-cask-strength-release-4",
+      "status": "verified-with-accessible-fallback",
+      "abv": 64.3,
+      "sources": [
+        {
+          "url": "https://www.whiskyintelligence.com/2023/06/highland-park-announces-new-cask-strength-release-no-4-scotch-whisky-scotch-whisky-news/",
+          "type": "reproduced-producer-press-release",
+          "availability": "browser-fetch-timeout"
+        },
+        {
+          "url": "https://www.bevnet.com/spirits/2023/highland-park-release-new-cask-strength-no-4-scotch-whisky",
+          "type": "reproduced-producer-press-release",
+          "availability": "accessible",
+          "publishedAt": "2023-05-12",
+          "evidence": "Press Release confirms 64.3%, no dilution/chill filtering, mainly first-fill European sherry oak with American sherry oak, bourbon, port and refill casks. Coconut/lemon/cedar/Turkish delight/peat nose, grapefruit/rosewater/oak/heather palate, spice/liquorice/floral peat finish agree with current summaries."
+        }
+      ],
+      "corrections": [],
+      "recommendedSource": "https://www.bevnet.com/spirits/2023/highland-park-release-new-cask-strength-no-4-scotch-whisky",
+      "note": "Recommend replacing the runtime source with this accessible reproduction of the producer's launch announcement. The current runtime facts and notes require no correction. The older Highland Park /en/cask-strength-release-no-4 route also failed to load in this verification."
+    },
+    {
+      "id": "highland-park-cask-strength-release-5",
+      "status": "verified",
+      "abv": 64.7,
+      "sources": [
+        {
+          "url": "https://www.highlandparkwhisky.com/en/cask-strength-release-no-5",
+          "type": "producer-product-page",
+          "availability": "accessible",
+          "evidence": "Producer confirms 64.7%, 700 ml and no dilution. The Craft supports first-fill European sherry oak, PX, refill, bourbon and first-fill American sherry oak. The Flavour supports clove/bonfire nose, prune/liquorice/heather peat palate and spicy dried fruit/smoked oak finish."
+        }
+      ],
+      "corrections": []
+    }
+  ]
+}

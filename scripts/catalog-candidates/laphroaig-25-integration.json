@@ -1,0 +1,209 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "integrated-verified",
+  "previousCount": 507,
+  "duplicateCheck": "IDs and normalized Korean/English names checked against catalog; exact Dailyshot top-product23528 not already assigned.",
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.laphroaig.com/en-gb/whiskies/25-yo-cask-strength-whisky-2020-edition",
+      "id": "laphroaig-25-cask-strength-2020",
+      "name": "라프로익 25년 캐스크 스트렝스 2020",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2020 Edition",
+      "abv": 49.8,
+      "age": 25,
+      "tags": [
+        "스모키",
+        "피트",
+        "바닐라",
+        "스파이시",
+        "건과일",
+        "크리미",
+        "후추",
+        "사과"
+      ],
+      "description": "25년 숙성 후 내추럴 캐스크 스트렝스로 병입한 2020 에디션. 49.8%의 개별 릴리즈로 기록하며 향미는 해당 연도의 생산자 공식 노트를 요약했습니다.",
+      "notes": {
+        "nose": "절제된 연기와 달콤한 바닐라, 나무 향신료·훈제 베이컨에 은근한 건과일",
+        "palate": "크리미한 질감에 후추·요오드·피트 연기가 겹치고 청사과가 더해지는 맛",
+        "finish": "연기가 물결처럼 이어지며 후추로 마무리되는 긴 여운"
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2020년 49.8% 릴리즈입니다. 공식 사진은 750ml 시장용 병이며 다른 연도의 공용 판매가를 적용하지 않습니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.laphroaig.com/en-gb/whiskies/25-yo-cask-strength-whisky-2021-edition",
+      "id": "laphroaig-25-cask-strength-2021",
+      "name": "라프로익 25년 캐스크 스트렝스 2021",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2021 Edition",
+      "abv": 51.9,
+      "age": 25,
+      "tags": [
+        "스모키",
+        "피트",
+        "바닐라",
+        "스파이시",
+        "건과일",
+        "크리미",
+        "후추",
+        "사과"
+      ],
+      "description": "25년 숙성 후 내추럴 캐스크 스트렝스로 병입한 2021 에디션. 51.9%의 개별 릴리즈로 기록하며 향미는 해당 연도의 생산자 공식 노트를 요약했습니다.",
+      "notes": {
+        "nose": "절제된 연기와 달콤한 바닐라, 나무 향신료·훈제 베이컨에 은근한 건과일",
+        "palate": "크리미한 질감에 후추·요오드·피트 연기가 겹치고 청사과가 더해지는 맛",
+        "finish": "연기가 물결처럼 이어지며 후추로 마무리되는 긴 여운"
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2021년 51.9% 릴리즈입니다. 공식 사진은 750ml 시장용 병이며 다른 연도의 공용 판매가를 적용하지 않습니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.laphroaig.com/whiskies/25-year-old-cask-strength-whisky-2022",
+      "id": "laphroaig-25-cask-strength-2022",
+      "name": "라프로익 25년 캐스크 스트렝스 2022",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2022 Edition",
+      "abv": 53.4,
+      "age": 25,
+      "tags": [
+        "스모키",
+        "피트",
+        "바닐라",
+        "스파이시",
+        "건과일",
+        "크리미",
+        "후추",
+        "사과"
+      ],
+      "description": "25년 숙성 후 내추럴 캐스크 스트렝스로 병입한 2022 에디션. 53.4%의 개별 릴리즈로 기록하며 향미는 해당 연도의 생산자 공식 노트를 요약했습니다.",
+      "notes": {
+        "nose": "절제된 연기와 달콤한 바닐라, 나무 향신료·훈제 베이컨에 은근한 건과일",
+        "palate": "크리미한 질감에 후추·요오드·피트 연기가 겹치고 청사과가 더해지는 맛",
+        "finish": "연기가 물결처럼 이어지며 후추로 마무리되는 긴 여운"
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2022년 53.4% 릴리즈입니다. 공식 사진은 750ml 시장용 병이며 다른 연도의 공용 판매가를 적용하지 않습니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.laphroaig.com/whiskies/25-year-old-cask-strength-2023",
+      "id": "laphroaig-25-cask-strength-2023",
+      "name": "라프로익 25년 캐스크 스트렝스 2023",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2023 Edition",
+      "abv": 47.3,
+      "age": 25,
+      "tags": [
+        "과일",
+        "사과",
+        "크리미",
+        "빵·비스킷",
+        "스모키",
+        "계피",
+        "열대과일",
+        "핵과일",
+        "후추",
+        "시트러스"
+      ],
+      "description": "버번 캐스크에서 25년 숙성하고 냉각 여과 없이 47.3% 캐스크 스트렝스로 병입한 2023 에디션. 향미와 숙성 설명은 해당 연도의 생산자 공식 정보를 따릅니다.",
+      "notes": {
+        "nose": "배 사탕과 청사과, 커스터드와 따뜻한 페이스트리에 훈제 햄·계피",
+        "palate": "파인애플과 복숭아·망고의 풍성한 과일에 은근한 백후추와 바비큐한 오렌지 껍질",
+        "finish": "부드럽고 길게 이어지며 숙성된 연기 풍미가 남는 여운"
+      },
+      "image": "",
+      "color": "#f3efdf",
+      "caskStrength": true,
+      "abvNote": "2023년 47.3%·700ml 릴리즈입니다. 일반 25년 CS 공용 상품과 구분합니다."
+    }
+  ],
+  "notesProvenance": "Exact annual producer pages paraphrased in Korean.2020–2022 publish the same notes;2023 distinct notes kept.",
+  "photoReview": "2020:49.8%750ml,2021:51.9%750ml,2022:53.4%750ml,2023:47.3%700ml. All25yearCS labels inspected.2020 small ABV rechecked at original resolution.",
+  "cautions": "2020–2022 producer body mentions Oloroso but official front labels say bourbon casks; no specific cask recipe asserted in catalog descriptions.2023 exact page and label agree bourbon. Search metadata titles about10yo ignored in favor of exact body and labels. Shared Dailyshot9106 is45–54%700ml and not proof of any annual release; no annual price copied from it.",
+  "currentCount": 511,
+  "existingEntriesPreserved": 507,
+  "results": [
+    {
+      "id": "laphroaig-25-cask-strength-2020",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2020.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202020",
+        "productName": "라프로익 25년 캐스크 스트렝스 2020",
+        "checkedAt": "2026-11-09T00:45:51.678Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-25-cask-strength-2021",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2021.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202021",
+        "productName": "라프로익 25년 캐스크 스트렝스 2021",
+        "checkedAt": "2026-11-09T00:45:51.680Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-25-cask-strength-2022",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2022.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202022",
+        "productName": "라프로익 25년 캐스크 스트렝스 2022",
+        "checkedAt": "2026-11-09T00:45:56.307Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-25-cask-strength-2023",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2023.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/item/23528",
+        "productName": "라프로익 25년 CS 2023 에디션",
+        "checkedAt": "2026-11-09T00:46:01.238Z",
+        "scope": "exact-product",
+        "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+      },
+      "price": {
+        "average": 999000,
+        "currency": "KRW",
+        "volumeMl": 700,
+        "sampleCount": 1,
+        "min": 999000,
+        "max": 999000,
+        "checkedAt": "2026-11-09T00:46:01.548Z",
+        "sourceUrl": "https://dailyshot.co/m/items/641644/sellers",
+        "offers": [
+          {
+            "price": 999000,
+            "url": "https://dailyshot.co/m/item/23528?item=641644&seller=18628",
+            "seller": "아람 위스키&칵테일 bar"
+          }
+        ]
+      }
+    }
+  ]
+}

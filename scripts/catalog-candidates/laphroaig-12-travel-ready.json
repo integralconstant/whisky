@@ -1,0 +1,109 @@
+{
+  "checkedOn": "2026-10-19",
+  "status": "integrated-see-integration-record",
+  "scope": "Laphroaig 12 Year Old Global Travel Exclusive, 46%, 700ml only. Research handoff; no runtime, image-manifest, matching or price changes.",
+  "previousResearch": "scripts/catalog-candidates/laphroaig-travel-next.json",
+  "sourcePolicy": "Producer product page and bottle labels establish facts and tasting notes. Dailyshot establishes the exact public product identity only; no price was saved or updated.",
+  "entries": [
+    {
+      "id": "laphroaig-12-global-travel-exclusive",
+      "name": "Laphroaig 12 Year Old Global Travel Exclusive",
+      "nameKo": "라프로익 12년 글로벌 트래블 익스클루시브",
+      "status": "ready-for-integration",
+      "age": 12,
+      "abv": 46,
+      "volumeMl": 700,
+      "caskStrength": false,
+      "chillFiltered": false,
+      "addedColour": false,
+      "maturation": "Fully matured in American oak ex-bourbon barrels",
+      "sources": [
+        {
+          "url": "https://www.laphroaig.com/global-travel-retail/12-year-old",
+          "type": "producer-exact-product-page",
+          "checkedOn": "2026-10-19",
+          "evidence": "Producer identifies the 12 Year Old Global Travel Exclusive, maturation exclusively in American oak ex-bourbon barrels, no chill filtering and no added colour. The official front and rear bottle images both visibly state 700ml and 46%. The front additionally identifies age 12 and the travel-exclusive presentation."
+        },
+        {
+          "url": "https://dailyshot.co/m/item/36582",
+          "type": "retailer-exact-product-identity-only",
+          "checkedOn": "2026-10-19",
+          "evidence": "Public product title is 라프로익 12년 / Laphroaig 12yo. Information lists 700ml, 46%, single malt whisky, Scotland and Islay. Product thumbnail visibly shows age 12 and the travel-exclusive wording on both bottle and box, matching the official presentation."
+        }
+      ],
+      "proposedDescription": "아메리칸 오크 버번 캐스크에서 12년 숙성한 여행 소매점 전용 싱글몰트. 냉각 여과와 색소 첨가 없이 46%로 병입하며, 바다 향과 피트 연기에 과일과 바닐라가 겹친다.",
+      "proposedNotes": {
+        "nose": "바닷소금과 해초, 조린 청사과와 헤더 꿀에 바닐라·페이스트리·헤이즐넛, 말린 오렌지 껍질과 피트의 잔불",
+        "palate": "약품을 연상시키는 향과 소금기 있는 해초, 모닥불에 블랙커런트·핵과일·타임·감초",
+        "finish": "달콤하고 강렬한 감칠맛에 요오드와 기름진 고등어를 떠올리게 하는 여운"
+      },
+      "notesProvenance": {
+        "type": "producer-published-notes",
+        "publisher": "Laphroaig",
+        "sourceUrl": "https://www.laphroaig.com/global-travel-retail/12-year-old",
+        "checkedOn": "2026-10-19",
+        "scope": "Concise Korean paraphrases of the exact 12 Year Old Global Travel Exclusive page's Nose, Palate and Finish sections. Preserves the earlier verified proposal; rechecked against the current producer page. No retailer or personal-review tasting notes used."
+      },
+      "proposedTags": [
+        "피트",
+        "스모키",
+        "바다·소금",
+        "사과",
+        "꿀",
+        "바닐라",
+        "빵·비스킷",
+        "견과류",
+        "시트러스",
+        "베리",
+        "핵과일",
+        "허브",
+        "오일리"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/islay-single-malt-12-years-bottle-laphroaig.png.webp?itok=H28Qo5Ej",
+          "sourcePage": "https://www.laphroaig.com/global-travel-retail/12-year-old",
+          "sourceName": "Laphroaig",
+          "type": "producer-front-bottle-product-image",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-19",
+          "localReviewCopy": ".cache/laphroaig-12-travel-front.webp",
+          "dimensions": "2500x2500",
+          "transparentBackground": true,
+          "labelEvidence": "Front bottle label visibly reads LAPHROAIG, age 12, EXCLUSIVE TO TRAVELLERS, 700ml and alc. 46% vol. Single bottle cutout; no box or scenic background. The exact front bottle image is linked from the official product-page gallery."
+        }
+      ],
+      "rearLabelCorroboration": {
+        "url": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/Laph%2012%20year%20old_0.jpg.webp?itok=a1_gtnBi",
+        "sourcePage": "https://www.laphroaig.com/global-travel-retail/12-year-old",
+        "localReviewCopy": ".cache/laphroaig-12-travel.webp",
+        "status": "previously-verified-and-visually-rechecked",
+        "checkedOn": "2026-10-19",
+        "labelEvidence": "Rear label identifies the 12-year-old whisky and clearly shows 700ml and alc. 46% vol. This corroborates the same values visible on the new front image."
+      },
+      "dailyshot": {
+        "status": "exact-product-identity-verified-no-price-update",
+        "productId": 36582,
+        "url": "https://dailyshot.co/m/item/36582",
+        "name": "라프로익 12년",
+        "nameEn": "Laphroaig 12yo",
+        "abv": 46,
+        "volumeMl": 700,
+        "checkedOn": "2026-10-19",
+        "evidence": "Public Information section explicitly lists 700ml and 46%. Product image confirms age 12 and travel-exclusive bottle/box identity. URL product ID 36582 is the catalog identity; seller-specific query parameters are not needed for the mapping.",
+        "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/a1e927a2-6653-4370-ba18-36d108e13f23.webp",
+        "localReviewCopy": ".cache/laphroaig-12-travel-front.dailyshot.webp",
+        "dimensions": "600x600",
+        "imageStatus": "downloaded-and-visually-verified",
+        "imageEvidence": "Bottle and box both visibly show age 12 and travel-exclusive wording, with the same white-and-green presentation as the official front. Small ABV/volume text is not used as sole evidence; those values are explicit in the page Information section."
+      },
+      "cautions": [
+        "The preferred asset is the official front bottle image; the old cached file laphroaig-12-travel.webp is a rear-label photo and should not be used as the catalog hero.",
+        "Do not confuse this release with Laphroaig 10 Year Old Cask Strength Batch 12 or independently bottled 12-year-old Laphroaig.",
+        "The producer page supplies no bottling year; the image-upload directory date is not a release or bottling date."
+      ],
+      "runtimeStatus": "integrated"
+    }
+  ],
+  "integrationRecord": "laphroaig-12-travel-integration.json"
+}

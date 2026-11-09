@@ -1,0 +1,115 @@
+{
+  "checkedOn": "2026-10-28",
+  "status": "integrated-awaiting-cohort-validation",
+  "scope": "Regular Laphroaig Triple Wood, NAS, 48%, 700ml. Excludes Cairdeas 2019 Triple Wood Cask Strength. Research handoff only; no runtime or price changes.",
+  "entries": [
+    {
+      "runtime": {
+        "id": "laphroaig-triple-wood",
+        "name": "라프로익 트리플 우드",
+        "englishName": "Laphroaig Triple Wood",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 48,
+        "age": null,
+        "caskStrength": false,
+        "abvNote": "48%·700ml의 일반 트리플 우드입니다. 카디어스 2019 트리플 우드 CS와는 다른 제품입니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "건과일",
+          "핵과일",
+          "견과류",
+          "바닐라",
+          "과일",
+          "셰리",
+          "크리미",
+          "캐러멜",
+          "부드러운"
+        ],
+        "description": "아메리칸 오크 버번 배럴, 작은 쿼터 캐스크, 유러피언 오크 올로로소 셰리 캐스크를 차례로 거친 싱글 몰트. 피트와 모닥불의 향에 건포도·살구·견과류와 부드러운 단맛이 더해집니다.",
+        "notes": {
+          "nose": "달콤한 건포도와 크리미한 살구, 견과류에 모닥불의 재와 흙내음 나는 피트",
+          "palate": "크리미한 바닐라와 과일, 은은한 셰리의 단맛",
+          "finish": "입안을 채우며 매우 길게 이어지고, 달콤하고 매끄러운 캐러멜이 균형을 잡는 여운"
+        },
+        "image": "",
+        "color": "#e8ede3",
+        "source": "https://www.laphroaig.com/whiskies/iconic/triple-wood"
+      },
+      "photoSource": {
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/Laphroaig-triple-wood-bottle-and-tube.jpg.webp?itok=h1rUY8Xf",
+        "sourceUrl": "https://www.laphroaig.com/whiskies/iconic/triple-wood",
+        "productName": "Laphroaig Triple Wood",
+        "note": "생산자의 병·튜브 및 뒷면 사진에서 Triple Wood·48%·70cl을 직접 확인했습니다."
+      },
+      "dailyshotMapping": {
+        "topProductId": 4813,
+        "volumeMl": 700,
+        "productName": "라프로익 트리플 우드",
+        "englishName": "Laphroaig Triple Wood",
+        "abv": 48,
+        "method": "manual-verified-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/4813",
+        "verifiedAt": "2026-10-28",
+        "note": "48% 일반 트리플 우드와 데일리샷의 상품명·48%·700ml 정보를 확인했습니다. 데일리샷 대표 사진은 750ml 구형 포장이므로 앱에는 700ml 생산자 사진을 사용하고 가격은 상품 정보의 700ml 판매분만 집계합니다. 카디어스 2019 CS는 제외합니다."
+      },
+      "photoReview": {
+        "checkedOn": "2026-10-28",
+        "officialFront": ".cache/laphroaig-triple-wood-official-front.webp",
+        "officialRear": ".cache/laphroaig-triple-wood-official-rear.webp",
+        "dailyshot": ".cache/laphroaig-triple-wood-dailyshot.webp",
+        "finding": "Official front tube and rear bottle labels clearly say48%70cl. Dailyshot image is older750ml48% packaging, while listing metadata explicitly says700ml48%. App uses official700ml image; mapping and offer collection target700ml only."
+      },
+      "tastingNotes": {
+        "source": "https://www.laphroaig.com/whiskies/iconic/triple-wood",
+        "basis": "Producer notes paraphrased in Korean; no Dailyshot generic tasting notes used."
+      },
+      "priceCheck": {
+        "status": "no-available-store-offers",
+        "name": "라프로익 트리플 우드",
+        "topProductId": 4813,
+        "volumeMl": 700,
+        "rawOfferCount": 0,
+        "acceptedOfferCount": 0,
+        "pages": [
+          {
+            "url": "https://api.dailyshot.co/item-sellers/?item_id=385345&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+            "checkedAt": "2026-10-28T04:08:24.277Z",
+            "count": 0
+          }
+        ]
+      },
+      "exclusions": [
+        "Cairdeas2019TripleWoodCaskStrength is a different expression.",
+        "No eligible domestic store offers on2026-10-28; product link remains without an average."
+      ]
+    }
+  ],
+  "verifiedSoFar": [
+    {
+      "name": "Laphroaig Triple Wood",
+      "source": "https://www.laphroaig.com/whiskies/iconic/triple-wood",
+      "maturation": "American oak ex-bourbon barrels, followed by small quarter casks, then large European oak Oloroso sherry casks.",
+      "notesEvidence": "Official Nose: raisins, apricot creaminess, nuts, bonfire ash, earthy peat. Palate: vanilla, fruit, creaminess, sherry sweetness. Finish: very long and full, sweet smooth caramel.",
+      "photoUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/Laphroaig-triple-wood-bottle-and-tube.jpg.webp?itok=h1rUY8Xf",
+      "photoStatus": "pending-download-and-visual-review",
+      "dailyshot": {
+        "productId": 4813,
+        "url": "https://dailyshot.co/m/item/4813",
+        "name": "라프로익 트리플 우드",
+        "nameEn": "Laphroaig Triple Wood",
+        "abv": 48,
+        "volumeMl": 700,
+        "metadataEvidence": "Public title and Information section explicitly identify the regular Triple Wood, single malt whisky, 700ml, 48%, Scotland.",
+        "imageStatus": "pending-visual-review"
+      },
+      "corroboration": {
+        "url": "https://lochsofwhisky.com/laphroaig-triple-wood",
+        "evidence": "Product Facts expressly list Age Statement NAS, ABV 48, bottle size 70cl and Cask Strength No."
+      }
+    }
+  ]
+}

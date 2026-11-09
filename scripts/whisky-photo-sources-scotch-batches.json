@@ -1,0 +1,20 @@
+{
+  "glenallachie-10-cask-strength-batch-12": {
+    "imageUrl": "https://reallygoodwhisky.com/cdn/shop/files/Photo001_c555c640-4446-4e7d-b5c0-5c12d4af0553.jpg?v=1763374922",
+    "sourceUrl": "https://reallygoodwhisky.com/en-us/products/the-glenallachie-10-year-old-cask-strength-batch-11-single-malt-70cl-59-4",
+    "productName": "The GlenAllachie 10 Year Old Cask Strength Batch 12",
+    "note": "현재 판매 페이지의 제품 사진은 배치 12, 59.7%입니다. 판매처의 이전 배치 11 URL이 유지되어 있어 사진의 배치 12 라벨을 기준으로 연결했습니다."
+  },
+  "laphroaig-10-cask-strength-batch-16": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-07/Laphroaig_Batch16-BottleFront_4622143.png.webp?itok=810hb-6O",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-16",
+    "productName": "Laphroaig 10 Year Old Cask Strength Batch 16",
+    "note": "공식 배치 16 제품 페이지의 정면 병 사진입니다."
+  },
+  "bunnahabhain-12-cask-strength-2023": {
+    "imageUrl": "https://whiskyinternationalonline.com/cdn/shop/files/bunnahabhain_12_yo_2023_cask_strength_v2.jpg?v=1719089097&width=600",
+    "sourceUrl": "https://whiskyinternationalonline.com/products/bunnahabhain-12-year-old-cask-strength-2023-edition-60-1",
+    "productName": "Bunnahabhain 12 Year Old Cask Strength 2023 Edition",
+    "note": "2023 Cask Strength Edition, 60.1%가 표기된 실제 제품 사진입니다."
+  }
+}

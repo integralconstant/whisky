@@ -1,0 +1,72 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "listed-2020-2023-releases-integrated-older-and-newer-releases-remain",
+  "instruction": "Continue Laphroaig. Register identifiable releases with real photographs even without Dailyshot; do not mix annual releases in price averages. UI unchanged.",
+  "entries": [
+    {
+      "name": "Laphroaig25YearOldCaskStrength2020",
+      "source": "https://www.laphroaig.com/en-gb/whiskies/25-yo-cask-strength-whisky-2020-edition",
+      "age": 25,
+      "abv": 49.8,
+      "caskStrength": true,
+      "maturation": "Ex-bourbon and Oloroso sherry casks",
+      "notes": {
+        "nose": "Restrained smoke,vanilla,wood spice,smoked bacon,dried fruit",
+        "palate": "Creamy layers,pepper,iodine,peat,green apple",
+        "finish": "Lingering smoke and pepper"
+      },
+      "next": "Inspect exact2020 official front image linked on page. Verify release year,ABV,volume and any Dailyshot offers.",
+      "status": "integrated",
+      "integrationRecord": "laphroaig-25-integration.json"
+    },
+    {
+      "name": "Laphroaig25YearOldCaskStrength2021",
+      "source": "https://www.laphroaig.com/en-gb/whiskies/25-yo-cask-strength-whisky-2021-edition",
+      "age": 25,
+      "abv": 51.9,
+      "caskStrength": true,
+      "maturation": "Ex-bourbon and Oloroso sherry casks",
+      "notes": {
+        "nose": "Restrained smoke,vanilla,wood spice,smoked bacon,dried fruit",
+        "palate": "Creamy layers,pepper,iodine,peat,green apple",
+        "finish": "Lingering smoke and pepper"
+      },
+      "next": "Inspect bottle-with-box image linked on exact2021 page; do not substitute neighboring release.",
+      "status": "integrated",
+      "integrationRecord": "laphroaig-25-integration.json"
+    },
+    {
+      "name": "Laphroaig25YearOldCaskStrength2022",
+      "source": "https://www.laphroaig.com/whiskies/25-year-old-cask-strength-whisky-2022",
+      "age": 25,
+      "abv": 53.4,
+      "caskStrength": true,
+      "maturation": "Ex-bourbon and Oloroso sherry casks",
+      "notes": {
+        "nose": "Restrained smoke,vanilla,wood spice,smoked bacon,dried fruit",
+        "palate": "Creamy layers,pepper,iodine,peat,green apple",
+        "finish": "Lingering smoke and pepper"
+      },
+      "next": "Body title confirms25yo2022 despite incorrect search metadata title about10yo. Inspect linked2022 bottle image.",
+      "status": "integrated",
+      "integrationRecord": "laphroaig-25-integration.json"
+    },
+    {
+      "name": "Laphroaig25YearOldCaskStrength2023",
+      "source": "https://www.laphroaig.com/whiskies/25-year-old-cask-strength-2023",
+      "age": 25,
+      "abv": 47.3,
+      "caskStrength": true,
+      "maturation": "Ex-bourbon only per exact2023 producer page; do not copy Oloroso recipe from2020–2022",
+      "notes": {
+        "nose": "Pear sweets,green apple,custard,pastry,smoked ham,cinnamon",
+        "palate": "Pineapple,peach,mango,white pepper,barbecued orange peel",
+        "finish": "Long,soft,evolved smoke"
+      },
+      "next": "Body identifies25yo2023 despite incorrect10yo search title. Inspect official front/rear release47.3% and volume.",
+      "status": "integrated",
+      "integrationRecord": "laphroaig-25-integration.json"
+    }
+  ],
+  "remaining": "Older25yo annualCS and newer editions; historicalCairdeas variants; IanHunter books,StrongCharacters,30yo,Archive,Wall,Friendship singlecasks,other explicit independent bottlings. Inventory is not exhaustive."
+}

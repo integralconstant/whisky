@@ -1,0 +1,50 @@
+{
+  "glenfarclas-105": {
+    "imageUrl": "https://aem.lcbo.com/content/dam/lcbo/products/6/7/7/0/677047.jpg.thumb.1280.1280.jpg",
+    "sourceUrl": "https://www.lcbo.com/en/glenfarclas-105-cask-strength-highland-single-malt-scotch-whisky-677047",
+    "productName": "Glenfarclas 105 Cask Strength",
+    "note": "숙성 연수 미표기 105 캐스크 스트렝스 60% 제품의 병 사진입니다."
+  },
+  "aberlour-abunadh": {
+    "imageUrl": "https://www.abbeywhisky.com/cdn/shop/products/aw00021-aberlour-abunadh-batch-46-whisky_811x1200.jpg?v=1602546218",
+    "sourceUrl": "https://www.abbeywhisky.com/products/aberlour-a-bunadh-batch-46",
+    "productName": "Aberlour A'bunadh Cask Strength",
+    "note": "Abbey Whisky의 아부나흐 배치 46 캐스크 스트렝스 제품 사진입니다. 대표 이미지의 배치와 도수는 카탈로그에 표기한 참고 배치와 다를 수 있습니다."
+  },
+  "aberlour-abunadh-alba": {
+    "imageUrl": "https://www.thebarreltap.com/cdn/shop/files/AberlourA_BunadhAlbaScotchWhisky750mL.webp?v=1759255736",
+    "sourceUrl": "https://www.thebarreltap.com/products/aberlour-abunadh-alba-scotch",
+    "productName": "Aberlour A'bunadh Alba Cask Strength",
+    "note": "The Barrel Tap의 아부나흐 알바 캐스크 스트렝스 제품 사진입니다. 대표 이미지의 배치와 도수는 카탈로그에 표기한 참고 배치와 다를 수 있습니다."
+  },
+  "glenallachie-10-cask-strength-batch-13": {
+    "imageUrl": "https://shop.theglenallachie.com/cdn/shop/files/TheGlenAllachie10-year-oldCaskStrengthBatch13Shopify.png?v=1781707405",
+    "sourceUrl": "https://shop.theglenallachie.com/products/the-glenallachie-10-year-old-cask-strength-batch-13",
+    "productName": "The GlenAllachie 10 Year Old Cask Strength Batch 13",
+    "note": "공식 숍의 배치 13 사진이며 59.8% 라벨을 확인했습니다."
+  },
+  "tamdhu-batch-strength-006": {
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0428/1722/4864/files/tamdhu-batch-strength-no-006-single-malt-whisky-review-tasting-notes_1024x1024.jpg?v=1629537759",
+    "sourceUrl": "https://topwhiskies.com/blogs/whisky-news/tamdhu-batch-strength-006",
+    "productName": "Tamdhu Batch Strength No. 006",
+    "note": "배치 006, 56.8%가 표시된 실물 제품 사진입니다."
+  },
+  "laphroaig-10-cask-strength-batch-17": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/islay-single-malt-cask-strength-bottle-laphroaig.png.webp?itok=467C-XDh",
+    "sourceUrl": "https://www.laphroaig.com/en-gb/whiskies/10-year-old-cask-strength-batch-17",
+    "productName": "Laphroaig 10 Year Old Cask Strength Batch 17",
+    "note": "공식 배치 17 제품 페이지의 캐스크 스트렝스 병 사진입니다."
+  },
+  "bunnahabhain-12-cask-strength-2025": {
+    "imageUrl": "https://bunnahabhain.com/cdn/shop/files/Bunnahabhain-12-Year-Old-Cask-Strength-2025-Edition-No-Background.png?v=1770384208",
+    "sourceUrl": "https://bunnahabhain.com/products/12-year-old-cask-strength-2025-edition",
+    "productName": "Bunnahabhain 12 Year Old Cask Strength 2025 Edition",
+    "note": "공식 2025 에디션의 제품 사진입니다."
+  },
+  "springbank-12-cask-strength-2026": {
+    "imageUrl": "https://www.springbank.scot/wp-content/uploads/sites/2/2026/07/SB-12CS-PLAIN-BOTTLE-SHOT-scaled.png",
+    "sourceUrl": "https://www.springbank.scot/whisky/springbank-range/",
+    "productName": "Springbank 12 Year Old Cask Strength 2026",
+    "note": "공식 2026 12년 캐스크 스트렝스 제품 섹션에 연결된 실물 병 사진입니다."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "macnairs-lum-reek-12": {
+    "topProductId": 4136,
+    "volumeMl": 700,
+    "productName": "맥네어스 럼 릭 블렌디드 몰트 12년",
+    "englishName": "Macnair's Lum Reek Blended Malt 12yo",
+    "abv": 46,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/4136",
+    "verifiedAt": "2026-10-07",
+    "note": "생산자 제품명·연산·도수 및 배치 번호를 확인했습니다. 맥네어스 Exploration Rum과 다른 위스키이며 700ml 단일 제품만 비교합니다."
+  },
+  "macnairs-lum-reek-21": {
+    "topProductId": 7426,
+    "volumeMl": 700,
+    "productName": "맥네어스 럼 릭 21년 피티드 스몰 배치",
+    "englishName": "Macnair's Lum Reek 21yo Peated Small Batch",
+    "abv": 48,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/7426",
+    "verifiedAt": "2026-10-07",
+    "note": "생산자 제품명·연산·도수 및 배치 번호를 확인했습니다. 맥네어스 Exploration Rum과 다른 위스키이며 700ml 단일 제품만 비교합니다."
+  },
+  "macnairs-lum-reek-10-cask-strength-batch-1": {
+    "topProductId": 5180,
+    "volumeMl": 700,
+    "productName": "맥네어스 럼 릭 10년 CS 피티드 배치 1",
+    "englishName": "Macnair's Lum Reek 10yo Cask Strength Peated Batch 1",
+    "abv": 55.4,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/5180",
+    "verifiedAt": "2026-10-07",
+    "note": "생산자 제품명·연산·도수 및 배치 번호를 확인했습니다. 맥네어스 Exploration Rum과 다른 위스키이며 700ml 단일 제품만 비교합니다."
+  },
+  "macnairs-lum-reek-10-cask-strength-batch-2": {
+    "topProductId": 13691,
+    "volumeMl": 700,
+    "productName": "맥네어스 럼 릭 10년 CS 피티드 배치 2",
+    "englishName": "Macnair's Lum Reek 10yo Cask Strength Peated Batch 2",
+    "abv": 55.8,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/13691",
+    "verifiedAt": "2026-10-07",
+    "note": "생산자 제품명·연산·도수 및 배치 번호를 확인했습니다. 맥네어스 Exploration Rum과 다른 위스키이며 700ml 단일 제품만 비교합니다."
+  },
+  "macnairs-lum-reek-10-cask-strength-batch-3": {
+    "topProductId": 38142,
+    "volumeMl": 700,
+    "productName": "맥네어스 럼 릭 10년 CS 피티드 배치 3",
+    "englishName": "Macnair's Lum Reek 10yo Cask Strength Peated Batch 3",
+    "abv": 58.7,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/38142",
+    "verifiedAt": "2026-10-07",
+    "note": "생산자 제품명·연산·도수 및 배치 번호를 확인했습니다. 맥네어스 Exploration Rum과 다른 위스키이며 700ml 단일 제품만 비교합니다."
+  }
+}

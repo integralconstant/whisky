@@ -1,0 +1,86 @@
+{
+  "glenfiddich-18": {
+    "imageUrl": "https://access-sdk-apos.s3.amazonaws.com/attachments/daot4x35bz3oggd75m9bsrw7-glenfiddich-18-year-old.full.png",
+    "sourceUrl": "https://shop.us.glenfiddich.com/products/glenfiddich-18-year-old",
+    "productName": "Glenfiddich 18 Year Old",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "speyburn-bourbon-cask": {
+    "imageUrl": "https://www.speyburn.com/assets/000/000/355/Speyburn_Bourbon_700ml_Bottle-Render-No-Shadow_product.png?1715935662",
+    "sourceUrl": "https://www.speyburn.com/our-whisky/4-bourbon-cask",
+    "productName": "Speyburn Bourbon Cask",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "speyburn-rum-cask": {
+    "imageUrl": "https://www.speyburn.com/assets/000/000/352/Speyburn_Rum_700ml_Bottle-_-Carton-Render-No-Shadow_product.png?1715939148",
+    "sourceUrl": "https://www.speyburn.com/our-whisky/57-rum-cask-finish",
+    "productName": "Speyburn Rum Cask Finish",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "speyburn-15": {
+    "imageUrl": "https://www.speyburn.com/assets/000/000/488/Speyburn_15YO_700ml_Bottle___Carton_Render_NoShadow_product.png?1757511597",
+    "sourceUrl": "https://www.speyburn.com/our-whisky/2-15-year-old",
+    "productName": "Speyburn 15 Year Old",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "speyburn-18": {
+    "imageUrl": "https://www.speyburn.com/assets/000/000/487/Speyburn_18YO_700ml_Bottle___Carton_Render_NoShadow_product.png?1757511391",
+    "sourceUrl": "https://www.speyburn.com/our-whisky/3-18-year-old",
+    "productName": "Speyburn 18 Year Old",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "benriach-21": {
+    "imageUrl": "https://static.benriachdistillery.com/wp-content/uploads/v2/2021/01/14120106/AW-21-Benriach-75cl_FRONT_in-front_TransparentBG-2.png",
+    "sourceUrl": "https://www.benriachdistillery.com/our-whiskies/the-twenty-one/",
+    "productName": "Benriach The Twenty One",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "benriach-25": {
+    "imageUrl": "https://static.benriachdistillery.com/wp-content/uploads/v2/2021/01/14121547/AW-25-Benriach-75cl_FRONT_in-front_TransparentBG-2.png",
+    "sourceUrl": "https://www.benriachdistillery.com/our-whiskies/the-twenty-five/",
+    "productName": "Benriach The Twenty Five",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "benriach-30": {
+    "imageUrl": "https://static.benriachdistillery.com/wp-content/uploads/v2/2021/01/14122805/AW-30-Benriach-75cl_Front_in-front_TransparentBG-2.png",
+    "sourceUrl": "https://www.benriachdistillery.com/our-whiskies/the-thirty/",
+    "productName": "Benriach The Thirty",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "benriach-smoke-season": {
+    "imageUrl": "https://static.benriachdistillery.com/wp-content/uploads/v2/sites/14/2021/09/20151614/USA_C_Benriach-750ml-SMOKE-SEASON-Bottle_Canister_no-shadow_in-front_TransparentBG.png",
+    "sourceUrl": "https://www.benriachdistillery.com/our-whiskies/smoke-season/",
+    "productName": "Benriach Smoke Season",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "mortlach-12": {
+    "imageUrl": "https://images.ctfassets.net/glsfy1cpffmh/6WQ2sRIfZWokpJKOP3qeHg/aa5db2efc37320fd004862a76ce4e46f/mortlach-12yo-70cl-gb-malts-front-grip-digital-render.png?fm=webp&q=80&fit=fill",
+    "sourceUrl": "https://www.malts.com/en-us/products/mortlach-12-year-old-single-malt-scotch-whisky-700ml",
+    "productName": "Mortlach 12 Year Old The Wee Witchie",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "mortlach-20": {
+    "imageUrl": "https://images.ctfassets.net/glsfy1cpffmh/4bTZEthknfRWdVGQNtgiM6/dd18d02b5f136bff63403747ebcd022a/088076182882_Mortlach_20YO_750ml_Front_PNG.png?fm=webp&q=80&fit=fill",
+    "sourceUrl": "https://www.malts.com/en-us/products/mortlach-20-year-old-single-malt-scotch-whisky",
+    "productName": "Mortlach 20 Year Old",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "macallan-18-sherry": {
+    "imageUrl": "https://www.suntory.co.jp/whisky/macallan/assets/img/product/sherryoak/sherryoak18yo/sherryoak18yo_bottle.webp",
+    "sourceUrl": "https://www.suntory.co.jp/whisky/macallan/product/sherryoak/sherryoak18yo/",
+    "productName": "The Macallan Sherry Oak 18 Years Old",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "macallan-12-triple-cask": {
+    "imageUrl": "https://www.suntory.co.jp/whisky/macallan/assets/img/product/triplecask/triplecask12yo_bottle.webp",
+    "sourceUrl": "https://www.suntory.co.jp/whisky/macallan/product/triplecask/",
+    "productName": "The Macallan Triple Cask Matured 12 Years Old",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  },
+  "macallan-harmony-intense-arabica": {
+    "imageUrl": "https://www.suntory.co.jp/whisky/macallan/assets/img/product/harmony-collection/intense-arabica/hc_ia_bottle.webp",
+    "sourceUrl": "https://www.suntory.co.jp/whisky/macallan/product/harmony-collection/intense-arabica/",
+    "productName": "The Macallan Harmony Collection Inspired by Intense Arabica",
+    "note": "공식 제품 페이지의 해당 제품 정면 이미지"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-09T00:17:30.836Z",
+  "status": "research-only",
+  "entries": [
+    {
+      "topProductId": 36538,
+      "name": "라프로익 카디어스 2023 화이트 포트 & 마데이라 캐스크 바이알",
+      "englishName": "Laphroaig Cairdeas 2023 White Port & Madeira Casks Vial",
+      "price": 22500
+    },
+    {
+      "topProductId": 22997,
+      "name": "라프로익 1815 캐스크 레거시 에디션",
+      "englishName": "Laphroaig The Cask Legacy Edition",
+      "price": 165000
+    },
+    {
+      "topProductId": 5267,
+      "name": "라프로익 1815 레거시 에디션",
+      "englishName": "Laphroaig The 1815 Legacy Edition",
+      "price": 260000
+    },
+    {
+      "topProductId": 23377,
+      "name": "라프로익 엘리먼츠 L1.0",
+      "englishName": "Laphroaig Elements L1.0",
+      "price": 549000
+    },
+    {
+      "topProductId": 22757,
+      "name": "라프로익 엘리먼츠 L2.0",
+      "englishName": "Laphroaig Elements L2.0",
+      "price": 439000
+    }
+  ]
+}

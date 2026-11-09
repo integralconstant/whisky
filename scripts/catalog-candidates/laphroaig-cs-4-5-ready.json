@@ -1,0 +1,139 @@
+{
+  "checkedOn": "2026-10-15",
+  "status": "integrated-see-integration-record",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 4 and 5 only. Ready entries are saved progressively. Runtime, matching, prices and image manifests remain outside this research task.",
+  "sourcePolicy": "Exact-batch producer, retailer or named reviewer notes only; reviewer and retailer notes must not be represented as official producer notes. Photographs are downloaded and visually checked before being marked verified.",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-4",
+      "batchNumber": 4,
+      "status": "facts-reviewer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 58.3,
+      "caskStrength": true,
+      "bottledYear": 2012,
+      "bottledMonth": "2012-01",
+      "sources": [
+        {
+          "url": "https://www.thewhiskyexchange.com/p/83247/laphroaig-10-year-old-cask-strength-batch-004-bot2012",
+          "type": "retailer-exact-product-page",
+          "evidence": "Exact Batch 004 page confirms ten years, January 2012, 58.3%, 70cl and distillery bottling. The downloaded photograph independently shows Batch 004, JAN.12, 58.3%, 10 Years Old and 700ml / 70cl."
+        },
+        {
+          "url": "https://wordsofwhisky.com/blind-tasting-11-laphroaig-10yo-cask-strength-batch-004/",
+          "type": "reviewer-exact-batch-tasting-notes",
+          "evidence": "Thijs Klaverstijn's 17 December 2017 review explicitly identifies the ten-year-old Batch 004 at 58.3%. Nose combines smoke, farm and coast with orange, strawberry and brown sugar. Sweet cereal arrival becomes ashy with peat, tar, a little rubber and cloves; the finish retains peat and tar with some dryness."
+        }
+      ],
+      "proposedDescription": "2012년 1월 병입된 58.3%의 10년 캐스크 스트렝스 배치. 연기와 해안의 기운에 과일·흑설탕의 단맛이 겹치고, 재와 타르를 닮은 피트 풍미로 이어진다.",
+      "proposedNotes": {
+        "nose": "연기와 농가를 떠올리는 향, 해안의 기운에 오렌지와 딸기, 은은한 흑설탕의 단향이 겹친다.",
+        "palate": "달콤한 시리얼로 시작해 재와 피트, 타르가 두드러지며 약간의 고무와 정향이 느껴진다.",
+        "finish": "피트와 타르의 여운이 남으며 약간 드라이하게 마무리된다."
+      },
+      "notesProvenance": {
+        "type": "reviewer-published-notes",
+        "publisher": "Words of Whisky — Thijs Klaverstijn",
+        "sourceUrl": "https://wordsofwhisky.com/blind-tasting-11-laphroaig-10yo-cask-strength-batch-004/",
+        "scope": "Concise Korean paraphrase of the named reviewer's exact 58.3% Batch 004 nose, taste and finish. These are personal reviewer notes, not producer notes. The reviewer's initial blind-tasting guess of a sherry-matured Caol Ila is not treated as product identity or maturation evidence."
+      },
+      "proposedTags": [
+        "스모키",
+        "피트",
+        "시트러스",
+        "베리",
+        "흑설탕",
+        "몰트",
+        "정향",
+        "드라이"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://img.thewhiskyexchange.com/900/lrgob.10yov98.jpg?v=202407241",
+          "sourcePage": "https://www.thewhiskyexchange.com/p/83247/laphroaig-10-year-old-cask-strength-batch-004-bot2012",
+          "sourceName": "The Whisky Exchange",
+          "type": "retailer-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-15",
+          "localReviewCopy": ".cache/laphroaig-cs-4-photo.jpg",
+          "dimensions": "900x1200",
+          "labelEvidence": "Real bottle and tube photograph on white. Bottle label visibly reads Batch 004, JAN.12, 58.3%, 10 Years Old and 700ml / 70cl. Tube also shows 004, 58.3% and ten years; its date is partly obscured by the bottle."
+        }
+      ],
+      "cautions": [
+        "This entry represents the 58.3% / 700ml bottling. Batch 004 also exists at 58.6% / 750ml; notes or images of that variant must not be silently substituted.",
+        "Tasting notes are the named reviewer's impressions and are not officially verified producer notes."
+      ],
+      "variantCautionSources": [
+        {
+          "url": "https://caskcartel.com/products/laphroaig-10-year-old-batch-4-original-cask-strength-single-malt-scotch-whisky",
+          "type": "retailer-different-variant-caution-only",
+          "evidence": "Retailer separately lists Batch 004, January 2012, 58.6% and 750ml. Used only to document why that variant must be kept separate; no facts, notes or photograph from it are substituted into this 58.3% / 700ml entry."
+        }
+      ],
+      "runtimeStatus": "integrated"
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-5",
+      "batchNumber": 5,
+      "status": "facts-reviewer-notes-and-photo-verified",
+      "age": 10,
+      "abv": 57.2,
+      "caskStrength": true,
+      "bottledYear": 2013,
+      "bottledMonth": "2013-02",
+      "sources": [
+        {
+          "url": "https://www.scotchwhiskyauctions.com/auctions/115-the-77th-auction/167422-laphroaig-10-year-old-cask-strength-batch-5/",
+          "type": "auction-exact-product-page",
+          "evidence": "Exact Batch 005 lot identifies ten years, February 2013, 57.2% and 70cl. Its downloaded photograph independently shows 005, FEB 13, Aged 10 Years, 57.2% and 70cl / 700ml."
+        },
+        {
+          "url": "https://distiller.com/spirits/laphroaig-10-year-cask-strength-batch-005",
+          "type": "reviewer-exact-batch-tasting-notes",
+          "evidence": "The exact Batch 5 page identifies ten years, February 2013 and 57.2%. Paul Belbusti's tasting note emphasizes intense smoky peat, hearth smoke, sweet cinnamon, iodine, smoked fish and meat, lemon peel and a long smoky finish. Dried fruit and nuts emerge after adding water."
+        }
+      ],
+      "proposedDescription": "2013년 2월 병입된 57.2%의 10년 캐스크 스트렝스 배치. 강렬한 피트 연기에 달콤한 계피와 요오드, 훈연 생선·고기와 레몬 껍질의 풍미가 겹친다.",
+      "proposedNotes": {
+        "nose": "짙은 연기를 동반한 강렬한 피트 향이 올라온다.",
+        "palate": "장작불과 달콤한 계피, 요오드, 훈연 생선과 고기, 산뜻한 레몬 껍질이 겹친다. 물을 더하면 건과일과 견과류가 드러난다.",
+        "finish": "스모키한 여운이 길게 이어진다."
+      },
+      "notesProvenance": {
+        "type": "reviewer-published-notes",
+        "publisher": "Distiller — Paul Belbusti",
+        "sourceUrl": "https://distiller.com/spirits/laphroaig-10-year-cask-strength-batch-005",
+        "scope": "Concise Korean paraphrase of the named reviewer's tasting note on the exact 57.2% Batch 5 page. These are reviewer notes, not producer notes. The single paragraph is organized into nose, palate and finish; its explicit water-addition condition is retained for dried fruit and nuts."
+      },
+      "proposedTags": [
+        "스모키",
+        "피트",
+        "계피",
+        "시트러스",
+        "건과일",
+        "견과류"
+      ],
+      "photoCandidates": [
+        {
+          "url": "https://d3suvtcq00dftb.cloudfront.net/products/430690-zoom.jpg",
+          "sourcePage": "https://www.scotchwhiskyauctions.com/auctions/115-the-77th-auction/167422-laphroaig-10-year-old-cask-strength-batch-5/",
+          "sourceName": "Scotch Whisky Auctions",
+          "type": "auction-product-photograph",
+          "status": "downloaded-and-visually-verified",
+          "checkedOn": "2026-10-15",
+          "localReviewCopy": ".cache/laphroaig-cs-5-photo.jpg",
+          "dimensions": "1500x1500",
+          "labelEvidence": "Real bottle and tube photograph on white with the auction watermark. Both show Batch 005, FEB 13, Aged 10 Years and 57.2%; bottle shows 70cl and tube shows 70cl / 700ml."
+        }
+      ],
+      "cautions": [
+        "Tasting notes are the named reviewer's impressions and are not officially verified producer notes.",
+        "Dried fruit and nuts are specifically water-added impressions in the source; this condition must remain in the notes.",
+        "The verified photograph carries the Scotch Whisky Auctions 2017 watermark."
+      ],
+      "runtimeStatus": "integrated"
+    }
+  ],
+  "integrationRecord": "laphroaig-cs-1-7-integration.json"
+}

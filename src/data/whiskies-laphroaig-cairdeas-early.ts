@@ -1,0 +1,40 @@
+import type { Whisky } from "./types.ts";
+import { createWhiskyGroup } from "./whisky-catalog-helpers.ts";
+
+export const laphroaigCairdeasEarlyWhiskies: Whisky[] = createWhiskyGroup(
+  { brand: "Laphroaig", category: "싱글 몰트", country: "스코틀랜드", region: "아일라", source: "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions" },
+  [
+    ["laphroaig-cairdeas-2014-amontillado", "라프로익 카디어스 2014 아몬틸라도", "Laphroaig Cairdeas 2014 Amontillado", 51.4, null,
+      ["피트", "꿀", "건과일", "열대과일", "사과", "바다·소금"],
+      "버번 배럴과 아몬틸라도 호그스헤드에서 숙성한 2014 카디어스. 51.4%로 병입했으며 향미는 마스터 오브 몰트의 해당 제품 시음 노트를 요약했습니다.",
+      "바나나와 꿀, 효모와 흑설탕에 피트가 밴 오트밀과 말린 파파야",
+      "베이컨과 대추야자, 효모의 감칠맛에 바비큐한 사과 조각",
+      "짭짤하게 구운 바비큐를 떠올리게 하는 여운",
+      "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-2014-edition-whisky/"],
+    ["laphroaig-cairdeas-2016-madeira", "라프로익 카디어스 2016 마데이라", "Laphroaig Cairdeas 2016 Madeira Cask", 51.6, null,
+      ["피트", "스모키", "시트러스", "베리", "우디", "바다·소금"],
+      "버번 배럴 숙성 원액을 결합한 뒤 마데이라 호그스헤드에서 마무리한 2016 카디어스. 51.6% 제품으로, 향미는 WhiskyNotes의 루벤이 직접 시음한 기록을 요약했습니다.",
+      "오렌지 주스와 붉은 베리 사탕에 재와 피트, 마른 연필 나무와 약품 같은 향, 해초와 감초",
+      "해안의 피트와 흙·이끼, 조개와 미네랄에 그을린 버터·모닥불·바비큐 재, 오렌지와 은근한 딸기",
+      "훈연한 레몬과 감초, 흙내음의 피트가 길게 남는 여운",
+      "https://www.whiskynotes.be/2016/laphroaig/laphroaig-cairdeas-2016-madeira/"],
+    ["laphroaig-cairdeas-2017-quarter-cask", "라프로익 카디어스 2017 쿼터 캐스크 CS", "Laphroaig Cairdeas 2017 Cask Strength Quarter Cask", 57.2, null,
+      ["스모키", "빵·비스킷", "바닐라", "크리미", "오크", "스파이시", "캐러멜", "바다·소금", "생강"],
+      "버번 캐스크에 이어 작은 쿼터 캐스크에서 숙성한 2017 카디어스. 57.2% 캐스크 스트렝스로 병입했으며 일반 쿼터 캐스크 48%와 구분합니다. 향미는 Whisky Saga의 토마스 외르봄의 시음 기록을 요약했습니다.",
+      "부드러운 연기와 갓 구운 빵 껍질, 풍성한 바닐라와 크림, 달콤한 오크와 약간의 타르",
+      "풍성한 질감에 칠리 같은 알싸한 향신료, 캐러멜·바닐라·달콤한 연기와 소금·신선한 오크",
+      "생강과 바닐라·달콤한 연기에 소금과 감초·몰트 사탕이 이어지는 중간 이상 길이의 여운",
+      "https://www.whiskysaga.com/blog/laphroaig-cairdeas-2017-cask-strength-quarter-cask"],
+    ["laphroaig-cairdeas-2018-fino", "라프로익 카디어스 2018 피노 캐스크 피니시", "Laphroaig Cairdeas 2018 Fino Cask Finish", 51.8, null,
+      ["피트", "스모키", "견과류", "빵·비스킷", "핵과일", "캐러멜", "시트러스", "오크", "꿀"],
+      "퍼스트필 버번 캐스크 숙성 후 피노 셰리 캐스크에서 마무리한 2018 카디어스. 51.8% 제품이며 향미는 마스터 오브 몰트의 해당 제품 시음 노트를 요약했습니다.",
+      "그을린 풀과 아몬드 버터, 구운 티케이크와 약품 같은 피트",
+      "천도복숭아와 살구에 그을린 캐러멜·불에 구운 오렌지 껍질, 짙은 피트와 감칠맛 나는 오크",
+      "구운 흙과 요오드에 꿀, 복숭아와 크림 사탕의 여운",
+      "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-fino-cask-finish-feis-ile-2018-whisky/"],
+  ],
+).map((item) => ({
+  ...item,
+  ...(item.id.includes("2017") ? { caskStrength: true } : {}),
+  ...(item.id.includes("2018") ? { abvNote: "51.8% 제품입니다. 연결한 실물 사진은 K&L의 750ml 시장용 병이며 가격은 비교 용량을 따릅니다." } : {}),
+}));

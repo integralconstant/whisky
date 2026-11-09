@@ -1,0 +1,715 @@
+{
+  "distillery": "Laphroaig",
+  "checkedOn": "2026-10-10",
+  "status": "in-progress-not-exhaustive",
+  "purpose": "Finish the Laphroaig catalogue, including identifiable releases and batches, before starting another distillery. This inventory is research evidence, not runtime catalogue data.",
+  "coverageWarning": "Official online ranges are incomplete historical inventories. Do not infer that missing years, discontinued bottlings, single casks or independent bottlings do not exist. Retail offers, photos and tasting information still require release-specific verification before runtime integration.",
+  "runtimeSnapshot": {
+    "checkedAt": "2026-11-09T00:46:40.404Z",
+    "rawCount": 56,
+    "expressions": [
+      "Laphroaig 10 Year Old",
+      "Laphroaig Quarter Cask",
+      "Laphroaig Lore",
+      "Laphroaig Oak Select",
+      "Laphroaig 10 Year Old Sherry Oak Finish",
+      "Laphroaig Four Oak",
+      "Laphroaig 10 Year Old Cask Strength Batch 17",
+      "Laphroaig 10 Year Old Cask Strength Batch 16",
+      "Laphroaig 10 Year Old Cask Strength Batch 4",
+      "Laphroaig 10 Year Old Cask Strength Batch 5",
+      "Laphroaig 10 Year Old Cask Strength Batch 6",
+      "Laphroaig 10 Year Old Cask Strength Batch 7",
+      "Laphroaig 10 Year Old Cask Strength Batch 2",
+      "Laphroaig 10 Year Old Cask Strength Batch 3",
+      "Laphroaig 10 Year Old Cask Strength Batch 1",
+      "Laphroaig 10 Year Old Cask Strength Batch 8",
+      "Laphroaig 10 Year Old Cask Strength Batch 9",
+      "Laphroaig 10 Year Old Cask Strength Batch 10",
+      "Laphroaig 10 Year Old Cask Strength Batch 11",
+      "Laphroaig 10 Year Old Cask Strength Batch 12",
+      "Laphroaig 10 Year Old Cask Strength Batch 13",
+      "Laphroaig 10 Year Old Cask Strength Batch 14",
+      "Laphroaig 10 Year Old Cask Strength Batch 15",
+      "Laphroaig 12 Year Old Global Travel Exclusive",
+      "Laphroaig PX Cask",
+      "Laphroaig Triple Wood",
+      "Laphroaig The 1815 Legacy Edition / The Cask Legacy",
+      "Laphroaig Port Wood / Port Wood Casks",
+      "Laphroaig 15 Year Old 2026 Relaunch",
+      "Laphroaig Elements L1.0",
+      "Laphroaig Elements L2.0",
+      "Laphroaig 18 Year Old 2024 Relaunch",
+      "Laphroaig Cairdeas 2024 Cask Favourites",
+      "Laphroaig Cairdeas 2025 Lore Cask Strength",
+      "Laphroaig Cairdeas 2026 French Oak",
+      "Laphroaig Elements L3.0",
+      "Laphroaig Cairdeas 2019 Triple Wood Cask Strength",
+      "Laphroaig Cairdeas 2020 Port & Wine Casks",
+      "Laphroaig Cairdeas 2021 Pedro Ximenez Casks",
+      "Laphroaig Cairdeas 2022 Warehouse 1",
+      "Laphroaig Cairdeas 2023 White Port & Madeira Casks",
+      "Laphroaig Cairdeas 2014 Amontillado",
+      "Laphroaig Cairdeas 2016 Madeira Cask",
+      "Laphroaig Cairdeas 2017 Cask Strength Quarter Cask",
+      "Laphroaig Cairdeas 2018 Fino Cask Finish",
+      "Laphroaig Cairdeas 2012 Origin",
+      "Laphroaig Cairdeas 2013 Port Wood Edition",
+      "Laphroaig Cairdeas 2015 200th Anniversary Edition",
+      "Laphroaig Cairdeas 2008",
+      "Laphroaig Cairdeas 2009 12 Year Old",
+      "Laphroaig Cairdeas 2010 Master Edition",
+      "Laphroaig Cairdeas 2011 Ileach Edition",
+      "Laphroaig 25 Year Old Cask Strength 2020 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2021 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2022 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2023 Edition"
+    ],
+    "note": "Includes November 9 additions. Register all identifiable expressions with real photographs, including products absent from Dailyshot; show Dailyshot prices only when verified. Inventory remains in progress."
+  },
+  "sourceIndexes": [
+    "https://www.laphroaig.com/whiskies",
+    "https://www.laphroaig.com/global-travel-retail",
+    "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions",
+    "https://www.laphroaig.com/html-sitemap",
+    "https://www.laphroaig.com/warehouse-1"
+  ],
+  "entries": [
+    {
+      "name": "12 Year Old",
+      "family": "travel-retail",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/global-travel-retail/12-year-old",
+        "https://www.laphroaig.com/global-travel-retail"
+      ],
+      "evidence": "Official travel range names 12 Year Old.",
+      "runtimeId": "laphroaig-12-global-travel-exclusive",
+      "integrationRecord": "laphroaig-12-travel-integration.json"
+    },
+    {
+      "name": "PX Cask",
+      "family": "travel-retail",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/global-travel-retail/px-cask",
+        "https://www.laphroaig.com/global-travel-retail"
+      ],
+      "evidence": "Official range identifies ex-bourbon, quarter cask and PX maturation.",
+      "runtimeId": "laphroaig-px-cask",
+      "integrationRecord": "laphroaig-px-cask.json"
+    },
+    {
+      "name": "1815",
+      "family": "travel-retail",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/global-travel-retail/1815-legacy-edition",
+        "https://www.laphroaig.com/global-travel-retail"
+      ],
+      "evidence": "Official travel range names 1815 / The Cask Legacy.",
+      "runtimeId": "laphroaig-1815-legacy-edition",
+      "integrationRecord": "laphroaig-nov9-integration.json"
+    },
+    {
+      "name": "Port Wood Casks",
+      "family": "travel-retail",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/global-travel-retail/port-wood",
+        "https://www.laphroaig.com/global-travel-retail"
+      ],
+      "evidence": "Official travel range names Port Wood Casks.",
+      "runtimeId": "laphroaig-port-wood",
+      "integrationRecord": "laphroaig-nov9-integration.json"
+    },
+    {
+      "name": "Cairdeas 2026 French Oak",
+      "family": "cairdeas",
+      "releaseYear": 2026,
+      "abv": 52.6,
+      "caskStrength": true,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/cairdeas-2026"
+      ],
+      "evidence": "Product page confirms full French oak maturation and 52.6% cask strength. The story index uses contradictory shorthand 'finished'; use the release-specific product page.",
+      "runtimeId": "laphroaig-cairdeas-2026-french-oak",
+      "integrationRecord": "laphroaig-new-releases-nov9.json"
+    },
+    {
+      "name": "Cairdeas 2025 Lore Cask Strength",
+      "family": "cairdeas",
+      "releaseYear": 2025,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/cairdeas-2025"
+      ],
+      "evidence": "Official producer release page identifies Lore Cask Strength and a marriage of five cask types.",
+      "runtimeId": "laphroaig-cairdeas-2025-lore-cask-strength",
+      "integrationRecord": "laphroaig-new-releases-nov9.json"
+    },
+    {
+      "name": "Cairdeas 2024 Cask Favourites",
+      "family": "cairdeas",
+      "releaseYear": 2024,
+      "age": 10,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions"
+      ],
+      "evidence": "Producer history identifies ten-year-old release combining Triple Wood and PX influences.",
+      "runtimeId": "laphroaig-cairdeas-2024-cask-favourites",
+      "integrationRecord": "laphroaig-new-releases-nov9.json"
+    },
+    {
+      "name": "Cairdeas 2023 White Port and Madeira",
+      "family": "cairdeas",
+      "releaseYear": 2023,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions"
+      ],
+      "evidence": "Producer history identifies the 2023 Madeira and white-port expression.",
+      "runtimeId": "laphroaig-cairdeas-2023-white-port-madeira",
+      "integrationRecord": "laphroaig-cairdeas-history-integration.json"
+    },
+    {
+      "name": "Cairdeas 2022 Warehouse 1",
+      "family": "cairdeas",
+      "releaseYear": 2022,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions"
+      ],
+      "evidence": "Producer history names Warehouse 1 as the 2022 release.",
+      "runtimeId": "laphroaig-cairdeas-2022-warehouse-1",
+      "integrationRecord": "laphroaig-cairdeas-history-integration.json"
+    },
+    {
+      "name": "Cairdeas 2021 PX Cask",
+      "family": "cairdeas",
+      "releaseYear": 2021,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions"
+      ],
+      "evidence": "Producer history explicitly references 2021 PX Cask in the 2024 release explanation.",
+      "runtimeId": "laphroaig-cairdeas-2021-px",
+      "integrationRecord": "laphroaig-cairdeas-history-integration.json"
+    },
+    {
+      "name": "Cairdeas 2020 Port and Wine",
+      "family": "cairdeas",
+      "releaseYear": 2020,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions"
+      ],
+      "evidence": "Producer history identifies ex-bourbon and ruby port maturation followed by red-wine cask finishing.",
+      "runtimeId": "laphroaig-cairdeas-2020-port-wine",
+      "integrationRecord": "laphroaig-cairdeas-history-integration.json"
+    },
+    {
+      "name": "Cairdeas 2019 Triple Wood Cask Strength",
+      "family": "cairdeas",
+      "releaseYear": 2019,
+      "caskStrength": true,
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/cairdeas-expressions"
+      ],
+      "evidence": "Producer history identifies bourbon, quarter cask and Oloroso maturation at cask strength.",
+      "runtimeId": "laphroaig-cairdeas-2019-triple-wood",
+      "integrationRecord": "laphroaig-cairdeas-history-integration.json"
+    },
+    {
+      "name": "15 Year Old current relaunch",
+      "family": "core",
+      "status": "integrated",
+      "age": 15,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/15-year-old"
+      ],
+      "evidence": "Current producer page identifies the permanent return of the 15-year expression. Older 15-year bottlings require separate comparison.",
+      "runtimeId": "laphroaig-15-2026-relaunch",
+      "integrationRecord": "laphroaig-nov9-integration.json"
+    },
+    {
+      "name": "18 Year Old current relaunch",
+      "family": "core",
+      "status": "integrated",
+      "age": 18,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/iconic/18-year-old"
+      ],
+      "evidence": "Producer page confirms the returned 18-year expression and ex-bourbon American oak maturation.",
+      "runtimeId": "laphroaig-18-2024-relaunch",
+      "integrationRecord": "laphroaig-nov9-integration.json"
+    },
+    {
+      "name": "Triple Wood",
+      "family": "core-discontinued",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/iconic/triple-wood"
+      ],
+      "evidence": "Official page identifies bourbon, quarter-cask and Oloroso maturation. Distinct from Cairdeas 2019 Triple Wood Cask Strength.",
+      "runtimeId": "laphroaig-triple-wood"
+    },
+    {
+      "name": "Elements 1.0",
+      "family": "elements",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/laphroaig-elements"
+      ],
+      "evidence": "Official product page verifies expression; mashing/wort experiment and ex-bourbon maturation.",
+      "runtimeId": "laphroaig-elements-l1-0"
+    },
+    {
+      "name": "Elements 2.0",
+      "family": "elements",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/laphroaig-elements-2-0"
+      ],
+      "evidence": "Official product page verifies expression with extended fermentation.",
+      "runtimeId": "laphroaig-elements-l2-0"
+    },
+    {
+      "name": "Elements 3.0",
+      "family": "elements",
+      "status": "integrated",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/laphroaig-elements-3-0"
+      ],
+      "evidence": "Official product page verifies third experimental release exploring kiln fire temperature and duration.",
+      "runtimeId": "laphroaig-elements-l3-0"
+    },
+    {
+      "name": "Friendship Cask #1",
+      "family": "friendship-single-casks",
+      "status": "missing-runtime-product-verified",
+      "age": 12,
+      "caskNumber": "803978",
+      "bottleCount": 312,
+      "distilledOn": "2013-06-13",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/friendship-cask-1-single-cask-islay-whisky",
+        "https://www.laphroaig.com/whiskies/single-cask-friendship-cask-1"
+      ],
+      "evidence": "Producer pages verify twelve years in first-fill sherry hogshead; cask identity and bottle count on series article."
+    },
+    {
+      "name": "Friendship Cask #2",
+      "family": "friendship-single-casks",
+      "status": "missing-runtime-product-verified",
+      "age": 18,
+      "caskNumber": "5",
+      "distilledMonth": "2008-01",
+      "sources": [
+        "https://www.laphroaig.com/friendship-cask-2-single-cask",
+        "https://www.laphroaig.com/en-gb/whiskies/friendship-cask-2"
+      ],
+      "evidence": "Producer verifies eighteen years in first-fill bourbon barrel; article identifies cask 5."
+    },
+    {
+      "name": "Strong Characters Chapter 1",
+      "family": "strong-characters",
+      "status": "missing-runtime-product-verified",
+      "age": 33,
+      "caskStrength": false,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/strong-characters-chapter-one"
+      ],
+      "evidence": "Producer explicitly describes fixed-strength bottling using ex-bourbon and sherry-seasoned hogsheads. Gift print variants are not separate whisky recipes."
+    },
+    {
+      "name": "Strong Characters Chapter 2",
+      "family": "strong-characters",
+      "status": "missing-runtime-product-verified",
+      "age": 35,
+      "abv": 43.8,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/strong-characters-chapter-two"
+      ],
+      "evidence": "Producer confirms age, ABV and exclusively ex-bourbon American white oak."
+    },
+    {
+      "name": "25 Year Old Cask Strength 2020",
+      "family": "25-year-cask-strength",
+      "status": "integrated",
+      "age": 25,
+      "releaseYear": 2020,
+      "abv": 49.8,
+      "caskStrength": true,
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whiskies/25-yo-cask-strength-whisky-2020-edition"
+      ],
+      "evidence": "Producer confirms exact annual edition, ABV and bourbon/Oloroso maturation.",
+      "runtimeId": "laphroaig-25-cask-strength-2020",
+      "integrationRecord": "laphroaig-25-integration.json"
+    },
+    {
+      "name": "25 Year Old Cask Strength 2021",
+      "family": "25-year-cask-strength",
+      "status": "integrated",
+      "age": 25,
+      "releaseYear": 2021,
+      "abv": 51.9,
+      "caskStrength": true,
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whiskies/25-yo-cask-strength-whisky-2021-edition"
+      ],
+      "evidence": "Producer confirms exact annual edition, ABV and bourbon/Oloroso maturation.",
+      "runtimeId": "laphroaig-25-cask-strength-2021",
+      "integrationRecord": "laphroaig-25-integration.json"
+    },
+    {
+      "name": "25 Year Old Cask Strength 2022",
+      "family": "25-year-cask-strength",
+      "status": "integrated",
+      "age": 25,
+      "releaseYear": 2022,
+      "abv": 53.4,
+      "caskStrength": true,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/25-year-old-cask-strength-whisky-2022"
+      ],
+      "evidence": "Producer confirms exact annual edition, ABV and bourbon/Oloroso maturation. Ignore incorrect SEO title referring to 10-year Sherry Oak.",
+      "runtimeId": "laphroaig-25-cask-strength-2022",
+      "integrationRecord": "laphroaig-25-integration.json"
+    },
+    {
+      "name": "25 Year Old Cask Strength 2023",
+      "family": "25-year-cask-strength",
+      "status": "integrated",
+      "age": 25,
+      "releaseYear": 2023,
+      "abv": 47.3,
+      "caskStrength": true,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/25-year-old-cask-strength-2023"
+      ],
+      "evidence": "Producer confirms exact annual edition, ABV and ex-bourbon maturation. Ignore incorrect SEO title referring to 10-year.",
+      "runtimeId": "laphroaig-25-cask-strength-2023",
+      "integrationRecord": "laphroaig-25-integration.json"
+    },
+    {
+      "name": "Ian Hunter Book 1 Unique Character",
+      "family": "ian-hunter",
+      "status": "missing-runtime-product-verified",
+      "age": 30,
+      "releaseYear": 2019,
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
+      ],
+      "evidence": "Producer series history identifies first book, release year and first-fill bourbon maturation."
+    },
+    {
+      "name": "Ian Hunter Book 2 The Icon",
+      "family": "ian-hunter",
+      "status": "missing-runtime-product-verified",
+      "age": 30,
+      "releaseYear": 2020,
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
+      ],
+      "evidence": "Producer series history identifies second book, release year and Spanish oak Oloroso maturation."
+    },
+    {
+      "name": "Ian Hunter Book 3 Source Protector",
+      "family": "ian-hunter",
+      "status": "missing-runtime-product-verified",
+      "age": 33,
+      "releaseYear": 2021,
+      "vintage": 1987,
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
+      ],
+      "evidence": "Producer series history identifies third book, year, vintage and bourbon maturation."
+    },
+    {
+      "name": "Ian Hunter Book 4 Malt Master",
+      "family": "ian-hunter",
+      "status": "missing-runtime-product-verified",
+      "age": 34,
+      "releaseYear": 2022,
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
+      ],
+      "evidence": "Producer series history identifies fourth book with American oak maturation and Oloroso finishing."
+    },
+    {
+      "name": "Ian Hunter Book 5 Enduring Spirit",
+      "family": "ian-hunter",
+      "status": "missing-runtime-product-verified",
+      "age": 34,
+      "releaseYear": 2023,
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whiskies/ian-hunter-book-5-enduring-spirit-34-yo-single-malt-scotch-whisky",
+        "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
+      ],
+      "evidence": "Producer verifies final book; first-fill bourbon American oak and PX European oak hogsheads."
+    },
+    {
+      "name": "30 Year Old annual small-batch first release",
+      "family": "30-year-small-batch",
+      "status": "missing-runtime-product-verified",
+      "age": 30,
+      "abv": 45.8,
+      "caskStrength": false,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/30-year-old-cask"
+      ],
+      "evidence": "Producer calls this the first annual small-batch release and explicitly fixed strength; investigate release year before matching offers."
+    },
+    {
+      "name": "30 Year Old Friends of Laphroaig Anniversary Edition 2024",
+      "family": "anniversary",
+      "status": "missing-runtime-product-verified",
+      "age": 30,
+      "releaseYear": 2024,
+      "vintage": 1994,
+      "abv": 45.9,
+      "caskStrength": true,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/30-year-old-anniversary-fol-limited-edition"
+      ],
+      "evidence": "Producer verifies 1994/2024 anniversary bottling and refill bourbon hogshead. Separate from 45.8% annual 30-year release."
+    },
+    {
+      "name": "Francis Mallmann 17 Year Old White Madeira Cask",
+      "family": "single-casks",
+      "status": "missing-runtime-product-verified",
+      "age": 17,
+      "bottleCount": 276,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/francis-mallmann-17-year-old-white-madeira-cask"
+      ],
+      "evidence": "Producer confirms age, white Madeira finishing and 276 bottles."
+    },
+    {
+      "name": "Islay Ember Single Cask",
+      "family": "single-casks",
+      "status": "missing-runtime-product-verified",
+      "distilledMonth": "2014-04",
+      "bottleCount": 312,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/islay-ember-single-cask"
+      ],
+      "evidence": "Producer verifies April 2014 distillation, full Amontillado maturation and 312 bottles. Do not infer an exact age or ABV until the label is read."
+    },
+    {
+      "name": "The Archive Collection 36 Year Old",
+      "family": "archive",
+      "status": "missing-runtime-product-verified",
+      "age": 36,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/the-archive-collection"
+      ],
+      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+    },
+    {
+      "name": "The Archive Collection 38 Year Old",
+      "family": "archive",
+      "status": "missing-runtime-product-verified",
+      "age": 38,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/the-archive-collection-2"
+      ],
+      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+    },
+    {
+      "name": "The Wall Collection Peat Edition",
+      "family": "wall-collection",
+      "status": "missing-runtime-product-verified",
+      "sources": [
+        "https://www.laphroaig.com/whiskies/the-wall-collection"
+      ],
+      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+    },
+    {
+      "name": "The Wall Collection Rope Edition 39 Year Old",
+      "family": "wall-collection",
+      "status": "missing-runtime-product-verified",
+      "age": 39,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/the-wall-collection-rope"
+      ],
+      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+    },
+    {
+      "name": "14 Year Old Willem Dafoe Edition",
+      "family": "collaboration",
+      "status": "missing-runtime-product-verified",
+      "age": 14,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/willem-dafoe-limited-edition"
+      ],
+      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+    },
+    {
+      "name": "10 Year Old The Unforgettable Edition",
+      "family": "packaging-or-expression-review",
+      "status": "verify-liquid-difference-before-adding",
+      "age": 10,
+      "sources": [
+        "https://www.laphroaig.com/whiskies/the-unforgettable-edition"
+      ],
+      "evidence": "Official page exists. Determine whether this is only a packaging variation of the registered ten-year expression before adding a separate whisky."
+    },
+    {
+      "name": "Laphroaig Cairdeas 2014 Amontillado",
+      "family": "cairdeas",
+      "releaseYear": 2014,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2014-amontillado",
+      "abv": 51.4,
+      "sources": [
+        "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-2014-edition-whisky/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-early-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2016 Madeira Cask",
+      "family": "cairdeas",
+      "releaseYear": 2016,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2016-madeira",
+      "abv": 51.6,
+      "sources": [
+        "https://www.whiskynotes.be/2016/laphroaig/laphroaig-cairdeas-2016-madeira/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-early-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2017 Cask Strength Quarter Cask",
+      "family": "cairdeas",
+      "releaseYear": 2017,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2017-quarter-cask",
+      "abv": 57.2,
+      "sources": [
+        "https://www.whiskysaga.com/blog/laphroaig-cairdeas-2017-cask-strength-quarter-cask"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-early-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2018 Fino Cask Finish",
+      "family": "cairdeas",
+      "releaseYear": 2018,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2018-fino",
+      "abv": 51.8,
+      "sources": [
+        "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-cairdeas-fino-cask-finish-feis-ile-2018-whisky/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-early-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2012 Origin",
+      "family": "cairdeas",
+      "releaseYear": 2012,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2012-origin",
+      "abv": 51.2,
+      "sources": [
+        "https://thewhiskyphiles.com/2014/01/02/laphroaig-cairdeas-2012-origin/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-origin-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2013 Port Wood Edition",
+      "family": "cairdeas",
+      "releaseYear": 2013,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2013-port-wood",
+      "abv": 51.3,
+      "sources": [
+        "https://www.scotchology.com/islay/laphroaig-cairdeas-port-wood-edition"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-origin-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2015 200th Anniversary Edition",
+      "family": "cairdeas",
+      "releaseYear": 2015,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2015-200th-anniversary",
+      "abv": 51.5,
+      "sources": [
+        "https://www.scotchology.com/islay/laphroaig-cairdeas-200th-anniversary-edition"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-origin-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2008",
+      "family": "cairdeas",
+      "releaseYear": 2008,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2008",
+      "abv": 55,
+      "sources": [
+        "https://www.whiskynotes.be/2009/laphroaig/laphroaig-cairdeas/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-first-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2009 12 Year Old",
+      "family": "cairdeas",
+      "releaseYear": 2009,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2009-12",
+      "abv": 57.5,
+      "sources": [
+        "https://www.whiskynotes.be/2009/laphroaig/laphroaig-cairdeas-2009/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-first-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2010 Master Edition",
+      "family": "cairdeas",
+      "releaseYear": 2010,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2010-master",
+      "abv": 57.3,
+      "sources": [
+        "https://www.whiskynotes.be/2010/laphroaig/laphroaig-cairdeas-2010-master-edition/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-first-integration.json"
+    },
+    {
+      "name": "Laphroaig Cairdeas 2011 Ileach Edition",
+      "family": "cairdeas",
+      "releaseYear": 2011,
+      "status": "integrated",
+      "runtimeId": "laphroaig-cairdeas-2011-ileach",
+      "abv": 50.5,
+      "sources": [
+        "https://myannoyingopinions.com/2024/09/16/laphroaig-cairdeas-2011-ileach-edition/"
+      ],
+      "integrationRecord": "laphroaig-cairdeas-first-integration.json"
+    }
+  ],
+  "unresolvedResearchScopes": [
+    "10 Year Old Cask Strength releases after17, market-specific ABV variants (including reported Batch002 at56.3% and Batch004 at58.6%), and older unnumbered bottlings. Standard verified batches1–17 are integrated; verify each variant separately before using its notes, photos or prices.",
+    "Cairdeas releases 2008 through 2018, including any age-stated or anniversary variants; verify each release, never synthesize missing years.",
+    "15 Year Old current relaunch versus older bottlings, 18 Year Old and discontinued core expressions such as Triple Wood.",
+    "Elements numbered releases, Friendship Cask single casks, Warehouse 1 exclusives and distillery exclusives.",
+    "25 Year Old Cask Strength annual editions and other rare ages, Ian Hunter books, Strong Characters chapters and historic official bottlings.",
+    "Independent bottlings with explicit Laphroaig attribution; establish producer or bottler evidence and cask identifiers. Secret Islay origin is insufficient."
+  ],
+  "announcedButNotVerifiedReleased": [
+    {
+      "name": "Friendship Cask #3",
+      "status": "announced-no-product-facts-yet",
+      "sources": [
+        "https://www.laphroaig.com/en-gb/whiskies/friendship-cask-2"
+      ],
+      "evidence": "Producer says two down, one to go. Do not create an invented release record from the future announcement."
+    }
+  ],
+  "lastCatalogAudit": "2026-11-09"
+}

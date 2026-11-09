@@ -1,0 +1,102 @@
+{
+  "checkedAt": "2026-10-10T13:03:37.059Z",
+  "status": "integrated",
+  "scope": "Laphroaig 10 Year Old Cask Strength batches 12–15. This is not completion of the full distillery catalog.",
+  "entries": [
+    {
+      "id": "laphroaig-10-cask-strength-batch-12",
+      "abv": 60.1,
+      "source": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-12-single-malt-scotch-whisky",
+      "status": "integrated",
+      "factsEvidence": "Official product page confirms batch12,60.1%,10years,ex-bourbon,barrier-filtered natural cask strength and the Korean tasting summaries.",
+      "photo": {
+        "path": "/images/whisky-laphroaig-10-cask-strength-batch-12.webp",
+        "sourceUrl": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-12-single-malt-scotch-whisky",
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/Laphroaig_Batch12_BottleFront.jpg.webp?itok=JEws_-xl",
+        "checkedAt": "2026-10-10T13:01:58.451Z",
+        "review": "Official bottle photograph viewed locally; batch number, ABV and volume read from label."
+      },
+      "dailyshot": {
+        "productUrl": "https://dailyshot.co/m/item/10295",
+        "volumeMl": 750,
+        "status": "no-available-store-offers",
+        "rawOffers": 1,
+        "acceptedOffers": 0,
+        "checkedAt": "2026-10-10T13:02:03.163Z",
+        "note": "Only returned seller label also names batch11; fixed-batch matcher excludes this ambiguous offer. No price is displayed."
+      }
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-13",
+      "abv": 57.9,
+      "source": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-13",
+      "status": "integrated",
+      "factsEvidence": "Detailed producer evidence in laphroaig-cs-13-15.json; runtime wording is an edited Korean summary.",
+      "photo": {
+        "path": "/images/whisky-laphroaig-10-cask-strength-batch-13.webp",
+        "sourceUrl": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-13",
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/3122572_Batch_13_1.jpg.webp?itok=VHBdRTqk",
+        "checkedAt": "2026-10-10T13:01:58.817Z",
+        "review": "Official bottle photograph viewed locally; batch number, ABV and volume read from label."
+      },
+      "dailyshot": {
+        "productUrl": "https://dailyshot.co/m/item/10296",
+        "volumeMl": 750,
+        "status": "priced",
+        "rawOffers": 4,
+        "acceptedOffers": 4,
+        "average": 326750,
+        "checkedAt": "2026-10-10T13:01:02.551Z",
+        "sourceUrl": "https://dailyshot.co/m/items/569083/sellers"
+      }
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-14",
+      "abv": 58.6,
+      "source": "https://www.laphroaig.com/de-de/whiskies/laphroaig-10-cask-strength-batch-14",
+      "status": "integrated",
+      "factsEvidence": "Detailed producer evidence in laphroaig-cs-13-15.json; runtime wording is an edited Korean summary.",
+      "photo": {
+        "path": "/images/whisky-laphroaig-10-cask-strength-batch-14.webp",
+        "sourceUrl": "https://www.laphroaig.com/de-de/whiskies/laphroaig-10-cask-strength-batch-14",
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/3122573_Batch_14_1.jpg.webp?itok=oi4FobNX",
+        "checkedAt": "2026-10-10T13:01:59.120Z",
+        "review": "Official bottle photograph viewed locally; batch number, ABV and volume read from label."
+      },
+      "dailyshot": {
+        "productUrl": "https://dailyshot.co/m/item/13566",
+        "volumeMl": 700,
+        "status": "priced",
+        "rawOffers": 33,
+        "acceptedOffers": 33,
+        "average": 211727,
+        "checkedAt": "2026-10-10T13:01:02.164Z",
+        "sourceUrl": "https://dailyshot.co/m/items/551340/sellers"
+      }
+    },
+    {
+      "id": "laphroaig-10-cask-strength-batch-15",
+      "abv": 56.5,
+      "source": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-15",
+      "status": "integrated",
+      "factsEvidence": "Detailed producer evidence in laphroaig-cs-13-15.json; runtime wording is an edited Korean summary.",
+      "photo": {
+        "path": "/images/whisky-laphroaig-10-cask-strength-batch-15.webp",
+        "sourceUrl": "https://www.laphroaig.com/whiskies/10-year-old-cask-strength-batch-15",
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/3122574_Batch_15_1.jpg.webp?itok=6-oyAEqU",
+        "checkedAt": "2026-10-10T13:01:58.537Z",
+        "review": "Official bottle photograph viewed locally; batch number, ABV and volume read from label."
+      },
+      "dailyshot": {
+        "productUrl": "https://dailyshot.co/m/item/13324",
+        "volumeMl": 700,
+        "status": "priced",
+        "rawOffers": 18,
+        "acceptedOffers": 18,
+        "average": 294500,
+        "checkedAt": "2026-10-10T13:01:04.180Z",
+        "sourceUrl": "https://dailyshot.co/m/items/539532/sellers"
+      }
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+import type { Whisky } from "./types.ts";
+
+// Historical batch-specific notes from the producer or reproduced producer notes.
+export const glenallachieEarlyBatchWhiskies: Whisky[] = [
+  {
+    id: "glenallachie-10-cask-strength-batch-1",
+    name: "글렌알라키 10년 캐스크 스트렝스 배치 1",
+    englishName: "The GlenAllachie 10 Year Old Cask Strength Batch 1",
+    brand: "The GlenAllachie",
+    category: "싱글 몰트",
+    country: "스코틀랜드",
+    region: "스페이사이드",
+    abv: 57.1,
+    age: 10,
+    caskStrength: true,
+    abvNote:
+      "첫 번째 10년 CS 배치의 도수는 57.1%입니다. 데일리샷 비교 상품은 750ml입니다.",
+    tags: ["꿀", "토피", "바닐라", "시트러스", "스파이시"],
+    description:
+      "미국산 오크와 PX·올로로소 셰리, 버진 오크 원액을 조합한 첫 10년 CS 배치. 헤더 꿀과 토피, 로즈힙과 마멀레이드의 풍미가 어우러집니다.",
+    notes: {
+      nose: "진한 헤더 꿀과 토피에 은은한 로즈힙과 향신료",
+      palate: "꿀과 바닐라, 토피에 겹쳐지는 로즈힙과 마멀레이드",
+      finish: "달콤한 과일과 카리브해 향신료를 떠올리는 여운",
+    },
+    image: "",
+    color: "#ecdfd3",
+    source:
+      "https://www.thewhiskyexchange.com/p/43739/glenallachie-10-year-old-cask-strength-batch-1",
+  },
+  {
+    id: "glenallachie-10-cask-strength-batch-2",
+    name: "글렌알라키 10년 캐스크 스트렝스 배치 2",
+    englishName: "The GlenAllachie 10 Year Old Cask Strength Batch 2",
+    brand: "The GlenAllachie",
+    category: "싱글 몰트",
+    country: "스코틀랜드",
+    region: "스페이사이드",
+    abv: 54.8,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 2의 병입 도수는 54.8%입니다.",
+    tags: ["꿀", "토피", "사과", "바닐라", "시트러스", "스파이시"],
+    description:
+      "퍼스트 필 버번과 버진 오크, PX·올로로소 셰리 펀천을 조합한 두 번째 배치. 토피를 입힌 사과와 헤더 꿀, 바닐라의 단맛에 유칼립투스가 겹칩니다.",
+    notes: {
+      nose: "헤더 꿀과 토피 사과, 달콤한 향신료 뒤로 오렌지 껍질",
+      palate: "풍부한 헤더 꿀과 바닐라, 토피와 유칼립투스",
+      finish: "오렌지 껍질과 카리브해 향신료를 떠올리는 여운",
+    },
+    image: "",
+    color: "#ecdfd3",
+    source:
+      "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-2-aw02537",
+  },
+  {
+    id: "glenallachie-10-cask-strength-batch-3",
+    name: "글렌알라키 10년 캐스크 스트렝스 배치 3",
+    englishName: "The GlenAllachie 10 Year Old Cask Strength Batch 3",
+    brand: "The GlenAllachie",
+    category: "싱글 몰트",
+    country: "스코틀랜드",
+    region: "스페이사이드",
+    abv: 58.2,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 3의 병입 도수는 58.2%입니다.",
+    tags: ["셰리", "초콜릿", "건과일", "꿀", "시트러스", "스파이시"],
+    description:
+      "퍼스트·세컨드 필 버번, PX 펀천과 올로로소 혹스헤드, 버진 오크를 조합했습니다. 다크 초콜릿과 건포도, 헤더 꿀의 진한 풍미가 중심인 세 번째 배치입니다.",
+    notes: {
+      nose: "다크 초콜릿과 건포도, 헤더 꿀에 달콤한 향신료와 오렌지 껍질",
+      palate: "풍부한 다크 초콜릿과 건포도, 당밀과 헤더 꿀",
+      finish: "달콤한 향신료와 오렌지 껍질, 은은한 유칼립투스의 여운",
+    },
+    image: "",
+    color: "#ecdfd3",
+    source:
+      "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-3-aw02869",
+  },
+  {
+    id: "glenallachie-10-cask-strength-batch-4",
+    name: "글렌알라키 10년 캐스크 스트렝스 배치 4",
+    englishName: "The GlenAllachie 10 Year Old Cask Strength Batch 4",
+    brand: "The GlenAllachie",
+    category: "싱글 몰트",
+    country: "스코틀랜드",
+    region: "스페이사이드",
+    abv: 56.1,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 4의 병입 도수는 56.1%입니다.",
+    tags: ["셰리", "초콜릿", "바닐라", "건과일", "꿀", "계피"],
+    description:
+      "PX·올로로소 셰리 펀천과 버진 오크를 조합한 네 번째 배치. 다크 초콜릿과 바닐라, 당밀의 향에서 건포도와 헤더 꿀의 풍부한 단맛으로 이어집니다.",
+    notes: {
+      nose: "다크 초콜릿과 바닐라 꼬투리, 당밀에 진한 오렌지 껍질과 계피",
+      palate: "건포도와 당밀, 다크 초콜릿에 층층이 겹쳐지는 헤더 꿀",
+      finish: "계피와 오렌지 껍질이 이어지는 여운",
+    },
+    image: "",
+    color: "#ecdfd3",
+    source:
+      "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-4",
+  },
+  {
+    id: "glenallachie-10-cask-strength-batch-5",
+    name: "글렌알라키 10년 캐스크 스트렝스 배치 5",
+    englishName: "The GlenAllachie 10 Year Old Cask Strength Batch 5",
+    brand: "The GlenAllachie",
+    category: "싱글 몰트",
+    country: "스코틀랜드",
+    region: "스페이사이드",
+    abv: 55.9,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 5의 병입 도수는 55.9%입니다.",
+    tags: ["셰리", "초콜릿", "커피", "꿀", "견과류", "건과일"],
+    description:
+      "PX·올로로소 셰리 펀천에 리오하 와인과 소량의 버진 오크를 더한 다섯 번째 배치. 모카와 아몬드, 진한 초콜릿과 꿀에 오렌지와 따뜻한 향신료를 겹쳤습니다.",
+    notes: {
+      nose: "헤더 꿀과 다크 초콜릿·모카, 아몬드·계피·오렌지 껍질",
+      palate: "다크 초콜릿과 건포도, 당밀·아몬드·헤더 꿀",
+      finish: "오렌지 제스트와 계피, 육두구의 여운",
+    },
+    image: "",
+    color: "#ecdfd3",
+    source:
+      "https://theglenallachie.com/news/glenallachie-releases-next-batch-of-worlds-best-single-malt/",
+  },
+  {
+    id: "glenallachie-10-cask-strength-batch-6",
+    name: "글렌알라키 10년 캐스크 스트렝스 배치 6",
+    englishName: "The GlenAllachie 10 Year Old Cask Strength Batch 6",
+    brand: "The GlenAllachie",
+    category: "싱글 몰트",
+    country: "스코틀랜드",
+    region: "스페이사이드",
+    abv: 57.8,
+    age: 10,
+    caskStrength: true,
+    abvNote: "10년 CS 배치 6의 병입 도수는 57.8%입니다.",
+    tags: ["셰리", "초콜릿", "커피", "꿀", "견과류", "시트러스"],
+    description:
+      "PX·올로로소 셰리 펀천과 버진 오크, 리오하 와인 캐스크를 조합한 여섯 번째 배치. 초콜릿과 모카의 진한 단맛을 마멀레이드와 자몽의 산뜻함이 받칩니다.",
+    notes: {
+      nose: "헤더 꿀과 다크 초콜릿·모카, 아몬드와 계피·오렌지 껍질",
+      palate: "다크 초콜릿과 당밀, 모카·헤더 꿀·아몬드",
+      finish: "계피와 마멀레이드, 자몽의 여운",
+    },
+    image: "",
+    color: "#ecdfd3",
+    source:
+      "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-6",
+  },
+];

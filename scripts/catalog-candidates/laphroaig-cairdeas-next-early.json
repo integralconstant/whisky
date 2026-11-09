@@ -1,0 +1,39 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "listed-candidates-integrated",
+  "instruction": "Continue Laphroaig before another distillery. Real photo required; Dailyshot availability is optional. Keep existing UI and catalog entries intact.",
+  "entries": [
+    {
+      "name": "Cairdeas 2015 200th Anniversary",
+      "abv": 51.5,
+      "sources": [
+        "https://www.scotchology.com/islay/laphroaig-cairdeas-200th-anniversary-edition",
+        "https://thewhiskyphiles.com/2016/04/19/laphroaig-cairdeas-200th-anniversary-edition-2015-51-5-suntory/"
+      ],
+      "next": "Read firsthand notes, locate retailer or auction full bottle photograph and verify51.5%volume and anniversary identity. Not the15-year200th anniversary release.",
+      "status": "integrated"
+    },
+    {
+      "name": "Cairdeas 2013 Port Wood",
+      "abv": 51.3,
+      "sources": [
+        "https://www.scotchology.com/islay/laphroaig-cairdeas-port-wood-edition",
+        "https://scotchaddict.com/2013-laphroaig-cairdeas-port-wood-edition.html"
+      ],
+      "next": "Read notes and inspect exact bottle. Separate from travel Port Wood48% and Cairdeas2020 PortWine52%.",
+      "status": "integrated"
+    },
+    {
+      "name": "Cairdeas 2012 Origin",
+      "abv": 51.2,
+      "sources": [
+        "https://www.whiskysaga.com/blog/laphroaig-cairdeas-2012-origin",
+        "https://thewhiskyphiles.com/2014/01/02/laphroaig-cairdeas-2012-origin/",
+        "https://torontowhiskysociety.ca/2016/12/10/froaigfriday-review-laphroaig-cairdeas-origin-2012/"
+      ],
+      "next": "Verify real label, volume and age statement. Do not copy a review's7YO heading as an official age statement without label verification.",
+      "status": "integrated"
+    }
+  ],
+  "remaining": "Cairdeas historical variants outside the registered annual2008–2026 representatives; annual25-yearCS, rare ages, IanHunter, StrongCharacters, Archive, Wall, singlecasks and explicit independent bottlings. No claim of distillery completeness."
+}

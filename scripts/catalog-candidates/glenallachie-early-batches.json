@@ -1,0 +1,138 @@
+{
+  "entries": [
+    {
+      "id": "glenallachie-10-cask-strength-batch-1",
+      "abv": 57.1,
+      "source": "https://www.thewhiskyexchange.com/p/43739/glenallachie-10-year-old-cask-strength-batch-1",
+      "productUrl": "https://dailyshot.co/m/item/10439",
+      "volumeMl": 750,
+      "checkedAt": "2026-10-07T12:21:49.742Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-glenallachie-10-cask-strength-batch-1.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/10439",
+        "checkedAt": "2026-10-07T12:24:08.511Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 779667,
+        "volumeMl": 750,
+        "sampleCount": 3,
+        "checkedAt": "2026-10-07T12:24:20.243Z",
+        "sourceUrl": "https://dailyshot.co/m/items/176155/sellers"
+      }
+    },
+    {
+      "id": "glenallachie-10-cask-strength-batch-2",
+      "abv": 54.8,
+      "source": "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-2-aw02537",
+      "productUrl": "https://dailyshot.co/m/item/15552",
+      "volumeMl": 750,
+      "checkedAt": "2026-10-07T12:21:53.738Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-glenallachie-10-cask-strength-batch-2.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/15552",
+        "checkedAt": "2026-10-07T12:24:08.526Z",
+        "review": "제품 사진을 시각적으로 확인했습니다. 작은 라벨의 세부 도수는 판독이 어려워 전용 상품의 배치·도수·용량 정보와 대조했습니다."
+      },
+      "price": {
+        "average": 700000,
+        "volumeMl": 750,
+        "sampleCount": 2,
+        "checkedAt": "2026-10-07T12:24:19.886Z",
+        "sourceUrl": "https://dailyshot.co/m/items/483362/sellers"
+      }
+    },
+    {
+      "id": "glenallachie-10-cask-strength-batch-3",
+      "abv": 58.2,
+      "source": "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-3-aw02869",
+      "productUrl": "https://dailyshot.co/m/item/9852",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:21:51.033Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-glenallachie-10-cask-strength-batch-3.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/9852",
+        "checkedAt": "2026-10-07T12:24:08.533Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 649857,
+        "volumeMl": 700,
+        "sampleCount": 7,
+        "checkedAt": "2026-10-07T12:24:21.201Z",
+        "sourceUrl": "https://dailyshot.co/m/items/32485/sellers"
+      }
+    },
+    {
+      "id": "glenallachie-10-cask-strength-batch-4",
+      "abv": 56.1,
+      "source": "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-4",
+      "productUrl": "https://dailyshot.co/m/item/12952",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:21:48.055Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-glenallachie-10-cask-strength-batch-4.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/12952",
+        "checkedAt": "2026-10-07T12:24:08.538Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 674750,
+        "volumeMl": 700,
+        "sampleCount": 4,
+        "checkedAt": "2026-10-07T12:24:22.222Z",
+        "sourceUrl": "https://dailyshot.co/m/items/283613/sellers"
+      }
+    },
+    {
+      "id": "glenallachie-10-cask-strength-batch-5",
+      "abv": 55.9,
+      "source": "https://theglenallachie.com/news/glenallachie-releases-next-batch-of-worlds-best-single-malt/",
+      "productUrl": "https://dailyshot.co/m/item/3455",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:21:53.082Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-glenallachie-10-cask-strength-batch-5.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/3455",
+        "checkedAt": "2026-10-07T12:24:08.655Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 416909,
+        "volumeMl": 700,
+        "sampleCount": 11,
+        "checkedAt": "2026-10-07T12:24:22.636Z",
+        "sourceUrl": "https://dailyshot.co/m/items/191730/sellers"
+      }
+    },
+    {
+      "id": "glenallachie-10-cask-strength-batch-6",
+      "abv": 57.8,
+      "source": "https://www.abbeywhisky.com/products/glenallachie-10-year-old-cask-strength-batch-6",
+      "productUrl": "https://dailyshot.co/m/item/3908",
+      "volumeMl": 700,
+      "checkedAt": "2026-10-07T12:21:52.330Z",
+      "status": "integrated-with-photos-and-prices",
+      "photo": {
+        "path": "/images/whisky-glenallachie-10-cask-strength-batch-6.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/3908",
+        "checkedAt": "2026-10-07T12:24:08.655Z",
+        "review": "로컬 병 사진을 시각적으로 확인하고 전용 상품의 제품명·연산·배치와 대조했습니다."
+      },
+      "price": {
+        "average": 332571,
+        "volumeMl": 700,
+        "sampleCount": 7,
+        "checkedAt": "2026-10-07T12:24:23.766Z",
+        "sourceUrl": "https://dailyshot.co/m/items/191733/sellers"
+      }
+    }
+  ],
+  "integrationCheckedAt": "2026-10-08T05:38:01.688Z",
+  "status": "integrated-with-photos-and-prices"
+}

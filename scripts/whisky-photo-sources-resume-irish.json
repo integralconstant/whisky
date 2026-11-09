@@ -1,0 +1,74 @@
+{
+  "jameson-triple-triple-chestnut": {
+    "imageUrl": "https://www.blackwellswines.com/cdn/shop/files/Jameson_Triple_Triple_Irish_Whiskey.jpg?v=1745463540&width=800",
+    "sourceUrl": "https://www.blackwellswines.com/products/jameson-triple-triple-irish-whiskey",
+    "productName": "Jameson Triple Triple Chestnut Edition Irish Whiskey",
+    "note": "40% 체스트넛 버전. 버번·셰리·밤나무 캐스크 표기와 상품명 확인."
+  },
+  "redbreast-18": {
+    "imageUrl": "https://www.redbreastwhiskey.com/wp-content/uploads/2024/07/Redbreast_18_Year_Old_Product-and-Box.png",
+    "sourceUrl": "https://www.redbreastwhiskey.com/en-us/whiskey-collections/redbreast-18-year-old/",
+    "productName": "Redbreast 18 Year Old",
+    "note": "공식 제품 페이지의 병·상자 사진. 18년·46% 확인."
+  },
+  "redbreast-21": {
+    "imageUrl": "https://www.redbreastwhiskey.com/wp-content/uploads/2022/02/Redbreast-21-Pack-Shot-Transparent.png",
+    "sourceUrl": "https://www.redbreastwhiskey.com/en-us/whiskey-collections/redbreast-21-year-old-whiskey/",
+    "productName": "Redbreast 21 Year Old",
+    "note": "공식 제품 페이지의 병 사진. 21년·46% 확인."
+  },
+  "redbreast-px": {
+    "imageUrl": "https://www.redbreastwhiskey.com/wp-content/uploads/2024/05/Redbreast_PX_Edition_web.png",
+    "sourceUrl": "https://www.redbreastwhiskey.com/en-us/whiskey-collections/redbreast-px-edition/",
+    "productName": "Redbreast PX Edition",
+    "note": "공식 제품 페이지의 PX 에디션 사진. 46% 확인."
+  },
+  "redbreast-missouri-oak": {
+    "imageUrl": "https://www.redbreastwhiskey.com/wp-content/uploads/2024/04/Redbreast-Missouri-Oak-on-white.png",
+    "sourceUrl": "https://www.redbreastwhiskey.com/en-us/whiskey-collections/redbreast-missouri-oak-edition/",
+    "productName": "Redbreast Missouri Oak Edition",
+    "note": "공식 제품 페이지의 미주리 오크 사진. 50.5% 확인."
+  },
+  "green-spot": {
+    "imageUrl": "https://www.pernod-ricard.com/sites/default/files/styles/packshot_desktop_and_mobile_640_height_/public/2021-04/brand-greenspot-packshot-1280px.png.jpg?itok=sB2qwhME",
+    "sourceUrl": "https://www.pernod-ricard.com/en/brands/green-spot",
+    "productName": "Green Spot",
+    "note": "페르노리카 공식 브랜드 페이지의 기본 그린 스팟 병 사진. 와인 캐스크 별도 에디션과 구분."
+  },
+  "yellow-spot-12": {
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0343/7389/files/5833040_1740776_FY26_IDL_ON_WHITE_MDC_YELLOW_SPOT_BOTTLE_BOX_0326_Final_422x432.jpg?v=1778143947",
+    "sourceUrl": "https://midletondistillerycollection.com/spot-whiskeys/yellow-spot-product/",
+    "productName": "Yellow Spot 12 Year Old",
+    "note": "미들턴 공식 제품 페이지의 옐로 스팟 병·상자 사진. 12년 제품."
+  },
+  "jp-wisers-deluxe": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/FY26_JPW_DTC_ProductShot_Updates_Deluxe_800x800.png?v=1772807606",
+    "sourceUrl": "https://shop.jpwisers.com/products/jp-wisers-deluxe-canadian-whisky",
+    "productName": "J.P. Wiser's Deluxe Canadian Whisky",
+    "note": "공식 숍의 디럭스 제품 사진. 40% 확인."
+  },
+  "jp-wisers-15": {
+    "imageUrl": "https://shop.jpwisers.com/cdn/shop/files/FY26_JPW_DTC_ProductShot_Updates_15YO_800x800.png?v=1772808184",
+    "sourceUrl": "https://shop.jpwisers.com/products/jp-wisers-15-year-old-canadian-whisky",
+    "productName": "J.P. Wiser's 15 Year Old Canadian Whisky",
+    "note": "공식 숍의 15년 제품 사진. 40% 확인."
+  },
+  "kavalan-concertmaster-vinho": {
+    "imageUrl": "https://www.icheers.tw/fileserver/Upload/DomaineData/WWR000001/WWI00000125/NV/VL00700/cf16ecc1-ffdf-4177-a31d-9918a82dc8ed.jpg",
+    "sourceUrl": "https://www.icheers.tw/iCheers/Spirits/WineDetail/wine_detail/36378",
+    "productName": "Kavalan Concertmaster Vinho Barrique Finish Single Malt Whisky",
+    "note": "콘서트마스터 비노 바리크 피니시 40% 병 사진. 솔리스트 비노 바리크와 구분."
+  },
+  "kavalan-wine-oak": {
+    "imageUrl": "https://www.my9.com.tw/cdn/shop/files/M21616-4_2000x.png?v=1718168344",
+    "sourceUrl": "https://www.my9.com.tw/products/%E5%99%B6%E7%91%AA%E8%98%AD-%E8%91%A1%E8%90%84%E9%85%92%E6%A1%B6-kavalan-wine-oak",
+    "productName": "Kavalan Wine Oak Single Malt Whisky",
+    "note": "파란 라벨의 와인 오크 43% 병·상자 사진. 솔리스트 제품과 구분."
+  },
+  "kavalan-port-oak": {
+    "imageUrl": "https://www.my9.com.tw/cdn/shop/files/M21607-1_2000x.png?v=1718168347",
+    "sourceUrl": "https://www.my9.com.tw/products/%E5%99%B6%E7%91%AA%E8%98%AD-%E6%B3%A2%E7%89%B9%E6%A1%B6-kavalan-port-oak",
+    "productName": "Kavalan Port Oak Single Malt Whisky",
+    "note": "청록 라벨의 포트 오크 43% 병·상자 사진. 콘서트마스터 포트 피니시와 구분."
+  }
+}

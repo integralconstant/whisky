@@ -1,0 +1,274 @@
+{
+  "checkedOn": "2026-11-09",
+  "status": "integrated-price-and-photo-verified",
+  "previousCount": 481,
+  "duplicateCheck": "IDs, normalized Korean/English names and Dailyshot top-product IDs checked against existing catalog; already registered entries skipped.",
+  "entries": [
+    {
+      "whisky": {
+        "id": "laphroaig-1815-legacy-edition",
+        "name": "라프로익 1815 레거시 에디션",
+        "englishName": "Laphroaig The 1815 Legacy Edition / The Cask Legacy",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 48,
+        "age": null,
+        "caskStrength": false,
+        "abvNote": "48%·700ml 제품입니다. 공식 현행 표기는 더 캐스크 레거시이며, 데일리샷은 1815 레거시 에디션으로 등록되어 있습니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "핵과일",
+          "건과일",
+          "오크",
+          "우디",
+          "견과류"
+        ],
+        "description": "퍼스트필 버번 배럴에 이어 새 유러피언 오크 호그스헤드에서 숙성한 면세 전용 싱글 몰트. 피트 연기에 구운 살구와 건포도, 달게 졸인 검은 과일의 풍미가 어우러집니다.",
+        "notes": {
+          "nose": "피트 연기에 그을린 살구와 건포도",
+          "palate": "넓게 퍼지는 부드러운 오크와 캐러멜화한 검은 과일, 생기 있는 건과일 풍미",
+          "finish": "견과류와 피트, 기름칠한 나무 향이 오래 남는 여운"
+        },
+        "image": "",
+        "color": "#dfe3d8",
+        "source": "https://www.laphroaig.com/en-gb/global-travel-retail/1815-legacy-edition"
+      },
+      "mapping": {
+        "topProductId": 5267,
+        "volumeMl": 700,
+        "productName": "라프로익 1815 레거시 에디션",
+        "englishName": "Laphroaig The 1815 Legacy Edition",
+        "abv": 48,
+        "method": "manual-verified-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/5267",
+        "verifiedAt": "2026-11-09",
+        "note": "공식 면세 제품군의 더 캐스크 레거시 명칭이 1815 레거시 제품 페이지로 연결되는 점과 48%·700ml 라벨을 확인했습니다. 데일리샷은 구형 녹색 1815 레거시 패키지입니다."
+      },
+      "photo": {
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-06/1815_front_png.png.webp?itok=ROcuYAqS",
+        "sourceUrl": "https://www.laphroaig.com/en-gb/global-travel-retail/1815-legacy-edition",
+        "productName": "Laphroaig The 1815 Legacy Edition / The Cask Legacy",
+        "note": "공식 더 캐스크 레거시 정면 사진에서 48%·700ml를 확인했습니다. 공식 제품군 페이지가 이 명칭을 1815 레거시 에디션과 연결합니다."
+      }
+    },
+    {
+      "whisky": {
+        "id": "laphroaig-port-wood",
+        "name": "라프로익 포트 우드",
+        "englishName": "Laphroaig Port Wood / Port Wood Casks",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 48,
+        "age": null,
+        "caskStrength": false,
+        "abvNote": "48%·700ml의 포트 우드 캐스크 제품입니다.",
+        "tags": [
+          "피트",
+          "스모키",
+          "꿀",
+          "초콜릿",
+          "민트",
+          "후추",
+          "핵과일",
+          "베리",
+          "바다·소금"
+        ],
+        "description": "퍼스트필 버번 배럴에서 숙성한 뒤 루비 포트 캐스크로 마무리한 면세 전용 싱글 몰트. 꿀 같은 단맛과 약품을 떠올리게 하는 연기에 붉은 베리와 해초 풍미가 겹칩니다.",
+        "notes": {
+          "nose": "다크 초콜릿과 멘톨, 핑크 페퍼에 구운 복숭아와 그을린 마시멜로, 은은한 자두잼",
+          "palate": "꿀 같은 달콤함과 약품을 떠올리게 하는 피트 연기",
+          "finish": "입안을 따뜻하고 넉넉하게 감싸며 길게 이어지는 여운"
+        },
+        "image": "",
+        "color": "#e4d9e0",
+        "source": "https://www.laphroaig.com/en-gb/global-travel-retail/port-wood"
+      },
+      "mapping": {
+        "topProductId": 32858,
+        "volumeMl": 700,
+        "productName": "라프로익 포트 우드",
+        "englishName": "Laphroaig Port Wood",
+        "abv": 48,
+        "method": "manual-verified-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/32858",
+        "verifiedAt": "2026-11-09",
+        "note": "데일리샷 32858의 포트 우드 48%·700ml 정보와 보라색 포트 우드 캐스크 병·상자 라벨을 대조했습니다. 공식 면세 제품군은 Port Wood Casks를 Port Wood 제품 페이지로 연결합니다."
+      },
+      "photo": {
+        "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/bc402ede-81b6-40ac-9e21-c947a4271b0a.webp",
+        "sourceUrl": "https://dailyshot.co/m/item/32858",
+        "productName": "Laphroaig Port Wood / Port Wood Casks",
+        "note": "데일리샷 32858의 보라색 포트 우드 캐스크 병·상자 사진입니다. 제품명과 48%·700ml 정보를 대조했습니다."
+      }
+    },
+    {
+      "whisky": {
+        "id": "laphroaig-15-2026-relaunch",
+        "name": "라프로익 15년 2026 리런치",
+        "englishName": "Laphroaig 15 Year Old 2026 Relaunch",
+        "brand": "Laphroaig",
+        "category": "싱글 몰트",
+        "country": "스코틀랜드",
+        "region": "아일라",
+        "abv": 46,
+        "caskStrength": false,
+        "age": 15,
+        "tags": [
+          "시트러스",
+          "바닐라",
+          "정향",
+          "스모키",
+          "바다·소금",
+          "후추",
+          "스파이시"
+        ],
+        "description": "2026년 정규 라인업으로 돌아온 46%의 라프로익 15년. 아메리칸 오크 캐스크에서 15년 숙성해 피트 연기와 바다의 짭짤함에 감귤류와 은은한 단맛이 겹친다.",
+        "notes": {
+          "nose": "오렌지 껍질과 자몽의 산뜻한 시트러스에 마른 건초, 바닐라와 은은한 정향",
+          "palate": "연기와 바닷소금에 거칠게 간 흑후추, 따뜻한 향신료와 은은한 단맛이 이어지는 풍성한 질감",
+          "finish": "긴 스모키 여운에 감칠맛과 해안의 소금기, 깔끔한 단맛"
+        },
+        "image": "",
+        "color": "#e8ede3",
+        "source": "https://www.laphroaig.com/whiskies/15-year-old",
+        "abvNote": "46%·700ml의 2026 리런치 제품입니다. 구형 43% 15년과 구분합니다."
+      },
+      "mapping": {
+        "topProductId": 37532,
+        "volumeMl": 700,
+        "productName": "라프로익 15년 46%",
+        "englishName": "Laphroaig 15yo 46%",
+        "abv": 46,
+        "method": "manual-verified-expression",
+        "sourceUrl": "https://dailyshot.co/m/item/37532",
+        "note": "현행 46%·700ml 15년 리런치이며 구형 43% 제품을 제외합니다.",
+        "verifiedAt": "2026-11-09"
+      },
+      "photo": {
+        "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-05/15%20YO%20Front.png.webp?itok=krJE4A0e",
+        "sourceUrl": "https://www.laphroaig.com/whiskies/15-year-old",
+        "productName": "Laphroaig 15 Year Old 2026 Relaunch",
+        "note": "생산자 정면 실물 사진의 15년·46%·700ml 라벨을 확인했습니다. 구형 43% 병과 구분합니다."
+      }
+    }
+  ],
+  "currentCount": 491,
+  "existingEntriesPreserved": 481,
+  "priceAndPhotoResults": [
+    {
+      "id": "laphroaig-1815-legacy-edition",
+      "name": "라프로익 1815 레거시 에디션",
+      "abv": 48,
+      "volumeMl": 700,
+      "average": 234207,
+      "sampleCount": 14,
+      "checkedAt": "2026-11-09T00:16:54.148Z",
+      "sourceUrl": "https://dailyshot.co/m/items/159513/sellers",
+      "photoPath": "/images/whisky-laphroaig-1815-legacy-edition.webp"
+    },
+    {
+      "id": "laphroaig-port-wood",
+      "name": "라프로익 포트 우드",
+      "abv": 48,
+      "volumeMl": 700,
+      "average": 194000,
+      "sampleCount": 1,
+      "checkedAt": "2026-11-09T00:16:53.632Z",
+      "sourceUrl": "https://dailyshot.co/m/items/510273/sellers",
+      "photoPath": "/images/whisky-laphroaig-port-wood.webp"
+    },
+    {
+      "id": "laphroaig-15-2026-relaunch",
+      "name": "라프로익 15년 2026 리런치",
+      "abv": 46,
+      "volumeMl": 700,
+      "average": 189097,
+      "sampleCount": 30,
+      "checkedAt": "2026-11-09T00:16:56.411Z",
+      "sourceUrl": "https://dailyshot.co/m/items/627343/sellers",
+      "photoPath": "/images/whisky-laphroaig-15-2026-relaunch.webp"
+    },
+    {
+      "id": "laphroaig-elements-l1-0",
+      "name": "라프로익 엘리먼츠 L1.0",
+      "abv": 58.6,
+      "volumeMl": 700,
+      "average": 495105,
+      "sampleCount": 19,
+      "checkedAt": "2026-11-09T00:19:04.031Z",
+      "sourceUrl": "https://dailyshot.co/m/items/376815/sellers",
+      "photoPath": "/images/whisky-laphroaig-elements-l1-0.webp"
+    },
+    {
+      "id": "laphroaig-elements-l2-0",
+      "name": "라프로익 엘리먼츠 L2.0",
+      "abv": 59.6,
+      "volumeMl": 700,
+      "average": 465727,
+      "sampleCount": 11,
+      "checkedAt": "2026-11-09T00:19:02.494Z",
+      "sourceUrl": "https://dailyshot.co/m/items/567120/sellers",
+      "photoPath": "/images/whisky-laphroaig-elements-l2-0.webp"
+    },
+    {
+      "id": "laphroaig-18-2024-relaunch",
+      "name": "라프로익 18년 2024 리런치",
+      "abv": 48,
+      "volumeMl": 700,
+      "average": null,
+      "sampleCount": 0,
+      "checkedAt": "2026-11-09T00:21:08.406Z",
+      "sourceUrl": "https://www.laphroaig.com/whiskies/iconic/18-year-old",
+      "photoPath": "/images/whisky-laphroaig-18-2024-relaunch.webp"
+    },
+    {
+      "id": "laphroaig-cairdeas-2024-cask-favourites",
+      "name": "라프로익 카디어스 2024 캐스크 페이버릿츠",
+      "abv": 52.4,
+      "volumeMl": 700,
+      "average": null,
+      "sampleCount": 0,
+      "checkedAt": "2026-11-09T00:23:25.628Z",
+      "sourceUrl": "https://www.laphroaig.com/whiskies/cairdeas-2024",
+      "photoPath": "/images/whisky-laphroaig-cairdeas-2024-cask-favourites.webp"
+    },
+    {
+      "id": "laphroaig-cairdeas-2025-lore-cask-strength",
+      "name": "라프로익 카디어스 2025 로어 캐스크 스트렝스",
+      "abv": 59.6,
+      "volumeMl": 700,
+      "average": null,
+      "sampleCount": 0,
+      "checkedAt": "2026-11-09T00:23:25.682Z",
+      "sourceUrl": "https://www.laphroaig.com/whiskies/cairdeas-2025",
+      "photoPath": "/images/whisky-laphroaig-cairdeas-2025-lore-cask-strength.webp"
+    },
+    {
+      "id": "laphroaig-cairdeas-2026-french-oak",
+      "name": "라프로익 카디어스 2026 프렌치 오크",
+      "abv": 52.6,
+      "volumeMl": 700,
+      "average": null,
+      "sampleCount": 0,
+      "checkedAt": "2026-11-09T00:23:25.712Z",
+      "sourceUrl": "https://www.laphroaig.com/whiskies/cairdeas-2026",
+      "photoPath": "/images/whisky-laphroaig-cairdeas-2026-french-oak.webp"
+    },
+    {
+      "id": "laphroaig-elements-l3-0",
+      "name": "라프로익 엘리먼츠 L3.0",
+      "abv": 55.3,
+      "volumeMl": 700,
+      "average": null,
+      "sampleCount": 0,
+      "checkedAt": "2026-11-09T00:23:25.624Z",
+      "sourceUrl": "https://www.laphroaig.com/whiskies/laphroaig-elements-3-0",
+      "photoPath": "/images/whisky-laphroaig-elements-l3-0.webp"
+    }
+  ]
+}
