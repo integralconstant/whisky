@@ -68,7 +68,9 @@ const html = `<!doctype html>
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="theme-color" content="#f8f7f3" />
+  <meta name="color-scheme" content="light dark" />
+  <meta name="theme-color" content="#f8f7f3" media="(prefers-color-scheme: light)" />
+  <meta name="theme-color" content="#161d19" media="(prefers-color-scheme: dark)" />
   <title>WHISKY NOTE — 한 잔의 취향, 당신만의 발견</title>
   <link rel="icon" href="data:image/svg+xml,${encodeURIComponent(favicon)}" />
   <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;450;500;550;600;650;700;750;800&display=swap" rel="stylesheet" />

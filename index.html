@@ -3,7 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="theme-color" content="#f8f7f3" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#f8f7f3" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#161d19" media="(prefers-color-scheme: dark)" />
     <meta
       name="description"
       content="위스키의 향과 맛을 탐색하고, 취향에 맞는 칵테일 레시피를 발견하세요. 이름과 향미 태그로 찾아보는 나만의 위스키 노트."
@@ -34,8 +36,8 @@
           gap: 18px;
           padding: 28px;
           box-sizing: border-box;
-          background: #f8f7f3;
-          color: #345245;
+          background: light-dark(#f8f7f3, #161d19);
+          color: light-dark(#345245, #b8d4aa);
           font-family: sans-serif;
           text-align: center;
         "
