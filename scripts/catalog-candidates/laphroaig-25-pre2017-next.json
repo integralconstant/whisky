@@ -1,0 +1,31 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "listed-2015-2016-integrated-earlier-and-other-families-remain",
+  "entries": [
+    {
+      "year": 2016,
+      "abv": 48.6,
+      "volumeMl": 700,
+      "sources": [
+        "https://www.thewhiskyexchange.com/p/36037/laphroaig-25-year-old-cask-strength-bot2016",
+        "https://www.abbeywhisky.com/products/laphroaig-25-year-old-2016-release-aw02092",
+        "https://www.nicks.com.au/products/laphroaig-25-year-old-cask-strength-single-malt-scotch-whisky-700ml-40276"
+      ],
+      "next": "Read product body, inspect exact 48.6% label and annual identity; gather attributable firsthand notes.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2015-2016-integration.json"
+    },
+    {
+      "year": 2015,
+      "abv": 46.8,
+      "volumeMl": 700,
+      "sources": [
+        "https://www.thewhiskyexchange.com/p/73300/laphroaig-25-year-old-cask-strength-bot2015"
+      ],
+      "next": "Inspect exact photo and annual identity, read product body and gather attributable tasting notes.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2015-2016-integration.json"
+    }
+  ],
+  "additionalResearch": "2014 and 2013 both appear at 45.1%: never infer annual identity from ABV alone. Continue earlier editions, newer official pages, remaining official families and independent bottlings. Preserve existing catalog and UI."
+}

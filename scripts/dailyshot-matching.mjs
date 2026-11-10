@@ -1,6 +1,12 @@
 // Variable strengths are accepted only for individually reviewed, batch-unspecified CS expressions.
 // A fixed release must never inherit another release's or a shared listing's price.
 export function approvedAbvMatches(item, mapping, actualLabel) {
+  if (mapping.sellerRelease) {
+    const release = mapping.sellerRelease;
+    return item.caskStrength === true && item.id.endsWith(`-${release.year}`) &&
+      Number.isInteger(release.year) && Math.abs(item.abv - release.abv) < 0.01 &&
+      actualLabel === release.parentAbvLabel && Boolean(release.note);
+  }
   if (mapping.referenceOnly)
     return (
       Boolean(mapping.referenceOnly.note) && actualLabel === mapping.abvLabel
@@ -20,6 +26,21 @@ export function approvedAbvMatches(item, mapping, actualLabel) {
   }
   const match = actualLabel.match(/^\s*(\d+(?:\.\d+)?)\s*%\s*$/);
   return Boolean(match) && Math.abs(Number(match[1]) - item.abv) < 0.01;
+}
+
+// A shared annual product can only contribute sellers that explicitly identify
+// both the release year and strength. Unlabelled sellers never inherit the year.
+export function sellerReleaseMatches(item, mapping, offer) {
+  if (!mapping.sellerRelease) return true;
+  const release = mapping.sellerRelease;
+  const label = `${offer.name || ""} ${offer.name_tag || ""}`;
+  if (/랜덤|random|무작위|임의/i.test(label)) return false;
+  const years = [...label.matchAll(/(?<!\d)(20\d{2})(?!\d)/g)].map((match) => Number(match[1]));
+  const strengths = [...label.matchAll(/(?<![\d.])(\d{2}(?:\.\d+)?)\s*(?:도|%)/g)].map((match) => Number(match[1]));
+  return item.id.endsWith(`-${release.year}`) && years.length > 0 &&
+    years.every((year) => year === release.year) && strengths.length > 0 &&
+    strengths.every((abv) => Math.abs(abv - item.abv) < 0.01) &&
+    offerBatchMatches(item, offer);
 }
 
 // Some annual editions omit their year from the product title. Retain only

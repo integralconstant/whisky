@@ -1,0 +1,107 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "integrated-verified",
+  "previousCount": 512,
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.whiskynotes.be/2019/laphroaig/laphroaig-25-years-2018/",
+      "id": "laphroaig-25-cask-strength-2018",
+      "name": "라프로익 25년 캐스크 스트렝스 2018",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2018 Edition",
+      "abv": 52,
+      "age": 25,
+      "tags": [
+        "피트",
+        "스모키",
+        "과일",
+        "시트러스",
+        "후추",
+        "커피",
+        "꿀"
+      ],
+      "description": "25년 숙성 후 52% 캐스크 스트렝스로 병입한 2018년 에디션. 아래 향미는 WhiskyNotes의 해당 연도 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "미네랄과 재의 향에 자몽·라임·구운 파인애플이 겹치며 버터와 바닷바람이 느껴집니다.",
+        "palate": "민트 같은 연기와 약품 향, 레몬·자몽·소금물·으깬 후추, 그을린 오크가 이어집니다.",
+        "finish": "그을린 풀과 식은 연기, 볶은 커피와 꿀을 머금은 과일이 길게 남습니다."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2018년 52%·700ml 에디션입니다. 연도별 도수가 다른 25년 CS와 구분합니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.whiskysaga.com/blog/laphroaig-25-yo-cask-strength-edition-2019",
+      "id": "laphroaig-25-cask-strength-2019",
+      "name": "라프로익 25년 캐스크 스트렝스 2019",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2019 Edition",
+      "abv": 51.4,
+      "age": 25,
+      "tags": [
+        "피트",
+        "스모키",
+        "시트러스",
+        "과일",
+        "바닐라",
+        "스파이시"
+      ],
+      "description": "25년 숙성 후 51.4% 캐스크 스트렝스로 병입한 2019년 에디션. 아래 향미는 Whisky Saga의 해당 연도 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "피트와 나무 연기 사이로 감귤류·과수원 과일·바닐라와 구운 빵 껍질이 느껴집니다.",
+        "palate": "묵직한 질감에 피트 연기가 먼저 드러나고 바닐라·생강·계피가 이어집니다.",
+        "finish": "피트와 그을음·재가 이어지며 과일과 설탕의 단맛이 길게 남습니다."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2019년 51.4%·700ml 에디션입니다. 연도별 도수가 다른 25년 CS와 구분합니다."
+    }
+  ],
+  "duplicateCheck": "IDs and normalized Korean/English names checked against all 512 existing entries.",
+  "photoReview": "2018 real bottle 25 years / 52% / 70cl. 2019 real bottle 25 years / 51.4% / 700ml. Annual identities verified against source product pages.",
+  "notesProvenance": "Firsthand WhiskyNotes 2018 and Whisky Saga 2019 notes paraphrased in Korean, with no review scores copied.",
+  "caskCaution": "2018 and 2019 real labels say bourbon; some retailer/reviewer copy mentions sherry. Do not assert disputed cask recipes.",
+  "dailyshot": {
+    "2018": "Public detail item283631 and active offer explicitly say 52 degrees 2018 release, 700ml. Exclude all anonymous and other-release sellers in shared topProduct9106.",
+    "2019": "No exact annual price yet verified."
+  },
+  "currentCount": 514,
+  "existingEntriesPreserved": 512,
+  "results": [
+    {
+      "id": "laphroaig-25-cask-strength-2018",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2018.webp",
+      "price": {
+        "average": 1390000,
+        "currency": "KRW",
+        "volumeMl": 700,
+        "sampleCount": 1,
+        "min": 1390000,
+        "max": 1390000,
+        "checkedAt": "2026-11-10T05:32:36.798Z",
+        "sourceUrl": "https://dailyshot.co/m/items/427259/sellers",
+        "offers": [
+          {
+            "price": 1390000,
+            "url": "https://dailyshot.co/m/item/9106?item=283631&seller=15894",
+            "seller": "AB(알코올부천)"
+          }
+        ],
+        "note": "공용 25년 CS 상품 중 2018년·52도를 모두 명시한 국내 스토어 판매가만 반영합니다. 연도·도수 미표기 및 다른 연도 판매가는 제외합니다."
+      }
+    },
+    {
+      "id": "laphroaig-25-cask-strength-2019",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2019.webp",
+      "price": null
+    }
+  ]
+}

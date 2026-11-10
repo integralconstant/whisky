@@ -7,6 +7,7 @@ import {
   approvedReleaseMatches,
   declaredReleaseYears,
   offerBatchMatches,
+  sellerReleaseMatches,
 } from "./dailyshot-matching.mjs";
 
 // Public, unauthenticated requests only. No cookies, tokens, location, or account data.
@@ -394,6 +395,7 @@ async function getOffers(catalogItem, mapping, detail) {
         !(item.price > 0) ||
         isBundle(offerLabel) ||
         !offerBatchMatches(catalogItem, item)
+        || !sellerReleaseMatches(catalogItem, mapping, item)
       )
         continue;
       const namedVolumes = [

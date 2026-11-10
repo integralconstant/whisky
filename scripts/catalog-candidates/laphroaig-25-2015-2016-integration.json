@@ -1,0 +1,99 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "integrated-verified",
+  "previousCount": 514,
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://tomoderawhisky.wordpress.com/2022/05/19/laphroaig-25-2015/",
+      "id": "laphroaig-25-cask-strength-2015",
+      "name": "라프로익 25년 캐스크 스트렝스 2015",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2015 Edition",
+      "abv": 46.8,
+      "age": 25,
+      "tags": [
+        "피트",
+        "스모키",
+        "허브",
+        "시트러스",
+        "바다·소금",
+        "오일리"
+      ],
+      "description": "25년 숙성 후 46.8% 캐스크 스트렝스로 병입한 2015년 에디션. 검은 기념 패키지와 병 라벨에 연도가 표시됩니다. 아래 향미는 TOModera의 해당 연도 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "요오드와 병원 같은 약품 향에 레몬그라스·바닷바람·흑설탕·고무가 겹칩니다.",
+        "palate": "고무와 소금에 절인 돼지고기, 소기름·민들레·버터를 연상시키는 기름지고 짭짤한 풍미.",
+        "finish": "홍합 같은 바다 향과 그을린 레몬·라임 껍질, 라일락과 마른 풀이 남습니다."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2015년 46.8%·700ml 에디션입니다. 다른 연도 및 도수의 25년 CS와 구분합니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.thewhiskyexchange.com/p/36037/laphroaig-25-year-old-cask-strength-bot2016",
+      "id": "laphroaig-25-cask-strength-2016",
+      "name": "라프로익 25년 캐스크 스트렝스 2016",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2016 Edition",
+      "abv": 48.6,
+      "age": 25,
+      "tags": [
+        "피트",
+        "스모키",
+        "과일",
+        "시트러스",
+        "바다·소금"
+      ],
+      "description": "25년 숙성 후 48.6% 캐스크 스트렝스로 병입한 2016년 에디션. 올로로소 셰리와 아메리칸 오크 캐스크 숙성 표기를 실물 라벨에서 확인했습니다. 아래 향미는 The Whisky Exchange의 해당 제품 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "부드러운 과일 향에 은은한 소금기와 절제된 피트 연기가 느껴집니다.",
+        "palate": "자몽과 패션프루트의 과즙 같은 풍미 사이로 가느다란 피트 연기가 어우러집니다.",
+        "finish": "연기와 과일이 겹치는 섬세하고 부드러운 여운."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2016년 48.6%·700ml 에디션입니다. 다른 연도 및 도수의 25년 CS와 구분합니다."
+    }
+  ],
+  "duplicateCheck": "IDs and normalized Korean/English names checked against all 514 existing entries.",
+  "photoReview": "2015 black anniversary package and bottle explicitly 2015 Cask Strength Edition, 25 years, 46.8%, 70cl. 2016 white package, 25 years, 48.6%, 70cl; annual identity confirmed by exact retailer product.",
+  "notesProvenance": "2015 TOModera firsthand review; 2016 The Whisky Exchange product tasting notes. Paraphrased in Korean; no scores copied.",
+  "caskCaution": "2016 label confirms Oloroso sherry and American oak, but retailer copy about first fill conflicts with second fill evidence elsewhere; no fill number asserted.",
+  "dailyshot": "Require exact annual identity; no price inherited from shared product9106. New products undergo targeted discovery.",
+  "currentCount": 516,
+  "existingEntriesPreserved": 514,
+  "results": [
+    {
+      "id": "laphroaig-25-cask-strength-2015",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2015.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202015",
+        "productName": "라프로익 25년 캐스크 스트렝스 2015",
+        "checkedAt": "2026-11-10T05:36:04.151Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    },
+    {
+      "id": "laphroaig-25-cask-strength-2016",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2016.webp",
+      "dailyshot": {
+        "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202016",
+        "productName": "라프로익 25년 캐스크 스트렝스 2016",
+        "checkedAt": "2026-11-10T05:36:04.153Z",
+        "scope": "search",
+        "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+      },
+      "price": null
+    }
+  ]
+}

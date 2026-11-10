@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T00:46:01.715Z",
-  "catalogCount": 511,
-  "processedCount": 511,
-  "matchedCount": 330,
-  "pricedCount": 314,
+  "generatedAt": "2026-11-10T05:44:38.893Z",
+  "catalogCount": 519,
+  "processedCount": 519,
+  "matchedCount": 331,
+  "pricedCount": 315,
   "scope": "Dailyshot in-stock domestic store listings (service_type=1), before coupons, same product and volume",
   "entries": {
     "aberlour-12": {
@@ -7866,6 +7866,357 @@
           "url": "https://api.dailyshot.co/item-sellers/?item_id=159513&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
           "checkedAt": "2026-11-09T00:16:54.148Z",
           "count": 14
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2011": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2011",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2013": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2013",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2014": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2014",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2015": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2015",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2016": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2016",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2017": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2017",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2018": {
+      "status": "priced",
+      "name": "라프로익 25년 캐스크 스트렝스 2018",
+      "topProductId": 9106,
+      "volumeMl": 700,
+      "rawOfferCount": 29,
+      "acceptedOfferCount": 1,
+      "pages": [
+        {
+          "url": "https://api.dailyshot.co/item-sellers/?item_id=427259&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+          "checkedAt": "2026-11-10T05:32:36.798Z",
+          "count": 29
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2019": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2019",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
         }
       ]
     },

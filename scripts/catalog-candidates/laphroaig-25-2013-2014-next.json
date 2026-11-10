@@ -1,0 +1,35 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "listed-2013-2014-integrated-earlier-and-other-families-remain",
+  "entries": [
+    {
+      "year": 2014,
+      "abv": 45.1,
+      "volumeMl": 700,
+      "sources": [
+        "https://www.thewhiskyexchange.com/p/87883/laphroaig-25-year-old-cask-strength-bot2014",
+        "https://www.whiskynotes.be/2017/laphroaig/laphroaig-25-years-2014/",
+        "https://maltandoak.com/on-that-laphroaig-y-note-tasting-the-laphroaig-25/"
+      ],
+      "next": "Read exact product body and firsthand notes; inspect real 25yo45.1%700ml photo and annual identity.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2013-2014-integration.json"
+    },
+    {
+      "year": 2013,
+      "photoCandidate": "https://img.thewhiskyexchange.com/900/lrgob.25yov2.jpg",
+      "abv": 45.1,
+      "volumeMl": 700,
+      "sources": [
+        "https://www.thewhiskyexchange.com/p/23110/laphroaig-25-year-old-cask-strength-bot2013",
+        "https://whisknick.wordpress.com/2015/08/17/laphroaig-25-yo-2013-cask-strength-edition/",
+        "https://www.connosr.com/laphroaig-25-yo-cask-strength-bottled-2013-whisky-review-11216"
+      ],
+      "next": "WhiskNick firsthand notes read: dill, smoked trout, bacon, banana jam; lemon preserve, honey, apricot, red apple, chocolate; honey and restrained peat finish. Inspect real photo, label year, strength and volume before integration.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2013-2014-integration.json"
+    }
+  ],
+  "cautions": "Both years45.1%; ABV alone cannot identify release year. Older25yo40%regular releases must stay distinct from annualCS. Dailyshot price requires exact product or explicit matching seller year plus ABV; anonymous shared sellers are insufficient.",
+  "additionalResearch": "Continue earlier25yo editions, newer official editions and remaining official and independent Laphroaig families; this candidate list is not exhaustive."
+}

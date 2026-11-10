@@ -1,0 +1,29 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "research-only-not-integrated",
+  "entries": [
+    {
+      "year": 2010,
+      "photoCandidate": "https://littlesilverwinesandspirits.co.uk/cdn/shop/files/57_8c8e5c0f-a4fb-48ba-96c5-7b1d5d11169a.jpg?v=1766916588&width=1200",
+      "abvCandidate": 51.9,
+      "sources": ["https://littlesilverwinesandspirits.co.uk/products/laphroaig-25-year-old-cask-strength-51-9-vol-70cl-l1025-sp-2010-bottle"],
+      "next": "Seller title mentions2010 andL1025Sp. Read full body and inspect bottle/box annual label, ABV and volume before integration; distinguish2010from2021which is also51.9%."
+    },
+    {
+      "year": 2009,
+      "abvCandidate": 51,
+      "sources": ["https://allthingswhisky.com/2011/01/", "https://www.whisky.de/fileadmin/web_data/01download/katalog/k2010.pdf"],
+      "next": "Find original exact-year article and retailer/auction full-bottle photo. Inspect51%25years2009and volume; notes and product identity still unverified."
+    },
+    {
+      "year": 2008,
+      "abvCandidates": [50.9,51.2],
+      "sources": [
+        "https://www.thewhiskyshop.com.sg/products/laphroaig-25-years-cask-strength-bot-2008",
+        "https://offthepresses.blogspot.com/2009/05/two-more-old-scotches.html"
+      ],
+      "next": "At least two market strength candidates:50.9%700ml andUS51.2% potentially750ml. Verify actual photos, labels and market identity separately; do not merge strengths or volumes by annual year alone."
+    }
+  ],
+  "additionalResearch": "Earlier25yo40%regular release and other official/independent Laphroaig families remain in scope.2012identity remains unresolved inlaphroaig-25-2011-2012-next.json."
+}

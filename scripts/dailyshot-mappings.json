@@ -1252,5 +1252,22 @@
     "sourceUrl": "https://dailyshot.co/m/item/23528",
     "verifiedAt": "2026-11-09",
     "note": "2023 에디션·47.3%·700ml를 생산자 및 데일리샷 개별 상품과 대조했습니다. 연도·도수 범위 공용 상품9106은 제외합니다."
+  },
+  "laphroaig-25-cask-strength-2018": {
+    "topProductId": 9106,
+    "volumeMl": 700,
+    "productName": "라프로익 25년 CS — 2018년 52도 명시 판매처",
+    "englishName": "Laphroaig 25yo CS",
+    "abv": 52,
+    "method": "manual-verified-seller-release",
+    "verifiedAt": "2026-11-10",
+    "sourceUrl": "https://dailyshot.co/m/items/283631/sellers",
+    "sellerRelease": {
+      "year": 2018,
+      "abv": 52,
+      "parentAbvLabel": "45~54%",
+      "note": "공용 25년 CS 상품 중 2018년·52도를 모두 명시한 국내 스토어 판매가만 반영합니다. 연도·도수 미표기 및 다른 연도 판매가는 제외합니다."
+    },
+    "priceNote": "공용 25년 CS 상품 중 2018년·52도를 모두 명시한 국내 스토어 판매가만 반영합니다. 연도·도수 미표기 및 다른 연도 판매가는 제외합니다."
   }
 }

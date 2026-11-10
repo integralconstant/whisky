@@ -45,7 +45,10 @@ test("CS approved mappings accept only reviewed ABV labels and keep fixed batche
   for (const item of whiskies.filter((entry) => entry.caskStrength)) {
     const mapping = mappings[item.id];
     if (!mapping) continue;
-    if (mapping.referenceOnly) {
+    if (mapping.sellerRelease) {
+      assert.equal(approvedAbvMatches(item, mapping, mapping.sellerRelease.parentAbvLabel), true);
+      assert.equal(approvedAbvMatches(item, mapping, "40~60%"), false);
+    } else if (mapping.referenceOnly) {
       assert.equal(approvedAbvMatches(item, mapping, mapping.abvLabel), true);
       assert.equal(item.dailyshotPrice, undefined);
     } else if (mapping.variableBatch) {

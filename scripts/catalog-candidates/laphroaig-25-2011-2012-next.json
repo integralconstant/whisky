@@ -1,0 +1,37 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "2011-integrated-2012-identity-unresolved",
+  "entries": [
+    {
+      "year": 2011,
+      "photoCandidate": "https://img.thewhiskyexchange.com/900/lrgob.25yov1.jpg",
+      "verifiedProductFacts": "Exact TWE product body confirms bottling date2011,25years,48.6%,70cl. Full photo still requires inspection. ColouringYes listed, so do not claim natural colour.",
+      "abvCandidate": 48.6,
+      "sources": [
+        "https://www.thewhiskyexchange.com/p/9519/laphroaig-25-year-old-cask-strength-bot2011",
+        "https://torontowhiskysociety.ca/2017/02/24/froaigfriday-review-laphroaig-25-cask-strength-2011-edition/",
+        "https://www.divingforpearlsblog.com/2014/01/single-malt-report-laphroaig-25-year.html",
+        "https://irishwhiskeyauctions.ie/views/product.php?id=65416183"
+      ],
+      "next": "Read exact product body and firsthand notes, inspect full bottle photo for2011/25years/ABV/volume. 2016 is also48.6%; use annual label.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2011-integration.json"
+    },
+    {
+      "year": 2012,
+      "abvCandidate": 48.6,
+      "sources": [
+        "https://www.sothebys.com/en/buy/auction/2024/finest-and-rarest-spirits-6/laphroaig-25-year-old-cask-strength-48-6-abv-2012"
+      ],
+      "next": "Auction title says2012/48.6%; inspect actual labels to establish whether distinct2012 edition exists or title refers to a2011 release. Do not register merely from auction title or sharedABV.",
+      "status": "deferred-annual-label-unverified",
+      "photoReview": "All threeSothebysphotos inspected: white wooden boxes48.6%70cl with no year on front/back/caps. Back label sayssecond-fillOloroso+Americanbourbon; differs from explicit2011blackbox, resembles2016. Cannot identify2012or assertduplicate from title alone.",
+      "localEvidence": [
+        ".cache/laphroaig-25-2012-sothebys-a.jpg",
+        ".cache/laphroaig-25-2012-sothebys-b.jpg",
+        ".cache/laphroaig-25-2012-sothebys-c.jpg"
+      ]
+    }
+  ],
+  "additionalResearch": "Continue earlier editions including25yo40%regular release, 2008/2009CS and other annuals. Do not infer missing edition from absent search results. All remaining official and independent Laphroaig families remain in scope."
+}

@@ -1,0 +1,35 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "listed-2018-2019-integrated-newer-and-earlier-releases-remain",
+  "next": [
+    {
+      "year": 2018,
+      "abv": 52,
+      "volumeMl": 700,
+      "productSource": "https://www.thewhiskyexchange.com/p/48771/laphroaig-25-year-old-cask-strength-bot2018",
+      "notesSource": "https://www.whiskynotes.be/2019/laphroaig/laphroaig-25-years-2018/",
+      "dailyshotSellerSource": "https://dailyshot.co/m/items/283631/sellers",
+      "remaining": "Inspect exact bottle photo. Dailyshot seller title says 52 degrees 2018 release but shared offers may contain other editions; inspect actual offer tags and item identity before assigning any price. WhiskyNotes says ex-bourbon while retailer copy says sherry plus bourbon; avoid unverified cask recipe.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2018-2019-integration.json"
+    },
+    {
+      "year": 2019,
+      "abv": 51.4,
+      "volumeMl": 700,
+      "productSource": "https://www.thewhiskybarrel.com/products/laphroaig-25-year-old-2019-release",
+      "notesSource": "https://www.whiskysaga.com/blog/laphroaig-25-yo-cask-strength-edition-2019",
+      "remaining": "Inspect and download exact full-bottle photo. No exact annual Dailyshot match verified.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2018-2019-integration.json"
+    }
+  ],
+  "newerEditionResearch": {
+    "officialSitemap": "https://www.laphroaig.com/html-sitemap",
+    "finding": "Search found official 2023 and 2020 pages; this does not establish absence of newer editions. 2024/2025 results also identify independent Signatory bottlings, which must not be confused with annual official 25yo CS editions.",
+    "candidates": [
+      "https://www.whisky-online.com/products/laphroaig-2000-2025-25-year-old-signatory-vintage-symingtons-choice-single-cask-4078",
+      "https://gommonehk.com/products/laphroaig-1998-2024-25-year-old-cask-strength-collection-symington-s-choice-signatory-vintage-10495"
+    ]
+  }
+}

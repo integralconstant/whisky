@@ -178,5 +178,53 @@
     "sourceUrl": "https://www.laphroaig.com/whiskies/25-year-old-cask-strength-2023",
     "productName": "Laphroaig 25 Year Old Cask Strength 2023 Edition",
     "note": "생산자 공식 사진의 25년·47.3%·700ml·CS 표기를 직접 확인하고 2023 릴리즈를 해당 생산자 페이지와 대조했습니다."
+  },
+  "laphroaig-25-cask-strength-2017": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.25yov6.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/41248/laphroaig-25-year-old-cask-strength-bot2017",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2017 Edition",
+    "note": "실물의 25년·48.9%·70cl 표기를 육안 확인. 판매 페이지의 2017년 표기를 해당 연도 시음 기사와 대조했습니다."
+  },
+  "laphroaig-25-cask-strength-2018": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.25yov7.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/48771/laphroaig-25-year-old-cask-strength-bot2018",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2018 Edition",
+    "note": "실물 25년·52%·700ml 표기를 확인하고 판매 페이지의 2018년 에디션 표기를 대조했습니다."
+  },
+  "laphroaig-25-cask-strength-2019": {
+    "imageUrl": "https://www.thewhiskybarrel.com/cdn/shop/files/laphroaig-25-year-old-2019-release.jpg?width=1000",
+    "sourceUrl": "https://www.thewhiskybarrel.com/products/laphroaig-25-year-old-2019-release",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2019 Edition",
+    "note": "실물 25년·51.4%·700ml 표기를 확인하고 판매 페이지의 2019년 에디션 표기를 대조했습니다."
+  },
+  "laphroaig-25-cask-strength-2015": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.25yov11.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/73300/laphroaig-25-year-old-cask-strength-bot2015",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2015 Edition",
+    "note": "2015년 판매 페이지와 실물 25년·46.8%·70cl 표기를 대조했습니다. 2015년은 병과 검은 패키지의 연도 표기도 직접 확인했습니다."
+  },
+  "laphroaig-25-cask-strength-2016": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.25yov5.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/36037/laphroaig-25-year-old-cask-strength-bot2016",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2016 Edition",
+    "note": "2016년 판매 페이지와 실물 25년·48.6%·70cl 표기를 대조했습니다. 2015년은 병과 검은 패키지의 연도 표기도 직접 확인했습니다."
+  },
+  "laphroaig-25-cask-strength-2013": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.25yov2.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/23110/laphroaig-25-year-old-cask-strength-bot2013",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2013 Edition",
+    "note": "실물 라벨의 2013년·25년·45.1%·70cl 표기를 확인했습니다."
+  },
+  "laphroaig-25-cask-strength-2014": {
+    "imageUrl": "https://media.whisky.auction/600/215814_0.jpg?id=468284",
+    "sourceUrl": "https://whisky.auction/auctions/lot/217274/laphroaig-25-year-old",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2014 Edition",
+    "note": "실물 라벨의 2014년·25년·45.1%·70cl 표기를 확인했습니다. 경매 사진 상자에는 서명 전시 문구가 있으나 위스키 자체는 2014 에디션으로 등록합니다."
+  },
+  "laphroaig-25-cask-strength-2011": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.25yov1.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/9519/laphroaig-25-year-old-cask-strength-bot2011",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2011 Edition",
+    "note": "병과 검은 상자의 2011 Edition 표기,25년·48.6%·70cl를 확인했습니다. 2016년48.6%와 구분합니다."
   }
 }

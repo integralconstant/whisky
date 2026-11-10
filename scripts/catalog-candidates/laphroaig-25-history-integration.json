@@ -1,0 +1,55 @@
+{
+  "checkedOn": "2026-11-10",
+  "status": "integrated-verified",
+  "previousCount": 511,
+  "duplicateCheck": "IDs and normalized Korean/English names checked against current catalog.",
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://wordsofwhisky.com/laphroaig-25-years-old-cask-strength-2017/",
+      "id": "laphroaig-25-cask-strength-2017",
+      "name": "라프로익 25년 캐스크 스트렝스 2017",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2017 Edition",
+      "abv": 48.9,
+      "age": 25,
+      "tags": [
+        "피트",
+        "스모키",
+        "과일",
+        "시트러스",
+        "후추"
+      ],
+      "description": "25년 숙성 후 48.9% 캐스크 스트렝스로 병입한 2017년 에디션. 버번과 세컨드 필 올로로소 셰리 캐스크 원액을 결합했습니다. 아래 향미는 Words of Whisky의 해당 연도 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "바닷바람과 피트 향 사이로 감초, 잘 익은 바나나와 오렌지, 배가 느껴집니다.",
+        "palate": "망고와 설탕의 단맛에 잿빛 피트와 타르, 레몬 껍질과 감초 뿌리의 풍미가 이어집니다.",
+        "finish": "소금과 후추, 재와 그린 올리브가 남는 중간 길이의 여운."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2017년 48.9%·700ml 에디션입니다. 다른 연도의 25년 CS와 구분하며 공용 상품의 가격은 적용하지 않습니다."
+    }
+  ],
+  "photoReview": "2017: real bottle 25 years / 48.9% / 70cl inspected; source product explicitly Bot.2017.",
+  "sources": [
+    "https://www.thewhiskyexchange.com/p/41248/laphroaig-25-year-old-cask-strength-bot2017",
+    "https://wordsofwhisky.com/laphroaig-25-years-old-cask-strength-2017/"
+  ],
+  "dailyshot": {
+    "status": "no-exact-annual-price-verified",
+    "note": "No 2017 exact product identified. Shared product 9106 and 2018 seller 283631 are not prices for 2017."
+  },
+  "currentCount": 512,
+  "existingEntriesPreserved": 511,
+  "results": [
+    {
+      "id": "laphroaig-25-cask-strength-2017",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2017.webp",
+      "price": null
+    }
+  ]
+}

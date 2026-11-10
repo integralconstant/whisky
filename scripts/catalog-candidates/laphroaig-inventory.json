@@ -5,8 +5,8 @@
   "purpose": "Finish the Laphroaig catalogue, including identifiable releases and batches, before starting another distillery. This inventory is research evidence, not runtime catalogue data.",
   "coverageWarning": "Official online ranges are incomplete historical inventories. Do not infer that missing years, discontinued bottlings, single casks or independent bottlings do not exist. Retail offers, photos and tasting information still require release-specific verification before runtime integration.",
   "runtimeSnapshot": {
-    "checkedAt": "2026-11-09T00:46:40.404Z",
-    "rawCount": 56,
+    "checkedAt": "2026-11-10T05:45:21.236Z",
+    "rawCount": 64,
     "expressions": [
       "Laphroaig 10 Year Old",
       "Laphroaig Quarter Cask",
@@ -63,7 +63,15 @@
       "Laphroaig 25 Year Old Cask Strength 2020 Edition",
       "Laphroaig 25 Year Old Cask Strength 2021 Edition",
       "Laphroaig 25 Year Old Cask Strength 2022 Edition",
-      "Laphroaig 25 Year Old Cask Strength 2023 Edition"
+      "Laphroaig 25 Year Old Cask Strength 2023 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2017 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2018 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2019 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2015 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2016 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2013 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2014 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2011 Edition"
     ],
     "note": "Includes November 9 additions. Register all identifiable expressions with real photographs, including products absent from Dailyshot; show Dailyshot prices only when verified. Inventory remains in progress."
   },
@@ -711,5 +719,5 @@
       "evidence": "Producer says two down, one to go. Do not create an invented release record from the future announcement."
     }
   ],
-  "lastCatalogAudit": "2026-11-09"
+  "lastCatalogAudit": "2026-11-10"
 }

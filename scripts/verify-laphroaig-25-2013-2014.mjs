@@ -1,0 +1,36 @@
+import assert from "node:assert/strict";
+import { readFile, writeFile, stat } from "node:fs/promises";
+import { whiskies } from "../src/data/whiskies.ts";
+import { whiskyImages } from "../src/data/whisky-images.ts";
+const read=async(file)=>JSON.parse(await readFile(file,"utf8"));
+const save=(file,data)=>writeFile(file,JSON.stringify(data,null,2)+"\n");
+const previous=await read(".cache/catalog-before-laphroaig-25-2013-2014.json");
+const current=new Map(whiskies.map((item)=>[item.id,item]));
+for(const item of previous)assert.deepEqual(current.get(item.id),item,`Existing item changed: ${item.id}`);
+const results=[];
+for(const year of [2013,2014]){
+ const id=`laphroaig-25-cask-strength-${year}`;const item=current.get(id);
+ assert.equal(item.age,25);assert.equal(item.abv,45.1);assert.equal(item.caskStrength,true);
+ assert.equal(item.dailyshotPrice,undefined);assert.ok(item.dailyshotProduct);
+ assert.equal(whiskies.filter((entry)=>entry.id===id).length,1);
+ assert.ok((await stat(`public${whiskyImages[id].path}`)).size>500);
+ assert.ok(whiskyImages[id].productName.includes(String(year)));
+ results.push({id,photo:whiskyImages[id].path,dailyshot:item.dailyshotProduct,price:null});
+}
+assert.notEqual(results[0].photo,results[1].photo);
+const recordPath="scripts/catalog-candidates/laphroaig-25-2013-2014-integration.json";
+const record=await read(recordPath);
+Object.assign(record,{status:"integrated-verified",currentCount:whiskies.length,existingEntriesPreserved:previous.length,results});
+await save(recordPath,record);
+const inventoryPath="scripts/catalog-candidates/laphroaig-inventory.json";
+const inventory=await read(inventoryPath);
+for(const entry of inventory.entries)for(const year of [2013,2014])if(entry.name===`25 Year Old Cask Strength ${year}`)Object.assign(entry,{status:"integrated",runtimeId:`laphroaig-25-cask-strength-${year}`,integrationRecord:"laphroaig-25-2013-2014-integration.json"});
+inventory.runtimeSnapshot.checkedAt=new Date().toISOString();inventory.lastCatalogAudit="2026-11-10";
+inventory.runtimeSnapshot.rawCount=whiskies.filter((item)=>item.brand==="Laphroaig").length;
+inventory.runtimeSnapshot.expressions=whiskies.filter((item)=>item.brand==="Laphroaig").map((item)=>item.englishName);
+await save(inventoryPath,inventory);
+const nextPath="scripts/catalog-candidates/laphroaig-25-2013-2014-next.json";
+const next=await read(nextPath);next.status="listed-2013-2014-integrated-earlier-and-other-families-remain";
+for(const entry of next.entries)Object.assign(entry,{status:"integrated-verified",integrationRecord:"laphroaig-25-2013-2014-integration.json"});
+await save(nextPath,next);
+console.log(JSON.stringify({preserved:previous.length,total:whiskies.length,results:results.map(({id,photo})=>({id,photo}))}));

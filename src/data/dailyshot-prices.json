@@ -77881,6 +77881,24 @@
       }
     ]
   },
+  "laphroaig-25-cask-strength-2018": {
+    "average": 1390000,
+    "currency": "KRW",
+    "volumeMl": 700,
+    "sampleCount": 1,
+    "min": 1390000,
+    "max": 1390000,
+    "checkedAt": "2026-11-10T05:32:36.798Z",
+    "sourceUrl": "https://dailyshot.co/m/items/427259/sellers",
+    "offers": [
+      {
+        "price": 1390000,
+        "url": "https://dailyshot.co/m/item/9106?item=283631&seller=15894",
+        "seller": "AB(알코올부천)"
+      }
+    ],
+    "note": "공용 25년 CS 상품 중 2018년·52도를 모두 명시한 국내 스토어 판매가만 반영합니다. 연도·도수 미표기 및 다른 연도 판매가는 제외합니다."
+  },
   "laphroaig-25-cask-strength-2023": {
     "average": 999000,
     "currency": "KRW",
