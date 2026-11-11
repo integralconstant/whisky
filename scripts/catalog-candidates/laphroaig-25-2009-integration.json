@@ -1,0 +1,50 @@
+{
+  "checkedOn": "2026-11-11",
+  "status": "integrated-verified",
+  "previousCount": 519,
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://allthingswhisky.com/2011/01/12/tale-of-two-25-year-old-laphroaigs/",
+      "id": "laphroaig-25-cask-strength-2009",
+      "name": "라프로익 25년 캐스크 스트렝스 2009",
+      "englishName": "Laphroaig 25 Year Old Cask Strength 2009 Edition",
+      "abv": 51,
+      "age": 25,
+      "tags": [
+        "피트",
+        "스모키",
+        "과일",
+        "열대과일",
+        "캐러멜",
+        "크리미"
+      ],
+      "description": "25년 숙성 후 51% 캐스크 스트렝스로 병입한 2009년 에디션. 병 라벨의 연도·도수·용량을 확인했습니다. 아래 향미는 All Things Whisky의 2009년 제품 비교 시음 기록을 요약했습니다.",
+      "notes": {
+        "nose": "생기 있는 연기와 약품 같은 향에 가벼운 풍선껌·배의 향이 겹칩니다.",
+        "palate": "부드럽고 달콤한 열대과일에 크리미한 캐러멜이 이어집니다.",
+        "finish": "중간에 다소 거친 느낌을 거쳐 따뜻하게 마무리되는 긴 여운."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "2009년 51%·700ml 에디션입니다. 40% 일반 25년 및 다른 연도·도수의 CS 제품과 구분합니다."
+    }
+  ],
+  "duplicateCheck": "ID and normalized Korean/English names checked against all519existing entries; distinct from40%regular25and allotherannualCSreleases.",
+  "photoReview": "Real bottle explicitly2009Edition,25years,51%,70cl. Retailer page agrees. Actual photograph inspected before integration.",
+  "notesProvenance": "AllThingsWhisky2011-01-12 firsthand comparison explicitlyidentifies2009CS51%; onlythatproduct's nose/palate/finish paraphrased.40%productnotes not reused.",
+  "dailyshot": "Targeted discovery required; shared listing prices not inherited.",
+  "currentCount": 520,
+  "existingEntriesPreserved": 519,
+  "results": [
+    {
+      "id": "laphroaig-25-cask-strength-2009",
+      "photo": "/images/whisky-laphroaig-25-cask-strength-2009.webp",
+      "price": null
+    }
+  ]
+}

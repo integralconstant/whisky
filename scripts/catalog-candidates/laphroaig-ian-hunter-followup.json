@@ -1,0 +1,22 @@
+{
+  "checkedOn": "2026-11-11",
+  "status": "research-incomplete",
+  "caskStrength": {
+    "book1Evidence": "https://www.whiskybrother.com/products/laphroaig-30-year-old-ian-hunter-book-1-scotch-whisky",
+    "book3Evidence": "https://figee.ch/en/download-pdf/WLAP30.3",
+    "pending": [2,4,5],
+    "next": "Verifyexplicitproducerorimportercaskstrengthstatementsforremainingbooks;donotinferfromABV."
+  },
+  "marketVolumes": [
+    {"book":1,"volumeMl":750,"source":"https://www.klwines.com/products/details/1454377"},
+    {"book":3,"volumeMl":750,"source":"https://theliquorbarn.com/collections/laphroaig/products/laphroaig-33-year-the-ian-hunter-story-book-3-750ml"},
+    {"book":4,"volumeMl":750,"source":"https://www.liquormarts.ca/product/laphroaig-ian-hunter-book-4-34-yo-islay-single-malt-scotch-whisky/750-ml"}
+  ],
+  "book4StrengthCaution": "OfficiallifestylephotoIan-Hunter-Book-4.jpg.webpcontainsverysmall46.4-lookinglabel;someJapanretailmetadataalso46.4.Bothinsufficientfornewvariantwithoutclearerlabelimage. Catalog46.2%usesverifiedDailyshotphoto,notthisambiguousphoto.",
+  "nextDistilleryFamilies": [
+    "30YearOld45.8%annualsmallbatchfirstrelease",
+    "30YearOldFriendsOfLaphroaigAnniversary202445.9%",
+    "Otherofficialrareages,StrongCharacters,singlecasksandindependentbottlings"
+  ],
+  "scope": "Five700mlIanHunterbooksregistereddoesnotcompleteallmarketvariantsorLaphroaigcatalogue. Keepunresolved25yoidentitiesinexistingresearchrecords."
+}

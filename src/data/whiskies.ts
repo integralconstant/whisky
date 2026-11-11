@@ -33,6 +33,11 @@ import { laphroaig25OlderWhiskies } from "./whiskies-laphroaig-25-2018-2019.ts";
 import { laphroaig25EarlyWhiskies } from "./whiskies-laphroaig-25-2015-2016.ts";
 import { laphroaig25EarlierWhiskies } from "./whiskies-laphroaig-25-2013-2014.ts";
 import { laphroaig25Year2011Whiskies } from "./whiskies-laphroaig-25-2011.ts";
+import { laphroaig25Year2009Whiskies } from "./whiskies-laphroaig-25-2009.ts";
+import { laphroaig25Year2008Whiskies } from "./whiskies-laphroaig-25-2008.ts";
+import { laphroaig25Old40Whiskies } from "./whiskies-laphroaig-25-old-40.ts";
+import { laphroaigIanHunterWhiskies } from "./whiskies-laphroaig-ian-hunter.ts";
+import { laphroaig30Year2024Whiskies } from "./whiskies-laphroaig-30-2024.ts";
 import { enrichWhiskyFlavors } from "./flavors.ts";
 import { dailyshotPrices } from "./dailyshot-prices.ts";
 import { dailyshotProducts } from "./dailyshot-products.ts";
@@ -803,6 +808,11 @@ export const whiskies: Whisky[] = [
   ...laphroaig25EarlyWhiskies,
   ...laphroaig25EarlierWhiskies,
   ...laphroaig25Year2011Whiskies,
+  ...laphroaig25Year2009Whiskies,
+  ...laphroaig25Year2008Whiskies,
+  ...laphroaig25Old40Whiskies,
+  ...laphroaigIanHunterWhiskies,
+  ...laphroaig30Year2024Whiskies,
 ].map((item) => ({
   ...enrichWhiskyFlavors(item),
   ...(dailyshotPrices[item.id]

@@ -1,0 +1,56 @@
+{
+  "checkedOn": "2026-11-11",
+  "status": "five700mlbooks-integrated-marketvariants-and-CSclassifications-remain",
+  "seriesSource": "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story",
+  "entries": [
+    {
+      "book": 1,
+      "name": "Unique Character",
+      "ageCandidate": 30,
+      "releaseYearCandidate": 2019,
+      "status": "integrated-verified",
+      "runtimeId": "laphroaig-ian-hunter-book-1",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
+    },
+    {
+      "book": 2,
+      "name": "The Icon",
+      "ageCandidate": 30,
+      "releaseYearCandidate": 2020,
+      "status": "integrated-verified",
+      "runtimeId": "laphroaig-ian-hunter-book-2",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
+    },
+    {
+      "book": 3,
+      "name": "Source Protector",
+      "ageCandidate": 33,
+      "releaseYearCandidate": 2021,
+      "status": "integrated-verified",
+      "runtimeId": "laphroaig-ian-hunter-book-3",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
+    },
+    {
+      "book": 4,
+      "name": "Malt Master",
+      "ageCandidate": 34,
+      "releaseYearCandidate": 2022,
+      "status": "integrated-verified",
+      "runtimeId": "laphroaig-ian-hunter-book-4",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
+    },
+    {
+      "book": 5,
+      "name": "Enduring Spirit",
+      "ageCandidate": 34,
+      "releaseYearCandidate": 2023,
+      "productSource": "https://www.laphroaig.com/en-gb/whiskies/ian-hunter-book-5-enduring-spirit-34-yo-single-malt-scotch-whisky",
+      "status": "integrated-verified",
+      "runtimeId": "laphroaig-ian-hunter-book-5",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
+    }
+  ],
+  "next": "Readproducerpagesandverifyeachbook'sABV,age,volume,caskstrengthandrealphoto;reviewexactDailyshotproductswhereavailable.Checkcurrentcatalogduplicatesforeachbookbeforeintegration.",
+  "open25yoResearch": "Historic43%genericcandidateplus2010/2012annualidentitiesremainunresolved;do notinferabsenceorduplicatefromlackofevidence.",
+  "scope": "OfficialandindependentLaphroaigbottlingsbeyondthisseriesremaininoriginalinventory;notcompletionofdistilleryorfullgoal."
+}

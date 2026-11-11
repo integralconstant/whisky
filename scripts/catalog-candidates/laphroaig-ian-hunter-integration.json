@@ -1,0 +1,299 @@
+{
+  "checkedOn": "2026-11-11",
+  "status": "integrated-verified",
+  "previousCount": 524,
+  "entries": [
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.whiskybrother.com/products/laphroaig-30-year-old-ian-hunter-book-1-scotch-whisky",
+      "id": "laphroaig-ian-hunter-book-1",
+      "name": "라프로익 30년 이안 헌터 북 1 유니크 캐릭터",
+      "englishName": "Laphroaig 30 Year Old Ian Hunter Book 1 Unique Character",
+      "abv": 46.7,
+      "age": 30,
+      "tags": [
+        "피트",
+        "꿀",
+        "사과",
+        "바닐라",
+        "후추",
+        "허브",
+        "바다·소금"
+      ],
+      "description": "퍼스트 필 버번 배럴에서 30년 숙성한 이안 헌터 시리즈의 첫 권. 향미는 WhiskyBrother의 해당 제품 노트를 요약했습니다.",
+      "notes": {
+        "nose": "마누카 꿀과 약품 같은 향, 가벼운 피트 연기·익힌 사과·로즈메리·바닐라·레몬 껍질.",
+        "palate": "피트와 후추, 허브·삼나무·금귤 껍질에 커스터드 크림과 바닐라의 단맛이 겹칩니다.",
+        "finish": "요오드·바다 소금·해초와 커피·오크가 남는 여운."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "북 1의 46.7%·700ml 제품입니다. 다른 권 및 별도 시장 용량과 구분합니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.suntoryglobalspirits.com/de-de/news/laphroaigr-prasentiert-zweiten-teil-der-ian-hunter-serie",
+      "id": "laphroaig-ian-hunter-book-2",
+      "name": "라프로익 30년 이안 헌터 북 2 빌딩 언 아이콘",
+      "englishName": "Laphroaig 30 Year Old Ian Hunter Book 2 Building an Icon",
+      "abv": 48.2,
+      "age": 30,
+      "tags": [
+        "피트",
+        "건과일",
+        "담배",
+        "토피",
+        "초콜릿",
+        "후추",
+        "꿀",
+        "드라이"
+      ],
+      "description": "스페인산 올로로소 셰리 캐스크에서 30년 숙성한 두 번째 권. The Icon으로도 소개되며, 향미는 생산자 발표 자료를 요약했습니다.",
+      "notes": {
+        "nose": "말린 대추야자·무화과·시가 상자·크림 사탕·다크 초콜릿·감초에 약품 향과 분홍 후추가 겹칩니다.",
+        "palate": "달콤한 마누카 꿀과 훈연한 핵과일의 풍미.",
+        "finish": "길게 이어지는 드라이한 여운."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "abvNote": "북 2의 48.2%·700ml 제품입니다. 다른 권 및 별도 시장 용량과 구분합니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.laphroaig.com/en-gb/whiskies/ian-hunter-book-3-source-protector",
+      "id": "laphroaig-ian-hunter-book-3",
+      "name": "라프로익 33년 이안 헌터 북 3 소스 프로텍터",
+      "englishName": "Laphroaig 33 Year Old Ian Hunter Book 3 Source Protector",
+      "abv": 49.9,
+      "age": 33,
+      "tags": [
+        "피트",
+        "과일",
+        "배",
+        "핵과일",
+        "크리미",
+        "바닐라"
+      ],
+      "description": "버번 캐스크에서 33년 숙성한 1987 빈티지의 세 번째 권. 향미는 해당 제품의 생산자 공식 노트를 요약했습니다.",
+      "notes": {
+        "nose": "배·복숭아·살구와 응축된 달콤한 향.",
+        "palate": "달콤한 시럽과 과일 같은 질감 뒤로 아니스와 크리미한 감초가 이어집니다.",
+        "finish": "재를 연상시키는 바닐라와 피트 향이 번갈아 남습니다."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "caskStrength": true,
+      "abvNote": "북 3의 49.9%·700ml 제품입니다. 다른 권 및 별도 시장 용량과 구분합니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://dailyshot.co/m/item/14784",
+      "id": "laphroaig-ian-hunter-book-4",
+      "name": "라프로익 34년 이안 헌터 북 4 몰트 마스터",
+      "englishName": "Laphroaig 34 Year Old Ian Hunter Book 4 Malt Master",
+      "abv": 46.2,
+      "age": 34,
+      "tags": [
+        "피트",
+        "스모키",
+        "과일",
+        "열대과일",
+        "핵과일"
+      ],
+      "description": "아메리칸 오크 숙성 후 올로로소 셰리 캐스크에서 마무리한 34년 숙성 네 번째 권. 향미는 데일리샷의 해당 46.2% 제품 정보를 요약했습니다.",
+      "notes": {
+        "nose": "풍부하고 스모키한 향.",
+        "palate": "파인애플과 복숭아의 풍미.",
+        "finish": "흙내음이 남으며 길게 이어지는 여운."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "abvNote": "북 4의 46.2%·700ml 제품입니다. 다른 권 및 별도 시장 용량과 구분합니다."
+    },
+    {
+      "brand": "Laphroaig",
+      "category": "싱글 몰트",
+      "country": "스코틀랜드",
+      "region": "아일라",
+      "source": "https://www.laphroaig.com/en-gb/whiskies/ian-hunter-book-5-enduring-spirit-34-yo-single-malt-scotch-whisky",
+      "id": "laphroaig-ian-hunter-book-5",
+      "name": "라프로익 34년 이안 헌터 북 5 엔듀어링 스피릿",
+      "englishName": "Laphroaig 34 Year Old Ian Hunter Book 5 Enduring Spirit",
+      "abv": 45.5,
+      "age": 34,
+      "tags": [
+        "피트",
+        "바닐라",
+        "베리",
+        "꽃",
+        "캐러멜",
+        "토피",
+        "견과류",
+        "후추"
+      ],
+      "description": "퍼스트 필 버번 아메리칸 오크 배럴과 PX 유러피언 오크 혹스헤드를 조합해 이중 숙성한 34년 숙성 마지막 권. 향미는 생산자 공식 노트를 요약했습니다.",
+      "notes": {
+        "nose": "가벼운 피트·요오드·그을린 나무에 꽃과 몰트, 솜사탕·바닐라 퍼지·블루베리·라즈베리가 겹칩니다.",
+        "palate": "피트와 식은 바비큐 재, 솔티드 캐러멜·버터스카치·구운 밤·복숭아·말린 꽃·백후추의 달고 매콤한 풍미.",
+        "finish": "피트와 몰트, 달콤함이 오래 남습니다."
+      },
+      "image": "",
+      "color": "#e8ede5",
+      "abvNote": "북 5의 45.5%·700ml 제품입니다. 다른 권 및 별도 시장 용량과 구분합니다."
+    }
+  ],
+  "duplicateCheck": "IDsandnormalizedKorean/Englishnamescheckedagainst524existingentries. Eachbookdistinct;noUIgroupingchange.",
+  "photoReview": "1:30yo46.7%700ml;2:30yo48.2%70cl;3:33yo49.9%700ml;4:34yo46.2%70clDailyshot;5:34yo45.5%700ml. Allphotographsvisuallyinspected.",
+  "cautions": "Book3DailyshotEnglish34yotypocorrectedto33yearsinappbyproducerandlabel. Book4officiallifestylephotohastinyambiguous46.4-lookinglabel;notusedfor46.2%.Do notinferadditionalvariantwithoutstrongerlabelproof. Book2retailerexbourbontextignored;producerconfirmsfullOloroso. Market750mlversionsremainforseparateverification.",
+  "caskStrengthEvidence": {
+    "1": "WhiskyBrotherexplicitlycaskstrength46.7%",
+    "3": "FigeeimporterPDFexplicitlycaskstrength33yo1987"
+  },
+  "caskStrengthPending": [
+    2,
+    4,
+    5
+  ],
+  "notesProvenance": "1:WhiskyBrother;2:officialSuntorypress;3and5:exactproducerproductpages;4:Dailyshot14784. SeparateKoreanparaphrases,noinferredfillnumbers.",
+  "currentCount": 529,
+  "existingEntriesPreserved": 524,
+  "results": [
+    {
+      "id": "laphroaig-ian-hunter-book-1",
+      "photo": "/images/whisky-laphroaig-ian-hunter-book-1.webp",
+      "price": null
+    },
+    {
+      "id": "laphroaig-ian-hunter-book-2",
+      "photo": "/images/whisky-laphroaig-ian-hunter-book-2.webp",
+      "price": null
+    },
+    {
+      "id": "laphroaig-ian-hunter-book-3",
+      "photo": "/images/whisky-laphroaig-ian-hunter-book-3.webp",
+      "price": {
+        "average": 2969750,
+        "currency": "KRW",
+        "volumeMl": 700,
+        "sampleCount": 4,
+        "min": 2949000,
+        "max": 2990000,
+        "checkedAt": "2026-11-11T01:17:36.921Z",
+        "sourceUrl": "https://dailyshot.co/m/items/74009/sellers",
+        "offers": [
+          {
+            "price": 2949000,
+            "url": "https://dailyshot.co/m/item/6021?item=258632&seller=15085",
+            "seller": "피보"
+          },
+          {
+            "price": 2950000,
+            "url": "https://dailyshot.co/m/item/6021?item=389372&seller=39541",
+            "seller": "헤이위스키"
+          },
+          {
+            "price": 2990000,
+            "url": "https://dailyshot.co/m/item/6021?item=74009&seller=3405",
+            "seller": "어디든"
+          },
+          {
+            "price": 2990000,
+            "url": "https://dailyshot.co/m/item/6021?item=570778&seller=56163",
+            "seller": "해밀"
+          }
+        ],
+        "note": "북3·33년·49.9%·700ml를 실물 및 개별 상품과 대조했습니다. 데일리샷 영문명34yo는 오기이며 공식 및 실물은33년입니다."
+      }
+    },
+    {
+      "id": "laphroaig-ian-hunter-book-4",
+      "photo": "/images/whisky-laphroaig-ian-hunter-book-4.webp",
+      "price": {
+        "average": 2733333,
+        "currency": "KRW",
+        "volumeMl": 700,
+        "sampleCount": 3,
+        "min": 2650000,
+        "max": 2800000,
+        "checkedAt": "2026-11-11T01:17:39.054Z",
+        "sourceUrl": "https://dailyshot.co/m/items/85930/sellers",
+        "offers": [
+          {
+            "price": 2650000,
+            "url": "https://dailyshot.co/m/item/14784?item=110388&seller=2971",
+            "seller": "라쉬"
+          },
+          {
+            "price": 2750000,
+            "url": "https://dailyshot.co/m/item/14784?item=85930&seller=3316",
+            "seller": "더오크"
+          },
+          {
+            "price": 2800000,
+            "url": "https://dailyshot.co/m/item/14784?item=259673&seller=36334",
+            "seller": "위시"
+          }
+        ]
+      }
+    },
+    {
+      "id": "laphroaig-ian-hunter-book-5",
+      "photo": "/images/whisky-laphroaig-ian-hunter-book-5.webp",
+      "price": {
+        "average": 2791667,
+        "currency": "KRW",
+        "volumeMl": 700,
+        "sampleCount": 6,
+        "min": 2590000,
+        "max": 3000000,
+        "checkedAt": "2026-11-11T01:17:40.096Z",
+        "sourceUrl": "https://dailyshot.co/m/items/427907/sellers",
+        "offers": [
+          {
+            "price": 2590000,
+            "url": "https://dailyshot.co/m/item/23793?item=627892&seller=36334",
+            "seller": "위시"
+          },
+          {
+            "price": 2720000,
+            "url": "https://dailyshot.co/m/item/23793?item=374378&seller=42255",
+            "seller": "바틀리어 압구정점"
+          },
+          {
+            "price": 2720000,
+            "url": "https://dailyshot.co/m/item/23793?item=344852&seller=3572",
+            "seller": "바틀리어"
+          },
+          {
+            "price": 2720000,
+            "url": "https://dailyshot.co/m/item/23793?item=344860&seller=18669",
+            "seller": "바틀리어 수원점"
+          },
+          {
+            "price": 3000000,
+            "url": "https://dailyshot.co/m/item/23793?item=427907&seller=43965",
+            "seller": "주류상회Be 대치은마점"
+          },
+          {
+            "price": 3000000,
+            "url": "https://dailyshot.co/m/item/23793?item=332777&seller=15978",
+            "seller": "주류상회Be 방이점"
+          }
+        ]
+      }
+    }
+  ]
+}

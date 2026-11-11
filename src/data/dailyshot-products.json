@@ -461,6 +461,27 @@
     "scope": "exact-product",
     "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
   },
+  "laphroaig-25-bessie-williamson-story": {
+    "url": "https://dailyshot.co/m/item/14361",
+    "productName": "라프로익 25년 더 베시 윌리엄슨 스토리",
+    "checkedAt": "2026-11-11T01:12:28.830Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-25-cask-strength-2008": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202008%2050.9%25",
+    "productName": "라프로익 25년 캐스크 스트렝스 2008 50.9%",
+    "checkedAt": "2026-11-11T01:07:14.236Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-25-cask-strength-2009": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202009",
+    "productName": "라프로익 25년 캐스크 스트렝스 2009",
+    "checkedAt": "2026-11-11T01:01:21.827Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
   "laphroaig-25-cask-strength-2011": {
     "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202011",
     "productName": "라프로익 25년 캐스크 스트렝스 2011",
@@ -544,6 +565,34 @@
     "checkedAt": "2026-11-09T00:46:01.238Z",
     "scope": "exact-product",
     "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-25-cask-strength-us-2008": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EC%BA%90%EC%8A%A4%ED%81%AC%20%EC%8A%A4%ED%8A%B8%EB%A0%9D%EC%8A%A4%202008%20%EB%AF%B8%EA%B5%AD%ED%8C%90%2051.2%25",
+    "productName": "라프로익 25년 캐스크 스트렝스 2008 미국판 51.2%",
+    "checkedAt": "2026-11-11T01:07:14.240Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-25-old-40": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2025%EB%85%84%20%EA%B5%AC%ED%98%95%2040%25",
+    "productName": "라프로익 25년 구형 40%",
+    "checkedAt": "2026-11-11T01:12:27.294Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-30-2024": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2030%EB%85%84%202024%20%EB%A6%B4%EB%A6%AC%EC%A6%88",
+    "productName": "라프로익 30년 2024 릴리즈",
+    "checkedAt": "2026-11-11T01:21:19.466Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-30-fol-anniversary-2024": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2030%EB%85%84%20FoL%2030%EC%A3%BC%EB%85%84%20%EA%B8%B0%EB%85%90%ED%8C%90%202024",
+    "productName": "라프로익 30년 FoL 30주년 기념판 2024",
+    "checkedAt": "2026-11-11T01:21:19.469Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
   },
   "laphroaig-cairdeas-2008": {
     "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%B9%B4%EB%94%94%EC%96%B4%EC%8A%A4%202008",
@@ -698,6 +747,41 @@
     "checkedAt": "2026-11-09T00:23:27.863Z",
     "scope": "search",
     "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-ian-hunter-book-1": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2030%EB%85%84%20%EC%9D%B4%EC%95%88%20%ED%97%8C%ED%84%B0%20%EB%B6%81%201%20%EC%9C%A0%EB%8B%88%ED%81%AC%20%EC%BA%90%EB%A6%AD%ED%84%B0",
+    "productName": "라프로익 30년 이안 헌터 북 1 유니크 캐릭터",
+    "checkedAt": "2026-11-11T01:17:31.014Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
+  "laphroaig-ian-hunter-book-2": {
+    "url": "https://dailyshot.co/m/item/17597",
+    "productName": "라프로익 30년 이안 헌터 스토리 북 2",
+    "checkedAt": "2026-11-11T01:17:32.730Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "laphroaig-ian-hunter-book-3": {
+    "url": "https://dailyshot.co/m/item/6021",
+    "productName": " 라프로익 33년 이안 헌터 북 3: 소스 프로텍터",
+    "checkedAt": "2026-11-11T01:17:36.112Z",
+    "scope": "exact-product",
+    "note": "북3·33년·49.9%·700ml를 실물 및 개별 상품과 대조했습니다. 데일리샷 영문명34yo는 오기이며 공식 및 실물은33년입니다."
+  },
+  "laphroaig-ian-hunter-book-4": {
+    "url": "https://dailyshot.co/m/item/14784",
+    "productName": "라프로익 34년 이안 헌터 북 4: 몰트 마스터",
+    "checkedAt": "2026-11-11T01:17:38.217Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-ian-hunter-book-5": {
+    "url": "https://dailyshot.co/m/item/23793",
+    "productName": "라프로익 34년 이안 헌터 북 5",
+    "checkedAt": "2026-11-11T01:17:39.274Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
   },
   "laphroaig-port-wood": {
     "url": "https://dailyshot.co/m/item/32858",

@@ -1,0 +1,34 @@
+{
+  "checkedOn": "2026-11-11",
+  "status": "listed-two-strengths-integrated-other-families-remain",
+  "entries": [
+    {
+      "abv": 50.9,
+      "volumeMlCandidate": 700,
+      "sources": [
+        "https://www.thewhiskyshop.com.sg/products/laphroaig-25-years-cask-strength-bot-2008",
+        "https://www.htfw.com/laphroaig-islay-single-malt-1983-25-year-old-whisky",
+        "https://allthingswhisky.com/2017/01/22/laphroaig-25-y-o-cask-strength-2008-review/",
+        "https://tomoderawhisky.wordpress.com/2018/02/20/laphroaig-25-2008/"
+      ],
+      "next": "Read exact-year50.9%firsthand notes and inspect/download actual50.9%700ml2008label before integration.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2008-integration.json"
+    },
+    {
+      "abv": 51.2,
+      "volumeMlCandidate": 750,
+      "sources": [
+        "https://www.sothebys.com/en/buy/auction/2025/finest-whisky-l25709/laphroaig-25-year-old-cask-strength-2008-edition-2",
+        "https://www.oaksliquors.com/p/laphroaig-25-year-old-cask-strength-2008-edition",
+        "https://fineliquors.com/products/laphroaig-25-cask-strength-2008",
+        "https://www.lawhiskeysociety.com/whiskey/2001/Laphroaig-25-Cask-Strength-%282008-US-Edition%29",
+        "https://whiskeryturnip.com/2026/06/10/laphroaig-25-year-2008-edition/"
+      ],
+      "next": "Read exact51.2%USfirsthand notes and inspect2008edition51.2%750mlphoto. Keep distinctfrom50.9%700ml; no sharedpriceorphoto.",
+      "status": "integrated-verified",
+      "integrationRecord": "laphroaig-25-2008-integration.json"
+    }
+  ],
+  "cautions": "Search metadata supports two market strength candidates but is insufficient for registration. Verify labels and volume. Dailyshot may be absent; register verified bottle anyway with no invented price."
+}

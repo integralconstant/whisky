@@ -5,8 +5,8 @@
   "purpose": "Finish the Laphroaig catalogue, including identifiable releases and batches, before starting another distillery. This inventory is research evidence, not runtime catalogue data.",
   "coverageWarning": "Official online ranges are incomplete historical inventories. Do not infer that missing years, discontinued bottlings, single casks or independent bottlings do not exist. Retail offers, photos and tasting information still require release-specific verification before runtime integration.",
   "runtimeSnapshot": {
-    "checkedAt": "2026-11-10T05:45:21.236Z",
-    "rawCount": 64,
+    "checkedAt": "2026-11-11T01:21:47.010Z",
+    "rawCount": 76,
     "expressions": [
       "Laphroaig 10 Year Old",
       "Laphroaig Quarter Cask",
@@ -71,7 +71,19 @@
       "Laphroaig 25 Year Old Cask Strength 2016 Edition",
       "Laphroaig 25 Year Old Cask Strength 2013 Edition",
       "Laphroaig 25 Year Old Cask Strength 2014 Edition",
-      "Laphroaig 25 Year Old Cask Strength 2011 Edition"
+      "Laphroaig 25 Year Old Cask Strength 2011 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2009 Edition",
+      "Laphroaig 25 Year Old Cask Strength 2008 Edition 50.9%",
+      "Laphroaig 25 Year Old Cask Strength 2008 US Edition 51.2%",
+      "Laphroaig 25 Year Old Old Bottling 40%",
+      "Laphroaig 25yo The Bessie Williamson Story",
+      "Laphroaig 30 Year Old Ian Hunter Book 1 Unique Character",
+      "Laphroaig 30 Year Old Ian Hunter Book 2 Building an Icon",
+      "Laphroaig 33 Year Old Ian Hunter Book 3 Source Protector",
+      "Laphroaig 34 Year Old Ian Hunter Book 4 Malt Master",
+      "Laphroaig 34 Year Old Ian Hunter Book 5 Enduring Spirit",
+      "Laphroaig 30 Year Old 2024 Release",
+      "Laphroaig 30 Year Old Friends of Laphroaig Anniversary Edition 2024"
     ],
     "note": "Includes November 9 additions. Register all identifiable expressions with real photographs, including products absent from Dailyshot; show Dailyshot prices only when verified. Inventory remains in progress."
   },
@@ -407,76 +419,88 @@
     {
       "name": "Ian Hunter Book 1 Unique Character",
       "family": "ian-hunter",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 30,
       "releaseYear": 2019,
       "sources": [
         "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
       ],
-      "evidence": "Producer series history identifies first book, release year and first-fill bourbon maturation."
+      "evidence": "Producer series history identifies first book, release year and first-fill bourbon maturation.",
+      "runtimeId": "laphroaig-ian-hunter-book-1",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
     },
     {
       "name": "Ian Hunter Book 2 The Icon",
       "family": "ian-hunter",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 30,
       "releaseYear": 2020,
       "sources": [
         "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
       ],
-      "evidence": "Producer series history identifies second book, release year and Spanish oak Oloroso maturation."
+      "evidence": "Producer series history identifies second book, release year and Spanish oak Oloroso maturation.",
+      "runtimeId": "laphroaig-ian-hunter-book-2",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
     },
     {
       "name": "Ian Hunter Book 3 Source Protector",
       "family": "ian-hunter",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 33,
       "releaseYear": 2021,
       "vintage": 1987,
       "sources": [
         "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
       ],
-      "evidence": "Producer series history identifies third book, year, vintage and bourbon maturation."
+      "evidence": "Producer series history identifies third book, year, vintage and bourbon maturation.",
+      "runtimeId": "laphroaig-ian-hunter-book-3",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
     },
     {
       "name": "Ian Hunter Book 4 Malt Master",
       "family": "ian-hunter",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 34,
       "releaseYear": 2022,
       "sources": [
         "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
       ],
-      "evidence": "Producer series history identifies fourth book with American oak maturation and Oloroso finishing."
+      "evidence": "Producer series history identifies fourth book with American oak maturation and Oloroso finishing.",
+      "runtimeId": "laphroaig-ian-hunter-book-4",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
     },
     {
       "name": "Ian Hunter Book 5 Enduring Spirit",
       "family": "ian-hunter",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 34,
       "releaseYear": 2023,
       "sources": [
         "https://www.laphroaig.com/en-gb/whiskies/ian-hunter-book-5-enduring-spirit-34-yo-single-malt-scotch-whisky",
         "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story"
       ],
-      "evidence": "Producer verifies final book; first-fill bourbon American oak and PX European oak hogsheads."
+      "evidence": "Producer verifies final book; first-fill bourbon American oak and PX European oak hogsheads.",
+      "runtimeId": "laphroaig-ian-hunter-book-5",
+      "integrationRecord": "laphroaig-ian-hunter-integration.json"
     },
     {
       "name": "30 Year Old annual small-batch first release",
       "family": "30-year-small-batch",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 30,
       "abv": 45.8,
       "caskStrength": false,
       "sources": [
         "https://www.laphroaig.com/whiskies/30-year-old-cask"
       ],
-      "evidence": "Producer calls this the first annual small-batch release and explicitly fixed strength; investigate release year before matching offers."
+      "evidence": "Producer calls this the first annual small-batch release and explicitly fixed strength; investigate release year before matching offers.",
+      "runtimeId": "laphroaig-30-2024",
+      "integrationRecord": "laphroaig-30-2024-integration.json"
     },
     {
       "name": "30 Year Old Friends of Laphroaig Anniversary Edition 2024",
       "family": "anniversary",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 30,
       "releaseYear": 2024,
       "vintage": 1994,
@@ -485,7 +509,9 @@
       "sources": [
         "https://www.laphroaig.com/whiskies/30-year-old-anniversary-fol-limited-edition"
       ],
-      "evidence": "Producer verifies 1994/2024 anniversary bottling and refill bourbon hogshead. Separate from 45.8% annual 30-year release."
+      "evidence": "Producer verifies 1994/2024 anniversary bottling and refill bourbon hogshead. Separate from 45.8% annual 30-year release.",
+      "runtimeId": "laphroaig-30-fol-anniversary-2024",
+      "integrationRecord": "laphroaig-30-2024-integration.json"
     },
     {
       "name": "Francis Mallmann 17 Year Old White Madeira Cask",
@@ -699,6 +725,32 @@
         "https://myannoyingopinions.com/2024/09/16/laphroaig-cairdeas-2011-ileach-edition/"
       ],
       "integrationRecord": "laphroaig-cairdeas-first-integration.json"
+    },
+    {
+      "name": "25 Year Old Cask Strength 2008 50.9%",
+      "status": "integrated",
+      "runtimeId": "laphroaig-25-cask-strength-2008",
+      "source": "https://tomoderawhisky.wordpress.com/2018/02/20/laphroaig-25-2008/",
+      "integrationRecord": "laphroaig-25-2008-integration.json"
+    },
+    {
+      "name": "25 Year Old Cask Strength 2008 51.2%",
+      "status": "integrated",
+      "runtimeId": "laphroaig-25-cask-strength-us-2008",
+      "source": "https://whiskeryturnip.com/2026/06/10/laphroaig-25-year-2008-edition/",
+      "integrationRecord": "laphroaig-25-2008-integration.json"
+    },
+    {
+      "name": "25 Year Old 40% old bottling",
+      "status": "integrated",
+      "runtimeId": "laphroaig-25-old-40",
+      "integrationRecord": "laphroaig-25-old-40-integration.json"
+    },
+    {
+      "name": "25 Year Old The Bessie Williamson Story",
+      "status": "integrated",
+      "runtimeId": "laphroaig-25-bessie-williamson-story",
+      "integrationRecord": "laphroaig-25-old-40-integration.json"
     }
   ],
   "unresolvedResearchScopes": [
@@ -719,5 +771,5 @@
       "evidence": "Producer says two down, one to go. Do not create an invented release record from the future announcement."
     }
   ],
-  "lastCatalogAudit": "2026-11-10"
+  "lastCatalogAudit": "2026-11-11"
 }

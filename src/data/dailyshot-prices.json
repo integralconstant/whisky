@@ -77881,6 +77881,48 @@
       }
     ]
   },
+  "laphroaig-25-bessie-williamson-story": {
+    "average": 1001333,
+    "currency": "KRW",
+    "volumeMl": 700,
+    "sampleCount": 6,
+    "min": 939000,
+    "max": 1140000,
+    "checkedAt": "2026-11-11T01:12:29.370Z",
+    "sourceUrl": "https://dailyshot.co/m/items/462048/sellers",
+    "offers": [
+      {
+        "price": 939000,
+        "url": "https://dailyshot.co/m/item/14361?item=462048&seller=42255",
+        "seller": "바틀리어 압구정점"
+      },
+      {
+        "price": 940000,
+        "url": "https://dailyshot.co/m/item/14361?item=476405&seller=50991",
+        "seller": "보틀즈 을지로"
+      },
+      {
+        "price": 940000,
+        "url": "https://dailyshot.co/m/item/14361?item=357460&seller=2900",
+        "seller": "더블랙"
+      },
+      {
+        "price": 949000,
+        "url": "https://dailyshot.co/m/item/14361?item=429813&seller=40241",
+        "seller": "넘버원위스키"
+      },
+      {
+        "price": 1100000,
+        "url": "https://dailyshot.co/m/item/14361?item=265325&seller=14596",
+        "seller": "바틀리어 마포점"
+      },
+      {
+        "price": 1140000,
+        "url": "https://dailyshot.co/m/item/14361?item=203705&seller=16338",
+        "seller": "로랜드 주류상회"
+      }
+    ]
+  },
   "laphroaig-25-cask-strength-2018": {
     "average": 1390000,
     "currency": "KRW",
@@ -78139,6 +78181,108 @@
         "price": 185000,
         "url": "https://dailyshot.co/m/item/4814?item=18126&seller=89",
         "seller": "가자주류백화점 일산점"
+      }
+    ]
+  },
+  "laphroaig-ian-hunter-book-3": {
+    "average": 2969750,
+    "currency": "KRW",
+    "volumeMl": 700,
+    "sampleCount": 4,
+    "min": 2949000,
+    "max": 2990000,
+    "checkedAt": "2026-11-11T01:17:36.921Z",
+    "sourceUrl": "https://dailyshot.co/m/items/74009/sellers",
+    "offers": [
+      {
+        "price": 2949000,
+        "url": "https://dailyshot.co/m/item/6021?item=258632&seller=15085",
+        "seller": "피보"
+      },
+      {
+        "price": 2950000,
+        "url": "https://dailyshot.co/m/item/6021?item=389372&seller=39541",
+        "seller": "헤이위스키"
+      },
+      {
+        "price": 2990000,
+        "url": "https://dailyshot.co/m/item/6021?item=74009&seller=3405",
+        "seller": "어디든"
+      },
+      {
+        "price": 2990000,
+        "url": "https://dailyshot.co/m/item/6021?item=570778&seller=56163",
+        "seller": "해밀"
+      }
+    ],
+    "note": "북3·33년·49.9%·700ml를 실물 및 개별 상품과 대조했습니다. 데일리샷 영문명34yo는 오기이며 공식 및 실물은33년입니다."
+  },
+  "laphroaig-ian-hunter-book-4": {
+    "average": 2733333,
+    "currency": "KRW",
+    "volumeMl": 700,
+    "sampleCount": 3,
+    "min": 2650000,
+    "max": 2800000,
+    "checkedAt": "2026-11-11T01:17:39.054Z",
+    "sourceUrl": "https://dailyshot.co/m/items/85930/sellers",
+    "offers": [
+      {
+        "price": 2650000,
+        "url": "https://dailyshot.co/m/item/14784?item=110388&seller=2971",
+        "seller": "라쉬"
+      },
+      {
+        "price": 2750000,
+        "url": "https://dailyshot.co/m/item/14784?item=85930&seller=3316",
+        "seller": "더오크"
+      },
+      {
+        "price": 2800000,
+        "url": "https://dailyshot.co/m/item/14784?item=259673&seller=36334",
+        "seller": "위시"
+      }
+    ]
+  },
+  "laphroaig-ian-hunter-book-5": {
+    "average": 2791667,
+    "currency": "KRW",
+    "volumeMl": 700,
+    "sampleCount": 6,
+    "min": 2590000,
+    "max": 3000000,
+    "checkedAt": "2026-11-11T01:17:40.096Z",
+    "sourceUrl": "https://dailyshot.co/m/items/427907/sellers",
+    "offers": [
+      {
+        "price": 2590000,
+        "url": "https://dailyshot.co/m/item/23793?item=627892&seller=36334",
+        "seller": "위시"
+      },
+      {
+        "price": 2720000,
+        "url": "https://dailyshot.co/m/item/23793?item=374378&seller=42255",
+        "seller": "바틀리어 압구정점"
+      },
+      {
+        "price": 2720000,
+        "url": "https://dailyshot.co/m/item/23793?item=344852&seller=3572",
+        "seller": "바틀리어"
+      },
+      {
+        "price": 2720000,
+        "url": "https://dailyshot.co/m/item/23793?item=344860&seller=18669",
+        "seller": "바틀리어 수원점"
+      },
+      {
+        "price": 3000000,
+        "url": "https://dailyshot.co/m/item/23793?item=427907&seller=43965",
+        "seller": "주류상회Be 대치은마점"
+      },
+      {
+        "price": 3000000,
+        "url": "https://dailyshot.co/m/item/23793?item=332777&seller=15978",
+        "seller": "주류상회Be 방이점"
       }
     ]
   },

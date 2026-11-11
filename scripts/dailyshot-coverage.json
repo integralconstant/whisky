@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-10T05:44:38.893Z",
-  "catalogCount": 519,
-  "processedCount": 519,
-  "matchedCount": 331,
-  "pricedCount": 315,
+  "generatedAt": "2026-11-11T01:21:25.180Z",
+  "catalogCount": 531,
+  "processedCount": 531,
+  "matchedCount": 336,
+  "pricedCount": 319,
   "scope": "Dailyshot in-stock domestic store listings (service_type=1), before coupons, same product and volume",
   "entries": {
     "aberlour-12": {
@@ -7869,6 +7869,117 @@
         }
       ]
     },
+    "laphroaig-25-bessie-williamson-story": {
+      "status": "priced",
+      "name": "라프로익 25년 더 베시 윌리엄슨 스토리",
+      "topProductId": 14361,
+      "volumeMl": 700,
+      "rawOfferCount": 6,
+      "acceptedOfferCount": 6,
+      "pages": [
+        {
+          "url": "https://api.dailyshot.co/item-sellers/?item_id=462048&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+          "checkedAt": "2026-11-11T01:12:29.370Z",
+          "count": 6
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2008": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2008 50.9%",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        },
+        {
+          "topProductId": 26316,
+          "name": "라프로익 오크 셀렉트",
+          "englishName": "Laphroaig Oak Select",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-2009": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2009",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        },
+        {
+          "topProductId": 26316,
+          "name": "라프로익 오크 셀렉트",
+          "englishName": "Laphroaig Oak Select",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 23144,
+          "name": "라프로익 쿼터 캐스크",
+          "englishName": "Laphroaig Quarter Cask",
+          "volume": "700ml",
+          "abv": "48%"
+        }
+      ]
+    },
     "laphroaig-25-cask-strength-2011": {
       "status": "no-exact-match",
       "name": "라프로익 25년 캐스크 스트렝스 2011",
@@ -8376,6 +8487,198 @@
           "url": "https://api.dailyshot.co/item-sellers/?item_id=641644&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
           "checkedAt": "2026-11-09T00:46:01.548Z",
           "count": 1
+        }
+      ]
+    },
+    "laphroaig-25-cask-strength-us-2008": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 캐스크 스트렝스 2008 미국판 51.2%",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        },
+        {
+          "topProductId": 26316,
+          "name": "라프로익 오크 셀렉트",
+          "englishName": "Laphroaig Oak Select",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
+        }
+      ]
+    },
+    "laphroaig-25-old-40": {
+      "status": "no-exact-match",
+      "name": "라프로익 25년 구형 40%",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 4888,
+          "name": "조니워커 그린 15년 700ml",
+          "englishName": "Johnnie Walker Green 15yo",
+          "volume": "700ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 4307,
+          "name": "더 글렌그란트 15년 배치 스트렝스",
+          "englishName": "The Glen Grant 15yo Batch Strength",
+          "volume": "700ml",
+          "abv": "50%"
+        }
+      ]
+    },
+    "laphroaig-30-2024": {
+      "status": "no-exact-match",
+      "name": "라프로익 30년 2024 릴리즈",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        },
+        {
+          "topProductId": 26316,
+          "name": "라프로익 오크 셀렉트",
+          "englishName": "Laphroaig Oak Select",
+          "volume": "700ml",
+          "abv": "40%"
+        }
+      ]
+    },
+    "laphroaig-30-fol-anniversary-2024": {
+      "status": "no-exact-match",
+      "name": "라프로익 30년 FoL 30주년 기념판 2024",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 27365,
+          "name": "라프로익 10년 40% 700ml",
+          "englishName": "Laphroaig 10yo 40% 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        },
+        {
+          "topProductId": 26316,
+          "name": "라프로익 오크 셀렉트",
+          "englishName": "Laphroaig Oak Select",
+          "volume": "700ml",
+          "abv": "40%"
         }
       ]
     },
@@ -9282,6 +9585,114 @@
           "url": "https://api.dailyshot.co/item-sellers/?item_id=131697&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
           "checkedAt": "2026-09-13T08:10:56.245Z",
           "count": 8
+        }
+      ]
+    },
+    "laphroaig-ian-hunter-book-1": {
+      "status": "no-exact-match",
+      "name": "라프로익 30년 이안 헌터 북 1 유니크 캐릭터",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 37532,
+          "name": "라프로익 15년 46%",
+          "englishName": "Laphroaig 15yo 46%",
+          "volume": "700ml",
+          "abv": "46%"
+        },
+        {
+          "topProductId": 26316,
+          "name": "라프로익 오크 셀렉트",
+          "englishName": "Laphroaig Oak Select",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 5637,
+          "name": "와일드 터키 101 1L",
+          "englishName": "Wild Turkey 101 1L",
+          "volume": "1000ml",
+          "abv": "50.5%"
+        }
+      ]
+    },
+    "laphroaig-ian-hunter-book-2": {
+      "status": "no-available-store-offers",
+      "name": "라프로익 30년 이안 헌터 북 2 빌딩 언 아이콘",
+      "topProductId": 17597,
+      "volumeMl": 700,
+      "rawOfferCount": 0,
+      "acceptedOfferCount": 0,
+      "pages": [
+        {
+          "url": "https://api.dailyshot.co/item-sellers/?item_id=619860&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+          "checkedAt": "2026-11-11T01:17:33.178Z",
+          "count": 0
+        }
+      ]
+    },
+    "laphroaig-ian-hunter-book-3": {
+      "status": "priced",
+      "name": "라프로익 33년 이안 헌터 북 3 소스 프로텍터",
+      "topProductId": 6021,
+      "volumeMl": 700,
+      "rawOfferCount": 4,
+      "acceptedOfferCount": 4,
+      "pages": [
+        {
+          "url": "https://api.dailyshot.co/item-sellers/?item_id=74009&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+          "checkedAt": "2026-11-11T01:17:36.921Z",
+          "count": 4
+        }
+      ]
+    },
+    "laphroaig-ian-hunter-book-4": {
+      "status": "priced",
+      "name": "라프로익 34년 이안 헌터 북 4 몰트 마스터",
+      "topProductId": 14784,
+      "volumeMl": 700,
+      "rawOfferCount": 3,
+      "acceptedOfferCount": 3,
+      "pages": [
+        {
+          "url": "https://api.dailyshot.co/item-sellers/?item_id=85930&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+          "checkedAt": "2026-11-11T01:17:39.054Z",
+          "count": 3
+        }
+      ]
+    },
+    "laphroaig-ian-hunter-book-5": {
+      "status": "priced",
+      "name": "라프로익 34년 이안 헌터 북 5 엔듀어링 스피릿",
+      "topProductId": 23793,
+      "volumeMl": 700,
+      "rawOfferCount": 6,
+      "acceptedOfferCount": 6,
+      "pages": [
+        {
+          "url": "https://api.dailyshot.co/item-sellers/?item_id=427907&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
+          "checkedAt": "2026-11-11T01:17:40.096Z",
+          "count": 6
         }
       ]
     },

@@ -226,5 +226,77 @@
     "sourceUrl": "https://www.thewhiskyexchange.com/p/9519/laphroaig-25-year-old-cask-strength-bot2011",
     "productName": "Laphroaig 25 Year Old Cask Strength 2011 Edition",
     "note": "병과 검은 상자의 2011 Edition 표기,25년·48.6%·70cl를 확인했습니다. 2016년48.6%와 구분합니다."
+  },
+  "laphroaig-25-cask-strength-2009": {
+    "imageUrl": "https://www.oldandrarewhisky.co.uk/cdn/shop/products/laphroaig-25-year-old-cask-strength-2009-edition-islay-single-malt-70cl-51-abv-161677_701x700.jpg?v=1637158267",
+    "sourceUrl": "https://www.oldandrarewhisky.co.uk/products/laphroaig-25-year-old-cask-strength-2009-edition-islay-single-malt-70cl-51-abv",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2009 Edition",
+    "note": "실물 병 라벨의 Cask Strength2009Edition·25년·51%·70cl를 확인하고 판매 페이지와 대조했습니다."
+  },
+  "laphroaig-25-cask-strength-2008": {
+    "imageUrl": "https://www.thewhiskyshop.com.sg/cdn/shop/products/LAPHROAIG_25_Years_-_CASK_STRENGTH_Bot._2008_-2.jpg?v=1752629286",
+    "sourceUrl": "https://www.thewhiskyshop.com.sg/products/laphroaig-25-years-cask-strength-bot-2008",
+    "note": "실물 뒷라벨의2008Edition·25년·50.9%·70cl를 확인했습니다. 대표 정면 사진은2011년48.6%오사진이므로 제외하고 올바른 뒷면 사진을 사용합니다. 판매 페이지의2014년 향미도 사용하지 않습니다.",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2008 Edition 50.9%"
+  },
+  "laphroaig-25-cask-strength-us-2008": {
+    "imageUrl": "https://sothebys-md.brightspotcdn.com/dims4/default/be6c94c/2147483647/strip/true/crop/2000x2000%2B0%2B0/resize/1024x1024%21/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F74%2Fb9%2Ffa77fec64778900cb57a2dffec0d%2Fl25709-l058027-01.jpg",
+    "sourceUrl": "https://www.sothebys.com/en/buy/auction/2025/finest-whisky-l25709/laphroaig-25-year-old-cask-strength-2008-edition-2",
+    "note": "병과 상자의2008Edition·25년·51.2%·750ml표기를 직접 확인하고 경매 본문의 미국 수입판 설명과 대조했습니다.",
+    "productName": "Laphroaig 25 Year Old Cask Strength 2008 US Edition 51.2%"
+  },
+  "laphroaig-25-old-40": {
+    "imageUrl": "https://www.passionforwhisky.com/138686-large_default/laphroaig-25-years-old-bottling.jpg",
+    "sourceUrl": "https://www.passionforwhisky.com/en/whisky/scotch-whisky/single-malt-whisky/islay/laphroaig-whisky-distillery/30619-laphroaig-25-years-old-bottling.html",
+    "productName": "Laphroaig 25 Year Old Old Bottling 40%",
+    "note": "실물 앞·뒷라벨의25년·40%·70cl를 확인했습니다. 판매처는2007/L7로 설명하나 사진에서 연도 코드를 독립 확인하지 못해 일반 구형40%로 기록합니다."
+  },
+  "laphroaig-25-bessie-williamson-story": {
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/0cb50b83-ee43-4fac-9c79-0bf99947b881.webp",
+    "sourceUrl": "https://dailyshot.co/m/item/14361",
+    "productName": "Laphroaig 25yo The Bessie Williamson Story",
+    "note": "실물 병과 책 형태 패키지의25년·TheBessieWilliamsonStory표기를 확인하고 데일리샷의43%·700ml개별상품과 대조했습니다."
+  },
+  "laphroaig-ian-hunter-book-1": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-02/30-Ian-Hunte.jpg.webp?itok=gpZBXF-R",
+    "sourceUrl": "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story",
+    "productName": "Laphroaig 30 Year Old Ian Hunter Book 1 Unique Character",
+    "note": "실물 북1·30년·46.7%·700ml표기를 확인했습니다. 권별 생산자 자료와 대조했습니다."
+  },
+  "laphroaig-ian-hunter-book-2": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-02/IH-Book-2-.jpg.webp?itok=gbS94ON7",
+    "sourceUrl": "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story",
+    "productName": "Laphroaig 30 Year Old Ian Hunter Book 2 Building an Icon",
+    "note": "실물 북2·30년·48.2%·700ml표기를 확인했습니다. 권별 생산자 자료와 대조했습니다."
+  },
+  "laphroaig-ian-hunter-book-3": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-03/Ian%20Hunter%20Book%203%20Front.png.webp?itok=15pNcO9_",
+    "sourceUrl": "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story",
+    "productName": "Laphroaig 33 Year Old Ian Hunter Book 3 Source Protector",
+    "note": "실물 북3·33년·49.9%·700ml표기를 확인했습니다. 권별 생산자 자료와 대조했습니다."
+  },
+  "laphroaig-ian-hunter-book-4": {
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/7c7fd188-619c-4bc6-9838-317eddf1c032.webp",
+    "sourceUrl": "https://dailyshot.co/m/item/14784",
+    "productName": "Laphroaig 34 Year Old Ian Hunter Book 4 Malt Master",
+    "note": "실물 북4·34년·46.2%·700ml표기를 확인했습니다. 권별 생산자 자료와 대조했습니다."
+  },
+  "laphroaig-ian-hunter-book-5": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/Laphroaig_IanHunter5_Bottle_Front.jpg.webp?itok=81sMUIjm",
+    "sourceUrl": "https://www.laphroaig.com/en-gb/whisky-stories/the-ian-hunter-story",
+    "productName": "Laphroaig 34 Year Old Ian Hunter Book 5 Enduring Spirit",
+    "note": "실물 북5·34년·45.5%·700ml표기를 확인했습니다. 권별 생산자 자료와 대조했습니다."
+  },
+  "laphroaig-30-2024": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-09/30YO%20PNG.png.webp?itok=oDr2Lhgp",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/30-year-old-cask",
+    "productName": "Laphroaig 30 Year Old 2024 Release",
+    "note": "공식 실물 사진의30년·45.8%·700ml와 개별 제품 설명을 대조했습니다. 라벨의2024Release와2024년공식소개영상,개별판매처70cl/45.8%를 추가 대조했습니다."
+  },
+  "laphroaig-30-fol-anniversary-2024": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2024-10/FoL-30th-Bottle.jpg.webp?itok=Sdp4rvsN",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/30-year-old-anniversary-fol-limited-edition",
+    "productName": "Laphroaig 30 Year Old Friends of Laphroaig Anniversary Edition 2024",
+    "note": "공식 실물 사진의30년·45.9%·700ml와 개별 제품 설명을 대조했습니다. FoL30주년1994/2024기념판이며45.8%고정도수제품과구분합니다."
   }
 }

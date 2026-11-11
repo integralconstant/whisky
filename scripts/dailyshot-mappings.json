@@ -1269,5 +1269,61 @@
       "note": "공용 25년 CS 상품 중 2018년·52도를 모두 명시한 국내 스토어 판매가만 반영합니다. 연도·도수 미표기 및 다른 연도 판매가는 제외합니다."
     },
     "priceNote": "공용 25년 CS 상품 중 2018년·52도를 모두 명시한 국내 스토어 판매가만 반영합니다. 연도·도수 미표기 및 다른 연도 판매가는 제외합니다."
+  },
+  "laphroaig-25-bessie-williamson-story": {
+    "topProductId": 14361,
+    "volumeMl": 700,
+    "productName": "라프로익 25년 더 베시 윌리엄슨 스토리",
+    "englishName": "Laphroaig 25yo The Bessie Williamson Story",
+    "abv": 43,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/14361",
+    "verifiedAt": "2026-11-11",
+    "note": "베시 윌리엄슨 스토리·43%·700ml를 실물사진 및 개별 상품 정보와 대조했습니다. 다른25년CS와 구분합니다."
+  },
+  "laphroaig-ian-hunter-book-2": {
+    "topProductId": 17597,
+    "volumeMl": 700,
+    "productName": "라프로익 30년 이안 헌터 스토리 북 2",
+    "englishName": "Laphroaig 30yo The Ian Hunter Story Book 2: The Icon",
+    "abv": 48.2,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/17597",
+    "verifiedAt": "2026-11-11",
+    "note": "북2·30년·48.2%·700ml를 실물 및 개별 상품과 대조했습니다."
+  },
+  "laphroaig-ian-hunter-book-3": {
+    "topProductId": 6021,
+    "volumeMl": 700,
+    "productName": " 라프로익 33년 이안 헌터 북 3: 소스 프로텍터",
+    "englishName": "Laphroaig 34yo Ian Hunter Book 3: Source Protector",
+    "abv": 49.9,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/6021",
+    "verifiedAt": "2026-11-11",
+    "note": "북3·33년·49.9%·700ml를 실물 및 개별 상품과 대조했습니다. 데일리샷 영문명34yo는 오기이며 공식 및 실물은33년입니다.",
+    "priceNote": "북3·33년·49.9%·700ml를 실물 및 개별 상품과 대조했습니다. 데일리샷 영문명34yo는 오기이며 공식 및 실물은33년입니다."
+  },
+  "laphroaig-ian-hunter-book-4": {
+    "topProductId": 14784,
+    "volumeMl": 700,
+    "productName": "라프로익 34년 이안 헌터 북 4: 몰트 마스터",
+    "englishName": "Laphroaig 34yo Ian Hunter Book 4: Malt Master",
+    "abv": 46.2,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/14784",
+    "verifiedAt": "2026-11-11",
+    "note": "북4·34년·46.2%·700ml를 실물 및 개별 상품과 대조했습니다."
+  },
+  "laphroaig-ian-hunter-book-5": {
+    "topProductId": 23793,
+    "volumeMl": 700,
+    "productName": "라프로익 34년 이안 헌터 북 5",
+    "englishName": "Laphroaig 34yo Ian Hunter Book 5: Enduring Spirit",
+    "abv": 45.5,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/23793",
+    "verifiedAt": "2026-11-11",
+    "note": "북5·34년·45.5%·700ml를 실물 및 개별 상품과 대조했습니다."
   }
 }

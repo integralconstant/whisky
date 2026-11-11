@@ -60,6 +60,8 @@ test("CS searches and tags combine with product names, flavor, country and colle
       ),
       [
         "laphroaig-10-cask-strength-batch-17",
+        "laphroaig-25-cask-strength-2008",
+        "laphroaig-25-cask-strength-2009",
         "laphroaig-25-cask-strength-2011",
         "laphroaig-25-cask-strength-2013",
         "laphroaig-25-cask-strength-2014",
@@ -72,6 +74,8 @@ test("CS searches and tags combine with product names, flavor, country and colle
         "laphroaig-25-cask-strength-2021",
         "laphroaig-25-cask-strength-2022",
         "laphroaig-25-cask-strength-2023",
+        "laphroaig-25-cask-strength-us-2008",
+        "laphroaig-30-fol-anniversary-2024",
         "laphroaig-cairdeas-2008",
         "laphroaig-cairdeas-2009-12",
         "laphroaig-cairdeas-2011-ileach",
@@ -82,6 +86,8 @@ test("CS searches and tags combine with product names, flavor, country and colle
         "laphroaig-cairdeas-2026-french-oak",
         "laphroaig-elements-l2-0",
         "laphroaig-elements-l3-0",
+        "laphroaig-ian-hunter-book-1",
+        "laphroaig-ian-hunter-book-3",
       ],
     );
   const expected = whiskies.filter(

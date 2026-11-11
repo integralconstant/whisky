@@ -1,0 +1,34 @@
+{
+  "checkedOn": "2026-11-11",
+  "status": "40-percent-and-bessie43-integrated-other43-identities-unresolved",
+  "entries": [
+    {
+      "name": "25 Year Old 40% old bottling",
+      "yearCandidate": 2007,
+      "abv": 40,
+      "volumeMlCandidate": 700,
+      "sources": [
+        "https://www.passionforwhisky.com/en/whisky/scotch-whisky/single-malt-whisky/islay/laphroaig-whisky-distillery/30619-laphroaig-25-years-old-bottling.html",
+        "https://irishwhiskeyauctions.ie/views/product.php?id=65705944",
+        "https://allthingswhisky.com/2011/01/12/tale-of-two-25-year-old-laphroaigs/"
+      ],
+      "next": "Read product body and inspect40%25yo700mlrealphoto. Establish2007fromlabel/code independently ofseller title. Firsthand40%notes are inAllThingsWhiskycomparison, separatefrom2009CS51%.",
+      "status": "integrated-verified",
+      "runtimeId": "laphroaig-25-old-40",
+      "integrationRecord": "laphroaig-25-old-40-integration.json"
+    },
+    {
+      "name": "25 Year Old 43% candidate",
+      "abvCandidate": 43,
+      "sources": [
+        "https://www.whiskybase.com/whiskies/whisky/137967/laphroaig-25-year-old",
+        "https://www.whisky.de/fileadmin/web_data/01download/katalog/k0909.pdf"
+      ],
+      "next": "Verifyactual43%realbottle, volume, yearandmarket. Catalogsnippetandaggregatorinsufficient;donotassume40%or51.2%USvariantissameproduct.",
+      "status": "bessie43-integrated-generic43-unresolved",
+      "runtimeId": "laphroaig-25-bessie-williamson-story",
+      "note": "Bessie43%verifiedandregistered.Notproofallhistorical43%referencesareBessie;older43%retailerPDFcandidateawaitslabelinspection."
+    }
+  ],
+  "scope": "Continue other officialrareages,IanHunter,StrongCharacters,singlecasksandindependentbottlingsafterthisfamily.2010and2012annualidentitiesremainunresolved;noscopecompletionclaim."
+}
