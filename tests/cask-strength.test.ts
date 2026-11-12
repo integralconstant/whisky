@@ -95,6 +95,7 @@ test("CS searches and tags combine with product names, flavor, country and colle
         "laphroaig-elements-l2-0",
         "laphroaig-elements-l3-0",
         "laphroaig-ian-hunter-book-1",
+          "laphroaig-ian-hunter-book-1-750",
         "laphroaig-ian-hunter-book-3",
         "laphroaig-ian-hunter-book-3-750",
         "laphroaig-islay-ember-2014",

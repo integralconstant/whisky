@@ -520,5 +520,47 @@
     "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-limited-edition-28-year-old-single-malt-scotch-whisky",
     "productName": "Laphroaig 28 Year Old 2018 Release 750ml",
     "note": "Actual bottle reviewed:28years,44.4%,750mL,CASK STRENGTH visible.2018 release corroborated by K&L1420954 and Distiller release history."
+  },
+  "laphroaig-ian-hunter-book-3-750": {
+    "imageUrl": "https://www.oaksliquors.com/product_images/img_2678_1.jpg",
+    "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-the-ian-hunter-story-book-3-source-protector-33-year-old",
+    "productName": "Laphroaig 33 Year Old Ian Hunter Book 3 Source Protector 750ml",
+    "note": "Actual bottle reviewed: Ian Hunter Book 3, 33 years, 49.9%, 750mL visible. Cask Strength is separately corroborated for this release."
+  },
+  "laphroaig-ian-hunter-book-4-750": {
+    "imageUrl": "https://www.oaksliquors.com/product_images/img_3239_1.jpg",
+    "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-the-ian-hunter-story-book-4-malt-master-34-year-old-single-malt-scotch-whisky",
+    "productName": "Laphroaig 34 Year Old Ian Hunter Book 4 Malt Master 750ml",
+    "note": "Actual bottle reviewed: Ian Hunter Book 4, 34 years, 46.2%, 750mL visible. No cask-strength classification inferred from ABV."
+  },
+  "laphroaig-ian-hunter-book-5-750": {
+    "imageUrl": "https://www.oaksliquors.com/product_images/img_3281_1.jpg",
+    "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-34-years-old-ian-hunter-book-5-enduring-spirit",
+    "productName": "Laphroaig 34 Year Old Ian Hunter Book 5 Enduring Spirit 750ml",
+    "note": "Actual bottle reviewed: Ian Hunter Book 5, 34 years, 45.5%, 750mL visible. No cask-strength classification inferred from ABV."
+  },
+  "laphroaig-ian-hunter-book-1-750": {
+    "imageUrl": "https://cdn.klwines.com/images/skus/1454377x.jpg",
+    "sourceUrl": "https://www.klwines.com/products/details/1454377",
+    "productName": "Laphroaig 30 Year Old Ian Hunter Book 1 Unique Character 750ml",
+    "note": "Actual bottle reviewed: Ian Hunter Book 1, 30 years, 46.7%, 750mL visible. Cask Strength is separately corroborated for this release."
+  },
+  "laphroaig-ian-hunter-book-2-750": {
+    "imageUrl": "https://www.liquormarts.ca/sites/mbll-lm/files/import/images/34803_245a94f231de597f8a932d1719f6d5da.png",
+    "sourceUrl": "https://www.liquormarts.ca/product/laphroaig-ian-hunter-book-2-30-yo-islay-single-malt-scotch-whisky/750-ml",
+    "productName": "Laphroaig 30 Year Old Ian Hunter Book 2 Building an Icon 750ml",
+    "note": "Actual bottle reviewed: Ian Hunter Book 2, 30 years, 48.2%, 750mL visible. No cask-strength classification inferred from ABV."
+  },
+  "laphroaig-qa-cask-1l": {
+    "imageUrl": "https://img.thewhiskyexchange.com/330/lrgob.non7.jpg?v=202407241",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/24133/laphroaig-qa-cask-litre",
+    "productName": "Laphroaig QA Cask 1L",
+    "note": "Actual bottle and tube reviewed: QA Cask, 1 litre and 40% product identity confirmed by The Whisky Exchange. Age and cask-strength are not inferred."
+  },
+  "laphroaig-10-40-1l": {
+    "imageUrl": "https://changiairport.scene7.com/is/image/changiairport/mp00689840-1-laphroaig-1746671430455?%242x%24=",
+    "sourceUrl": "https://www.heinemann.com.au/en/global/laphroaig/laphroaig-10y-40vol-1l/p/000000000000012710/",
+    "productName": "Laphroaig 10 Year Old 40% 1L",
+    "note": "Actual bottle and carton reviewed: Laphroaig 10 Year Old 1L. The exact Changi product page confirms 1000ml and 40%; it is not the 700ml 40% or 750ml 43% market bottle."
   }
 }

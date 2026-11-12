@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-12T12:33:39.609Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-ian-hunter-book-3-750",
+    "laphroaig-ian-hunter-book-4-750",
+    "laphroaig-ian-hunter-book-5-750"
+  ],
+  "previousCount": 568,
+  "sources": [
+    "https://www.oaksliquors.com/p/laphroaig-the-ian-hunter-story-book-3-source-protector-33-year-old",
+    "https://www.oaksliquors.com/p/laphroaig-the-ian-hunter-story-book-4-malt-master-34-year-old-single-malt-scotch-whisky",
+    "https://www.oaksliquors.com/p/laphroaig-34-years-old-ian-hunter-book-5-enduring-spirit"
+  ],
+  "expressionSources": [
+    "https://www.laphroaig.com/en-gb/whiskies/ian-hunter-book-3-source-protector",
+    "https://dailyshot.co/m/item/14784",
+    "https://www.laphroaig.com/en-gb/whiskies/ian-hunter-book-5-enduring-spirit-34-yo-single-malt-scotch-whisky"
+  ],
+  "caskStrengthSource": "https://www.htfw.com/laphroaig-the-ian-hunter-story-book-3-source-protector-single-malt-scotch-33-year-old-whisky",
+  "photoReview": [
+    "Actual bottle reviewed: Ian Hunter Book 3, 33 years, 49.9%, 750mL visible. Cask Strength is separately corroborated for this release.",
+    "Actual bottle reviewed: Ian Hunter Book 4, 34 years, 46.2%, 750mL visible. No cask-strength classification inferred from ABV.",
+    "Actual bottle reviewed: Ian Hunter Book 5, 34 years, 45.5%, 750mL visible. No cask-strength classification inferred from ABV."
+  ],
+  "notesProvenance": "The existing 700ml expression guidance is retained verbatim only as shared-release guidance. Each new record explicitly identifies its separately photographed 750ml market size; no distinct liquid, batch, or bottle-specific tasting claim is made.",
+  "duplicateCheck": "IDs and normalized names checked against 568 entries. Existing Ian Hunter Books 3–5 are 700ml records; these are separately evidenced 750ml bottles with the displayed age and ABV.",
+  "existingEntriesPreserved": 568,
+  "currentCount": 571,
+  "photos": [
+    "/images/whisky-laphroaig-ian-hunter-book-3-750.jpg",
+    "/images/whisky-laphroaig-ian-hunter-book-4-750.jpg",
+    "/images/whisky-laphroaig-ian-hunter-book-5-750.jpg"
+  ],
+  "dailyshot": "no-exact-match"
+}

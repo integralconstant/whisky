@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-11-12T12:39:49.870Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-ian-hunter-book-1-750",
+    "laphroaig-ian-hunter-book-2-750"
+  ],
+  "previousCount": 571,
+  "sources": [
+    "https://www.klwines.com/products/details/1454377",
+    "https://www.liquormarts.ca/product/laphroaig-ian-hunter-book-2-30-yo-islay-single-malt-scotch-whisky/750-ml"
+  ],
+  "expressionSources": [
+    "https://www.klwines.com/products/details/1454377",
+    "https://www.liquormarts.ca/product/laphroaig-ian-hunter-book-2-30-yo-islay-single-malt-scotch-whisky/750-ml"
+  ],
+  "caskStrengthSource": "https://www.danmurphys.com.au/product/DM_199735/laphroaig-ian-hunter-book-1-30-year-old-islay-single-malt",
+  "photoReview": [
+    "Actual bottle reviewed: Ian Hunter Book 1, 30 years, 46.7%, 750mL visible. Cask Strength is separately corroborated for this release.",
+    "Actual bottle reviewed: Ian Hunter Book 2, 30 years, 48.2%, 750mL visible. No cask-strength classification inferred from ABV."
+  ],
+  "notesProvenance": "The existing 700ml expression guidance is retained verbatim only as shared-release guidance. Each new record explicitly identifies its separately photographed 750ml market size; no distinct liquid, batch, or bottle-specific tasting claim is made.",
+  "duplicateCheck": "IDs and normalized names checked against 571 existing entries. Existing Ian Hunter Books 1–2 are 700ml records; these are separately evidenced 750ml bottles with the displayed age and ABV.",
+  "existingEntriesPreserved": 571,
+  "currentCount": 573,
+  "photos": [
+    "/images/whisky-laphroaig-ian-hunter-book-1-750.jpg",
+    "/images/whisky-laphroaig-ian-hunter-book-2-750.png"
+  ],
+  "dailyshot": "no-exact-match"
+}

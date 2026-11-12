@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-12T12:44:58.887Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-qa-cask-1l"
+  ],
+  "previousCount": 573,
+  "source": "https://www.thewhiskyexchange.com/p/24133/laphroaig-qa-cask-litre",
+  "factsSource": "https://www.thewhiskyexchange.com/p/24133/laphroaig-qa-cask-litre",
+  "supportingSource": "https://www.paneco.com.sg/products/laphroaig-qa-cask-single-malt-1l-w-gift-box",
+  "photoReview": "Actual bottle and tube reviewed: QA Cask, 1 litre and 40% product identity confirmed by The Whisky Exchange. Age and cask-strength are not inferred.",
+  "notesProvenance": "The Whisky Exchange's named tasting notes are paraphrased. Description and product facts are from the same product page, with volume and ABV corroborated by Paneco.",
+  "duplicateCheck": "ID and normalized names checked against 573 existing entries. QA Cask is a separately named, 1L travel-retail expression; it is not Four Oak, Quarter Cask, PX Cask, or Oak Select.",
+  "existingEntriesPreserved": 573,
+  "currentCount": 574,
+  "photos": [
+    "/images/whisky-laphroaig-qa-cask-1l.webp"
+  ],
+  "dailyshot": "no-exact-match"
+}

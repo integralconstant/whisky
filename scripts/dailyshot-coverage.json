@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-12T01:09:55.994Z",
-  "catalogCount": 568,
-  "processedCount": 568,
+  "generatedAt": "2026-11-12T12:45:53.601Z",
+  "catalogCount": 574,
+  "processedCount": 574,
   "matchedCount": 341,
   "pricedCount": 323,
   "scope": "Dailyshot in-stock domestic store listings (service_type=1), before coupons, same product and volume",
@@ -10790,6 +10790,54 @@
         }
       ]
     },
+    "laphroaig-ian-hunter-book-1-750": {
+      "status": "no-exact-match",
+      "name": "라프로익 30년 이안 헌터 북 1 유니크 캐릭터 750ml",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 2460,
+          "name": "조니워커 블랙 700ml",
+          "englishName": "Johnnie Walker Black",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3249,
+          "name": "조니워커 더블 블랙 700ml",
+          "englishName": "Johnnie Walker Double Black 700ml",
+          "volume": "700ml",
+          "abv": "40%"
+        }
+      ]
+    },
     "laphroaig-ian-hunter-book-2": {
       "status": "no-available-store-offers",
       "name": "라프로익 30년 이안 헌터 북 2 빌딩 언 아이콘",
@@ -10802,6 +10850,54 @@
           "url": "https://api.dailyshot.co/item-sellers/?item_id=619860&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
           "checkedAt": "2026-11-11T01:17:33.178Z",
           "count": 0
+        }
+      ]
+    },
+    "laphroaig-ian-hunter-book-2-750": {
+      "status": "no-exact-match",
+      "name": "라프로익 30년 이안 헌터 북 2 빌딩 언 아이콘 750ml",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 2460,
+          "name": "조니워커 블랙 700ml",
+          "englishName": "Johnnie Walker Black",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3249,
+          "name": "조니워커 더블 블랙 700ml",
+          "englishName": "Johnnie Walker Double Black 700ml",
+          "volume": "700ml",
+          "abv": "40%"
         }
       ]
     },
@@ -10820,6 +10916,54 @@
         }
       ]
     },
+    "laphroaig-ian-hunter-book-3-750": {
+      "status": "no-exact-match",
+      "name": "라프로익 33년 이안 헌터 북 3 소스 프로텍터 750ml",
+      "inspected": [
+        {
+          "topProductId": 6021,
+          "name": "라프로익 33년 이안 헌터 북 3: 소스 프로텍터",
+          "englishName": "Laphroaig 34yo Ian Hunter Book 3: Source Protector",
+          "volume": "700ml",
+          "abv": "49.9%"
+        },
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 2460,
+          "name": "조니워커 블랙 700ml",
+          "englishName": "Johnnie Walker Black",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
+        }
+      ]
+    },
     "laphroaig-ian-hunter-book-4": {
       "status": "priced",
       "name": "라프로익 34년 이안 헌터 북 4 몰트 마스터",
@@ -10835,6 +10979,54 @@
         }
       ]
     },
+    "laphroaig-ian-hunter-book-4-750": {
+      "status": "no-exact-match",
+      "name": "라프로익 34년 이안 헌터 북 4 몰트 마스터 750ml",
+      "inspected": [
+        {
+          "topProductId": 14784,
+          "name": "라프로익 34년 이안 헌터 북 4: 몰트 마스터",
+          "englishName": "Laphroaig 34yo Ian Hunter Book 4: Malt Master",
+          "volume": "700ml",
+          "abv": "46.2%"
+        },
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 2460,
+          "name": "조니워커 블랙 700ml",
+          "englishName": "Johnnie Walker Black",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
+        }
+      ]
+    },
     "laphroaig-ian-hunter-book-5": {
       "status": "priced",
       "name": "라프로익 34년 이안 헌터 북 5 엔듀어링 스피릿",
@@ -10847,6 +11039,54 @@
           "url": "https://api.dailyshot.co/item-sellers/?item_id=427907&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
           "checkedAt": "2026-11-11T01:17:40.096Z",
           "count": 6
+        }
+      ]
+    },
+    "laphroaig-ian-hunter-book-5-750": {
+      "status": "no-exact-match",
+      "name": "라프로익 34년 이안 헌터 북 5 엔듀어링 스피릿 750ml",
+      "inspected": [
+        {
+          "topProductId": 23793,
+          "name": "라프로익 34년 이안 헌터 북 5",
+          "englishName": "Laphroaig 34yo Ian Hunter Book 5: Enduring Spirit",
+          "volume": "700ml",
+          "abv": "45.5%"
+        },
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 2460,
+          "name": "조니워커 블랙 700ml",
+          "englishName": "Johnnie Walker Black",
+          "volume": "700ml",
+          "abv": "40%"
+        },
+        {
+          "topProductId": 3208,
+          "name": "로얄살루트 21년 700ml",
+          "englishName": "Royal Salute 21yo",
+          "volume": "700ml",
+          "abv": "40%"
         }
       ]
     },
@@ -10990,6 +11230,54 @@
           "url": "https://api.dailyshot.co/item-sellers/?item_id=303351&page=1&page_size=100&service_type=1&ordering=price&include_sold_out=0&group_same_price=0",
           "checkedAt": "2026-10-13T06:15:55.194Z",
           "count": 33
+        }
+      ]
+    },
+    "laphroaig-qa-cask-1l": {
+      "status": "no-exact-match",
+      "name": "라프로익 QA 캐스크 1L",
+      "inspected": [
+        {
+          "topProductId": 23979,
+          "name": "라프로익 10년 셰리 오크 피니시 700ml",
+          "englishName": "Laphroaig 10yo Sherry Oak Finish 700ml",
+          "volume": "700ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 24444,
+          "name": "라프로익 PX 캐스크 1L",
+          "englishName": "Laphroaig PX Cask 1L",
+          "volume": "1000ml",
+          "abv": "48%"
+        },
+        {
+          "topProductId": 17652,
+          "name": "라프로익 10년 43% 750ml",
+          "englishName": "Laphroaig 10yo 43% 750ml",
+          "volume": "750ml",
+          "abv": "43%"
+        },
+        {
+          "topProductId": 4353,
+          "name": "아란 셰리 캐스크 700ml",
+          "englishName": "Arran Sherry Cask 700ml",
+          "volume": "700ml",
+          "abv": "55.8%"
+        },
+        {
+          "topProductId": 5637,
+          "name": "와일드 터키 101 1L",
+          "englishName": "Wild Turkey 101 1L",
+          "volume": "1000ml",
+          "abv": "50.5%"
+        },
+        {
+          "topProductId": 29166,
+          "name": "맥캘란 12년 더블 캐스크",
+          "englishName": "Macallan 12yo Double Cask",
+          "volume": "700ml",
+          "abv": "40%"
         }
       ]
     },

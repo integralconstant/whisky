@@ -937,12 +937,26 @@
     "scope": "search",
     "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
   },
+  "laphroaig-ian-hunter-book-1-750": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2030%EB%85%84%20%EC%9D%B4%EC%95%88%20%ED%97%8C%ED%84%B0%20%EB%B6%81%201%20%EC%9C%A0%EB%8B%88%ED%81%AC%20%EC%BA%90%EB%A6%AD%ED%84%B0%20750ml",
+    "productName": "라프로익 30년 이안 헌터 북 1 유니크 캐릭터 750ml",
+    "checkedAt": "2026-11-12T12:40:13.833Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
   "laphroaig-ian-hunter-book-2": {
     "url": "https://dailyshot.co/m/item/17597",
     "productName": "라프로익 30년 이안 헌터 스토리 북 2",
     "checkedAt": "2026-11-11T01:17:32.730Z",
     "scope": "exact-product",
     "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "laphroaig-ian-hunter-book-2-750": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2030%EB%85%84%20%EC%9D%B4%EC%95%88%20%ED%97%8C%ED%84%B0%20%EB%B6%81%202%20%EB%B9%8C%EB%94%A9%20%EC%96%B8%20%EC%95%84%EC%9D%B4%EC%BD%98%20750ml",
+    "productName": "라프로익 30년 이안 헌터 북 2 빌딩 언 아이콘 750ml",
+    "checkedAt": "2026-11-12T12:40:13.836Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
   },
   "laphroaig-ian-hunter-book-3": {
     "url": "https://dailyshot.co/m/item/6021",
@@ -951,6 +965,13 @@
     "scope": "exact-product",
     "note": "북3·33년·49.9%·700ml를 실물 및 개별 상품과 대조했습니다. 데일리샷 영문명34yo는 오기이며 공식 및 실물은33년입니다."
   },
+  "laphroaig-ian-hunter-book-3-750": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2033%EB%85%84%20%EC%9D%B4%EC%95%88%20%ED%97%8C%ED%84%B0%20%EB%B6%81%203%20%EC%86%8C%EC%8A%A4%20%ED%94%84%EB%A1%9C%ED%85%8D%ED%84%B0%20750ml",
+    "productName": "라프로익 33년 이안 헌터 북 3 소스 프로텍터 750ml",
+    "checkedAt": "2026-11-12T12:34:04.615Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
   "laphroaig-ian-hunter-book-4": {
     "url": "https://dailyshot.co/m/item/14784",
     "productName": "라프로익 34년 이안 헌터 북 4: 몰트 마스터",
@@ -958,12 +979,26 @@
     "scope": "exact-product",
     "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
   },
+  "laphroaig-ian-hunter-book-4-750": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2034%EB%85%84%20%EC%9D%B4%EC%95%88%20%ED%97%8C%ED%84%B0%20%EB%B6%81%204%20%EB%AA%B0%ED%8A%B8%20%EB%A7%88%EC%8A%A4%ED%84%B0%20750ml",
+    "productName": "라프로익 34년 이안 헌터 북 4 몰트 마스터 750ml",
+    "checkedAt": "2026-11-12T12:34:04.618Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
+  },
   "laphroaig-ian-hunter-book-5": {
     "url": "https://dailyshot.co/m/item/23793",
     "productName": "라프로익 34년 이안 헌터 북 5",
     "checkedAt": "2026-11-11T01:17:39.274Z",
     "scope": "exact-product",
     "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-ian-hunter-book-5-750": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%2034%EB%85%84%20%EC%9D%B4%EC%95%88%20%ED%97%8C%ED%84%B0%20%EB%B6%81%205%20%EC%97%94%EB%93%80%EC%96%B4%EB%A7%81%20%EC%8A%A4%ED%94%BC%EB%A6%BF%20750ml",
+    "productName": "라프로익 34년 이안 헌터 북 5 엔듀어링 스피릿 750ml",
+    "checkedAt": "2026-11-12T12:34:14.094Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
   },
   "laphroaig-islay-ember-2014": {
     "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%95%84%EC%9D%BC%EB%9D%BC%20%EC%97%A0%EB%B2%84%202014%20%EC%8B%B1%EA%B8%80%20%EC%BA%90%EC%8A%A4%ED%81%AC",
@@ -999,6 +1034,13 @@
     "checkedAt": "2026-10-13T06:15:54.241Z",
     "scope": "exact-product",
     "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "laphroaig-qa-cask-1l": {
+    "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20QA%20%EC%BA%90%EC%8A%A4%ED%81%AC%201L",
+    "productName": "라프로익 QA 캐스크 1L",
+    "checkedAt": "2026-11-12T12:45:53.544Z",
+    "scope": "search",
+    "note": "동일 제품·배치의 판매 정보를 확인하지 못했습니다. 데일리샷 검색 결과에서 현재 입고 여부를 확인하세요."
   },
   "laphroaig-quarter-cask-1l": {
     "url": "https://dailyshot.co/m/search/result?q=%EB%9D%BC%ED%94%84%EB%A1%9C%EC%9D%B5%20%EC%BF%BC%ED%84%B0%20%EC%BA%90%EC%8A%A4%ED%81%AC%201L",

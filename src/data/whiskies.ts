@@ -1,5 +1,8 @@
 import type { Whisky } from "./types";
+import { laphroaigIan12UsWhiskies } from "./whiskies-laphroaig-ian-1-2-us.ts";
 import { laphroaigIanUsWhiskies } from "./whiskies-laphroaig-ian-us.ts";
+import { laphroaig10OneLWhiskies } from "./whiskies-laphroaig-10-1l.ts";
+import { laphroaigQaCaskWhiskies } from "./whiskies-laphroaig-qa-cask.ts";
 import { laphroaig2728UsWhiskies } from "./whiskies-laphroaig-27-28-us.ts";
 import { laphroaigLore750Whiskies } from "./whiskies-laphroaig-lore-750.ts";
 import { laphroaigQuarter750Whiskies } from "./whiskies-laphroaig-quarter-750.ts";
@@ -870,7 +873,10 @@ export const whiskies: Whisky[] = [
   ...laphroaigQuarter750Whiskies,
   ...laphroaigLore750Whiskies,
   ...laphroaig2728UsWhiskies,
+  ...laphroaigIan12UsWhiskies,
   ...laphroaigIanUsWhiskies,
+  ...laphroaig10OneLWhiskies,
+  ...laphroaigQaCaskWhiskies,
 ].map((item) => ({
   ...enrichWhiskyFlavors(item),
   ...(dailyshotPrices[item.id]

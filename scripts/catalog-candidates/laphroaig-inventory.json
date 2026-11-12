@@ -5,8 +5,8 @@
   "purpose": "Finish the Laphroaig catalogue, including identifiable releases and batches, before starting another distillery. This inventory is research evidence, not runtime catalogue data.",
   "coverageWarning": "Official online ranges are incomplete historical inventories. Do not infer that missing years, discontinued bottlings, single casks or independent bottlings do not exist. Retail offers, photos and tasting information still require release-specific verification before runtime integration.",
   "runtimeSnapshot": {
-    "checkedAt": "2026-11-12T01:10:15.673Z",
-    "rawCount": 113,
+    "checkedAt": "2026-11-12T12:45:59.089Z",
+    "rawCount": 119,
     "expressions": [
       "Laphroaig 10 Year Old",
       "Laphroaig Quarter Cask",
@@ -120,7 +120,13 @@
       "Laphroaig Quarter Cask 750ml",
       "Laphroaig Lore 750ml",
       "Laphroaig 27 Year Old 2017 Release 750ml",
-      "Laphroaig 28 Year Old 2018 Release 750ml"
+      "Laphroaig 28 Year Old 2018 Release 750ml",
+      "Laphroaig 30 Year Old Ian Hunter Book 1 Unique Character 750ml",
+      "Laphroaig 30 Year Old Ian Hunter Book 2 Building an Icon 750ml",
+      "Laphroaig 33 Year Old Ian Hunter Book 3 Source Protector 750ml",
+      "Laphroaig 34 Year Old Ian Hunter Book 4 Malt Master 750ml",
+      "Laphroaig 34 Year Old Ian Hunter Book 5 Enduring Spirit 750ml",
+      "Laphroaig QA Cask 1L"
     ],
     "note": "Includes November 9 additions. Register all identifiable expressions with real photographs, including products absent from Dailyshot; show Dailyshot prices only when verified. Inventory remains in progress."
   },
@@ -966,6 +972,42 @@
       "status": "integrated",
       "runtimeId": "laphroaig-28-2018-us",
       "integrationRecord": "laphroaig-27-28-us-integration.json"
+    },
+    {
+      "name": "Laphroaig 33 Year Old Ian Hunter Book 3 Source Protector 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-ian-hunter-book-3-750",
+      "integrationRecord": "laphroaig-ian-us-integration.json"
+    },
+    {
+      "name": "Laphroaig 34 Year Old Ian Hunter Book 4 Malt Master 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-ian-hunter-book-4-750",
+      "integrationRecord": "laphroaig-ian-us-integration.json"
+    },
+    {
+      "name": "Laphroaig 34 Year Old Ian Hunter Book 5 Enduring Spirit 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-ian-hunter-book-5-750",
+      "integrationRecord": "laphroaig-ian-us-integration.json"
+    },
+    {
+      "name": "Laphroaig 30 Year Old Ian Hunter Book 1 Unique Character 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-ian-hunter-book-1-750",
+      "integrationRecord": "laphroaig-ian-1-2-us-integration.json"
+    },
+    {
+      "name": "Laphroaig 30 Year Old Ian Hunter Book 2 Building an Icon 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-ian-hunter-book-2-750",
+      "integrationRecord": "laphroaig-ian-1-2-us-integration.json"
+    },
+    {
+      "name": "Laphroaig QA Cask 1L",
+      "status": "integrated",
+      "runtimeId": "laphroaig-qa-cask-1l",
+      "integrationRecord": "laphroaig-qa-cask-integration.json"
     }
   ],
   "unresolvedResearchScopes": [
