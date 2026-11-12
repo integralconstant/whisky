@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-11-11T06:12:27.341Z",
+  "status": "integrated-verified",
+  "previousCount": 534,
+  "ids": [
+    "laphroaig-archive-36",
+    "laphroaig-archive-38"
+  ],
+  "sources": [
+    "https://www.laphroaig.com/whiskies/the-archive-collection",
+    "https://www.laphroaig.com/whiskies/the-archive-collection-2",
+    "https://www.thewhiskyexchange.com/p/79582/laphroaig-36-year-old-the-archive-collection",
+    "https://www.thewhiskyexchange.com/p/84654/laphroaig-38-year-old-the-archive-collection"
+  ],
+  "photoReview": "Official bottle images inspected: ages36 and38. ABV and70cl crosschecked with individual retailer specifications; not visible on front image.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against534 entries and within cohort.",
+  "remaining": "38yo CS classification and US750ml listing require further producer/label evidence. No bottling year inferred from age/vintage; no Wall collection merge.",
+  "existingEntriesPreserved": 534,
+  "currentCount": 536,
+  "results": [
+    {
+      "id": "laphroaig-archive-36",
+      "photo": "/images/whisky-laphroaig-archive-36.webp",
+      "dailyshot": "no-exact-match"
+    },
+    {
+      "id": "laphroaig-archive-38",
+      "photo": "/images/whisky-laphroaig-archive-38.webp",
+      "dailyshot": "no-exact-match"
+    }
+  ],
+  "cs38Followup": {
+    "source": "https://www.thespiritsbusiness.com/2025/06/laphroaig-unveils-38yo-for-4100/?edition=asia",
+    "finding": "Trade press explicitly reports41.3% cask strength. Cross-check producer statement or rear label before resolving pending classification.",
+    "usMarketSource": "https://www.klwines.com/products/details/1907037"
+  }
+}

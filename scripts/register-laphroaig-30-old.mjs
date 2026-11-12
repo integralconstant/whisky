@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig30OldWhiskies as candidates} from '../src/data/whiskies-laphroaig-30-old.ts';
+const previous=JSON.parse(await readFile('.cache/catalog-before-laphroaig-30-old.json','utf8'));
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(old=>old.id===item.id||norm(old.name)===norm(item.name)||norm(old.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json';
+const photos=JSON.parse(await readFile(file,'utf8'));
+photos[candidates[0].id]={imageUrl:'https://www.whiskyfun.com/Material76/Laphroaig-30-yo-75cl.jpg',sourceUrl:candidates[0].source,productName:candidates[0].englishName,note:'실물 라벨 30년·75cl·43%를 육안 확인. 병입 연도 미확인. 해당 사진을 게재한 직접 시음 기록을 향미 출처로 사용.'};
+await writeFile(file,JSON.stringify(photos,null,2)+'\n');
+await writeFile('scripts/catalog-candidates/laphroaig-30-old-integration.json',JSON.stringify({checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:candidates.map(x=>x.id),sources:[candidates[0].source,'https://www.finespirits.auction/uk/acheter-spi/B2167277-3522-1-Bottle-Laphroaig-30-years-Of.-75cl.-Brown.jsp'],photoReview:photos[candidates[0].id].note,duplicateCheck:'IDs and normalized Korean/English names checked against full runtime snapshot. Not a dated release; no inferred vintage or cask strength.'},null,2)+'\n');
+console.log({previous:previous.length,added:candidates.map(x=>x.id)});

@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-11T14:57:46.229Z",
+  "status": "integrated-verified",
+  "previousCount": 552,
+  "ids": [
+    "laphroaig-16-2015-anniversary",
+    "laphroaig-16-48"
+  ],
+  "sources": [
+    "https://www.whiskynotes.be/2015/laphroaig/laphroaig-16-year-old/",
+    "https://www.thewhiskyexchange.com/p/51607/laphroaig-16-year-old",
+    "https://whiskygospel.com/2019/12/01/laphroaig-16-year-old-2019/",
+    "https://www.whiskyshop.com/auctions/a17133-laphroaig-16-year-old-travel-retail"
+  ],
+  "photoReview": {
+    "laphroaig-16-2015-anniversary": "2015직접리뷰 제품사진16년·200주년 확인.43%35cl는해당리뷰 및WhiskyShopA17133교차확인.",
+    "laphroaig-16-48": "실물 라벨16년·48%·700ml 확인. 병입 연도 미확인;2019출시계열과 특정배치를 구분."
+  },
+  "notesProvenance": "Separate firsthand2015/2019 reviews for43%/48%;2019review batch difference disclosed for generic48% entry.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against552 entries and within cohort.",
+  "remaining": "2015photo is small; seek higher-resolution exact photo. US750ml market variant and exact dated batches require separate evidence.",
+  "existingEntriesPreserved": 552,
+  "currentCount": 554,
+  "results": [
+    {
+      "id": "laphroaig-16-2015-anniversary",
+      "photo": "/images/whisky-laphroaig-16-2015-anniversary.jpg",
+      "dailyshot": "no-exact-match"
+    },
+    {
+      "id": "laphroaig-16-48",
+      "photo": "/images/whisky-laphroaig-16-48.jpg",
+      "dailyshot": "no-exact-match"
+    }
+  ]
+}

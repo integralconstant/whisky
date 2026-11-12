@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-11-12T01:09:38.406Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-27-2017-us",
+    "laphroaig-28-2018-us"
+  ],
+  "previousCount": 566,
+  "sources": [
+    "https://www.oaksliquors.com/p/laphroaig-27-year-old-double-matured-2017-limited-edition",
+    "https://www.oaksliquors.com/p/laphroaig-limited-edition-28-year-old-single-malt-scotch-whisky"
+  ],
+  "tastingSources": [
+    "https://thewhiskeywash.com/scotch-whiskey/laphroaig-adds-limited-edition-27-year-old-line/",
+    "https://distiller.com/spirits/laphroaig-28-year"
+  ],
+  "releaseSource28": "https://www.klwines.com/products/details/1420954",
+  "photoReview": [
+    "Actual bottle reviewed:27years,41.7%,750mL,CASK STRENGTH visible. MAR2017 bottling date visible.",
+    "Actual bottle reviewed:28years,44.4%,750mL,CASK STRENGTH visible.2018 release corroborated by K&L1420954 and Distiller release history."
+  ],
+  "notesProvenance": "27:launch official guidance reproduced by WhiskeyWash, paraphrased.28:JakeEmen firsthand tasting in Distiller, paraphrased. Sources kept distinct; no copied700ml runtime notes.",
+  "duplicateCheck": "IDs and normalized names checked against566 entries. Existing27/28 have700ml photos;750ml variants are distinct volumes with own labels.",
+  "existingEntriesPreserved": 566,
+  "currentCount": 568,
+  "photos": [
+    "/images/whisky-laphroaig-27-2017-us.jpg",
+    "/images/whisky-laphroaig-28-2018-us.jpg"
+  ],
+  "dailyshot": "no-exact-match"
+}

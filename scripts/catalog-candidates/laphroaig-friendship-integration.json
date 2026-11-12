@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-11T06:26:40.707Z",
+  "status": "integrated-verified",
+  "previousCount": 543,
+  "ids": [
+    "laphroaig-friendship-cask-1",
+    "laphroaig-friendship-cask-2"
+  ],
+  "sources": [
+    "https://www.laphroaig.com/whiskies/friendship-cask-1-single-cask-islay-whisky",
+    "https://www.laphroaig.com/friendship-cask-2-single-cask",
+    "https://laphroaig.runfair.com/en-US/gb/friendship-cask-1",
+    "https://www.laphroaig.com/en-gb/whiskies/friendship-cask-2"
+  ],
+  "photoReview": {
+    "laphroaig-friendship-cask-1": "공식 실물 라벨 Friendship#1·803978·312병·58.2%·700ml 확인.",
+    "laphroaig-friendship-cask-2": "공식 실물 라벨 Friendship#2·캐스크5·192병·50.8%·700ml 확인."
+  },
+  "notesProvenance": "Each producer page paraphrased separately. Ages12 and18 explicit, no CS inferred from ABV/single-cask status.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against543 entries and within cohort.",
+  "remaining": "CS classification pending. #1 producer states2013-06-13, auction listings call2014; omit exact vintage rather than invent a separate variant. #3 still announced without complete specs.",
+  "existingEntriesPreserved": 543,
+  "currentCount": 545,
+  "results": [
+    {
+      "id": "laphroaig-friendship-cask-1",
+      "photo": "/images/whisky-laphroaig-friendship-cask-1.webp",
+      "dailyshot": "no-exact-match"
+    },
+    {
+      "id": "laphroaig-friendship-cask-2",
+      "photo": "/images/whisky-laphroaig-friendship-cask-2.webp",
+      "dailyshot": "no-exact-match"
+    }
+  ]
+}

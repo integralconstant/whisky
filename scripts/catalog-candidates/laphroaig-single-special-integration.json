@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-11-11T06:18:29.861Z",
+  "status": "integrated-verified",
+  "previousCount": 538,
+  "ids": [
+    "laphroaig-francis-mallmann-17",
+    "laphroaig-islay-ember-2014"
+  ],
+  "sources": [
+    "https://www.laphroaig.com/whiskies/francis-mallmann-17-year-old-white-madeira-cask",
+    "https://www.laphroaig.com/whiskies/islay-ember-single-cask",
+    "https://www.whiskyshop.com/auctions/a80809-laphroaig-17-year-old-francis-mallman"
+  ],
+  "photoReview": {
+    "laphroaig-francis-mallmann-17": "공식 실물 사진 17년·700ml·54.9%와 제품명 확인; WhiskyShop경매A80809 및 BBR54.9% 교차확인.",
+    "laphroaig-islay-ember-2014": "공식 라벨 IslayEmber2014·802279·312병·700ml·59.6% 확인. 생산자 FAQ는 no water 명시; 나이 추정하지 않음."
+  },
+  "notesProvenance": "Each producer page paraphrased separately. Islay Ember no water statement explicitly supports CS; exact age remains null.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against538 entries and within cohort.",
+  "remaining": "Mallmann CS classification needs producer or label corroboration; no CS inferred from54.9% alone.",
+  "existingEntriesPreserved": 538,
+  "currentCount": 540,
+  "results": [
+    {
+      "id": "laphroaig-francis-mallmann-17",
+      "photo": "/images/whisky-laphroaig-francis-mallmann-17.webp",
+      "dailyshot": "no-exact-match"
+    },
+    {
+      "id": "laphroaig-islay-ember-2014",
+      "photo": "/images/whisky-laphroaig-islay-ember-2014.webp",
+      "dailyshot": "no-exact-match"
+    }
+  ]
+}

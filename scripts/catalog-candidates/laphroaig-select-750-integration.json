@@ -1,0 +1,57 @@
+{
+  "checkedAt": "2026-11-12T00:54:41.765Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-select-750"
+  ],
+  "previousCount": 562,
+  "sources": [
+    "https://dailyshot.co/m/item/11421",
+    "https://dailyshot.co/m/item/26316"
+  ],
+  "photoReview": "Actual SELECT bottle and tube reviewed.40%750ml identity confirmed against exact Dailyshot11421 Information; no age statement.",
+  "notesProvenance": "Exact Dailyshot product guidance paraphrased.",
+  "duplicateCheck": "IDs and normalized names checked against562 entries. Existing laphroaig-oak-select has700ml sourcephoto26316; exact page confirms40%700ml.750ml is separate volume, no additional packaging-only entry.",
+  "existingEntriesPreserved": 562,
+  "currentCount": 563,
+  "photo": "/images/whisky-laphroaig-select-750.webp",
+  "dailyshot": {
+    "url": "https://dailyshot.co/m/item/11421",
+    "productName": "라프로익 셀렉트 750ml",
+    "checkedAt": "2026-11-12T00:54:54.807Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "price": {
+    "average": 82125,
+    "currency": "KRW",
+    "volumeMl": 750,
+    "sampleCount": 4,
+    "min": 62000,
+    "max": 106500,
+    "checkedAt": "2026-11-12T00:54:55.994Z",
+    "sourceUrl": "https://dailyshot.co/m/items/306090/sellers",
+    "offers": [
+      {
+        "price": 62000,
+        "url": "https://dailyshot.co/m/item/11421?item=630176&seller=39711",
+        "seller": "해밀덕천"
+      },
+      {
+        "price": 62000,
+        "url": "https://dailyshot.co/m/item/11421?item=630179&seller=56163",
+        "seller": "해밀"
+      },
+      {
+        "price": 98000,
+        "url": "https://dailyshot.co/m/item/11421?item=306090&seller=37563",
+        "seller": "가자주류백화점 홍성점"
+      },
+      {
+        "price": 106500,
+        "url": "https://dailyshot.co/m/item/11421?item=314138&seller=4641",
+        "seller": "세계주류&와인 수성점"
+      }
+    ]
+  }
+}

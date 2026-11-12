@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-11T14:52:40.997Z",
+  "status": "integrated-verified",
+  "previousCount": 550,
+  "ids": [
+    "laphroaig-15-old-43"
+  ],
+  "sources": [
+    "https://www.speysidewhiskyauctions.co.uk/lot-500658/laphroaig-15-years-old/",
+    "https://wordsofwhisky.com/laphroaig-15yo-old-versus-new/"
+  ],
+  "photoReview": "실물 라벨15년·70cl·43% 및200주년 문구 없는 구형 확인. 정확한병입연도와 배치 미확인. WordsOfWhisky구형비교사진의 라벨형태 교차확인.",
+  "notesProvenance": "WordsOfWhisky old43%2006 tasting section paraphrased; batch difference explicitly disclosed, no2006 bottling year assigned to pictured bottle.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against550 entries;2015anniversary and2026relaunch retained unchanged.",
+  "remaining": "Historic red15 and750ml market variants require own label/spec evidence. Packaging alone is not a separate batch.",
+  "existingEntriesPreserved": 550,
+  "currentCount": 551,
+  "photo": "/images/whisky-laphroaig-15-old-43.jpg",
+  "dailyshot": "no-exact-match"
+}

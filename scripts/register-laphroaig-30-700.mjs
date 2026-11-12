@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig30Old700Whiskies as candidates} from '../src/data/whiskies-laphroaig-30-700.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-30-700.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(old=>old.id===item.id||norm(old.name)===norm(item.name)||norm(old.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file);
+photos[candidates[0].id]={imageUrl:'https://media.whisky.auction/1200/134596_0.jpg',sourceUrl:candidates[0].source,productName:candidates[0].englishName,note:'Lot136839 실물 전면 라벨 30년·70cl·43% 확인. 기존750ml와 용량만 구분하며 연도·배치는 미확인.'};
+await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-30-700-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:candidates.map(x=>x.id),sources:[candidates[0].source,'https://www.nicks.com.au/products/laphroaig-30-year-old-single-malt-scotch-whisky-700ml'],photoReview:photos[candidates[0].id].note,notesProvenance:'Nicks reproduction of Whisky Magazine review, explicitly attributed; not assigned to a specific batch.',duplicateCheck:'IDs and normalized Korean/English names checked. Same old expression, different verified market volume, no invented batch distinction.'});
+console.log({previous:previous.length,added:candidates.map(x=>x.id)});

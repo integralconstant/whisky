@@ -1,4 +1,4 @@
-import { readFile, readdir, writeFile, mkdir } from "node:fs/promises";
+import { readFile, readdir, writeFile, mkdir, rename } from "node:fs/promises";
 import { fileURLToPath } from "node:url";
 import path from "node:path";
 import { build } from "vite";
@@ -84,7 +84,10 @@ const html = `<!doctype html>
 </html>
 `;
 
-await writeFile(path.join(projectRoot, "preview.html"), html, "utf8");
+const previewPath = path.join(projectRoot, "preview.html");
+const temporaryPreviewPath = path.join(projectRoot, `preview.${process.pid}.tmp.html`);
+await writeFile(temporaryPreviewPath, html, "utf8");
+await rename(temporaryPreviewPath, previewPath);
 await mkdir(path.join(projectRoot, "dist"), { recursive: true });
 await writeFile(path.join(projectRoot, "dist/preview.html"), html, "utf8");
 console.log(

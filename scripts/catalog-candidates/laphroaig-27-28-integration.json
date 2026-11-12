@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-11T06:35:35.344Z",
+  "status": "integrated-verified",
+  "previousCount": 547,
+  "ids": [
+    "laphroaig-27-2017",
+    "laphroaig-28-2018"
+  ],
+  "sources": [
+    "https://www.thewhiskyexchange.com/p/40970/laphroaig-27-year-old-bot2017",
+    "https://www.finedrams.com/laphroaig-28-year-old-whisky-bottled-2018.html",
+    "https://www.whiskynotes.be/2018/laphroaig/laphroaig-27-years/",
+    "https://adventuresinwhiskey.com/2018/11/07/review-laphroaig-28-year-old/"
+  ],
+  "photoReview": {
+    "laphroaig-27-2017": "실물 라벨27년·41.7%·70cl·caskstrength 확인. MAR2017 병입표기 확인.",
+    "laphroaig-28-2018": "실물 라벨28년·44.4%·70cl·caskstrength 확인. 2018출시연도는 FineDrams 상품명 및2018직접리뷰 대조. 본문44%오기 대신44.4%라벨 채택."
+  },
+  "notesProvenance": "Separate firsthand reviews paraphrased for each product.27yo mockup colour explicitly rejected in favour of TWE photographed label.28yo label confirms44.4 andCS despite retailer copy44 typo.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against547 entries and within cohort.",
+  "remaining": "Market750ml variants and historic27yo bottlings still require own label and source evidence.",
+  "existingEntriesPreserved": 547,
+  "currentCount": 549,
+  "results": [
+    {
+      "id": "laphroaig-27-2017",
+      "photo": "/images/whisky-laphroaig-27-2017.webp",
+      "dailyshot": "no-exact-match"
+    },
+    {
+      "id": "laphroaig-28-2018",
+      "photo": "/images/whisky-laphroaig-28-2018.jpg",
+      "dailyshot": "no-exact-match"
+    }
+  ]
+}

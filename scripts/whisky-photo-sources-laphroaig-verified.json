@@ -298,5 +298,227 @@
     "sourceUrl": "https://www.laphroaig.com/whiskies/30-year-old-anniversary-fol-limited-edition",
     "productName": "Laphroaig 30 Year Old Friends of Laphroaig Anniversary Edition 2024",
     "note": "공식 실물 사진의30년·45.9%·700ml와 개별 제품 설명을 대조했습니다. FoL30주년1994/2024기념판이며45.8%고정도수제품과구분합니다."
+  },
+  "laphroaig-30-2016": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.1985v1.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/48305/laphroaig-30-year-old-bot2016",
+    "productName": "Laphroaig 30 Year Old 2016 Release",
+    "note": "실물 라벨 30년, October 1985, May 2016, 70cl, 53.5% 확인. FineDrams에서 CS 명시 확인."
+  },
+  "laphroaig-30-old-43": {
+    "imageUrl": "https://www.whiskyfun.com/Material76/Laphroaig-30-yo-75cl.jpg",
+    "sourceUrl": "https://www.whiskyfun.com/2023/Feis-Ile-Special-today-Laphroaig.html",
+    "productName": "Laphroaig 30 Year Old Old Bottling 43% 750ml",
+    "note": "실물 라벨 30년·75cl·43%를 육안 확인. 병입 연도 미확인. 해당 사진을 게재한 직접 시음 기록을 향미 출처로 사용."
+  },
+  "laphroaig-30-old-43-700": {
+    "imageUrl": "https://media.whisky.auction/1200/134596_0.jpg",
+    "sourceUrl": "https://whisky.auction/auctions/lot/136839/laphroaig-30-year-old",
+    "productName": "Laphroaig 30 Year Old Old Bottling 43% 700ml",
+    "note": "Lot136839 실물 전면 라벨 30년·70cl·43% 확인. 기존750ml와 용량만 구분하며 연도·배치는 미확인."
+  },
+  "laphroaig-archive-36": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-11/Laphroaig_TheArchive36YO_BottleFront_4666819.png.webp?itok=OBE7J70j",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/the-archive-collection",
+    "productName": "Laphroaig The Archive Collection 36 Year Old",
+    "note": "공식 실물 사진 36년 표기 확인. 도수·700ml는 개별 TWE 상품 사양과 교차 확인. 36년 CS는 생산자 명시, 38년 CS는 미확인."
+  },
+  "laphroaig-archive-38": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2025-06/PNG%20Archive.png.webp?itok=kSQTsl9m",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/the-archive-collection-2",
+    "productName": "Laphroaig The Archive Collection 38 Year Old",
+    "note": "공식 실물 사진 38년 표기 확인. 도수·700ml는 개별 TWE 상품 사양과 교차 확인. 36년 CS는 생산자 명시, 38년 CS는 미확인."
+  },
+  "laphroaig-wall-36-peat": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-09/Laphroaig_36YO_WallCollection_Bottle.png.webp?itok=QoPJw_cS",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/the-wall-collection",
+    "productName": "Laphroaig The Wall Collection 36 Year Old Peat Edition",
+    "note": "공식 실물 라벨 36년·42.5%·700ml와 에디션명 확인. 각200병이며 병별 수작업 도안 차이는 별도 위스키로 등록하지 않음."
+  },
+  "laphroaig-wall-39-rope": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2025-08/05010019001092_C1N1_en-GB0330_s01.png.webp?itok=wK29L3I5",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/the-wall-collection-rope",
+    "productName": "Laphroaig The Wall Collection 39 Year Old Rope Edition",
+    "note": "공식 실물 라벨 39년·42.4%·700ml와 에디션명 확인. 각200병이며 병별 수작업 도안 차이는 별도 위스키로 등록하지 않음."
+  },
+  "laphroaig-francis-mallmann-17": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2023-12/francis-mallman-17-yo-in-front-of-wall%20%281%29.jpg.webp?itok=g94MeTdo",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/francis-mallmann-17-year-old-white-madeira-cask",
+    "productName": "Laphroaig Francis Mallmann 17 Year Old White Madeira Cask",
+    "note": "공식 실물 사진 17년·700ml·54.9%와 제품명 확인; WhiskyShop경매A80809 및 BBR54.9% 교차확인."
+  },
+  "laphroaig-islay-ember-2014": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2025-10/Single%20Malt%20Islay%20Ember%20Product%20Front.png.webp?itok=Nd1FKelg",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/islay-ember-single-cask",
+    "productName": "Laphroaig Islay Ember 2014 Single Cask 802279",
+    "note": "공식 라벨 IslayEmber2014·802279·312병·700ml·59.6% 확인. 생산자 FAQ는 no water 명시; 나이 추정하지 않음."
+  },
+  "laphroaig-willem-dafoe-14": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-04/05010019001740_M1N0_en-GB0331_s012.jpg.webp?itok=4_Nw2KKP",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/willem-dafoe-limited-edition",
+    "productName": "Laphroaig Willem Dafoe 14 Year Old Limited Edition",
+    "note": "공식 실물 라벨 WillemDafoeLimitedEdition·700ml·53.7% 확인. 14년과 올로로소 피니시는 공식 제품 설명 확인."
+  },
+  "laphroaig-strong-characters-1": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2025-07/05010019001016_C1N1_en-GB0829_s01.png.webp?itok=X6ATQacX",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/strong-characters-chapter-one",
+    "productName": "Laphroaig Strong Characters Chapter 1 33 Year Old Donald Johnston",
+    "note": "공식 사진 DonaldJohnston 일러스트 병 확인. 33년·43.8%·700ml는 공식설명 및 SAQ15443509 사양 교차확인."
+  },
+  "laphroaig-strong-characters-2": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-08/P04%20%2813%29.png.webp?itok=0klikSYY",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/strong-characters-chapter-two",
+    "productName": "Laphroaig Strong Characters Chapter 2 35 Year Old Dugald Johnston",
+    "note": "공식 실물 사진 35년·DugaldJohnston·43.8% 확인. 700ml는 개별70cl판매처 자료와 대조."
+  },
+  "laphroaig-friendship-cask-1": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-09/Single-Cask-.png.webp?itok=xnp3AWqm",
+    "sourceUrl": "https://www.laphroaig.com/whiskies/friendship-cask-1-single-cask-islay-whisky",
+    "productName": "Laphroaig Friendship Cask 1 12 Year Old Cask 803978",
+    "note": "공식 실물 라벨 Friendship#1·803978·312병·58.2%·700ml 확인."
+  },
+  "laphroaig-friendship-cask-2": {
+    "imageUrl": "https://www.laphroaig.com/sites/default/files/styles/original/public/2026-10/MAIN%20%2855%29.png.webp?itok=rrTozmfS",
+    "sourceUrl": "https://www.laphroaig.com/friendship-cask-2-single-cask",
+    "productName": "Laphroaig Friendship Cask 2 18 Year Old Cask 5",
+    "note": "공식 실물 라벨 Friendship#2·캐스크5·192병·50.8%·700ml 확인."
+  },
+  "laphroaig-32-2015": {
+    "imageUrl": "https://media.whisky.auction/1200/135107_0.jpg",
+    "sourceUrl": "https://whisky.auction/auctions/lot/137061/laphroaig-32-year-old-limited-edition",
+    "productName": "Laphroaig 32 Year Old 2015 200th Anniversary 46.6% 700ml",
+    "note": "경매 실물 전면 라벨32년·MAY2015·70cl·46.6%·CASKSTRENGTH 확인. 미국46.7%750ml와 구분."
+  },
+  "laphroaig-32-2015-us": {
+    "imageUrl": "https://media.whisky.auction/1200/176062_0.jpg",
+    "sourceUrl": "https://whisky.auction/auctions/lot/177341/laphroaig-32-year-old-limited-edition",
+    "productName": "Laphroaig 32 Year Old 2015 US Bottling 46.7% 750ml",
+    "note": "실물 라벨32년·MAY2015·750mL·46.7%·CASKSTRENGTH 확인. 기존46.6%700ml와 별도 사양."
+  },
+  "laphroaig-27-2017": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.27yo.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/40970/laphroaig-27-year-old-bot2017",
+    "productName": "Laphroaig 27 Year Old 2017 Release",
+    "note": "실물 라벨27년·41.7%·70cl·caskstrength 확인. MAR2017 병입표기 확인."
+  },
+  "laphroaig-28-2018": {
+    "imageUrl": "https://images.finedrams.com/image/54833-mediumlarge-1605733354/laphroaig-28-year-old-whisky-bottled-2018.jpg",
+    "sourceUrl": "https://www.finedrams.com/laphroaig-28-year-old-whisky-bottled-2018.html",
+    "productName": "Laphroaig 28 Year Old 2018 Release",
+    "note": "실물 라벨28년·44.4%·70cl·caskstrength 확인. 2018출시연도는 FineDrams 상품명 및2018직접리뷰 대조. 본문44%오기 대신44.4%라벨 채택."
+  },
+  "laphroaig-15-2015-anniversary": {
+    "imageUrl": "https://media.whisky.auction/1200/219511_0.jpg",
+    "sourceUrl": "https://whisky.auction/auctions/lot/220999/laphroaig-15-year-old",
+    "productName": "Laphroaig 15 Year Old 2015 200th Anniversary",
+    "note": "실물 라벨15년·200thanniversary·1815-2015·70cl·43% 확인.2026재출시 및 구형과 구분."
+  },
+  "laphroaig-15-old-43": {
+    "imageUrl": "https://www.speysidewhiskyauctions.co.uk/uploads/images/lots/large/1697620654sswa-501181.jpg",
+    "sourceUrl": "https://www.speysidewhiskyauctions.co.uk/lot-500658/laphroaig-15-years-old/",
+    "productName": "Laphroaig 15 Year Old Old Bottling 43% 700ml",
+    "note": "실물 라벨15년·70cl·43% 및200주년 문구 없는 구형 확인. 정확한병입연도와 배치 미확인. WordsOfWhisky구형비교사진의 라벨형태 교차확인."
+  },
+  "laphroaig-21-fol-2015": {
+    "imageUrl": "https://media.whisky.auction/1200/219965_0.jpg",
+    "sourceUrl": "https://whisky.auction/auctions/lot/221177/laphroaig-21-year-old",
+    "productName": "Laphroaig 21 Year Old Friends of Laphroaig 21st Anniversary 2015 350ml",
+    "note": "실물 라벨21년·35cl·48.4%·FoL21YearsOfFriendship1994-2015 확인. 일부리뷰48.5%를 라벨과 혼동하지 않음."
+  },
+  "laphroaig-16-2015-anniversary": {
+    "imageUrl": "https://www.whiskynotes.be/upload/Laphroaig-16-Year-Old_B5AE/laphroaig-16-years.jpg",
+    "sourceUrl": "https://www.whiskynotes.be/2015/laphroaig/laphroaig-16-year-old/",
+    "productName": "Laphroaig 16 Year Old 2015 200th Anniversary 43% 350ml",
+    "note": "2015직접리뷰 제품사진16년·200주년 확인.43%35cl는해당리뷰 및WhiskyShopA17133교차확인."
+  },
+  "laphroaig-16-48": {
+    "imageUrl": "https://img.thewhiskyexchange.com/900/lrgob.16yov1.jpg",
+    "sourceUrl": "https://www.thewhiskyexchange.com/p/51607/laphroaig-16-year-old",
+    "productName": "Laphroaig 16 Year Old 48% 700ml",
+    "note": "실물 라벨16년·48%·700ml 확인. 병입 연도 미확인;2019출시계열과 특정배치를 구분."
+  },
+  "laphroaig-an-cuan-mor": {
+    "imageUrl": "https://images.finedrams.com/image/18521-mediumlarge-1/laphroaig-an-cuan-mor-whisky.jpg",
+    "sourceUrl": "https://www.finedrams.com/laphroaig-an-cuan-mor-whisky.html",
+    "productName": "Laphroaig An Cuan Mor",
+    "note": "실물 라벨AnCuanMor·TravelRetailExclusive·70cl·48% 확인. 버번배럴 후EuropeanOak 설명 대조. 숙성연수 미표시."
+  },
+  "laphroaig-brodir-batch-001": {
+    "imageUrl": "https://images.finedrams.com/image/16116-mediumlarge-1/laphroaig-brodir-whisky.jpg",
+    "sourceUrl": "https://www.finedrams.com/laphroaig-brodir-whisky.html",
+    "productName": "Laphroaig Brodir Batch 001",
+    "note": "Actual bottle photograph reviewed: batch 001 visible, 70cl/48% verified against exact retailer listing. Not a generic Port Wood image."
+  },
+  "laphroaig-brodir-batch-002": {
+    "imageUrl": "https://images.finedrams.com/image/29912-mediumlarge-1493320529/laphroaig-brodir-batch-2.jpg",
+    "sourceUrl": "https://www.finedrams.com/laphroaig-brodir-batch-2.html",
+    "productName": "Laphroaig Brodir Batch 002",
+    "note": "Actual bottle photograph reviewed: batch 002 visible, 70cl/48% verified against exact retailer listing. Not a generic Port Wood image."
+  },
+  "laphroaig-18-old-48": {
+    "imageUrl": "https://images.finedrams.com/image/16589-mediumlarge-1/laphroaig-18-year-old-whisky.jpg",
+    "sourceUrl": "https://www.finedrams.com/laphroaig-18-year-old-whisky.html",
+    "productName": "Laphroaig 18 Year Old Original Release",
+    "note": "Actual white tube/green lower label bottle reviewed:18 years,70cl,48%. Original discontinued range, not2024 relaunch; bottling year unspecified."
+  },
+  "laphroaig-je-2015-10-refill": {
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/ec451cd9-db37-477a-a977-a015749e8c8a.webp",
+    "sourceUrl": "https://dailyshot.co/m/item/37491",
+    "productName": "James Eadie Laphroaig 2015 10 Year Old Refill Barrels",
+    "note": "Actual James Eadie bottle reviewed:10years,FROM LAPHROAIG DISTILLERY,52.3%,70cl visible. Vintage2015/refill identity confirmed by Dailyshot37491 and WhiskyBarrel exact release."
+  },
+  "laphroaig-10-43-750": {
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/9eedaac0-7b8a-4ad4-99d1-2a8be6e1f8b5.webp",
+    "sourceUrl": "https://dailyshot.co/m/item/17652",
+    "productName": "Laphroaig 10 Year Old 43% 750ml",
+    "note": "Actual current bottle and carton reviewed:10years,750ml,43% visible. Not the40%700ml orCS expression."
+  },
+  "laphroaig-10-43-700": {
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/4c6e8802-131f-4c4d-8807-5ef8cc30fb09.webp",
+    "sourceUrl": "https://dailyshot.co/m/item/12972",
+    "productName": "Laphroaig 10 Year Old 43% 700ml",
+    "note": "Actual bottle/carton reviewed:10years,700ml,43% visible. Different volume from750ml entry and different strength from40% entry."
+  },
+  "laphroaig-10-sherry-750": {
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/0b6ab111-12be-478f-bd87-09a1b421ef0f.webp",
+    "sourceUrl": "https://dailyshot.co/m/item/6477",
+    "productName": "Laphroaig 10 Year Old Sherry Oak Finish 750ml",
+    "note": "Actual bottle and cylindrical tube reviewed:10years,Sherry Oak Finish,750ml,48%. Exact Dailyshot6477 Information agrees. No bottling year assigned."
+  },
+  "laphroaig-select-750": {
+    "imageUrl": "https://d1e2y5wc27crnp.cloudfront.net/media/core/product/thumbnail/1e53b0d6-e43e-4bff-b92b-999312d3d7b8.webp",
+    "sourceUrl": "https://dailyshot.co/m/item/11421",
+    "productName": "Laphroaig Select 750ml",
+    "note": "Actual SELECT bottle and tube reviewed.40%750ml identity confirmed against exact Dailyshot11421 Information; no age statement."
+  },
+  "laphroaig-quarter-cask-1l": {
+    "imageUrl": "https://images.finedrams.com/image/33130-mediumlarge-1508077957/laphroaig-quarter-cask-1-liter-.jpg",
+    "sourceUrl": "https://www.finedrams.com/laphroaig-quarter-cask-1-liter-.html",
+    "productName": "Laphroaig Quarter Cask 1L",
+    "note": "Actual bottle and tube reviewed:QuarterCask,1Litre,48% visible on both. No age or bottling year assigned."
+  },
+  "laphroaig-quarter-cask-750": {
+    "imageUrl": "https://www.oaksliquors.com/product_images/img_48_1_a1.jpg",
+    "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-quarter-cask",
+    "productName": "Laphroaig Quarter Cask 750ml",
+    "note": "Actual old-label bottle reviewed:QUARTER CASK,750ml,48% visible. No exact bottling year assigned. BSW750ml listing image rejected because its label actually reads700ml."
+  },
+  "laphroaig-lore-750": {
+    "imageUrl": "https://www.oaksliquors.com/product_images/img_1300_1.jpg",
+    "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-lore",
+    "productName": "Laphroaig Lore 750ml",
+    "note": "Actual bottle reviewed:LORE,750mL,48%alc/vol visible. No bottling year or spirit age inferred."
+  },
+  "laphroaig-27-2017-us": {
+    "imageUrl": "https://www.oaksliquors.com/product_images/img_1675_1.jpg",
+    "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-27-year-old-double-matured-2017-limited-edition",
+    "productName": "Laphroaig 27 Year Old 2017 Release 750ml",
+    "note": "Actual bottle reviewed:27years,41.7%,750mL,CASK STRENGTH visible. MAR2017 bottling date visible."
+  },
+  "laphroaig-28-2018-us": {
+    "imageUrl": "https://www.oaksliquors.com/product_images/img_2364_1.jpg",
+    "sourceUrl": "https://www.oaksliquors.com/p/laphroaig-limited-edition-28-year-old-single-malt-scotch-whisky",
+    "productName": "Laphroaig 28 Year Old 2018 Release 750ml",
+    "note": "Actual bottle reviewed:28years,44.4%,750mL,CASK STRENGTH visible.2018 release corroborated by K&L1420954 and Distiller release history."
   }
 }

@@ -1,0 +1,103 @@
+{
+  "checkedAt": "2026-11-12T00:50:07.096Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-10-43-700"
+  ],
+  "previousCount": 560,
+  "sources": [
+    "https://dailyshot.co/m/item/12972"
+  ],
+  "photoReview": "Actual bottle/carton reviewed:10years,700ml,43% visible. Different volume from750ml entry and different strength from40% entry.",
+  "notesProvenance": "Exact Dailyshot product guidance paraphrased.",
+  "duplicateCheck": "IDs and normalized names checked against560 entries.40%700ml and43%750ml retained; no second entry for packaging changes.",
+  "sellerCaution": "Dailyshot12972?item=641447&seller=18631 explicitly says750ml despite parent700ml; existing named-volume mismatch filter must exclude it.",
+  "existingEntriesPreserved": 560,
+  "currentCount": 561,
+  "photo": "/images/whisky-laphroaig-10-43-700.webp",
+  "dailyshot": {
+    "url": "https://dailyshot.co/m/item/12972",
+    "productName": "라프로익 10년 43% 700ml",
+    "checkedAt": "2026-11-12T00:50:13.972Z",
+    "scope": "exact-product",
+    "note": "43%·700ml 제품의 국내 스토어 판매가입니다. 판매처가 750ml라고 별도 표시한 상품은 집계에서 제외합니다."
+  },
+  "price": {
+    "average": 93854,
+    "currency": "KRW",
+    "volumeMl": 700,
+    "sampleCount": 13,
+    "min": 75000,
+    "max": 99900,
+    "checkedAt": "2026-11-12T00:50:15.017Z",
+    "sourceUrl": "https://dailyshot.co/m/items/482847/sellers",
+    "offers": [
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/12972?item=555074&seller=53939",
+        "seller": "주류상회Be 하남미사점"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/12972?item=527025&seller=54270",
+        "seller": "한스토마스 대공원점"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/12972?item=530451&seller=16338",
+        "seller": "로랜드 주류상회"
+      },
+      {
+        "price": 89000,
+        "url": "https://dailyshot.co/m/item/12972?item=490823&seller=37241",
+        "seller": "옐로우보틀"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482847&seller=38586",
+        "seller": "나라셀라 리저브"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482839&seller=36885",
+        "seller": "와인픽스 성수점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482848&seller=42946",
+        "seller": "와인픽스 신용산점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482835&seller=36881",
+        "seller": "와인픽스 송파점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482837&seller=36883",
+        "seller": "와인픽스 여의도점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482844&seller=36890",
+        "seller": "와인픽스 이케아 광명점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482842&seller=36888",
+        "seller": "와인픽스 분당정자점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482845&seller=36955",
+        "seller": "와인픽스 광주봉선점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482841&seller=36887",
+        "seller": "와인픽스 센텀점"
+      }
+    ],
+    "note": "43%·700ml 제품의 국내 스토어 판매가입니다. 판매처가 750ml라고 별도 표시한 상품은 집계에서 제외합니다."
+  }
+}

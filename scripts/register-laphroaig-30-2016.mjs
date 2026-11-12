@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig30Year2016Whiskies as candidates} from '../src/data/whiskies-laphroaig-30-2016.ts';
+const previous=JSON.parse(await readFile('.cache/catalog-before-laphroaig-30-2016.json','utf8'));
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(old=>old.id===item.id||norm(old.name)===norm(item.name)||norm(old.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json';
+const photos=JSON.parse(await readFile(file,'utf8'));
+photos[candidates[0].id]={imageUrl:'https://img.thewhiskyexchange.com/900/lrgob.1985v1.jpg',sourceUrl:candidates[0].source,productName:candidates[0].englishName,note:'실물 라벨 30년, October 1985, May 2016, 70cl, 53.5% 확인. FineDrams에서 CS 명시 확인.'};
+await writeFile(file,JSON.stringify(photos,null,2)+'\n');
+await writeFile('scripts/catalog-candidates/laphroaig-30-2016-integration.json',JSON.stringify({checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:candidates.map(x=>x.id),sources:[candidates[0].source,'https://www.finedrams.com/laphroaig-30-year-old-whisky.html','https://adventuresinwhiskey.com/2016/11/18/laphroaig-30-year-old-single-malt-2016-review/'],photoReview:photos[candidates[0].id].note,duplicateCheck:'ID and normalized Korean/English names checked; distinct from 2024 annual, FoL and Ian Hunter.'},null,2)+'\n');
+console.log({previous:previous.length,added:candidates.map(x=>x.id)});

@@ -1,0 +1,23 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile,stat} from 'node:fs/promises';
+import {whiskies} from '../src/data/whiskies.ts';
+import {whiskyImages} from '../src/data/whisky-images.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const before=await read('.cache/catalog-before-laphroaig-30-old.json');
+for(const item of before)assert.deepEqual(whiskies.find(x=>x.id===item.id),item);
+const item=whiskies.find(x=>x.id==='laphroaig-30-old-43');
+assert.equal(item.abv,43);assert.equal(item.age,30);assert.ok(!item.caskStrength);assert.equal(item.dailyshotPrice,undefined);
+assert.equal(whiskies.filter(x=>x.id===item.id).length,1);
+assert.ok((await stat('public'+whiskyImages[item.id].path)).size>500);
+const f='scripts/catalog-candidates/laphroaig-30-old-integration.json',r=await read(f);
+Object.assign(r,{status:'integrated-verified',existingEntriesPreserved:before.length,currentCount:whiskies.length,photo:whiskyImages[item.id].path,dailyshot:'no-exact-match; no other release price copied'});await save(f,r);
+const invFile='scripts/catalog-candidates/laphroaig-inventory.json',inv=await read(invFile);
+const entry=inv.entries.find(x=>x.runtimeId===item.id||x.name==='30 Year Old old bottling 43%');
+const data={name:'30 Year Old old bottling 43%',status:'integrated',runtimeId:item.id,integrationRecord:'laphroaig-30-old-integration.json'};
+if(entry)Object.assign(entry,data);else inv.entries.push(data);
+const l=whiskies.filter(x=>x.brand==='Laphroaig');Object.assign(inv.runtimeSnapshot,{checkedAt:new Date().toISOString(),rawCount:l.length,expressions:l.map(x=>x.englishName)});await save(invFile,inv);
+const nextFile='scripts/catalog-candidates/laphroaig-30-history-next.json',next=await read(nextFile);
+for(const x of next.entries){if(x.name==='30 Year Old 2016 Release')Object.assign(x,{status:'integrated-700ml',runtimeId:'laphroaig-30-2016',next:'750ml market label still requires separate inspection.'});if(x.name==='30 Year Old old bottling 43%')Object.assign(x,{status:'integrated-750ml',runtimeId:item.id,next:'700ml market version and distinct dated old batches require their own label evidence.'});}
+next.status='partially-integrated-market-variants-remain';await save(nextFile,next);
+console.log({preserved:before.length,total:whiskies.length});

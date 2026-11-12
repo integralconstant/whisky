@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-11-12T00:59:50.886Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-quarter-cask-750"
+  ],
+  "previousCount": 564,
+  "sources": [
+    "https://www.oaksliquors.com/p/laphroaig-quarter-cask",
+    "https://www.bswliquor.com/products/laphroaig-quarter-cask-1"
+  ],
+  "photoReview": "Actual old-label bottle reviewed:QUARTER CASK,750ml,48% visible. No exact bottling year assigned. BSW750ml listing image rejected because its label actually reads700ml.",
+  "notesProvenance": "Exact OaksLiquors750ml product tasting guidance paraphrased. No batch-specific claims.",
+  "duplicateCheck": "IDs and normalized names checked against564 entries. Existing700ml and1L QuarterCask retained.750ml is distinct volume; no additional entry for packaging changes.",
+  "rejectedPhoto": {
+    "source": "https://www.bswliquor.com/cdn/shop/files/Laphroaig_Quarter_Casks.png?v=1776375880&width=1080",
+    "reason": "Listing says750ml but pictured current bottle/carton explicitly700ml. Not used."
+  },
+  "existingEntriesPreserved": 564,
+  "currentCount": 565,
+  "photo": "/images/whisky-laphroaig-quarter-cask-750.jpg",
+  "dailyshot": "no-exact-match"
+}

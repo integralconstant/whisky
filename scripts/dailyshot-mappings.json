@@ -1325,5 +1325,62 @@
     "sourceUrl": "https://dailyshot.co/m/item/23793",
     "verifiedAt": "2026-11-11",
     "note": "북5·34년·45.5%·700ml를 실물 및 개별 상품과 대조했습니다."
+  },
+  "laphroaig-je-2015-10-refill": {
+    "topProductId": 37491,
+    "volumeMl": 700,
+    "productName": "제임스 에디 2015 라프로익 10년 리필 배럴",
+    "englishName": "James Eadie 2015 Laphroaig 10yo Refill Barrels",
+    "abv": 52.3,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/37491",
+    "verifiedAt": "2026-11-11",
+    "note": "Exact bottler,vintage2015,age10,refill barrels,52.3%,700ml matched to bottle photograph and retailer release.",
+    "priceNote": "동일 제품 52.3%·700ml입니다. 2026-11-12 데일리샷 해외직구(술장/KOMAWO GmbH) 표시가 209,900원. 해외직구 가격은 국내 스토어 평균가에 포함하지 않습니다. 판매 조건과 현재 가격은 상품 페이지에서 확인하세요."
+  },
+  "laphroaig-10-43-750": {
+    "topProductId": 17652,
+    "volumeMl": 750,
+    "productName": "라프로익 10년 43% 750ml",
+    "englishName": "Laphroaig 10yo 43% 750ml",
+    "abv": 43,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/17652",
+    "verifiedAt": "2026-11-11",
+    "note": "Exact10year,43%,750ml matched to actual bottle/carton and Dailyshot Information. Old packaging7699 not separately registered or pooled."
+  },
+  "laphroaig-10-43-700": {
+    "topProductId": 12972,
+    "volumeMl": 700,
+    "productName": "라프로익 10년 43% 700ml",
+    "englishName": "Laphroaig 10yo 43% 700ml",
+    "abv": 43,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/12972",
+    "verifiedAt": "2026-11-12",
+    "note": "Actual bottle/carton and Information agree43%700ml. Existing offer volume filter excludes sellers whose name_tag explicitly says750ml.",
+    "priceNote": "43%·700ml 제품의 국내 스토어 판매가입니다. 판매처가 750ml라고 별도 표시한 상품은 집계에서 제외합니다."
+  },
+  "laphroaig-10-sherry-750": {
+    "topProductId": 6477,
+    "volumeMl": 750,
+    "productName": "라프로익 10년 셰리 오크 피니시(구형) 750ml",
+    "englishName": "Laphroaig 10yo Sherry Oak Finish 750ml",
+    "abv": 48,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/6477",
+    "verifiedAt": "2026-11-12",
+    "note": "Exact10year,SherryOakFinish,48%,750ml matched to actual bottle/tube and Dailyshot Information.700ml excluded."
+  },
+  "laphroaig-select-750": {
+    "topProductId": 11421,
+    "volumeMl": 750,
+    "productName": "라프로익 셀렉트 750ml",
+    "englishName": "Laphroaig Select 750ml",
+    "abv": 40,
+    "method": "manual-verified-expression",
+    "sourceUrl": "https://dailyshot.co/m/item/11421",
+    "verifiedAt": "2026-11-12",
+    "note": "ExactSelect40%750ml matched to actual bottle/tube and Dailyshot Information.700ml excluded."
   }
 }

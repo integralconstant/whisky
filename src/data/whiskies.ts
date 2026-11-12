@@ -1,4 +1,16 @@
 import type { Whisky } from "./types";
+import { laphroaigIanUsWhiskies } from "./whiskies-laphroaig-ian-us.ts";
+import { laphroaig2728UsWhiskies } from "./whiskies-laphroaig-27-28-us.ts";
+import { laphroaigLore750Whiskies } from "./whiskies-laphroaig-lore-750.ts";
+import { laphroaigQuarter750Whiskies } from "./whiskies-laphroaig-quarter-750.ts";
+import { laphroaigQuarter1lWhiskies } from "./whiskies-laphroaig-quarter-1l.ts";
+import { laphroaigSelect750Whiskies } from "./whiskies-laphroaig-select-750.ts";
+import { laphroaigSherry750Whiskies } from "./whiskies-laphroaig-sherry-750.ts";
+import { laphroaig10At43Whiskies } from "./whiskies-laphroaig-10-43-700.ts";
+import { laphroaig10UsWhiskies } from "./whiskies-laphroaig-10-43.ts";
+import { laphroaigJeWhiskies } from "./whiskies-laphroaig-je.ts";
+import { laphroaig18OldWhiskies } from "./whiskies-laphroaig-18-old.ts";
+import { laphroaigBrodirWhiskies } from "./whiskies-laphroaig-brodir.ts";
 import { speysideWhiskies } from "./whiskies-speyside.ts";
 import { scotlandWhiskies } from "./whiskies-scotland.ts";
 import { americasWhiskies } from "./whiskies-americas.ts";
@@ -38,6 +50,23 @@ import { laphroaig25Year2008Whiskies } from "./whiskies-laphroaig-25-2008.ts";
 import { laphroaig25Old40Whiskies } from "./whiskies-laphroaig-25-old-40.ts";
 import { laphroaigIanHunterWhiskies } from "./whiskies-laphroaig-ian-hunter.ts";
 import { laphroaig30Year2024Whiskies } from "./whiskies-laphroaig-30-2024.ts";
+import { laphroaig30Year2016Whiskies } from "./whiskies-laphroaig-30-2016.ts";
+import { laphroaig30OldWhiskies } from "./whiskies-laphroaig-30-old.ts";
+import { laphroaig30Old700Whiskies } from "./whiskies-laphroaig-30-700.ts";
+import { laphroaigArchiveWhiskies } from "./whiskies-laphroaig-archive.ts";
+import { laphroaigWallWhiskies } from "./whiskies-laphroaig-wall.ts";
+import { laphroaigSingleSpecialWhiskies } from "./whiskies-laphroaig-single-special.ts";
+import { laphroaigWillemWhiskies } from "./whiskies-laphroaig-willem.ts";
+import { laphroaigStrongWhiskies } from "./whiskies-laphroaig-strong.ts";
+import { laphroaigFriendshipWhiskies } from "./whiskies-laphroaig-friendship.ts";
+import { laphroaig32Whiskies } from "./whiskies-laphroaig-32.ts";
+import { laphroaig32UsWhiskies } from "./whiskies-laphroaig-32-us.ts";
+import { laphroaig2728Whiskies } from "./whiskies-laphroaig-27-28.ts";
+import { laphroaig15Year2015Whiskies } from "./whiskies-laphroaig-15-2015.ts";
+import { laphroaig15OldWhiskies } from "./whiskies-laphroaig-15-old.ts";
+import { laphroaig21FolWhiskies } from "./whiskies-laphroaig-21-fol.ts";
+import { laphroaig16Whiskies } from "./whiskies-laphroaig-16.ts";
+import { laphroaigAnCuanWhiskies } from "./whiskies-laphroaig-an-cuan.ts";
 import { enrichWhiskyFlavors } from "./flavors.ts";
 import { dailyshotPrices } from "./dailyshot-prices.ts";
 import { dailyshotProducts } from "./dailyshot-products.ts";
@@ -813,6 +842,35 @@ export const whiskies: Whisky[] = [
   ...laphroaig25Old40Whiskies,
   ...laphroaigIanHunterWhiskies,
   ...laphroaig30Year2024Whiskies,
+  ...laphroaig30Year2016Whiskies,
+  ...laphroaig30OldWhiskies,
+  ...laphroaig30Old700Whiskies,
+  ...laphroaigArchiveWhiskies,
+  ...laphroaigWallWhiskies,
+  ...laphroaigSingleSpecialWhiskies,
+  ...laphroaigWillemWhiskies,
+  ...laphroaigStrongWhiskies,
+  ...laphroaigFriendshipWhiskies,
+  ...laphroaig32Whiskies,
+  ...laphroaig32UsWhiskies,
+  ...laphroaig2728Whiskies,
+  ...laphroaig15Year2015Whiskies,
+  ...laphroaig15OldWhiskies,
+  ...laphroaig21FolWhiskies,
+  ...laphroaig16Whiskies,
+  ...laphroaigAnCuanWhiskies,
+  ...laphroaigBrodirWhiskies,
+  ...laphroaig18OldWhiskies,
+  ...laphroaigJeWhiskies,
+  ...laphroaig10UsWhiskies,
+  ...laphroaig10At43Whiskies,
+  ...laphroaigSherry750Whiskies,
+  ...laphroaigSelect750Whiskies,
+  ...laphroaigQuarter1lWhiskies,
+  ...laphroaigQuarter750Whiskies,
+  ...laphroaigLore750Whiskies,
+  ...laphroaig2728UsWhiskies,
+  ...laphroaigIanUsWhiskies,
 ].map((item) => ({
   ...enrichWhiskyFlavors(item),
   ...(dailyshotPrices[item.id]

@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-12T01:02:57.008Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-lore-750"
+  ],
+  "previousCount": 565,
+  "sources": [
+    "https://www.oaksliquors.com/p/laphroaig-lore",
+    "https://www.laphroaig.com/whiskies/laphroaig-lore-single-malt-scotch-whisky",
+    "https://dailyshot.co/m/item/27406"
+  ],
+  "photoReview": "Actual bottle reviewed:LORE,750mL,48%alc/vol visible. No bottling year or spirit age inferred.",
+  "notesProvenance": "Producer Lore expression guidance paraphrased; not a review of pictured bottle. Component7-21year range not used as age statement.",
+  "duplicateCheck": "IDs and normalized names checked against565 entries. Existing Lore27406 is700ml48%; preserved.750ml is separate volume. NotCairdeas2025LoreCS.",
+  "existingEntriesPreserved": 565,
+  "currentCount": 566,
+  "photo": "/images/whisky-laphroaig-lore-750.jpg",
+  "dailyshot": "no-exact-match"
+}

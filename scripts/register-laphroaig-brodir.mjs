@@ -1,0 +1,14 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaigBrodirWhiskies as candidates} from '../src/data/whiskies-laphroaig-brodir.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-brodir.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(x=>x.id===item.id||norm(x.name)===norm(item.name)||norm(x.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file);
+const urls=['https://images.finedrams.com/image/16116-mediumlarge-1/laphroaig-brodir-whisky.jpg','https://images.finedrams.com/image/29912-mediumlarge-1493320529/laphroaig-brodir-batch-2.jpg'];
+for(const [i,item] of candidates.entries())photos[item.id]={imageUrl:urls[i],sourceUrl:item.source,productName:item.englishName,note:`Actual bottle photograph reviewed: batch 00${i+1} visible, 70cl/48% verified against exact retailer listing. Not a generic Port Wood image.`};
+await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-brodir-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:candidates.map(x=>x.id),sources:candidates.map(x=>x.source),tastingSources:['https://whiskygospel.com/2017/03/27/laphroaig-brodir-batch-001-port-wood-finish-review/','https://whiskygospel.com/2016/01/08/laphroaig-brodir-batch-002-48-port-wood-finish-whisky-review/'],notesProvenance:'Separate firsthand batch-specific notes paraphrased. No bottling year inferred from review date.',duplicateCheck:'IDs and normalized Korean/English names checked against555 entries. Existing generic Port Wood is retained; Brodir entries identify numbered batches.',remaining:'Other Brodir batches need distinct label evidence. FineDrams batch2 chill-filtration text conflicts with its table; do not assign that property.'});
+console.log({previous:previous.length,added:candidates.map(x=>x.id)});

@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-11T15:00:06.588Z",
+  "status": "integrated-verified",
+  "previousCount": 554,
+  "ids": [
+    "laphroaig-an-cuan-mor"
+  ],
+  "sources": [
+    "https://www.finedrams.com/laphroaig-an-cuan-mor-whisky.html",
+    "https://www.whiskynotes.be/2015/laphroaig/laphroaig-an-cuan-mor/"
+  ],
+  "photoReview": "실물 라벨AnCuanMor·TravelRetailExclusive·70cl·48% 확인. 버번배럴 후EuropeanOak 설명 대조. 숙성연수 미표시.",
+  "notesProvenance": "WhiskyNotes firsthand48% notes paraphrased; no batch year assigned to pictured bottle. Cask age is not spirit age.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against554 entries; no AnCuanMor existing entry found.",
+  "remaining": "Reported1L variants require own label evidence; do not assign1L from reviews that may refer toPX.",
+  "existingEntriesPreserved": 554,
+  "currentCount": 555,
+  "photo": "/images/whisky-laphroaig-an-cuan-mor.jpg",
+  "dailyshot": "no-exact-match"
+}

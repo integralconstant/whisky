@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig15Year2015Whiskies as candidates} from '../src/data/whiskies-laphroaig-15-2015.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-15-2015.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(x=>x.id===item.id||norm(x.name)===norm(item.name)||norm(x.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file),item=candidates[0];
+photos[item.id]={imageUrl:'https://media.whisky.auction/1200/219511_0.jpg',sourceUrl:item.source,productName:item.englishName,note:'실물 라벨15년·200thanniversary·1815-2015·70cl·43% 확인.2026재출시 및 구형과 구분.'};await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-15-2015-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:[item.id],sources:[item.source,'https://wordsofwhisky.com/laphroaig-15yo-old-versus-new/'],photoReview:photos[item.id].note,notesProvenance:'2015 firsthand Words of Whisky anniversary section only, not adjacent old2006 section.',duplicateCheck:'IDs and normalized Korean/English names checked against549 entries.2026relaunch retained unchanged.',remaining:'Older15yo43%700ml, market750ml and historical labels require own photo/spec evidence before integration.'});
+console.log({previous:previous.length,added:item.id});

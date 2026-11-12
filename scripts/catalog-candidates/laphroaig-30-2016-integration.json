@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-11-11T06:02:11.465Z",
+  "status": "integrated-verified",
+  "previousCount": 531,
+  "ids": [
+    "laphroaig-30-2016"
+  ],
+  "sources": [
+    "https://www.thewhiskyexchange.com/p/48305/laphroaig-30-year-old-bot2016",
+    "https://www.finedrams.com/laphroaig-30-year-old-whisky.html",
+    "https://adventuresinwhiskey.com/2016/11/18/laphroaig-30-year-old-single-malt-2016-review/"
+  ],
+  "photoReview": "실물 라벨 30년, October 1985, May 2016, 70cl, 53.5% 확인. FineDrams에서 CS 명시 확인.",
+  "duplicateCheck": "ID and normalized Korean/English names checked; distinct from 2024 annual, FoL and Ian Hunter.",
+  "existingEntriesPreserved": 531,
+  "currentCount": 532,
+  "photo": "/images/whisky-laphroaig-30-2016.webp",
+  "dailyshot": "no-exact-match; no price copied"
+}

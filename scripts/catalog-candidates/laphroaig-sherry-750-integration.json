@@ -1,0 +1,42 @@
+{
+  "checkedAt": "2026-11-12T00:52:27.604Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-10-sherry-750"
+  ],
+  "previousCount": 561,
+  "sources": [
+    "https://dailyshot.co/m/item/6477",
+    "https://www.laphroaig.com/whiskies/10-year-old-sherry-oak-finish"
+  ],
+  "photoReview": "Actual bottle and cylindrical tube reviewed:10years,Sherry Oak Finish,750ml,48%. Exact Dailyshot6477 Information agrees. No bottling year assigned.",
+  "notesProvenance": "Exact Dailyshot product guidance paraphrased.",
+  "duplicateCheck": "IDs and normalized names checked against561 entries. Existing laphroaig-10-sherry has700ml sourcephoto23979, retained.750ml is a separate verified volume, not an additional packaging-only entry.",
+  "existingEntriesPreserved": 561,
+  "currentCount": 562,
+  "photo": "/images/whisky-laphroaig-10-sherry-750.webp",
+  "dailyshot": {
+    "url": "https://dailyshot.co/m/item/6477",
+    "productName": "라프로익 10년 셰리 오크 피니시(구형) 750ml",
+    "checkedAt": "2026-11-12T00:52:36.644Z",
+    "scope": "exact-product",
+    "note": "동일 제품·도수·용량을 확인한 데일리샷 상품입니다."
+  },
+  "price": {
+    "average": 185000,
+    "currency": "KRW",
+    "volumeMl": 750,
+    "sampleCount": 1,
+    "min": 185000,
+    "max": 185000,
+    "checkedAt": "2026-11-12T00:52:37.663Z",
+    "sourceUrl": "https://dailyshot.co/m/items/536211/sellers",
+    "offers": [
+      {
+        "price": 185000,
+        "url": "https://dailyshot.co/m/item/6477?item=536211&seller=30",
+        "seller": "가자주류 목동점"
+      }
+    ]
+  }
+}

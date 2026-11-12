@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile,stat} from 'node:fs/promises';
+import {whiskies} from '../src/data/whiskies.ts';
+import {whiskyImages} from '../src/data/whisky-images.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const before=await read('.cache/catalog-before-laphroaig-15-2015.json');
+for(const item of before)assert.deepEqual(whiskies.find(x=>x.id===item.id),item);
+const item=whiskies.find(x=>x.id==='laphroaig-15-2015-anniversary');
+assert.equal(item.abv,43);assert.equal(item.age,15);assert.ok(!item.caskStrength);assert.equal(item.dailyshotPrice,undefined);
+assert.equal(whiskies.filter(x=>x.id===item.id).length,1);assert.ok((await stat('public'+whiskyImages[item.id].path)).size>500);
+assert.notEqual(whiskyImages[item.id].path,whiskyImages['laphroaig-15-2026-relaunch'].path);
+const f='scripts/catalog-candidates/laphroaig-15-2015-integration.json',r=await read(f);
+Object.assign(r,{status:'integrated-verified',existingEntriesPreserved:before.length,currentCount:whiskies.length,photo:whiskyImages[item.id].path,dailyshot:'no-exact-match'});await save(f,r);
+const invFile='scripts/catalog-candidates/laphroaig-inventory.json',inv=await read(invFile);
+const e=inv.entries.find(x=>x.runtimeId===item.id),data={name:'15 Year Old 2015 200th Anniversary 43%700ml',status:'integrated',runtimeId:item.id,integrationRecord:'laphroaig-15-2015-integration.json'};if(e)Object.assign(e,data);else inv.entries.push(data);
+const l=whiskies.filter(x=>x.brand==='Laphroaig');Object.assign(inv.runtimeSnapshot,{checkedAt:new Date().toISOString(),rawCount:l.length,expressions:l.map(x=>x.englishName)});await save(invFile,inv);
+console.log({preserved:before.length,total:whiskies.length});

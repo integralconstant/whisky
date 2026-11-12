@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-11-11T15:06:35.055Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-18-old-48"
+  ],
+  "previousCount": 557,
+  "sources": [
+    "https://www.finedrams.com/laphroaig-18-year-old-whisky.html",
+    "https://thewhiskyphiles.com/2014/10/07/laphroaig-18-years-old-48-beamsuntory/",
+    "https://allthingswhisky.com/2015/04/30/laphroaig-18-2014-review/"
+  ],
+  "photoReview": "Actual white tube/green lower label bottle reviewed:18 years,70cl,48%. Original discontinued range, not2024 relaunch; bottling year unspecified.",
+  "notesProvenance": "Whiskyphiles own April2014 distillery tasting paraphrased; not its separately quoted producer notes. Generic old release, no2014 bottling claim.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against557 entries. Existing18-year2024 relaunch kept intact.",
+  "researchFollowup": {
+    "brodir003": "No explicit003 label verified. MasterQuill2019 firsthand L8239 review reports numbering ended after002. Do not invent batch003 from informal third/final batch language.",
+    "source": "https://masterquill.com/2019/12/02/laphroaig-brodir-48-ob-for-travel-retail-l8239-2018/"
+  },
+  "existingEntriesPreserved": 557,
+  "currentCount": 558,
+  "photo": "/images/whisky-laphroaig-18-old-48.jpg",
+  "dailyshot": "no-exact-match"
+}

@@ -1,0 +1,36 @@
+{
+  "checkedAt": "2026-11-11T06:23:57.797Z",
+  "status": "integrated-verified",
+  "previousCount": 541,
+  "ids": [
+    "laphroaig-strong-characters-1",
+    "laphroaig-strong-characters-2"
+  ],
+  "sources": [
+    "https://www.laphroaig.com/whiskies/strong-characters-chapter-one",
+    "https://www.laphroaig.com/whiskies/strong-characters-chapter-two",
+    "https://www.saq.com/en/15443509",
+    "https://www.masterofmalt.com/whiskies/laphroaig/laphroaig-35-year-old-strong-characters-chapter-2-dugald-johnston-whisky/"
+  ],
+  "photoReview": {
+    "laphroaig-strong-characters-1": "공식 사진 DonaldJohnston 일러스트 병 확인. 33년·43.8%·700ml는 공식설명 및 SAQ15443509 사양 교차확인.",
+    "laphroaig-strong-characters-2": "공식 실물 사진 35년·DugaldJohnston·43.8% 확인. 700ml는 개별70cl판매처 자료와 대조."
+  },
+  "notesProvenance": "Each producer tasting section paraphrased separately. Chapter1 explicitly fixed strength; chapter2 CS unresolved. No imported gift print treated as separate whisky.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against541 entries and within cohort.",
+  "remaining": "Chapter2 CS classification requires producer or label corroboration. No other33yo or35yo price copied.",
+  "existingEntriesPreserved": 541,
+  "currentCount": 543,
+  "results": [
+    {
+      "id": "laphroaig-strong-characters-1",
+      "photo": "/images/whisky-laphroaig-strong-characters-1.webp",
+      "dailyshot": "no-exact-match"
+    },
+    {
+      "id": "laphroaig-strong-characters-2",
+      "photo": "/images/whisky-laphroaig-strong-characters-2.webp",
+      "dailyshot": "no-exact-match"
+    }
+  ]
+}

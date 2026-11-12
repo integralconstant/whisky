@@ -1,0 +1,25 @@
+{
+  "checkedAt": "2026-11-11T06:30:09.008Z",
+  "status": "integrated-verified",
+  "previousCount": 545,
+  "ids": [
+    "laphroaig-32-2015"
+  ],
+  "sources": [
+    "https://whisky.auction/auctions/lot/137061/laphroaig-32-year-old-limited-edition",
+    "https://www.whiskyshop.com/auctions/a20885-laphroaig-32-year-old",
+    "https://whiskygospel.com/2015/11/04/whisky-review-laphroaig-32-year-old/"
+  ],
+  "photoReview": "경매 실물 전면 라벨32년·MAY2015·70cl·46.6%·CASKSTRENGTH 확인. 미국46.7%750ml와 구분.",
+  "notesProvenance": "2015 firsthand Whisky Gospel46.6% review paraphrased in Korean; not copied from US46.7% review.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against545 entries.",
+  "remaining": "US46.7%750ml integrated separately; see laphroaig-32-us-integration.json. Broader historic and independent Laphroaig research remains.",
+  "usCandidateSources": [
+    "https://whisky.auction/auctions/lot/177341/laphroaig-32-year-old-limited-edition",
+    "https://www.cigaraficionado.com/article/pairing-the-top-five-cigars-of-2015-with-spirits-18518"
+  ],
+  "existingEntriesPreserved": 545,
+  "currentCount": 546,
+  "photo": "/images/whisky-laphroaig-32-2015.webp",
+  "dailyshot": "no-exact-match"
+}

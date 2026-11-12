@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig32Whiskies as candidates} from '../src/data/whiskies-laphroaig-32.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-32.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(x=>x.id===item.id||norm(x.name)===norm(item.name)||norm(x.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file),item=candidates[0];
+photos[item.id]={imageUrl:'https://media.whisky.auction/1200/135107_0.jpg',sourceUrl:item.source,productName:item.englishName,note:'경매 실물 전면 라벨32년·MAY2015·70cl·46.6%·CASKSTRENGTH 확인. 미국46.7%750ml와 구분.'};await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-32-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:[item.id],sources:[item.source,'https://www.whiskyshop.com/auctions/a20885-laphroaig-32-year-old','https://whiskygospel.com/2015/11/04/whisky-review-laphroaig-32-year-old/'],photoReview:photos[item.id].note,notesProvenance:'2015 firsthand Whisky Gospel46.6% review paraphrased in Korean; not copied from US46.7% review.',duplicateCheck:'IDs and normalized Korean/English names checked against545 entries.',remaining:'US46.7%750ml requires own photo and tasting evidence before registration.',usCandidateSources:['https://whisky.auction/auctions/lot/177341/laphroaig-32-year-old-limited-edition','https://www.cigaraficionado.com/article/pairing-the-top-five-cigars-of-2015-with-spirits-18518']});
+console.log({previous:previous.length,added:item.id});

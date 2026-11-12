@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-11-12T00:57:11.039Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-quarter-cask-1l"
+  ],
+  "previousCount": 563,
+  "sources": [
+    "https://www.finedrams.com/laphroaig-quarter-cask-1-liter-.html",
+    "https://www.laphroaig.com/whiskies/laphroaig-quarter-cask-single-malt-scotch-whisky",
+    "https://dailyshot.co/m/item/23144"
+  ],
+  "photoReview": "Actual bottle and tube reviewed:QuarterCask,1Litre,48% visible on both. No age or bottling year assigned.",
+  "notesProvenance": "Producer expression-level tasting guidance paraphrased, explicitly distinguished from batch-specific review.",
+  "duplicateCheck": "IDs and normalized names checked against563 entries. Existing QuarterCask photograph23144 is700ml;1L is separate verified volume.",
+  "researchFollowup": "FourOak4814/31573/4980 all1000ml40%; do not add duplicate for title/packaging variations. Quarter750ml remains a candidate requiring own reviewed photograph.",
+  "existingEntriesPreserved": 563,
+  "currentCount": 564,
+  "photo": "/images/whisky-laphroaig-quarter-cask-1l.jpg",
+  "dailyshot": "no-exact-match"
+}

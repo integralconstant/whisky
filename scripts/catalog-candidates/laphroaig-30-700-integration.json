@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-11-11T06:08:41.765Z",
+  "status": "integrated-verified",
+  "previousCount": 533,
+  "ids": [
+    "laphroaig-30-old-43-700"
+  ],
+  "sources": [
+    "https://whisky.auction/auctions/lot/136839/laphroaig-30-year-old",
+    "https://www.nicks.com.au/products/laphroaig-30-year-old-single-malt-scotch-whisky-700ml"
+  ],
+  "photoReview": "Lot136839 실물 전면 라벨 30년·70cl·43% 확인. 기존750ml와 용량만 구분하며 연도·배치는 미확인.",
+  "notesProvenance": "Nicks reproduction of Whisky Magazine review, explicitly attributed; not assigned to a specific batch.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked. Same old expression, different verified market volume, no invented batch distinction.",
+  "existingEntriesPreserved": 533,
+  "currentCount": 534,
+  "photo": "/images/whisky-laphroaig-30-old-43-700.webp",
+  "dailyshot": "no-exact-match; no other volume price copied"
+}

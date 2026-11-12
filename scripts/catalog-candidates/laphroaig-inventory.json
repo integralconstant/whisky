@@ -5,8 +5,8 @@
   "purpose": "Finish the Laphroaig catalogue, including identifiable releases and batches, before starting another distillery. This inventory is research evidence, not runtime catalogue data.",
   "coverageWarning": "Official online ranges are incomplete historical inventories. Do not infer that missing years, discontinued bottlings, single casks or independent bottlings do not exist. Retail offers, photos and tasting information still require release-specific verification before runtime integration.",
   "runtimeSnapshot": {
-    "checkedAt": "2026-11-11T01:21:47.010Z",
-    "rawCount": 76,
+    "checkedAt": "2026-11-12T01:10:15.673Z",
+    "rawCount": 113,
     "expressions": [
       "Laphroaig 10 Year Old",
       "Laphroaig Quarter Cask",
@@ -83,7 +83,44 @@
       "Laphroaig 34 Year Old Ian Hunter Book 4 Malt Master",
       "Laphroaig 34 Year Old Ian Hunter Book 5 Enduring Spirit",
       "Laphroaig 30 Year Old 2024 Release",
-      "Laphroaig 30 Year Old Friends of Laphroaig Anniversary Edition 2024"
+      "Laphroaig 30 Year Old Friends of Laphroaig Anniversary Edition 2024",
+      "Laphroaig 30 Year Old 2016 Release",
+      "Laphroaig 30 Year Old Old Bottling 43% 750ml",
+      "Laphroaig 30 Year Old Old Bottling 43% 700ml",
+      "Laphroaig The Archive Collection 36 Year Old",
+      "Laphroaig The Archive Collection 38 Year Old",
+      "Laphroaig The Wall Collection 36 Year Old Peat Edition",
+      "Laphroaig The Wall Collection 39 Year Old Rope Edition",
+      "Laphroaig Francis Mallmann 17 Year Old White Madeira Cask",
+      "Laphroaig Islay Ember 2014 Single Cask 802279",
+      "Laphroaig Willem Dafoe 14 Year Old Limited Edition",
+      "Laphroaig Strong Characters Chapter 1 33 Year Old Donald Johnston",
+      "Laphroaig Strong Characters Chapter 2 35 Year Old Dugald Johnston",
+      "Laphroaig Friendship Cask 1 12 Year Old Cask 803978",
+      "Laphroaig Friendship Cask 2 18 Year Old Cask 5",
+      "Laphroaig 32 Year Old 2015 200th Anniversary 46.6% 700ml",
+      "Laphroaig 32 Year Old 2015 US Bottling 46.7% 750ml",
+      "Laphroaig 27 Year Old 2017 Release",
+      "Laphroaig 28 Year Old 2018 Release",
+      "Laphroaig 15 Year Old 2015 200th Anniversary",
+      "Laphroaig 15 Year Old Old Bottling 43% 700ml",
+      "Laphroaig 21 Year Old Friends of Laphroaig 21st Anniversary 2015 350ml",
+      "Laphroaig 16 Year Old 2015 200th Anniversary 43% 350ml",
+      "Laphroaig 16 Year Old 48% 700ml",
+      "Laphroaig An Cuan Mor",
+      "Laphroaig Brodir Batch 001",
+      "Laphroaig Brodir Batch 002",
+      "Laphroaig 18 Year Old Original Release",
+      "James Eadie Laphroaig 2015 10 Year Old Refill Barrels",
+      "Laphroaig 10 Year Old 43% 750ml",
+      "Laphroaig 10 Year Old 43% 700ml",
+      "Laphroaig 10 Year Old Sherry Oak Finish 750ml",
+      "Laphroaig Select 750ml",
+      "Laphroaig Quarter Cask 1L",
+      "Laphroaig Quarter Cask 750ml",
+      "Laphroaig Lore 750ml",
+      "Laphroaig 27 Year Old 2017 Release 750ml",
+      "Laphroaig 28 Year Old 2018 Release 750ml"
     ],
     "note": "Includes November 9 additions. Register all identifiable expressions with real photographs, including products absent from Dailyshot; show Dailyshot prices only when verified. Inventory remains in progress."
   },
@@ -310,7 +347,7 @@
     {
       "name": "Friendship Cask #1",
       "family": "friendship-single-casks",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 12,
       "caskNumber": "803978",
       "bottleCount": 312,
@@ -319,12 +356,14 @@
         "https://www.laphroaig.com/whiskies/friendship-cask-1-single-cask-islay-whisky",
         "https://www.laphroaig.com/whiskies/single-cask-friendship-cask-1"
       ],
-      "evidence": "Producer pages verify twelve years in first-fill sherry hogshead; cask identity and bottle count on series article."
+      "evidence": "Producer pages verify twelve years in first-fill sherry hogshead; cask identity and bottle count on series article.",
+      "runtimeId": "laphroaig-friendship-cask-1",
+      "integrationRecord": "laphroaig-friendship-integration.json"
     },
     {
       "name": "Friendship Cask #2",
       "family": "friendship-single-casks",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 18,
       "caskNumber": "5",
       "distilledMonth": "2008-01",
@@ -332,29 +371,35 @@
         "https://www.laphroaig.com/friendship-cask-2-single-cask",
         "https://www.laphroaig.com/en-gb/whiskies/friendship-cask-2"
       ],
-      "evidence": "Producer verifies eighteen years in first-fill bourbon barrel; article identifies cask 5."
+      "evidence": "Producer verifies eighteen years in first-fill bourbon barrel; article identifies cask 5.",
+      "runtimeId": "laphroaig-friendship-cask-2",
+      "integrationRecord": "laphroaig-friendship-integration.json"
     },
     {
       "name": "Strong Characters Chapter 1",
       "family": "strong-characters",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 33,
       "caskStrength": false,
       "sources": [
         "https://www.laphroaig.com/whiskies/strong-characters-chapter-one"
       ],
-      "evidence": "Producer explicitly describes fixed-strength bottling using ex-bourbon and sherry-seasoned hogsheads. Gift print variants are not separate whisky recipes."
+      "evidence": "Producer explicitly describes fixed-strength bottling using ex-bourbon and sherry-seasoned hogsheads. Gift print variants are not separate whisky recipes.",
+      "runtimeId": "laphroaig-strong-characters-1",
+      "integrationRecord": "laphroaig-strong-integration.json"
     },
     {
       "name": "Strong Characters Chapter 2",
       "family": "strong-characters",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 35,
       "abv": 43.8,
       "sources": [
         "https://www.laphroaig.com/whiskies/strong-characters-chapter-two"
       ],
-      "evidence": "Producer confirms age, ABV and exclusively ex-bourbon American white oak."
+      "evidence": "Producer confirms age, ABV and exclusively ex-bourbon American white oak.",
+      "runtimeId": "laphroaig-strong-characters-2",
+      "integrationRecord": "laphroaig-strong-integration.json"
     },
     {
       "name": "25 Year Old Cask Strength 2020",
@@ -516,73 +561,87 @@
     {
       "name": "Francis Mallmann 17 Year Old White Madeira Cask",
       "family": "single-casks",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 17,
       "bottleCount": 276,
       "sources": [
         "https://www.laphroaig.com/whiskies/francis-mallmann-17-year-old-white-madeira-cask"
       ],
-      "evidence": "Producer confirms age, white Madeira finishing and 276 bottles."
+      "evidence": "Producer confirms age, white Madeira finishing and 276 bottles.",
+      "runtimeId": "laphroaig-francis-mallmann-17",
+      "integrationRecord": "laphroaig-single-special-integration.json"
     },
     {
       "name": "Islay Ember Single Cask",
       "family": "single-casks",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "distilledMonth": "2014-04",
       "bottleCount": 312,
       "sources": [
         "https://www.laphroaig.com/whiskies/islay-ember-single-cask"
       ],
-      "evidence": "Producer verifies April 2014 distillation, full Amontillado maturation and 312 bottles. Do not infer an exact age or ABV until the label is read."
+      "evidence": "Producer verifies April 2014 distillation, full Amontillado maturation and 312 bottles. Do not infer an exact age or ABV until the label is read.",
+      "runtimeId": "laphroaig-islay-ember-2014",
+      "integrationRecord": "laphroaig-single-special-integration.json"
     },
     {
       "name": "The Archive Collection 36 Year Old",
       "family": "archive",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 36,
       "sources": [
         "https://www.laphroaig.com/whiskies/the-archive-collection"
       ],
-      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+      "evidence": "Official linked product page title verifies expression; deeper facts pending.",
+      "runtimeId": "laphroaig-archive-36",
+      "integrationRecord": "laphroaig-archive-integration.json"
     },
     {
       "name": "The Archive Collection 38 Year Old",
       "family": "archive",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 38,
       "sources": [
         "https://www.laphroaig.com/whiskies/the-archive-collection-2"
       ],
-      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+      "evidence": "Official linked product page title verifies expression; deeper facts pending.",
+      "runtimeId": "laphroaig-archive-38",
+      "integrationRecord": "laphroaig-archive-integration.json"
     },
     {
       "name": "The Wall Collection Peat Edition",
       "family": "wall-collection",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "sources": [
         "https://www.laphroaig.com/whiskies/the-wall-collection"
       ],
-      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+      "evidence": "Official linked product page title verifies expression; deeper facts pending.",
+      "runtimeId": "laphroaig-wall-36-peat",
+      "integrationRecord": "laphroaig-wall-integration.json"
     },
     {
       "name": "The Wall Collection Rope Edition 39 Year Old",
       "family": "wall-collection",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 39,
       "sources": [
         "https://www.laphroaig.com/whiskies/the-wall-collection-rope"
       ],
-      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+      "evidence": "Official linked product page title verifies expression; deeper facts pending.",
+      "runtimeId": "laphroaig-wall-39-rope",
+      "integrationRecord": "laphroaig-wall-integration.json"
     },
     {
       "name": "14 Year Old Willem Dafoe Edition",
       "family": "collaboration",
-      "status": "missing-runtime-product-verified",
+      "status": "integrated",
       "age": 14,
       "sources": [
         "https://www.laphroaig.com/whiskies/willem-dafoe-limited-edition"
       ],
-      "evidence": "Official linked product page title verifies expression; deeper facts pending."
+      "evidence": "Official linked product page title verifies expression; deeper facts pending.",
+      "runtimeId": "laphroaig-willem-dafoe-14",
+      "integrationRecord": "laphroaig-willem-integration.json"
     },
     {
       "name": "10 Year Old The Unforgettable Edition",
@@ -751,6 +810,162 @@
       "status": "integrated",
       "runtimeId": "laphroaig-25-bessie-williamson-story",
       "integrationRecord": "laphroaig-25-old-40-integration.json"
+    },
+    {
+      "name": "30 Year Old 2016 Release",
+      "status": "integrated",
+      "runtimeId": "laphroaig-30-2016",
+      "integrationRecord": "laphroaig-30-2016-integration.json"
+    },
+    {
+      "name": "30 Year Old old bottling 43%",
+      "status": "integrated",
+      "runtimeId": "laphroaig-30-old-43",
+      "integrationRecord": "laphroaig-30-old-integration.json"
+    },
+    {
+      "name": "30 Year Old old bottling 43% 700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-30-old-43-700",
+      "integrationRecord": "laphroaig-30-700-integration.json"
+    },
+    {
+      "name": "32 Year Old 2015 200th Anniversary 46.6% 700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-32-2015",
+      "integrationRecord": "laphroaig-32-integration.json"
+    },
+    {
+      "name": "32 Year Old 2015 US46.7%750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-32-2015-us",
+      "integrationRecord": "laphroaig-32-us-integration.json"
+    },
+    {
+      "name": "27 Year Old 2017 Release 700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-27-2017",
+      "integrationRecord": "laphroaig-27-28-integration.json"
+    },
+    {
+      "name": "28 Year Old 2018 Release 700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-28-2018",
+      "integrationRecord": "laphroaig-27-28-integration.json"
+    },
+    {
+      "name": "15 Year Old 2015 200th Anniversary 43%700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-15-2015-anniversary",
+      "integrationRecord": "laphroaig-15-2015-integration.json"
+    },
+    {
+      "name": "15 Year Old old bottling43%700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-15-old-43",
+      "integrationRecord": "laphroaig-15-old-integration.json"
+    },
+    {
+      "name": "21 Year Old FoL21stAnniversary2015 48.4%350ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-21-fol-2015",
+      "integrationRecord": "laphroaig-21-fol-integration.json"
+    },
+    {
+      "name": "Laphroaig 16 Year Old 2015 200th Anniversary 43% 350ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-16-2015-anniversary",
+      "integrationRecord": "laphroaig-16-integration.json"
+    },
+    {
+      "name": "Laphroaig 16 Year Old 48% 700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-16-48",
+      "integrationRecord": "laphroaig-16-integration.json"
+    },
+    {
+      "name": "An Cuan Mor48%700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-an-cuan-mor",
+      "integrationRecord": "laphroaig-an-cuan-integration.json"
+    },
+    {
+      "name": "Laphroaig Brodir Batch 001",
+      "status": "integrated",
+      "runtimeId": "laphroaig-brodir-batch-001",
+      "integrationRecord": "laphroaig-brodir-integration.json"
+    },
+    {
+      "name": "Laphroaig Brodir Batch 002",
+      "status": "integrated",
+      "runtimeId": "laphroaig-brodir-batch-002",
+      "integrationRecord": "laphroaig-brodir-integration.json"
+    },
+    {
+      "name": "Laphroaig 18 Year Old Original Release",
+      "status": "integrated",
+      "runtimeId": "laphroaig-18-old-48",
+      "integrationRecord": "laphroaig-18-old-integration.json"
+    },
+    {
+      "name": "James Eadie Laphroaig 2015 10 Year Old Refill Barrels",
+      "status": "integrated",
+      "runtimeId": "laphroaig-je-2015-10-refill",
+      "integrationRecord": "laphroaig-je-integration.json"
+    },
+    {
+      "name": "Laphroaig 10 Year Old 43% 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-10-43-750",
+      "integrationRecord": "laphroaig-10-43-integration.json"
+    },
+    {
+      "name": "Laphroaig 10 Year Old 43% 700ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-10-43-700",
+      "integrationRecord": "laphroaig-10-43-700-integration.json"
+    },
+    {
+      "name": "Laphroaig 10 Year Old Sherry Oak Finish 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-10-sherry-750",
+      "integrationRecord": "laphroaig-sherry-750-integration.json"
+    },
+    {
+      "name": "Laphroaig Select 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-select-750",
+      "integrationRecord": "laphroaig-select-750-integration.json"
+    },
+    {
+      "name": "Laphroaig Quarter Cask 1L",
+      "status": "integrated",
+      "runtimeId": "laphroaig-quarter-cask-1l",
+      "integrationRecord": "laphroaig-quarter-1l-integration.json"
+    },
+    {
+      "name": "Laphroaig Quarter Cask 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-quarter-cask-750",
+      "integrationRecord": "laphroaig-quarter-750-integration.json"
+    },
+    {
+      "name": "Laphroaig Lore 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-lore-750",
+      "integrationRecord": "laphroaig-lore-750-integration.json"
+    },
+    {
+      "name": "Laphroaig 27 Year Old 2017 Release 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-27-2017-us",
+      "integrationRecord": "laphroaig-27-28-us-integration.json"
+    },
+    {
+      "name": "Laphroaig 28 Year Old 2018 Release 750ml",
+      "status": "integrated",
+      "runtimeId": "laphroaig-28-2018-us",
+      "integrationRecord": "laphroaig-27-28-us-integration.json"
     }
   ],
   "unresolvedResearchScopes": [

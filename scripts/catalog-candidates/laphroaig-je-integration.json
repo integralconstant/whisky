@@ -1,0 +1,28 @@
+{
+  "checkedAt": "2026-11-11T15:09:27.827Z",
+  "status": "integrated-verified",
+  "ids": [
+    "laphroaig-je-2015-10-refill"
+  ],
+  "previousCount": 558,
+  "sources": [
+    "https://dailyshot.co/m/item/37491",
+    "https://www.thewhiskybarrel.com/products/laphroaig-10-year-old-2015-distilleries-of-great-britain-ireland-commemorative",
+    "https://www.whizita.de/en/laphroaig-2015-james-eadie-52-3/wsm06133"
+  ],
+  "photoReview": "Actual James Eadie bottle reviewed:10years,FROM LAPHROAIG DISTILLERY,52.3%,70cl visible. Vintage2015/refill identity confirmed by Dailyshot37491 and WhiskyBarrel exact release.",
+  "notesProvenance": "Exact Dailyshot product tasting guidance paraphrased, not represented as firsthand review.",
+  "caskStrengthEvidence": "Whizita exact product details explicitly state Cask strength:Yes. No single-cask claim;3refillbarrels.",
+  "duplicateCheck": "ID and normalized Korean/English names compared against558 entries; no JamesEadie expression already present.",
+  "existingEntriesPreserved": 558,
+  "currentCount": 559,
+  "photo": "/images/whisky-laphroaig-je-2015-10-refill.webp",
+  "dailyshot": {
+    "url": "https://dailyshot.co/m/item/37491",
+    "productName": "제임스 에디 2015 라프로익 10년 리필 배럴",
+    "checkedAt": "2026-11-11T15:09:35.009Z",
+    "scope": "exact-product",
+    "note": "동일 제품 52.3%·700ml입니다. 2026-11-12 데일리샷 해외직구(술장/KOMAWO GmbH) 표시가 209,900원. 해외직구 가격은 국내 스토어 평균가에 포함하지 않습니다. 판매 조건과 현재 가격은 상품 페이지에서 확인하세요. 조회 시 구매 가능한 국내 스토어 판매가가 없어 금액을 표시하지 않습니다."
+  },
+  "price": null
+}

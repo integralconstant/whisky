@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig15OldWhiskies as candidates} from '../src/data/whiskies-laphroaig-15-old.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-15-old.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(x=>x.id===item.id||norm(x.name)===norm(item.name)||norm(x.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file),item=candidates[0];
+photos[item.id]={imageUrl:'https://www.speysidewhiskyauctions.co.uk/uploads/images/lots/large/1697620654sswa-501181.jpg',sourceUrl:item.source,productName:item.englishName,note:'실물 라벨15년·70cl·43% 및200주년 문구 없는 구형 확인. 정확한병입연도와 배치 미확인. WordsOfWhisky구형비교사진의 라벨형태 교차확인.'};await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-15-old-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:[item.id],sources:[item.source,'https://wordsofwhisky.com/laphroaig-15yo-old-versus-new/'],photoReview:photos[item.id].note,notesProvenance:'WordsOfWhisky old43%2006 tasting section paraphrased; batch difference explicitly disclosed, no2006 bottling year assigned to pictured bottle.',duplicateCheck:'IDs and normalized Korean/English names checked against550 entries;2015anniversary and2026relaunch retained unchanged.',remaining:'Historic red15 and750ml market variants require own label/spec evidence. Packaging alone is not a separate batch.'});
+console.log({previous:previous.length,added:item.id});

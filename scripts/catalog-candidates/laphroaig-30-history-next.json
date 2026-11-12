@@ -1,25 +1,34 @@
 {
   "checkedOn": "2026-11-11",
-  "status": "research-only-not-integrated",
+  "status": "partially-integrated-market-variants-remain",
   "entries": [
     {
       "name": "30 Year Old 2016 Release",
       "abvCandidate": 53.5,
-      "volumeCandidatesMl": [700,750],
+      "volumeCandidatesMl": [
+        700,
+        750
+      ],
       "sources": [
         "https://www.thewhiskyexchange.com/p/48305/laphroaig-30-year-old-bot2016",
         "https://www.finedrams.com/laphroaig-30-year-old-whisky.html",
         "https://www.klwines.com/products/details/1360835",
         "https://www.tyndrumwhisky.com/laphroaig-30yo-2016-release.html"
       ],
-      "next": "Readexactproductbody,inspectactual2016/30years/53.5%andvolume,verifyCSstatementandattributablenotes.SomecopyincorrectlyclaimsOctober1995distillationfor30yoMay2016;do notcopyinvalidvintage.1985requireslabelorprimaryevidence."
+      "next": "750ml market label still requires separate inspection.",
+      "status": "integrated-700ml",
+      "runtimeId": "laphroaig-30-2016"
     },
     {
       "name": "30 Year Old old bottling 43%",
       "abvCandidate": 43,
       "volumeMlCandidate": 750,
-      "sources": ["https://www.just-whisky.co.uk/product/laphroaig-30-years-old-75cl-1452816"],
-      "next": "Findexactretailer/auctionphotoandfirsthandnotesfor43%75cloldbottling.Donotassign2000bybroadretailestimatealone;keepdistinctfrom2016CSand2024annual/anniversary."
+      "sources": [
+        "https://www.just-whisky.co.uk/product/laphroaig-30-years-old-75cl-1452816"
+      ],
+      "next": "700ml market version and distinct dated old batches require their own label evidence.",
+      "status": "integrated-750ml",
+      "runtimeId": "laphroaig-30-old-43"
     }
   ],
   "newerAnnualResearch": "Search2025annualreleasefoundmostly2024bottlesbeingreviewedin2025;thisdoesnotproveno2025editionexists.Continueproducerandlabelresearchwithoutinventingmissingyears.",

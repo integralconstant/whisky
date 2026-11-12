@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-11T14:55:04.529Z",
+  "status": "integrated-verified",
+  "previousCount": 551,
+  "ids": [
+    "laphroaig-21-fol-2015"
+  ],
+  "sources": [
+    "https://whisky.auction/auctions/lot/221177/laphroaig-21-year-old",
+    "https://www.whiskynotes.be/2015/laphroaig/laphroaig-21-year-old/"
+  ],
+  "photoReview": "실물 라벨21년·35cl·48.4%·FoL21YearsOfFriendship1994-2015 확인. 일부리뷰48.5%를 라벨과 혼동하지 않음.",
+  "notesProvenance": "WhiskyNotes2015 firsthand48.4%35cl notes paraphrased in Korean. No notes from48.5%review.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against551 entries.",
+  "remaining": "CS and48.5%reported variation require specific producer/label evidence; no inferred new variant.",
+  "existingEntriesPreserved": 551,
+  "currentCount": 552,
+  "photo": "/images/whisky-laphroaig-21-fol-2015.webp",
+  "dailyshot": "no-exact-match"
+}

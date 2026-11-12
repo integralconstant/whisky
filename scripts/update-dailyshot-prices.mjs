@@ -4,6 +4,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import {
   approvedAbvMatches,
+  catalogVolumeMatches,
   approvedReleaseMatches,
   declaredReleaseYears,
   offerBatchMatches,
@@ -214,6 +215,7 @@ function exactMatch(item, detail, candidateName) {
   if (isBundle(candidateName)) return false;
   const volume = parseVolume(detail);
   if (!volume || volume < 500 || volume > 1000) return false;
+  if (!catalogVolumeMatches(item, volume)) return false;
   return (
     normalizedEnglish(detail.en_name || "") ===
       normalizedEnglish(item.englishName) ||
@@ -227,6 +229,7 @@ async function findMapping(item) {
     const detail = await details(approved.topProductId);
     if (
       parseVolume(detail.data) !== approved.volumeMl ||
+      !catalogVolumeMatches(item, approved.volumeMl) ||
       !approvedReleaseMatches(approved, detail.data.declaredReleaseYears) ||
       !approvedAbvMatches(
         item,

@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig32UsWhiskies as candidates} from '../src/data/whiskies-laphroaig-32-us.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-32-us.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(x=>x.id===item.id||norm(x.name)===norm(item.name)||norm(x.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file),item=candidates[0];
+photos[item.id]={imageUrl:'https://media.whisky.auction/1200/176062_0.jpg',sourceUrl:item.source,productName:item.englishName,note:'실물 라벨32년·MAY2015·750mL·46.7%·CASKSTRENGTH 확인. 기존46.6%700ml와 별도 사양.'};await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-32-us-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:[item.id],sources:[item.source,'https://www.cigaraficionado.com/article/pairing-the-top-five-cigars-of-2015-with-spirits-18518'],photoReview:photos[item.id].note,notesProvenance:'2015 firsthand Jack Bettridge review explicitly identifies93.4proof46.7%750ml. Korean paraphrase excludes cigar pairing notes.',duplicateCheck:'IDs and normalized Korean/English names checked against546 entries. Existing46.6%700ml retained unchanged.'});
+console.log({previous:previous.length,added:item.id});

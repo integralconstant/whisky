@@ -1,0 +1,20 @@
+{
+  "checkedAt": "2026-11-11T14:49:38.377Z",
+  "status": "integrated-verified",
+  "previousCount": 549,
+  "ids": [
+    "laphroaig-15-2015-anniversary"
+  ],
+  "sources": [
+    "https://whisky.auction/auctions/lot/220999/laphroaig-15-year-old",
+    "https://wordsofwhisky.com/laphroaig-15yo-old-versus-new/"
+  ],
+  "photoReview": "실물 라벨15년·200thanniversary·1815-2015·70cl·43% 확인.2026재출시 및 구형과 구분.",
+  "notesProvenance": "2015 firsthand Words of Whisky anniversary section only, not adjacent old2006 section.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against549 entries.2026relaunch retained unchanged.",
+  "remaining": "Older15yo43%700ml, market750ml and historical labels require own photo/spec evidence before integration.",
+  "existingEntriesPreserved": 549,
+  "currentCount": 550,
+  "photo": "/images/whisky-laphroaig-15-2015-anniversary.webp",
+  "dailyshot": "no-exact-match"
+}

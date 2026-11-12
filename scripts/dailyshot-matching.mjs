@@ -1,5 +1,12 @@
 // Variable strengths are accepted only for individually reviewed, batch-unspecified CS expressions.
 // A fixed release must never inherit another release's or a shared listing's price.
+export function catalogVolumeMatches(item, actualVolumeMl) {
+  const labels = `${item.name || ""} ${item.englishName || ""}`;
+  const volumes = [...labels.matchAll(/(?<![\d.])(\d+(?:\.\d+)?)\s*(ml|cl|l)\b/gi)]
+    .map((match) => Number(match[1]) * { ml: 1, cl: 10, l: 1000 }[match[2].toLowerCase()]);
+  return volumes.every((volume) => volume === actualVolumeMl);
+}
+
 export function approvedAbvMatches(item, mapping, actualLabel) {
   if (mapping.sellerRelease) {
     const release = mapping.sellerRelease;

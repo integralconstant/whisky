@@ -1,0 +1,27 @@
+{
+  "checkedAt": "2026-11-11T15:03:51.535Z",
+  "status": "integrated-verified",
+  "previousCount": 555,
+  "ids": [
+    "laphroaig-brodir-batch-001",
+    "laphroaig-brodir-batch-002"
+  ],
+  "sources": [
+    "https://www.finedrams.com/laphroaig-brodir-whisky.html",
+    "https://www.finedrams.com/laphroaig-brodir-batch-2.html"
+  ],
+  "tastingSources": [
+    "https://whiskygospel.com/2017/03/27/laphroaig-brodir-batch-001-port-wood-finish-review/",
+    "https://whiskygospel.com/2016/01/08/laphroaig-brodir-batch-002-48-port-wood-finish-whisky-review/"
+  ],
+  "notesProvenance": "Separate firsthand batch-specific notes paraphrased. No bottling year inferred from review date.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against555 entries. Existing generic Port Wood is retained; Brodir entries identify numbered batches.",
+  "remaining": "Other Brodir batches need distinct label evidence. FineDrams batch2 chill-filtration text conflicts with its table; do not assign that property.",
+  "existingEntriesPreserved": 555,
+  "currentCount": 557,
+  "photos": [
+    "/images/whisky-laphroaig-brodir-batch-001.jpg",
+    "/images/whisky-laphroaig-brodir-batch-002.jpg"
+  ],
+  "dailyshot": "no-exact-match"
+}

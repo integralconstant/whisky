@@ -1,0 +1,19 @@
+{
+  "checkedAt": "2026-11-11T06:32:38.895Z",
+  "status": "integrated-verified",
+  "previousCount": 546,
+  "ids": [
+    "laphroaig-32-2015-us"
+  ],
+  "sources": [
+    "https://whisky.auction/auctions/lot/177341/laphroaig-32-year-old-limited-edition",
+    "https://www.cigaraficionado.com/article/pairing-the-top-five-cigars-of-2015-with-spirits-18518"
+  ],
+  "photoReview": "실물 라벨32년·MAY2015·750mL·46.7%·CASKSTRENGTH 확인. 기존46.6%700ml와 별도 사양.",
+  "notesProvenance": "2015 firsthand Jack Bettridge review explicitly identifies93.4proof46.7%750ml. Korean paraphrase excludes cigar pairing notes.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against546 entries. Existing46.6%700ml retained unchanged.",
+  "existingEntriesPreserved": 546,
+  "currentCount": 547,
+  "photo": "/images/whisky-laphroaig-32-2015-us.webp",
+  "dailyshot": "no-exact-match"
+}

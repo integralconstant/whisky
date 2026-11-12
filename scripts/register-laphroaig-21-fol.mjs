@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaig21FolWhiskies as candidates} from '../src/data/whiskies-laphroaig-21-fol.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-21-fol.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(x=>x.id===item.id||norm(x.name)===norm(item.name)||norm(x.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file),item=candidates[0];
+photos[item.id]={imageUrl:'https://media.whisky.auction/1200/219965_0.jpg',sourceUrl:item.source,productName:item.englishName,note:'실물 라벨21년·35cl·48.4%·FoL21YearsOfFriendship1994-2015 확인. 일부리뷰48.5%를 라벨과 혼동하지 않음.'};await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-21-fol-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:[item.id],sources:[item.source,'https://www.whiskynotes.be/2015/laphroaig/laphroaig-21-year-old/'],photoReview:photos[item.id].note,notesProvenance:'WhiskyNotes2015 firsthand48.4%35cl notes paraphrased in Korean. No notes from48.5%review.',duplicateCheck:'IDs and normalized Korean/English names checked against551 entries.',remaining:'CS and48.5%reported variation require specific producer/label evidence; no inferred new variant.'});
+console.log({previous:previous.length,added:item.id});

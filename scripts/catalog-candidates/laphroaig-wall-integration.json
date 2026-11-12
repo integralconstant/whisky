@@ -1,0 +1,31 @@
+{
+  "checkedAt": "2026-11-11T06:15:13.407Z",
+  "status": "integrated-verified",
+  "previousCount": 536,
+  "ids": [
+    "laphroaig-wall-36-peat",
+    "laphroaig-wall-39-rope"
+  ],
+  "sources": [
+    "https://www.laphroaig.com/whiskies/the-wall-collection",
+    "https://www.laphroaig.com/whiskies/the-wall-collection-rope"
+  ],
+  "photoReview": "Official front labels inspected: Peat36/42.5%/700ml and Rope39/42.4%/700ml. Different from Archive36/40.2%.",
+  "notesProvenance": "Each producer page paraphrased separately; no inferred bottling years or cask-strength classification.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against536 entries and within cohort.",
+  "remaining": "CS classification for both requires additional producer or label evidence. Ace Beverage explicitly describes Peat as natural cask strength; corroboration pending.",
+  "existingEntriesPreserved": 536,
+  "currentCount": 538,
+  "results": [
+    {
+      "id": "laphroaig-wall-36-peat",
+      "photo": "/images/whisky-laphroaig-wall-36-peat.webp",
+      "dailyshot": "no-exact-match"
+    },
+    {
+      "id": "laphroaig-wall-39-rope",
+      "photo": "/images/whisky-laphroaig-wall-39-rope.webp",
+      "dailyshot": "no-exact-match"
+    }
+  ]
+}

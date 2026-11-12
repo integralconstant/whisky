@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import {readFile,writeFile} from 'node:fs/promises';
+import {laphroaigAnCuanWhiskies as candidates} from '../src/data/whiskies-laphroaig-an-cuan.ts';
+const read=async f=>JSON.parse(await readFile(f,'utf8'));
+const save=(f,d)=>writeFile(f,JSON.stringify(d,null,2)+'\n');
+const previous=await read('.cache/catalog-before-laphroaig-an-cuan.json');
+const norm=s=>s.normalize('NFKC').toLowerCase().replace(/[^\p{L}\p{N}]/gu,'');
+for(const item of candidates)assert.ok(!previous.some(x=>x.id===item.id||norm(x.name)===norm(item.name)||norm(x.englishName)===norm(item.englishName)));
+const file='scripts/whisky-photo-sources-laphroaig-verified.json',photos=await read(file),item=candidates[0];
+photos[item.id]={imageUrl:'https://images.finedrams.com/image/18521-mediumlarge-1/laphroaig-an-cuan-mor-whisky.jpg',sourceUrl:item.source,productName:item.englishName,note:'실물 라벨AnCuanMor·TravelRetailExclusive·70cl·48% 확인. 버번배럴 후EuropeanOak 설명 대조. 숙성연수 미표시.'};await save(file,photos);
+await save('scripts/catalog-candidates/laphroaig-an-cuan-integration.json',{checkedAt:new Date().toISOString(),status:'registered-pending-verification',previousCount:previous.length,ids:[item.id],sources:[item.source,'https://www.whiskynotes.be/2015/laphroaig/laphroaig-an-cuan-mor/'],photoReview:photos[item.id].note,notesProvenance:'WhiskyNotes firsthand48% notes paraphrased; no batch year assigned to pictured bottle. Cask age is not spirit age.',duplicateCheck:'IDs and normalized Korean/English names checked against554 entries; no AnCuanMor existing entry found.',remaining:'Reported1L variants require own label evidence; do not assign1L from reviews that may refer toPX.'});
+console.log({previous:previous.length,added:item.id});

@@ -76048,6 +76048,751 @@
       }
     ]
   },
+  "laphroaig-10-43-700": {
+    "average": 93854,
+    "currency": "KRW",
+    "volumeMl": 700,
+    "sampleCount": 13,
+    "min": 75000,
+    "max": 99900,
+    "checkedAt": "2026-11-12T00:50:15.017Z",
+    "sourceUrl": "https://dailyshot.co/m/items/482847/sellers",
+    "offers": [
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/12972?item=555074&seller=53939",
+        "seller": "주류상회Be 하남미사점"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/12972?item=527025&seller=54270",
+        "seller": "한스토마스 대공원점"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/12972?item=530451&seller=16338",
+        "seller": "로랜드 주류상회"
+      },
+      {
+        "price": 89000,
+        "url": "https://dailyshot.co/m/item/12972?item=490823&seller=37241",
+        "seller": "옐로우보틀"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482847&seller=38586",
+        "seller": "나라셀라 리저브"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482839&seller=36885",
+        "seller": "와인픽스 성수점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482848&seller=42946",
+        "seller": "와인픽스 신용산점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482835&seller=36881",
+        "seller": "와인픽스 송파점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482837&seller=36883",
+        "seller": "와인픽스 여의도점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482844&seller=36890",
+        "seller": "와인픽스 이케아 광명점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482842&seller=36888",
+        "seller": "와인픽스 분당정자점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482845&seller=36955",
+        "seller": "와인픽스 광주봉선점"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/12972?item=482841&seller=36887",
+        "seller": "와인픽스 센텀점"
+      }
+    ],
+    "note": "43%·700ml 제품의 국내 스토어 판매가입니다. 판매처가 750ml라고 별도 표시한 상품은 집계에서 제외합니다."
+  },
+  "laphroaig-10-43-750": {
+    "average": 80779,
+    "currency": "KRW",
+    "volumeMl": 750,
+    "sampleCount": 131,
+    "min": 69000,
+    "max": 120000,
+    "checkedAt": "2026-11-11T15:12:05.759Z",
+    "sourceUrl": "https://dailyshot.co/m/items/556408/sellers",
+    "offers": [
+      {
+        "price": 69000,
+        "url": "https://dailyshot.co/m/item/17652?item=565516&seller=55856",
+        "seller": "캐스크앤뀌베 상암DMC점"
+      },
+      {
+        "price": 69000,
+        "url": "https://dailyshot.co/m/item/17652?item=525056&seller=4338",
+        "seller": "아라 바틀샵"
+      },
+      {
+        "price": 69000,
+        "url": "https://dailyshot.co/m/item/17652?item=525060&seller=18224",
+        "seller": "마켓베스트바이 인천루원시티점"
+      },
+      {
+        "price": 69000,
+        "url": "https://dailyshot.co/m/item/17652?item=552379&seller=17260",
+        "seller": "루원주류마켓"
+      },
+      {
+        "price": 69800,
+        "url": "https://dailyshot.co/m/item/17652?item=524840&seller=25",
+        "seller": "와인갤러리 시흥"
+      },
+      {
+        "price": 70000,
+        "url": "https://dailyshot.co/m/item/17652?item=533331&seller=3330",
+        "seller": "동성스토어"
+      },
+      {
+        "price": 71800,
+        "url": "https://dailyshot.co/m/item/17652?item=554023&seller=3935",
+        "seller": "느티나무 와인마트"
+      },
+      {
+        "price": 72000,
+        "url": "https://dailyshot.co/m/item/17652?item=634263&seller=55913",
+        "seller": "바틀앤코르크 여의도"
+      },
+      {
+        "price": 72000,
+        "url": "https://dailyshot.co/m/item/17652?item=157597&seller=15829",
+        "seller": "더 위스키 (The Whisky)"
+      },
+      {
+        "price": 72000,
+        "url": "https://dailyshot.co/m/item/17652?item=551366&seller=54003",
+        "seller": "운정빌리지"
+      },
+      {
+        "price": 72000,
+        "url": "https://dailyshot.co/m/item/17652?item=364185&seller=16596",
+        "seller": "코르크 진주점"
+      },
+      {
+        "price": 73000,
+        "url": "https://dailyshot.co/m/item/17652?item=137961&seller=139",
+        "seller": "스타보틀 신림점"
+      },
+      {
+        "price": 74000,
+        "url": "https://dailyshot.co/m/item/17652?item=472248&seller=149",
+        "seller": "고래맥주창고 방이점"
+      },
+      {
+        "price": 74000,
+        "url": "https://dailyshot.co/m/item/17652?item=194017&seller=3408",
+        "seller": "월드주류 신촌점"
+      },
+      {
+        "price": 74000,
+        "url": "https://dailyshot.co/m/item/17652?item=534098&seller=16003",
+        "seller": "오크앤몰트"
+      },
+      {
+        "price": 74000,
+        "url": "https://dailyshot.co/m/item/17652?item=538700&seller=14472",
+        "seller": "포항세계주류마켓"
+      },
+      {
+        "price": 74500,
+        "url": "https://dailyshot.co/m/item/17652?item=421324&seller=3614",
+        "seller": "세계주류총판"
+      },
+      {
+        "price": 74800,
+        "url": "https://dailyshot.co/m/item/17652?item=638565&seller=15845",
+        "seller": "백룸"
+      },
+      {
+        "price": 74900,
+        "url": "https://dailyshot.co/m/item/17652?item=490652&seller=15020",
+        "seller": "대니 위스키샵"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=540540&seller=54918",
+        "seller": "주류상회Be 삼성점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=471874&seller=43965",
+        "seller": "주류상회Be 대치은마점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=484974&seller=51596",
+        "seller": "포도담"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=269758&seller=36",
+        "seller": "위스키앤조이"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=158960&seller=15978",
+        "seller": "주류상회Be 방이점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=477288&seller=50991",
+        "seller": "보틀즈 을지로"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=372446&seller=40398",
+        "seller": "주류상회Be 둔촌동역점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=240937&seller=173",
+        "seller": "주류상회Be 신촌점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=212377&seller=20",
+        "seller": "주류상회Be 위례점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=472346&seller=17178",
+        "seller": "탑 스피리츠"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=525538&seller=39766",
+        "seller": "아울렛 식자재마트"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=542520&seller=54920",
+        "seller": "주류상회Be 현대아울렛 가산점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=205437&seller=16736",
+        "seller": "주류상회Be 구리점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=331932&seller=40388",
+        "seller": "주류상회Be 광명점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=112954&seller=2706",
+        "seller": "주류상회Be 수유점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=251579&seller=18855",
+        "seller": "주류상회Be 금정점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=104689&seller=3879",
+        "seller": "주류상회Be 일산점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=404155&seller=18631",
+        "seller": "현대그린마트 병점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=170559&seller=2648",
+        "seller": "레어 위스키"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=266543&seller=14456",
+        "seller": "주류상회Be 파주운정점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=243578&seller=3844",
+        "seller": "주류상회Be 인천신포점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=207868&seller=3208",
+        "seller": "바틀앤코르크 동탄점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=252012&seller=18850",
+        "seller": "주류상회Be 동탄호수공원점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=225620&seller=2965",
+        "seller": "주류상회Be 천안점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=229552&seller=17155",
+        "seller": "주류상회Be 아산점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=163592&seller=14515",
+        "seller": "더 몰트"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=203036&seller=17153",
+        "seller": "주류상회Be 대구칠곡점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=562531&seller=88",
+        "seller": "아롬상회"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=156433&seller=3767",
+        "seller": "주류상회Be 대구수성점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=160181&seller=14457",
+        "seller": "주류상회Be 경산점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=224638&seller=16656",
+        "seller": "주류상회Be 포항점"
+      },
+      {
+        "price": 75000,
+        "url": "https://dailyshot.co/m/item/17652?item=635652&seller=57047",
+        "seller": "주류상회Be 광양점"
+      },
+      {
+        "price": 76000,
+        "url": "https://dailyshot.co/m/item/17652?item=545223&seller=40423",
+        "seller": "보틀독"
+      },
+      {
+        "price": 76000,
+        "url": "https://dailyshot.co/m/item/17652?item=259723&seller=36334",
+        "seller": "위시"
+      },
+      {
+        "price": 76400,
+        "url": "https://dailyshot.co/m/item/17652?item=277191&seller=23",
+        "seller": "위스키파크 성남 본점"
+      },
+      {
+        "price": 76500,
+        "url": "https://dailyshot.co/m/item/17652?item=413414&seller=43548",
+        "seller": "위스키파크 안양인덕원점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=120330&seller=12",
+        "seller": "비하우스 강남"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=465160&seller=16715",
+        "seller": "더 몰트샵 역삼점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=553881&seller=17940",
+        "seller": "행복하리"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=465177&seller=15",
+        "seller": "더 몰트샵 남대문점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=526726&seller=51636",
+        "seller": "모든술집"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=167017&seller=152",
+        "seller": "위스키오크통 일산점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=524732&seller=2900",
+        "seller": "더블랙"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=123515&seller=4321",
+        "seller": "보리보틀 대전"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=152199&seller=15903",
+        "seller": "도도보틀"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=555805&seller=55573",
+        "seller": "술술창고 수완점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=248811&seller=18814",
+        "seller": "술술창고"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=466246&seller=44931",
+        "seller": "술술창고 봉선점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=366214&seller=42018",
+        "seller": "캐스크앤뀌베 장안점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=301714&seller=38748",
+        "seller": "캐스크앤뀌베 사직점"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=257726&seller=3570",
+        "seller": "브루바틀"
+      },
+      {
+        "price": 77000,
+        "url": "https://dailyshot.co/m/item/17652?item=392838&seller=42712",
+        "seller": "캐스크앤뀌베 서면점"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/17652?item=556408&seller=55734",
+        "seller": "보틀하우스"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/17652?item=253034&seller=2774",
+        "seller": "스타보틀 올림픽공원점"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/17652?item=504942&seller=52269",
+        "seller": "피카"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/17652?item=544319&seller=54916",
+        "seller": "골든보틀"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/17652?item=318062&seller=39645",
+        "seller": "주류상회Be 창원시청점"
+      },
+      {
+        "price": 78000,
+        "url": "https://dailyshot.co/m/item/17652?item=527138&seller=54270",
+        "seller": "한스토마스 대공원점"
+      },
+      {
+        "price": 78800,
+        "url": "https://dailyshot.co/m/item/17652?item=341948&seller=40925",
+        "seller": "위스키파크 인천연수점"
+      },
+      {
+        "price": 78800,
+        "url": "https://dailyshot.co/m/item/17652?item=238628&seller=18610",
+        "seller": "더 라운지 송도 바 & 바틀"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=554250&seller=55072",
+        "seller": "압구정한량과 캐스크앤뀌베"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=465639&seller=4158",
+        "seller": "용답마트"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=472209&seller=41018",
+        "seller": "주류상회Be 과천점"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=108421&seller=3612",
+        "seller": "가자주류 안양일번가"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=137158&seller=4186",
+        "seller": "위스키파크 목동점"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=151244&seller=3076",
+        "seller": "위스키파크 구리갈매점"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=503377&seller=41063",
+        "seller": "득이네 주류하우스"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=469538&seller=2851",
+        "seller": "씨에스 보틀샵"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=122385&seller=4597",
+        "seller": "위스키파크 수원점"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=176129&seller=16338",
+        "seller": "로랜드 주류상회"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=349962&seller=39440",
+        "seller": "주류상회Be 철원점"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=127577&seller=4281",
+        "seller": "보리보틀 전주"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=197833&seller=15085",
+        "seller": "피보"
+      },
+      {
+        "price": 79000,
+        "url": "https://dailyshot.co/m/item/17652?item=468201&seller=42926",
+        "seller": "캐스크앤뀌베 여수점"
+      },
+      {
+        "price": 79400,
+        "url": "https://dailyshot.co/m/item/17652?item=148830&seller=15867",
+        "seller": "위스키파크 앤 와인스토어 인천부천점"
+      },
+      {
+        "price": 79900,
+        "url": "https://dailyshot.co/m/item/17652?item=512810&seller=53636",
+        "seller": "와인앤모어 강남파이낸스센터점"
+      },
+      {
+        "price": 79900,
+        "url": "https://dailyshot.co/m/item/17652?item=492087&seller=36987",
+        "seller": "와인앤모어 서울숲점"
+      },
+      {
+        "price": 82000,
+        "url": "https://dailyshot.co/m/item/17652?item=297480&seller=16377",
+        "seller": "위스키파크 강동점"
+      },
+      {
+        "price": 83000,
+        "url": "https://dailyshot.co/m/item/17652?item=359272&seller=41343",
+        "seller": "세종리쿼"
+      },
+      {
+        "price": 83500,
+        "url": "https://dailyshot.co/m/item/17652?item=524805&seller=16371",
+        "seller": "헬로우 위스키와인샵 BAR"
+      },
+      {
+        "price": 84900,
+        "url": "https://dailyshot.co/m/item/17652?item=551518&seller=41485",
+        "seller": "위스키앤글라스 AK평택점"
+      },
+      {
+        "price": 85000,
+        "url": "https://dailyshot.co/m/item/17652?item=171884&seller=3593",
+        "seller": "바틀앤코르크 송도점"
+      },
+      {
+        "price": 85000,
+        "url": "https://dailyshot.co/m/item/17652?item=391194&seller=3754",
+        "seller": "문프룻"
+      },
+      {
+        "price": 85000,
+        "url": "https://dailyshot.co/m/item/17652?item=551293&seller=41486",
+        "seller": "위스키앤글라스 현대아울렛 대구점"
+      },
+      {
+        "price": 88000,
+        "url": "https://dailyshot.co/m/item/17652?item=623162&seller=3329",
+        "seller": "보데가와인"
+      },
+      {
+        "price": 88000,
+        "url": "https://dailyshot.co/m/item/17652?item=284104&seller=4349",
+        "seller": "주류상회Be 제주점"
+      },
+      {
+        "price": 89000,
+        "url": "https://dailyshot.co/m/item/17652?item=414159&seller=41130",
+        "seller": "알코올"
+      },
+      {
+        "price": 89000,
+        "url": "https://dailyshot.co/m/item/17652?item=323237&seller=39702",
+        "seller": "위스키로그"
+      },
+      {
+        "price": 89000,
+        "url": "https://dailyshot.co/m/item/17652?item=468392&seller=18160",
+        "seller": "안산마트"
+      },
+      {
+        "price": 89000,
+        "url": "https://dailyshot.co/m/item/17652?item=550237&seller=55133",
+        "seller": "캐스크앤뀌베 명지"
+      },
+      {
+        "price": 89000,
+        "url": "https://dailyshot.co/m/item/17652?item=628763&seller=208",
+        "seller": "베스트마트"
+      },
+      {
+        "price": 89600,
+        "url": "https://dailyshot.co/m/item/17652?item=186996&seller=16332",
+        "seller": "주류상회Be 검단완정역점"
+      },
+      {
+        "price": 89700,
+        "url": "https://dailyshot.co/m/item/17652?item=146146&seller=3",
+        "seller": "바이배럴 문정점"
+      },
+      {
+        "price": 91000,
+        "url": "https://dailyshot.co/m/item/17652?item=461896&seller=14596",
+        "seller": "바틀리어 마포점"
+      },
+      {
+        "price": 94000,
+        "url": "https://dailyshot.co/m/item/17652?item=533390&seller=41423",
+        "seller": "주주마켓"
+      },
+      {
+        "price": 94500,
+        "url": "https://dailyshot.co/m/item/17652?item=559116&seller=4476",
+        "seller": "고래맥주창고 인천서구청점"
+      },
+      {
+        "price": 95000,
+        "url": "https://dailyshot.co/m/item/17652?item=140843&seller=2936",
+        "seller": "캐스크앤뀌베 창원"
+      },
+      {
+        "price": 96000,
+        "url": "https://dailyshot.co/m/item/17652?item=112698&seller=235",
+        "seller": "대신상회"
+      },
+      {
+        "price": 96500,
+        "url": "https://dailyshot.co/m/item/17652?item=183415&seller=16318",
+        "seller": "버니주류"
+      },
+      {
+        "price": 98000,
+        "url": "https://dailyshot.co/m/item/17652?item=404243&seller=18669",
+        "seller": "바틀리어 수원점"
+      },
+      {
+        "price": 99000,
+        "url": "https://dailyshot.co/m/item/17652?item=170058&seller=21",
+        "seller": "몰트&캐스크 청담점(Cork & Barrel)"
+      },
+      {
+        "price": 99000,
+        "url": "https://dailyshot.co/m/item/17652?item=182813&seller=42",
+        "seller": "당근 주류마켓"
+      },
+      {
+        "price": 99000,
+        "url": "https://dailyshot.co/m/item/17652?item=427151&seller=18606",
+        "seller": "몰트히어"
+      },
+      {
+        "price": 99900,
+        "url": "https://dailyshot.co/m/item/17652?item=409953&seller=36884",
+        "seller": "와인픽스 청담점"
+      },
+      {
+        "price": 100000,
+        "url": "https://dailyshot.co/m/item/17652?item=274808&seller=18908",
+        "seller": "반아래"
+      },
+      {
+        "price": 100000,
+        "url": "https://dailyshot.co/m/item/17652?item=263217&seller=16550",
+        "seller": "오렌지보틀 대구중구점"
+      },
+      {
+        "price": 100000,
+        "url": "https://dailyshot.co/m/item/17652?item=506312&seller=52304",
+        "seller": "전포다락"
+      },
+      {
+        "price": 105000,
+        "url": "https://dailyshot.co/m/item/17652?item=411904&seller=4048",
+        "seller": "헬로우 팬트리"
+      },
+      {
+        "price": 109000,
+        "url": "https://dailyshot.co/m/item/17652?item=426762&seller=44000",
+        "seller": "와인스탑 4호점"
+      },
+      {
+        "price": 110000,
+        "url": "https://dailyshot.co/m/item/17652?item=533916&seller=16057",
+        "seller": "와인사랑 성수점"
+      },
+      {
+        "price": 111000,
+        "url": "https://dailyshot.co/m/item/17652?item=483020&seller=14553",
+        "seller": "보틀벙커 잠실점"
+      },
+      {
+        "price": 120000,
+        "url": "https://dailyshot.co/m/item/17652?item=215505&seller=3794",
+        "seller": "와인스탑 1호점"
+      }
+    ]
+  },
   "laphroaig-10-cask-strength-batch-13": {
     "average": 326750,
     "currency": "KRW",
@@ -77492,6 +78237,23 @@
         "price": 149000,
         "url": "https://dailyshot.co/m/item/23979?item=271233&seller=36985",
         "seller": "와인앤모어 센텀점"
+      }
+    ]
+  },
+  "laphroaig-10-sherry-750": {
+    "average": 185000,
+    "currency": "KRW",
+    "volumeMl": 750,
+    "sampleCount": 1,
+    "min": 185000,
+    "max": 185000,
+    "checkedAt": "2026-11-12T00:52:37.663Z",
+    "sourceUrl": "https://dailyshot.co/m/items/536211/sellers",
+    "offers": [
+      {
+        "price": 185000,
+        "url": "https://dailyshot.co/m/item/6477?item=536211&seller=30",
+        "seller": "가자주류 목동점"
       }
     ]
   },
@@ -79548,6 +80310,38 @@
         "price": 145000,
         "url": "https://dailyshot.co/m/item/23144?item=311107&seller=37563",
         "seller": "가자주류백화점 홍성점"
+      }
+    ]
+  },
+  "laphroaig-select-750": {
+    "average": 82125,
+    "currency": "KRW",
+    "volumeMl": 750,
+    "sampleCount": 4,
+    "min": 62000,
+    "max": 106500,
+    "checkedAt": "2026-11-12T00:54:55.994Z",
+    "sourceUrl": "https://dailyshot.co/m/items/306090/sellers",
+    "offers": [
+      {
+        "price": 62000,
+        "url": "https://dailyshot.co/m/item/11421?item=630176&seller=39711",
+        "seller": "해밀덕천"
+      },
+      {
+        "price": 62000,
+        "url": "https://dailyshot.co/m/item/11421?item=630179&seller=56163",
+        "seller": "해밀"
+      },
+      {
+        "price": 98000,
+        "url": "https://dailyshot.co/m/item/11421?item=306090&seller=37563",
+        "seller": "가자주류백화점 홍성점"
+      },
+      {
+        "price": 106500,
+        "url": "https://dailyshot.co/m/item/11421?item=314138&seller=4641",
+        "seller": "세계주류&와인 수성점"
       }
     ]
   },

@@ -1,0 +1,18 @@
+{
+  "checkedAt": "2026-11-11T06:04:52.993Z",
+  "status": "integrated-verified",
+  "previousCount": 532,
+  "ids": [
+    "laphroaig-30-old-43"
+  ],
+  "sources": [
+    "https://www.whiskyfun.com/2023/Feis-Ile-Special-today-Laphroaig.html",
+    "https://www.finespirits.auction/uk/acheter-spi/B2167277-3522-1-Bottle-Laphroaig-30-years-Of.-75cl.-Brown.jsp"
+  ],
+  "photoReview": "실물 라벨 30년·75cl·43%를 육안 확인. 병입 연도 미확인. 해당 사진을 게재한 직접 시음 기록을 향미 출처로 사용.",
+  "duplicateCheck": "IDs and normalized Korean/English names checked against full runtime snapshot. Not a dated release; no inferred vintage or cask strength.",
+  "existingEntriesPreserved": 532,
+  "currentCount": 533,
+  "photo": "/images/whisky-laphroaig-30-old-43.jpg",
+  "dailyshot": "no-exact-match; no other release price copied"
+}
